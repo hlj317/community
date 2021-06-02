@@ -1,26 +1,26 @@
 {
     "apps": [
         {
-            "name": "shemore-service-dev",
+            "name": "community-service-dev",
             "script": "./index.web.js",
             "instances": 1,
             "exec_mode": "fork",
-            "out_file": "/tmp/shemore-service-dev/shemore-service-dev_out.log",
-            "error_file": "/tmp/shemore-service-dev/shemore-service-dev_err.log",
-            "log_file": "/tmp/shemore-service-dev/shemore-service-dev_log.log",
+            "out_file": "/tmp/community-service-dev/community-service-dev_out.log",
+            "error_file": "/tmp/community-service-dev/community-service-dev_err.log",
+            "log_file": "/tmp/community-service-dev/community-service-dev_log.log",
             "env": {
                 "NODE_ENV": "dev"
             },
             "watch": true
         },
         {
-            "name": "shemore-service-production",
+            "name": "community-service-production",
             "script": "./index.web.js",
             "instances": 1,
             "exec_mode": "fork",
-            "out_file": "/tmp/shemore-service-dev/shemore-service-dev_out.log",
-            "error_file": "/tmp/shemore-service-dev/shemore-service-dev_err.log",
-            "log_file": "/tmp/shemore-service-dev/shemore-service-dev_log.log",
+            "out_file": "/tmp/community-service-dev/community-service-dev_out.log",
+            "error_file": "/tmp/community-service-dev/community-service-dev_err.log",
+            "log_file": "/tmp/community-service-dev/community-service-dev_log.log",
             "env": {
                 "NODE_ENV": "production"
             },
