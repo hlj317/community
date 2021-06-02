@@ -1,0 +1,46 @@
+{
+  "error/404": {
+    "js": "/assets/static/error/404-c88eef0c.js",
+    "css": "/assets/static/error/404-3b44c697.css",
+    "woff": "/assets/static/8.woff"
+  },
+  "demo/hello": {
+    "js": "/assets/static/demo/hello-ce4855ca.js",
+    "css": "/assets/static/demo/hello-80ad67d5.css",
+    "woff": "/assets/static/8.woff"
+  },
+  "": {
+    "json": "/manifest.json",
+    "ttf": "/assets/static/732389de.element-icons.ttf",
+    "png": "/dc3ad901c88194a7c6e527894f11b8a3.png",
+    "woff": "/assets/static/535877f5.element-icons.woff"
+  },
+  "hello": {
+    "js": "/assets/static/hello-3d574a2f.js",
+    "css": "/assets/static/hello-fdf92da0.css"
+  },
+  "home": {
+    "js": "/assets/static/home-db230c01.js",
+    "css": "/assets/static/home-736c5c37.css"
+  },
+  "pc/home": {
+    "js": "/assets/static/pc/home-d081409c.js",
+    "css": "/assets/static/pc/home-3b44c697.css"
+  },
+  "movie/register": {
+    "js": "/assets/static/movie/register-d4adaeb4.js",
+    "css": "/assets/static/movie/register-3b44c697.css"
+  },
+  "movie/login": {
+    "js": "/assets/static/movie/login-8a06f314.js",
+    "css": "/assets/static/movie/login-3b44c697.css"
+  },
+  "index": {
+    "js": "/assets/static/index-3e7a3aec.js",
+    "css": "/assets/static/index-3b44c697.css"
+  },
+  "guess": {
+    "js": "/assets/static/guess-938d743d.js",
+    "css": "/assets/static/guess-3b44c697.css"
+  }
+}
