@@ -1,9 +1,25 @@
 <template>
   <div id="injury"
        class="injury-page">
-    <div>篮彩老黑</div>
-    <div>NBA伤病名单实时更新</div>
-    <div>最后一次更新时间：2021-06-03</div>
+    <div class="top-part">
+        <div class="top-menu">
+            <div class="portait-img">
+                <img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/common/portait.png"/>
+            </div>
+            <div class="portait-text">
+                <div class="text-name">请关注微信公众号：<strong>[篮彩老黑]</strong></div>
+                <div class="text-notice">NBA伤病名单实时更新/WNBA伤病名单实时更新/NBA伤病名单实时更新</div>
+            </div>
+        </div>
+        <div class="clear"></div>
+        <ul class="nav">
+            <li><span>NBA</span><span class="selected"></span></li>
+            <li><span>WNBA</span></li>
+            <li><span>CBA</span></li>
+        </ul>
+    </div>
+    <div class="clear"></div>
+    <div class="updatetime">最近更新时间：<strong>2021-06-03[周二]14:05</strong>（每天晚23:00和早8:00更新）</div>
     <table class="list" border="0" cellspacing="1" cellpadding="0">
 
         <!-----A----亚特兰大老鹰------>
@@ -664,6 +680,13 @@
         </tr> 
 
     </table>
+    <div class="bottom">
+        <div class="bottom-text">
+            本网站服务由[篮彩老黑]独家提供&nbsp;&nbsp;&nbsp;&nbsp;浙ICP备17001885号-4<br/>
+            Copyright © 2021 lancailaohei.com 保留一切权利
+        </div>
+        <div class="bottom-qrcode"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/common/lancai_qrcode_plus.jpg" /></div>
+    </div>
   </div>
 
 </template>
@@ -798,6 +821,100 @@
     background-color: #2b2370;
 }
 
+.main-title{
+    font-size:22 / @b;
+    color:#666666;
+    font-weight: bold;
+    margin:10 / @b;
+}
+
+.top-part{
+    position:fixed;
+    top:0;
+    left:0;
+    height:200 / @b;
+    width:100%;
+    z-index:100;
+}
+
+.top-menu{
+    background-color:#ffffff;
+    height:85 / @b;
+    width:100%;
+    padding:10 / @b;
+}
+
+.portait-img{
+    float:left;
+    img{
+        width:60 / @b;
+        height:60 / @b;
+    }
+}
+
+.portait-text{
+    float:left;
+    margin-left:10 / @b;
+}
+
+.text-name{
+    font-size:28 / @b;
+    color:#666666;
+}
+
+.text-notice{
+    font-size:18 / @b;
+    color:#999999
+}
+
+.clear{
+    clear:both;
+}
+
+.nav{
+    background:#0c859b;
+    width:100%;
+    height:60 / @b;
+    line-height:60 / @b;
+    list-style: none;
+    padding:0;
+}
+
+.nav li{
+    float:left;
+    margin-left:0;
+    margin-right:50 / @b;
+    color:#ffffff;
+    font-size:24 / @b;
+    width:120 / @b;
+    font-weight: bold;
+    text-align:center;
+}
+.nav li span{
+    display: block;
+}
+.updatetime{
+    text-align: left;
+    margin-left: 20 / @b;
+    color:#333333;
+    font-size:20 / @b;
+    position: relative;
+    top: -10 / @b;
+    margin-top:170 / @b;
+}
+
+.selected {
+    width: 0;                
+    height: 0;
+    border: 12 / @b solid #ffffff;
+    border-top-color: transparent;    
+    border-left-color: transparent;
+    border-right-color: transparent;
+    position: relative;
+    left: 50 / @b;
+    top: -22 / @b;
+}
+
 .to-link-img {
   width: 750 / @b;
   height: 200 / @b;
@@ -813,7 +930,7 @@
 .list{
     width:100%;
     font-size:24 / @b;
-    margin-top:20 / @b;
+    margin-top:5 / @b;
     border: 1 / @b solid #333333;
     border-spacing: 0;/*去掉单元格间隙*/
 }
@@ -880,6 +997,28 @@ img{
     position: relative;
     top:-30 / @b;
     left:-18 / @b;
+    z-index:100;
+}
+.bottom{
+    margin-top:45 / @b;
+    height: 149 / @b;
+    background:#20232c;
+    width:100%;
+    color:#ffffff;
+    font-size:20 / @b;
+}
+.bottom-text{
+    float:left;
+    margin:40 / @b 0 0 30 / @b;
+    line-height: 35 / @b;
+}
+.bottom-qrcode{
+    float:right;
+    margin:0 20 / @b 0 0;
+}
+.bottom-qrcode img{
+    width:129 / @b;
+    height:149 / @b;
 }
 </style>
 
