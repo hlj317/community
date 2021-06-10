@@ -14,21 +14,6 @@
         <div class="descirption">自2004年至今一向担任高三班主任、高三政治教学、高三政治备课组长、高三文科综合组长等工作，所带班级在历年高考中本科上线人数最多，高考成绩突出，高考业绩显著获得的市级以上荣誉包括：河南省优质课一等奖、河南省优质课教师、濮阳市市级学科技术带头人、濮阳市优质课一等奖等。</div>
       </div>
     </section>
-    <section class="video_case">
-
-        <video class="case" autoplay="autoplay" controls poster="https://shemoreshop.oss-accelerate.aliyuncs.com/mp4_cover.jpg">
-            <source type="video/mp4"  src="https://shemoreshop.oss-accelerate.aliyuncs.com/1.MP4" >
-        </video>
-
-        <video class="case" autoplay="autoplay" controls poster="https://shemoreshop.oss-accelerate.aliyuncs.com/mp4_cover.jpg">>
-            <source type="video/mp4"  src="https://shemoreshop.oss-accelerate.aliyuncs.com/2.MP4" >
-        </video>
-
-        <video class="case" autoplay="autoplay" controls poster="https://shemoreshop.oss-accelerate.aliyuncs.com/mp4_cover.jpg">>
-            <source type="video/mp4"  src="https://shemoreshop.oss-accelerate.aliyuncs.com/3.MP4" >
-        </video>
-
-    </section>
     <section class="footer">
         <div class="ministry">
             <img src="//h0.beicdn.com/open201912/7296bdfd984af62f_14x16.png" class="gongan-icon" alt=""> <a class="gonganbei" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=33010402003818">浙公网安备

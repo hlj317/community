@@ -54,7 +54,7 @@ let devConfig = () => {
                             }),
                         ],
                     },
-                },
+                }
             ],
         },
         plugins: [

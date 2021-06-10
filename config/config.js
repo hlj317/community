@@ -4,7 +4,7 @@ const env = process.env.NODE_ENV;
 
 module.exports = {
     assetsPrefix: "assets",
-    devStaticHost: `//127.0.0.1:${STATIC_PORT}`,
+    devStaticHost: `//172.17.32.32:${STATIC_PORT}`,
     port: STATIC_PORT,
     productionAsset: env === "production",
     dev: {

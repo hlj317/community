@@ -21,9 +21,17 @@ const guess = async function (ctx, next) {
     return next();
 };
 
+const injury = async function (ctx, next) {
+    await ctx.render("community/injury", {
+        title: "NBA伤病名单实时更新",
+    });
+    return next();
+};
+
 module.exports = {
     getCasesList,
     getProductsList,
     getCommentsList,
-    guess
+    guess,
+    injury,
 };
