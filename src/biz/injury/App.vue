@@ -997,7 +997,7 @@ img{
     position: relative;
     top:-30 / @b;
     left:-18 / @b;
-    z-index:100;
+    z-index:99;
 }
 .bottom{
     margin-top:45 / @b;
