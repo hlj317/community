@@ -5,7 +5,9 @@ const community = require("../controllers/community");
 module.exports = {
     "/": pc.index,
     "/guess": community.guess,
-    "/injury": community.injury,
+    "/injurynba": community.injuryNBA,
+    "/injurywnba": community.injuryWNBA,
+    "/injurycba": community.injuryCBA,
     "/pc/home": pc.home,
     "/movie/index": movie.index,
     "/movie/login": movie.login,

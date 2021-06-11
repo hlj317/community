@@ -14,8 +14,8 @@
         <div class="clear"></div>
         <ul class="nav">
             <li><span>NBA</span><span class="selected"></span></li>
-            <li><span>WNBA</span></li>
-            <li><span>CBA</span></li>
+            <li @click="gotoPage('wnba')"><span>WNBA</span></li>
+            <li @click="gotoPage('cba')"><span>CBA</span></li>
         </ul>
     </div>
     <div class="clear"></div>
@@ -1037,6 +1037,9 @@ export default {
   },
   methods: {
     init () {
+    },
+    gotoPage(target){
+        window.location.href = "/injury" + target;
     }
   }
 }
