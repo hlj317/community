@@ -27,7 +27,7 @@
             <th colspan="4" class="team-name dream">[A]亚特兰大梦想<span class="en-name">Atlanta Dream</span></th>
         </tr> 
         <tr class="title">  
-            <td rowspan="3"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/wnba-logo/dream.jpeg" /></td>
+            <td rowspan="3" class="team_logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/wnba-logo/dream.jpeg" /></td>
             <th class="name">姓名</th>
             <th class="status">状态</th>
             <th class="detail">详情</th>
@@ -49,7 +49,7 @@
             <th colspan="4" class="team-name sky">[C]芝加哥天空<span class="en-name">Chicago Sky</span></th>
         </tr> 
         <tr class="title">  
-            <td rowspan="3"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/wnba-logo/sky.jpeg" /></td>
+            <td rowspan="3" class="team_logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/wnba-logo/sky.jpeg" /></td>
             <th class="name">姓名</th>
             <th class="status">状态</th>
             <th class="detail">详情</th>
@@ -71,7 +71,7 @@
             <th colspan="4" class="team-name sun">[C]康涅狄克太阳<span class="en-name">Connecticut Sun</span></th>
         </tr> 
         <tr class="title">  
-            <td rowspan="3"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/wnba-logo/sun.jpeg" /></td>
+            <td rowspan="3" class="team_logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/wnba-logo/sun.jpeg" /></td>
             <th class="name">姓名</th>
             <th class="status">状态</th>
             <th class="detail">详情</th>
@@ -93,7 +93,7 @@
             <th colspan="4" class="team-name wings">[D]达拉斯飞翼<span class="en-name">Dallas Wings</span></th>
         </tr> 
         <tr class="title">  
-            <td rowspan="3"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/wnba-logo/wings.jpeg" /></td>
+            <td rowspan="3" class="team_logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/wnba-logo/wings.jpeg" /></td>
             <th class="name">姓名</th>
             <th class="status">状态</th>
             <th class="detail">详情</th>
@@ -115,7 +115,7 @@
             <th colspan="4" class="team-name fever">[I]印第安纳狂热<span class="en-name">Indiana Fever</span></th>
         </tr> 
         <tr class="title">  
-            <td rowspan="3"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/wnba-logo/fever.jpeg" /></td>
+            <td rowspan="3" class="team_logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/wnba-logo/fever.jpeg" /></td>
             <th class="name">姓名</th>
             <th class="status">状态</th>
             <th class="detail">详情</th>
@@ -137,7 +137,7 @@
             <th colspan="4" class="team-name aces">[L]拉斯维加斯王牌<span class="en-name">Las Vegas Aces</span></th>
         </tr> 
         <tr class="title">  
-            <td rowspan="2" class="logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/wnba-logo/aces.jpeg" /></td>
+            <td rowspan="2" class="team_logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/wnba-logo/aces.jpeg" /></td>
             <th class="name">姓名</th>
             <th class="status">状态</th>
             <th class="detail">详情</th>
@@ -152,7 +152,7 @@
             <th colspan="4" class="team-name sparks">[L]洛杉矶火花<span class="en-name">Los Angeles Sparks</span></th>
         </tr> 
         <tr class="title">  
-            <td rowspan="3"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/wnba-logo/sparks.jpeg" /></td>
+            <td rowspan="3" class="team_logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/wnba-logo/sparks.jpeg" /></td>
             <th class="name">姓名</th>
             <th class="status">状态</th>
             <th class="detail">详情</th>
@@ -174,7 +174,7 @@
             <th colspan="4" class="team-name lynx">[M]明尼苏达天猫<span class="en-name">Minnesota Lynx</span></th>
         </tr> 
         <tr class="title">  
-            <td rowspan="3"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/wnba-logo/lynx.jpeg" /></td>
+            <td rowspan="3" class="team_logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/wnba-logo/lynx.jpeg" /></td>
             <th class="name">姓名</th>
             <th class="status">状态</th>
             <th class="detail">详情</th>
@@ -197,7 +197,7 @@
             <th colspan="4" class="team-name liberty">[N]纽约自由<span class="en-name">New York Liberty</span></th>
         </tr> 
         <tr class="title">  
-            <td rowspan="3"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/wnba-logo/liberty.jpeg" /></td>
+            <td rowspan="3" class="team_logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/wnba-logo/liberty.jpeg" /></td>
             <th class="name">姓名</th>
             <th class="status">状态</th>
             <th class="detail">详情</th>
@@ -219,7 +219,7 @@
             <th colspan="4" class="team-name mercury">[P]凤凰城水银<span class="en-name">Phoenix Mercury</span></th>
         </tr> 
         <tr class="title">  
-            <td rowspan="3"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/wnba-logo/mercury.jpeg" /></td>
+            <td rowspan="3" class="team_logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/wnba-logo/mercury.jpeg" /></td>
             <th class="name">姓名</th>
             <th class="status">状态</th>
             <th class="detail">详情</th>
@@ -241,7 +241,7 @@
             <th colspan="4" class="team-name storm">[S]西雅图风暴<span class="en-name">Seattle Storm</span></th>
         </tr> 
         <tr class="title">  
-            <td rowspan="3"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/wnba-logo/storm.jpeg" /></td>
+            <td rowspan="3" class="team_logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/wnba-logo/storm.jpeg" /></td>
             <th class="name">姓名</th>
             <th class="status">状态</th>
             <th class="detail">详情</th>
@@ -263,7 +263,7 @@
             <th colspan="4" class="team-name mystics">[W]华盛顿神秘人<span class="en-name">Washington Mystics</span></th>
         </tr> 
         <tr class="title">  
-            <td rowspan="3"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/wnba-logo/mystics.jpeg" /></td>
+            <td rowspan="3" class="team_logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/wnba-logo/mystics.jpeg" /></td>
             <th class="name">姓名</th>
             <th class="status">状态</th>
             <th class="detail">详情</th>
@@ -458,8 +458,12 @@
     border: 1 / @b solid #333333;
     border-spacing: 0;/*去掉单元格间隙*/
 }
+.team_logo{
+    width: 128 / @b;
+    text-align: center;
+}
 .logo{
-    width: 120 / @b;
+    width: 128 / @b;
     padding-left:0;
 }
 .name{
