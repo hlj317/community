@@ -22,7 +22,7 @@
         </ul>
     </div>
     <div class="clear"></div>
-    <div class="updatetime">最近更新时间：<strong>2021-06-03[周二]14:05</strong>（每天晚23:00和早8:00更新）</div>
+    <div class="updatetime">最近更新时间：<strong>2021-06-19[周六]20:55</strong>（每天晚23:00和早8:00更新）</div>
     <table class="list" border="0" cellspacing="1" cellpadding="0">
 
         <!-----B----北京鸭------>
@@ -552,7 +552,7 @@ th{
 }
 td{
     border: 1px solid #333333;
-    padding:8px 0 8px 8px;
+    padding:8px;
     vertical-align: middle;
 }
 .none{
@@ -580,8 +580,8 @@ td{
     color:#ffffff;
     font-size:6px;
     position: relative;
-    top:-5px;
-    left:2px;
+    top:-2px;
+    left:5px;
     z-index:99;
 }
 .bottom{

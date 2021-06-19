@@ -1,25 +1,26 @@
 <template>
   <div id="injury"
        class="injury-page">
-    <div class="top-part">
-        <div class="top-menu">
-            <div class="portait-img">
-                <img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/common/portait.png"/>
-            </div>
-            <div class="portait-text">
-                <div class="text-name">请关注微信公众号：<strong>[篮彩老黑]</strong></div>
-                <div class="text-notice">NBA伤病名单实时更新/WNBA伤病名单实时更新/NBA伤病名单实时更新</div>
-            </div>
+    <div class="top-menu">
+        <div class="portait-img">
+            <img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/common/portait.png"/>
         </div>
-        <div class="clear"></div>
-        <ul class="nav">
-            <li><span>NBA</span><span class="selected"></span></li>
-            <li @click="gotoPage('wnba')"><span>WNBA</span></li>
-            <li @click="gotoPage('cba')"><span>CBA</span></li>
-        </ul>
+        <div class="portait-text">
+            <div class="text-name">请关注微信公众号：<strong>[篮彩老黑]</strong> → <span class="scan">可扫一扫右侧二维码</span></div>
+            <div class="text-notice">NBA伤病名单实时更新/WNBA伤病名单实时更新/NBA伤病名单实时更新</div>
+        </div>
+        <div class="portait-qrcode">
+            <img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/common/lancai_qrcode.jpg" />
+        </div>
     </div>
     <div class="clear"></div>
-    <div class="updatetime">最近更新时间：<strong>2021-06-19[周六]20:55</strong>（每天晚23:00和早8:00更新）</div>
+    <ul class="nav">
+        <li><span class="selected">NBA</span></li>
+        <li @click="gotoPage('wnbapc')"><span>WNBA</span></li>
+        <li @click="gotoPage('cbapc')"><span>CBA</span></li>
+    </ul>
+    <div class="clear"></div>
+    <div class="updatetime">最近更新时间：<strong>2021-06-03[周二]14:05</strong>（每天晚23:00和早8:00更新）</div>
     <table class="list" border="0" cellspacing="1" cellpadding="0">
 
         <!-----A----亚特兰大老鹰------>
@@ -27,30 +28,20 @@
             <th colspan="4" class="team-name hawks">[A]亚特兰大老鹰<span class="en-name">Atlanta Hawks</span></th>
         </tr> 
         <tr class="title">  
-            <td rowspan="5" class="team_logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/nba-logo/hawks.jpeg" /></td>
+            <td rowspan="3" class="team_logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/nba-logo/hawks.jpeg" /></td>
             <th class="name">姓名</th>
             <th class="status">状态</th>
             <th class="detail">详情</th>
         </tr> 
         <tr>  
-            <td>博格丹<span class="important">重要</span></td>
-            <td>出战存疑</td>
-            <td>周一对阵76人出战存疑</td>
+            <td>安东尼.戴维斯</td>
+            <td>出战</td>
+            <td>周一左腹股沟拉伤，周三的G5已缺席，周五的G6将出战</td>
         </tr> 
         <tr>  
-            <td>亨特</td>
-            <td>赛季报销</td>
-            <td>亨特（膝盖）本周二成功接受了修复半月板撕裂的手术，预计将在训练营开始前完全康复</td>
-        </tr> 
-        <tr>  
-            <td>雷迪什</td>
+            <td>贾里德.杜德利</td>
             <td>缺席</td>
-            <td>跟腱受伤，本赛季归期不明</td>
-        </tr>
-        <tr>  
-            <td>古德温</td>
-            <td>赛季报销</td>
-            <td>古德温因呼吸系统疾病需要治疗，而缺席本赛季剩余的比赛</td>
+            <td>3月14日，右膝内侧副韧带撕裂，归期未定</td>
         </tr> 
         <tr class="empty"><td colspan="4"></td></tr>  
 
@@ -65,14 +56,14 @@
             <th class="detail">详情</th>
         </tr> 
         <tr>  
-            <td>凯里.欧文<span class="important">重要</span></td>
-            <td>缺席</td>
-            <td>脚踝受伤，不会出战周日对阵雄鹿的比赛</td>
+            <td>安东尼.戴维斯</td>
+            <td>出战</td>
+            <td>周一左腹股沟拉伤，周三的G5已缺席，周五的G6将出战</td>
         </tr> 
         <tr>  
-            <td>丁威迪</td>
-            <td>赛季报销</td>
-            <td>左膝十字韧带断裂，手术后康复中</td>
+            <td>贾里德.杜德利</td>
+            <td>缺席</td>
+            <td>3月14日，右膝内侧副韧带撕裂，归期未定</td>
         </tr> 
         <tr class="empty"><td colspan="4"></td></tr>  
 
@@ -87,14 +78,14 @@
             <th class="detail">详情</th>
         </tr> 
         <tr>  
-            <td>科怀.伦纳德<span class="important">重要</span></td>
-            <td>缺席</td>
-            <td>膝盖受伤，本赛季归期不明</td>
+            <td>安东尼.戴维斯</td>
+            <td>出战</td>
+            <td>周一左腹股沟拉伤，周三的G5已缺席，周五的G6将出战</td>
         </tr> 
         <tr>  
-            <td>伊巴卡</td>
-            <td>赛季报销</td>
-            <td>背部接受了手术，将缺席季后赛的剩余比赛</td>
+            <td>贾里德.杜德利</td>
+            <td>缺席</td>
+            <td>3月14日，右膝内侧副韧带撕裂，归期未定</td>
         </tr> 
         <tr class="empty"><td colspan="4"></td></tr> 
 
@@ -109,14 +100,14 @@
             <th class="detail">详情</th>
         </tr> 
         <tr>  
-            <td>乔丹.沃拉</td>
-            <td>缺席</td>
-            <td>大腿拉伤，将不会出战周日对阵篮网的比赛</td>
+            <td>安东尼.戴维斯</td>
+            <td>出战</td>
+            <td>周一左腹股沟拉伤，周三的G5已缺席，周五的G6将出战</td>
         </tr> 
         <tr>  
-            <td>迪温琴佐</td>
-            <td>赛季报销</td>
-            <td>周二脚踝接受了成功的手术，修复左脚踝撕裂的韧带</td>
+            <td>贾里德.杜德利</td>
+            <td>缺席</td>
+            <td>3月14日，右膝内侧副韧带撕裂，归期未定</td>
         </tr> 
         <tr class="empty"><td colspan="4"></td></tr>
 
@@ -131,14 +122,14 @@
             <th class="detail">详情</th>
         </tr> 
         <tr>  
-            <td>恩比德<span class="important">重要</span></td>
-            <td>大概率出战</td>
-            <td>膝盖受伤，大概率出战周一对阵老鹰的比赛</td>
+            <td>安东尼.戴维斯</td>
+            <td>出战</td>
+            <td>周一左腹股沟拉伤，周三的G5已缺席，周五的G6将出战</td>
         </tr> 
         <tr>  
-            <td>丹尼.格林</td>
+            <td>贾里德.杜德利</td>
             <td>缺席</td>
-            <td>右侧腹股沟受伤，预计缺阵三周时间</td>
+            <td>3月14日，右膝内侧副韧带撕裂，归期未定</td>
         </tr> 
         <tr class="empty"><td colspan="4"></td></tr>
 
@@ -153,14 +144,36 @@
             <th class="detail">详情</th>
         </tr> 
         <tr>  
-            <td>克里斯.保罗<span class="important">重要</span></td>
-            <td>出战存疑</td>
-            <td>本周日将接受心冠检测的重新评估</td>
+            <td>安东尼.戴维斯</td>
+            <td>出战</td>
+            <td>周一左腹股沟拉伤，周三的G5已缺席，周五的G6将出战</td>
         </tr> 
         <tr>  
-            <td>纳迪尔</td>
-            <td>赛季报销</td>
-            <td>膝盖受伤，缺席季后赛余下比赛</td>
+            <td>贾里德.杜德利</td>
+            <td>缺席</td>
+            <td>3月14日，右膝内侧副韧带撕裂，归期未定</td>
+        </tr> 
+        <tr class="empty"><td colspan="4"></td></tr>  
+
+        <!-----U----犹他爵士------>
+        <tr>  
+            <th colspan="4" class="team-name jazz">[U]犹他爵士<span class="en-name">Utah Jazz</span></th>
+        </tr> 
+        <tr class="title">  
+            <td rowspan="3" class="team_logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/nba-logo/jazz.jpeg" /></td>
+            <th class="name">姓名</th>
+            <th class="status">状态</th>
+            <th class="detail">详情</th>
+        </tr> 
+        <tr>  
+            <td>安东尼.戴维斯</td>
+            <td>出战</td>
+            <td>周一左腹股沟拉伤，周三的G5已缺席，周五的G6将出战</td>
+        </tr> 
+        <tr>  
+            <td>贾里德.杜德利</td>
+            <td>缺席</td>
+            <td>3月14日，右膝内侧副韧带撕裂，归期未定</td>
         </tr> 
 
     </table>
@@ -186,7 +199,7 @@
 凯尔特人:#01854c  celtics 
 快船:#0354ad     clippers
 灰熊:#5b76ad     grizzlies
-老鹰:#d0032a     hawks
+老鹰:#e56e85     hawks
 热火:#af1727     heat
 黄蜂:#227aa8     hornets
 爵士:#0d223d     jazz
@@ -235,7 +248,7 @@
     background-color: #5b76ad;
 }
 .hawks{
-    background-color: #d0032a;
+    background-color: #e14261;
 }
 .heat{
     background-color: #af1727;
@@ -306,49 +319,59 @@
 }
 
 .main-title{
-    font-size:22 / @b;
+    font-size:20px;
     color:#666666;
     font-weight: bold;
-    margin:10 / @b;
-}
-
-.top-part{
-    position:fixed;
-    top:0;
-    left:0;
-    height:200 / @b;
-    width:100%;
-    z-index:100;
+    margin:10px;
 }
 
 .top-menu{
     background-color:#ffffff;
-    height:85 / @b;
+    height:85px;
     width:100%;
-    padding:10 / @b;
 }
 
 .portait-img{
     float:left;
+    margin:15px 0 0 15px;
     img{
-        width:60 / @b;
-        height:60 / @b;
+        width:60px;
+        height:60px;
     }
 }
 
 .portait-text{
     float:left;
-    margin-left:10 / @b;
+    margin:15px 0 0 15px;
+    line-height: 30px;
+}
+.portait-text strong{
+    color:#000000;
+}
+
+.portait-qrcode{
+    float:left;
+    margin-left:15px;
+    line-height: 30px;
+}
+
+.portait-qrcode img{
+    width:90px;
+    height:90px;
 }
 
 .text-name{
-    font-size:28 / @b;
+    font-size:18px;
     color:#666666;
+}
+.scan{
+    color:#cc0000;
+    font-weight: bold;
 }
 
 .text-notice{
-    font-size:18 / @b;
-    color:#999999
+    font-size:18px;
+    color:#666666;
 }
 
 .clear{
@@ -356,106 +379,91 @@
 }
 
 .nav{
-    background:#0c859b;
+    background:#20232c;
     width:100%;
-    height:60 / @b;
-    line-height:60 / @b;
+    height:40px;
+    line-height:40px;
     list-style: none;
-    padding:0;
+    padding-left:40px;
 }
 
 .nav li{
     float:left;
     margin-left:0;
-    margin-right:50 / @b;
-    color:#ffffff;
-    font-size:24 / @b;
-    width:120 / @b;
+    margin-right:30px;
+    color:#cccccc;
+    font-size:20px;
     font-weight: bold;
     text-align:center;
+    cursor: pointer;
+    width: 100px;                
+    height: 40px;
 }
 .nav li span{
     display: block;
 }
 .updatetime{
     text-align: left;
-    margin-left: 20 / @b;
+    margin-left: 20px;
     color:#333333;
-    font-size:20 / @b;
-    position: relative;
-    top: -10 / @b;
-    margin-top:170 / @b;
+    font-size:14px;
+    margin:10px 0 10px 39px;
 }
 
 .selected {
-    width: 0;                
-    height: 0;
-    border: 12 / @b solid #ffffff;
-    border-top-color: transparent;    
-    border-left-color: transparent;
-    border-right-color: transparent;
-    position: relative;
-    left: 50 / @b;
-    top: -22 / @b;
+    width: 100px;                
+    height: 40px;
+    color:#ffffff;
+    background: #cc0000;
 }
 
-.to-link-img {
-  width: 750 / @b;
-  height: 200 / @b;
-
-  img {
-    width: 100%;
-    height: 100%;
-  }
-}
 .injury-page{
     background: #ffffff;
 }
 .list{
     width:100%;
-    font-size:24 / @b;
-    margin-top:5 / @b;
-    border: 1 / @b solid #333333;
+    font-size:16px;
+    margin-top:5px;
+    border: 1px solid #333333;
     border-spacing: 0;/*去掉单元格间隙*/
 }
 .team_logo{
-    width: 128 / @b;
+    width: 140px;
     text-align: center;
 }
 .logo{
-    width: 128 / @b;
-    padding-left:0;
+    width: 140px;
 }
 .name{
-    width: 210 / @b;
+    width: 200px;
     color:#000000;
 }
 .status{
-    width: 135 / @b;
+    width: 100px;
     color:#000000;
 }
 .detail{
-    padding:8 / @b;
+    padding:8px;
     color:#000000;
 }
 .title td{
-    padding-left:4 / @b;
+    padding-left:4px;
 }
 .empty{
-    height:10 / @b;
-    line-height:10 / @b;
+    height:10px;
+    line-height:10px;
 }
 th{
-    border: 1 / @b solid #333333;
+    border: 1px solid #333333;
     background: #a2cafd;
     font-weight: bold;
-    padding:8 / @b 0 8 / @b 8 / @b;
+    padding:8px 0 8px 8px;
     vertical-align: middle;
     color:#ffffff;
 }
 td{
-    border: 1 / @b solid #333333;
-    padding:8 / @b 4 / @b 8 / @b 8 / @b;
+    border: 1px solid #333333;
+    padding:8px;
     vertical-align: middle;
 }
 .none{
@@ -465,48 +473,52 @@ td{
 .title th{
     background: #f6f6f6;
 }
-img{
-    width: 110 / @b;
-    height: 110 / @b;
+.title img{
+    width: 100px;
+    height: 100px;
 }
 .team-name{
-    padding:8 / @b 0 8 / @b 8 / @b;
+    padding:8px 0 8px 8px;
 }
 .en-name{
-    margin-left:15 / @b;
-    font-size:20 / @b;
+    margin-left:15px;
+    font-size:14px;
 }
 .important{
     background-color:#f22c11;
-    padding:3 / @b;
-    border-radius:5 / @b;
+    padding:3px;
+    border-radius:5px;
     color:#ffffff;
-    font-size:16 / @b;
+    font-size:6px;
     position: relative;
-    top:-30 / @b;
-    left:-18 / @b;
+    top:-2px;
+    left:5px;
     z-index:99;
 }
 .bottom{
-    margin-top:45 / @b;
-    height: 149 / @b;
+    margin-top:45px;
+    height: 149px;
     background:#20232c;
     width:100%;
     color:#ffffff;
-    font-size:20 / @b;
+    font-size:18px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
 }
 .bottom-text{
     float:left;
-    margin:40 / @b 0 0 30 / @b;
-    line-height: 35 / @b;
+    margin:0;
+    line-height: 35px;
 }
 .bottom-qrcode{
-    float:right;
-    margin:0 20 / @b 0 0;
+    float:left;
+    margin:0 0 0 40px;
 }
 .bottom-qrcode img{
-    width:129 / @b;
-    height:149 / @b;
+    width:129px;
+    height:149px;
 }
 </style>
 

@@ -943,11 +943,11 @@
     padding-left:0;
 }
 .name{
-    width: 225 / @b;
+    width: 210 / @b;
     color:#000000;
 }
 .status{
-    width: 120 / @b;
+    width: 135 / @b;
     color:#000000;
 }
 .detail{
@@ -971,7 +971,7 @@ th{
 }
 td{
     border: 1 / @b solid #333333;
-    padding:8 / @b 0 8 / @b 8 / @b;
+    padding:8 / @b 4 / @b 8 / @b 8 / @b;
     vertical-align: middle;
 }
 .none{
