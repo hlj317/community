@@ -26,9 +26,10 @@ const injuryNBA = async function (ctx, next) {
     if(!isMobile(ua)){
         ctx.redirect('/injurynbapc');
     };
-    if(!(/nba/.test(ctx.href))){
-        ctx.redirect('/injurynba');
-    }
+    // console.log(ctx.state.path);
+    // if(!(/nba/.test(ctx.href))){
+    //     ctx.redirect('/injurynba');
+    // }
     await ctx.render("community/injurynba", {
         title: "NBA伤病名单实时更新 - 篮彩老黑",
         keywords: "NBA伤病名单实时更新 - 篮彩老黑",

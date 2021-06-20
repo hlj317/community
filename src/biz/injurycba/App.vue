@@ -19,7 +19,7 @@
         </ul>
     </div>
     <div class="clear"></div>
-    <div class="updatetime">最近更新时间：<strong>2021-06-19[周六]20:55</strong>（每天晚23:00和早8:00更新）</div>
+    <div class="updatetime">最近更新时间：<strong>2021-06-20[周日]08:30</strong>（每日不定期更新，敬请关注）</div>
     <table class="list" border="0" cellspacing="1" cellpadding="0">
 
         <!-----B----北京鸭------>
