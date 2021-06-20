@@ -19,7 +19,7 @@
         </ul>
     </div>
     <div class="clear"></div>
-    <div class="updatetime">最近更新时间：<strong>2021-06-20[周日]08:30</strong>（每日不定期更新，敬请关注）</div>
+    <div class="updatetime">最近更新时间：<strong>2021-06-20[周日]21:00</strong>（每日不定期更新，敬请关注）</div>
     <table class="list" border="0" cellspacing="1" cellpadding="0">
 
         <!-----A----亚特兰大老鹰------>
@@ -154,8 +154,8 @@
         </tr> 
         <tr>  
             <td>克里斯.保罗<span class="important">重要</span></td>
-            <td>出战可能性低</td>
-            <td>本周日将接受心冠检测的重新评估</td>
+            <td>缺席</td>
+            <td>因联盟防疫规定，周一缺席对阵快船的比赛</td>
         </tr> 
         <tr>  
             <td>纳迪尔</td>

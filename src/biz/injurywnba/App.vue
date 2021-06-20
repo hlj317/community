@@ -19,7 +19,7 @@
         </ul>
     </div>
     <div class="clear"></div>
-    <div class="updatetime">最近更新时间：<strong>2021-06-20[周日]08:30</strong>（每日不定期更新，敬请关注）</div>
+    <div class="updatetime">最近更新时间：<strong>2021-06-20[周日]21:00</strong>（每日不定期更新，敬请关注）</div>
     <table class="list" border="0" cellspacing="1" cellpadding="0">
 
         <!-----A----亚特兰大梦想------>
@@ -147,7 +147,7 @@
             <th colspan="4" class="team-name sparks">[L]洛杉矶火花<span class="en-name">Los Angeles Sparks</span></th>
         </tr> 
         <tr class="title">  
-            <td rowspan="8" class="team_logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/wnba-logo/sparks.jpeg" /></td>
+            <td rowspan="7" class="team_logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/wnba-logo/sparks.jpeg" /></td>
             <th class="name">姓名</th>
             <th class="status">状态</th>
             <th class="detail">详情</th>
