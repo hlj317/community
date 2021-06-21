@@ -19,7 +19,7 @@
         </ul>
     </div>
     <div class="clear"></div>
-    <div class="updatetime">最近更新时间：<strong>2021-06-20[周日]21:00</strong>（每日不定期更新，敬请关注）</div>
+    <div class="updatetime">最近更新时间：<strong>2021-06-21[周一]09:30</strong>（每日不定期更新，敬请关注）</div>
     <table class="list" border="0" cellspacing="1" cellpadding="0">
 
         <!-----A----亚特兰大老鹰------>
@@ -34,8 +34,8 @@
         </tr> 
         <tr>  
             <td>博格丹<span class="important">重要</span></td>
-            <td>出战存疑</td>
-            <td>周一对阵76人出战存疑</td>
+            <td>出战</td>
+            <td>周一对阵76人出战</td>
         </tr> 
         <tr>  
             <td>亨特</td>
@@ -132,8 +132,8 @@
         </tr> 
         <tr>  
             <td>恩比德<span class="important">重要</span></td>
-            <td>大概率出战</td>
-            <td>膝盖受伤，大概率出战周一对阵老鹰的比赛</td>
+            <td>出战</td>
+            <td>膝盖受伤，出战周一对阵老鹰的比赛</td>
         </tr> 
         <tr>  
             <td>丹尼.格林</td>

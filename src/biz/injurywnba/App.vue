@@ -19,7 +19,7 @@
         </ul>
     </div>
     <div class="clear"></div>
-    <div class="updatetime">最近更新时间：<strong>2021-06-20[周日]21:00</strong>（每日不定期更新，敬请关注）</div>
+    <div class="updatetime">最近更新时间：<strong>2021-06-21[周一]09:30</strong>（每日不定期更新，敬请关注）</div>
     <table class="list" border="0" cellspacing="1" cellpadding="0">
 
         <!-----A----亚特兰大梦想------>
