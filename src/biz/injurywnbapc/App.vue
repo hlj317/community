@@ -28,7 +28,7 @@
             <th colspan="4" class="team-name dream">[A]亚特兰大梦想<span class="en-name">Atlanta Dream</span></th>
         </tr> 
         <tr class="title">  
-            <td rowspan="3" class="team_logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/wnba-logo/dream.jpeg" /></td>
+            <td rowspan="4" class="team_logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/wnba-logo/dream.jpeg" /></td>
             <th class="name">姓名</th>
             <th class="status">状态</th>
             <th class="detail">详情</th>
