@@ -20,7 +20,7 @@
         <li @click="gotoPage('cbapc')"><span>CBA</span></li>
     </ul>
     <div class="clear"></div>
-    <div class="updatetime">最近更新时间：<strong>2021-06-21[周一]09:30</strong>（每日不定期更新，敬请关注）</div>
+    <div class="updatetime">最近更新时间：<strong>2021-06-22[周二]09:50</strong>（每日不定期更新，敬请关注）</div>
     <table class="list" border="0" cellspacing="1" cellpadding="0">
 
         <!-----A----亚特兰大梦想------>
@@ -32,6 +32,11 @@
             <th class="name">姓名</th>
             <th class="status">状态</th>
             <th class="detail">详情</th>
+        </tr> 
+        <tr>  
+            <td>蒂芙尼.海耶斯<span class="important">重要</span></td>
+            <td>缺席</td>
+            <td>膝盖受伤，预计缺阵4至6周</td>
         </tr> 
         <tr>  
             <td>肯尼迪.卡特</td>
@@ -111,8 +116,8 @@
         </tr> 
         <tr>  
             <td>哈塔尔<span class="important">重要</span></td>
-            <td>出战</td>
-            <td>脚踝受伤，周日对战华盛顿神秘人大概率出战</td>
+            <td>复出</td>
+            <td>脚趾受伤，伤愈复出</td>
         </tr> 
         <tr>  
             <td>阿勒曼德</td>
@@ -266,9 +271,9 @@
             <th class="detail">详情</th>
         </tr> 
         <tr>  
-            <td>戴安娜.陶乐西</td>
-            <td>缺席</td>
-            <td>胸骨骨折，本赛季无限期休战</td>
+            <td>戴安娜.陶乐西<span class="important">重要</span></td>
+            <td>复出</td>
+            <td>胸骨骨折，伤愈复出</td>
         </tr> 
         <tr>  
             <td>布里亚.哈特利</td>

@@ -19,7 +19,7 @@
         </ul>
     </div>
     <div class="clear"></div>
-    <div class="updatetime">最近更新时间：<strong>2021-06-21[周一]09:30</strong>（每日不定期更新，敬请关注）</div>
+    <div class="updatetime">最近更新时间：<strong>2021-06-22[周二]09:50</strong>（每日不定期更新，敬请关注）</div>
     <table class="list" border="0" cellspacing="1" cellpadding="0">
 
         <!-----A----亚特兰大老鹰------>
@@ -31,11 +31,6 @@
             <th class="name">姓名</th>
             <th class="status">状态</th>
             <th class="detail">详情</th>
-        </tr> 
-        <tr>  
-            <td>博格丹<span class="important">重要</span></td>
-            <td>出战</td>
-            <td>周一对阵76人出战</td>
         </tr> 
         <tr>  
             <td>亨特</td>
@@ -54,28 +49,6 @@
         </tr> 
         <tr class="empty"><td colspan="4"></td></tr>  
 
-        <!-----B----布鲁克林篮网------>
-        <tr>  
-            <th colspan="4" class="team-name nets">[B]布鲁克林篮网<span class="en-name">Brooklyn Nets</span></th>
-        </tr> 
-        <tr class="title">  
-            <td rowspan="3" class="team_logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/nba-logo/nets.jpeg" /></td>
-            <th class="name">姓名</th>
-            <th class="status">状态</th>
-            <th class="detail">详情</th>
-        </tr> 
-        <tr>  
-            <td>凯里.欧文<span class="important">重要</span></td>
-            <td>缺席</td>
-            <td>脚踝受伤，不会出战周日对阵雄鹿的比赛</td>
-        </tr> 
-        <tr>  
-            <td>丁威迪</td>
-            <td>赛季报销</td>
-            <td>左膝十字韧带断裂，手术后康复中</td>
-        </tr> 
-        <tr class="empty"><td colspan="4"></td></tr>  
-
         <!-----L--洛杉矶快船------>
         <tr>  
             <th colspan="4" class="team-name clippers">[L]洛杉矶快船<span class="en-name">Los Angeles Clippers</span></th>
@@ -89,7 +62,7 @@
         <tr>  
             <td>科怀.伦纳德<span class="important">重要</span></td>
             <td>缺席</td>
-            <td>膝盖受伤，本赛季归期不明</td>
+            <td>膝盖受伤，不会出战周三对阵太阳的比赛</td>
         </tr> 
         <tr>  
             <td>伊巴卡</td>
@@ -110,35 +83,13 @@
         </tr> 
         <tr>  
             <td>乔丹.沃拉</td>
-            <td>缺席</td>
-            <td>大腿拉伤，将不会出战周日对阵篮网的比赛</td>
+            <td>出战存疑</td>
+            <td>大腿拉伤，周四对阵老鹰的比赛出战存疑</td>
         </tr> 
         <tr>  
             <td>迪温琴佐</td>
             <td>赛季报销</td>
             <td>周二脚踝接受了成功的手术，修复左脚踝撕裂的韧带</td>
-        </tr> 
-        <tr class="empty"><td colspan="4"></td></tr>
-
-        <!-----P--费城76人------>
-        <tr>  
-            <th colspan="4" class="team-name seven6ers">[P]费城76人<span class="en-name">Philadelphia 76ers</span></th>
-        </tr> 
-        <tr class="title">  
-            <td rowspan="3" class="team_logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/nba-logo/76ers.jpeg" /></td>
-            <th class="name">姓名</th>
-            <th class="status">状态</th>
-            <th class="detail">详情</th>
-        </tr> 
-        <tr>  
-            <td>恩比德<span class="important">重要</span></td>
-            <td>出战</td>
-            <td>膝盖受伤，出战周一对阵老鹰的比赛</td>
-        </tr> 
-        <tr>  
-            <td>丹尼.格林</td>
-            <td>缺席</td>
-            <td>右侧腹股沟受伤，预计缺阵三周时间</td>
         </tr> 
         <tr class="empty"><td colspan="4"></td></tr>
 
@@ -155,7 +106,7 @@
         <tr>  
             <td>克里斯.保罗<span class="important">重要</span></td>
             <td>缺席</td>
-            <td>因联盟防疫规定，周一缺席对阵快船的比赛</td>
+            <td>因联盟防疫规定，不会出战周三对阵快船的比赛，归期未定</td>
         </tr> 
         <tr>  
             <td>纳迪尔</td>
