@@ -19,7 +19,7 @@
         </ul>
     </div>
     <div class="clear"></div>
-    <div class="updatetime">最近更新时间：<strong>2021-06-20[周日]08:30</strong>（每日不定期更新，敬请关注）</div>
+    <div class="updatetime">最近更新时间：<strong>{{udpatetime}}</strong>（每日不定期更新，敬请关注）</div>
     <table class="list" border="0" cellspacing="1" cellpadding="0">
 
         <!-----B----北京鸭------>
@@ -614,6 +614,7 @@ img{
 export default {
   data () {
     return {
+       udpatetime : ''
     }
   },
   components: {
@@ -628,6 +629,10 @@ export default {
     gotoPage(target){
         window.location.href = "/injury" + target;
     }
+  },
+  mounted() {
+      const udpatetime = document.getElementById("udpatetime").value;
+      this.udpatetime = udpatetime || "2021-06-22[周二]09:50";
   }
 }
 </script>
