@@ -61,6 +61,11 @@
             <th class="detail">详情</th>
         </tr> 
         <tr>  
+            <td>马库斯.莫里斯<span class="important">重要</span></td>
+            <td>大概率出战</td>
+            <td>莫里斯正在处理膝盖伤势，预计将会出战周三对阵太阳的比赛</td>
+        </tr> 
+        <tr>  
             <td>科怀.伦纳德<span class="important">重要</span></td>
             <td>缺席</td>
             <td>膝盖受伤，不会出战周三对阵太阳的比赛</td>
