@@ -78,9 +78,9 @@
             <th class="detail">详情</th>
         </tr> 
         <tr>  
-            <td>艾丽萨.托马斯</td>
-            <td>出战存疑</td>
-            <td>跟腱受伤，周日对阵芝加哥天空出战存疑</td>
+            <td>艾丽萨.托马斯<span class="important">重要</span></td>
+            <td>缺席</td>
+            <td>跟腱受伤，不会出战周三对阵达拉斯飞翼的比赛</td>
         </tr> 
         <tr>  
             <td>琼克尔.琼斯<span class="important">重要</span></td>
