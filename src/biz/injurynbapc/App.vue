@@ -78,7 +78,7 @@
         <tr>  
             <td>科怀.伦纳德<span class="important">重要</span></td>
             <td>缺席</td>
-            <td>膝盖受伤，不会出战周三对阵太阳的比赛</td>
+            <td>膝盖受伤，不会出战周五对阵太阳的比赛，归期未定</td>
         </tr> 
         <tr>  
             <td>伊巴卡</td>
