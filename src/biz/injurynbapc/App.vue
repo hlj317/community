@@ -15,9 +15,9 @@
     </div>
     <div class="clear"></div>
     <ul class="nav">
-        <li><span class="selected">NBA</span></li>
-        <li @click="gotoPage('wnbapc')"><span>WNBA</span></li>
-        <li @click="gotoPage('cbapc')"><span>CBA</span></li>
+        <li><a class="selected" href="#">NBA</a></li>
+        <li><a href="/injurywnbapc">WNBA</a></li>
+        <li><a href="/injurycbapc">CBA</a></li>
     </ul>
     <div class="clear"></div>
     <div class="updatetime">最近更新时间：<strong>{{udpatetime}}</strong>（每日不定期更新，敬请关注）</div>
@@ -72,8 +72,8 @@
         </tr> 
         <tr>  
             <td>马库斯.莫里斯<span class="important">重要</span></td>
-            <td>大概率出战</td>
-            <td>莫里斯正在处理膝盖伤势，预计将会出战周三对阵太阳的比赛</td>
+            <td>出战</td>
+            <td>莫里斯膝盖扭伤，预计将会出战周五对阵太阳的比赛</td>
         </tr> 
         <tr>  
             <td>科怀.伦纳德<span class="important">重要</span></td>
@@ -347,14 +347,14 @@
     margin-right:30px;
     color:#cccccc;
     font-size:20px;
+}
+.nav li a{
+    display: block;
     font-weight: bold;
     text-align:center;
     cursor: pointer;
     width: 100px;                
     height: 40px;
-}
-.nav li span{
-    display: block;
 }
 .updatetime{
     text-align: left;
@@ -492,9 +492,6 @@ export default {
   },
   methods: {
     init () {
-    },
-    gotoPage(target){
-        window.location.href = "/injury" + target;
     }
   },
   mounted() {

@@ -16,9 +16,9 @@
         </div>
         <div class="clear"></div>
         <ul class="nav">
-            <li @click="gotoPage('nbapc')"><span>NBA</span></li>
-            <li @click="gotoPage('wnbapc')"><span>WNBA</span></li>
-            <li><span class="selected">CBA</span></li>
+            <li><a href="/injurynbapc">NBA</a></li>
+            <li><a href="/injurywnbapc">WNBA</a></li>
+            <li><a class="selected" href="#">CBA</a></li>
         </ul>
     </div>
     <div class="clear"></div>
@@ -482,14 +482,14 @@ Z 浙江猛狮    mengshi     #d79700
     margin-right:30px;
     color:#cccccc;
     font-size:20px;
+}
+.nav li a{
+    display: block;
     font-weight: bold;
     text-align:center;
     cursor: pointer;
     width: 100px;                
     height: 40px;
-}
-.nav li span{
-    display: block;
 }
 .updatetime{
     text-align: left;
@@ -627,9 +627,6 @@ export default {
   },
   methods: {
     init () {
-    },
-    gotoPage(target){
-        window.location.href = "/injury" + target;
     }
   },
   mounted() {

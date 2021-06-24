@@ -13,9 +13,9 @@
         </div>
         <div class="clear"></div>
         <ul class="nav">
-            <li @click="gotoPage('nba')"><span>NBA</span></li>
-            <li><span>WNBA</span><span class="selected"></span></li>
-            <li @click="gotoPage('cba')"><span>CBA</span></li>
+            <li><a href="/injurynba">NBA</a></li>
+            <li><a href="#">WNBA</a><span class="selected"></span></li>
+            <li><a href="/injurycba">CBA</a></li>
         </ul>
     </div>
     <div class="clear"></div>
@@ -465,12 +465,15 @@
     margin-right:50 / @b;
     color:#ffffff;
     font-size:24 / @b;
-    width:120 / @b;
-    font-weight: bold;
-    text-align:center;
 }
 .nav li span{
     display: block;
+}
+.nav li a{
+    display: block;
+    width:120 / @b;
+    font-weight: bold;
+    text-align:center;
 }
 .updatetime{
     text-align: left;
@@ -621,9 +624,6 @@ export default {
   },
   methods: {
     init () {
-    },
-    gotoPage(target){
-        window.location.href = "/injury" + target;
     }
   },
   mounted() {

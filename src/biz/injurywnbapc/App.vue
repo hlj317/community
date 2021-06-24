@@ -15,9 +15,9 @@
     </div>
     <div class="clear"></div>
     <ul class="nav">
-        <li @click="gotoPage('nbapc')"><span>NBA</span></li>
-        <li><span class="selected">WNBA</span></li>
-        <li @click="gotoPage('cbapc')"><span>CBA</span></li>
+        <li><a href="/injurynbapc">NBA</a></li>
+        <li><a class="selected" href="#">WNBA</a></li>
+        <li><a href="/injurycbapc">CBA</a></li>
     </ul>
     <div class="clear"></div>
     <div class="updatetime">最近更新时间：<strong>{{udpatetime}}</strong>（每日不定期更新，敬请关注）</div>
@@ -464,14 +464,14 @@
     margin-right:30px;
     color:#cccccc;
     font-size:20px;
+}
+.nav li a{
+    display: block;
     font-weight: bold;
     text-align:center;
     cursor: pointer;
     width: 100px;                
     height: 40px;
-}
-.nav li span{
-    display: block;
 }
 .updatetime{
     text-align: left;
@@ -609,9 +609,6 @@ export default {
   },
   methods: {
     init () {
-    },
-    gotoPage(target){
-        window.location.href = "/injury" + target;
     }
   },
   mounted() {

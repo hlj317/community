@@ -13,9 +13,9 @@
         </div>
         <div class="clear"></div>
         <ul class="nav">
-            <li><span>NBA</span><span class="selected"></span></li>
-            <li @click="gotoPage('wnba')"><span>WNBA</span></li>
-            <li @click="gotoPage('cba')"><span>CBA</span></li>
+            <li><a href="#">NBA</a><span class="selected"></span></li>
+            <li><a href="/injurywnba">WNBA</a></li>
+            <li><a href="/injurycba">CBA</a></li>
         </ul>
     </div>
     <div class="clear"></div>
@@ -71,8 +71,8 @@
         </tr> 
         <tr>  
             <td>马库斯.莫里斯<span class="important">重要</span></td>
-            <td>大概率出战</td>
-            <td>莫里斯正在处理膝盖伤势，预计将会出战周三对阵太阳的比赛</td>
+            <td>出战</td>
+            <td>莫里斯膝盖扭伤，预计将会出战周五对阵太阳的比赛</td>
         </tr> 
         <tr>  
             <td>科怀.伦纳德<span class="important">重要</span></td>
@@ -336,12 +336,15 @@
     margin-right:50 / @b;
     color:#ffffff;
     font-size:24 / @b;
-    width:120 / @b;
-    font-weight: bold;
-    text-align:center;
 }
 .nav li span{
     display: block;
+}
+.nav li a{
+    display: block;
+    width:120 / @b;
+    font-weight: bold;
+    text-align:center;
 }
 .updatetime{
     text-align: left;
@@ -492,9 +495,6 @@ export default {
   },
   methods: {
     init () {
-    },
-    gotoPage(target){
-        window.location.href = "/injury" + target;
     }
   },
   mounted() {
