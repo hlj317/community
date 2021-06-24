@@ -34,8 +34,8 @@
         </tr> 
         <tr>  
             <td>雷迪什<span class="important">重要</span></td>
-            <td>大概率出战</td>
-            <td>右脚跟腱伤愈，周四对阵雄鹿的比赛尚未确定是否复出，但大概率会出战</td>
+            <td>缺席</td>
+            <td>右脚跟腱伤愈，周四对阵雄鹿的比赛不会复出</td>
         </tr>
         <tr>  
             <td>赫尔特<span class="important">重要</span></td>
