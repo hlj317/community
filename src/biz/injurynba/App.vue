@@ -27,25 +27,20 @@
             <th colspan="4" class="team-name hawks">[A]亚特兰大老鹰<span class="en-name">Atlanta Hawks</span></th>
         </tr> 
         <tr class="title">  
-            <td rowspan="6" class="team_logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/nba-logo/hawks.jpeg" /></td>
+            <td rowspan="5" class="team_logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/nba-logo/hawks.jpeg" /></td>
             <th class="name">姓名</th>
             <th class="status">状态</th>
             <th class="detail">详情</th>
         </tr> 
         <tr>  
             <td>雷迪什<span class="important">重要</span></td>
-            <td>缺席</td>
-            <td>右脚跟腱伤愈，周四对阵雄鹿的比赛不会复出</td>
+            <td>复出</td>
+            <td>右脚跟腱伤愈，周六对阵雄鹿的比赛伤愈复出</td>
         </tr>
         <tr>  
-            <td>赫尔特<span class="important">重要</span></td>
-            <td>出战</td>
-            <td>尽管左脚踝疼痛，赫尔特预计将出战周四对阵雄鹿的比赛</td>
-        </tr> 
-        <tr>  
             <td>博格丹<span class="important">重要</span></td>
-            <td>出战</td>
-            <td>右膝酸痛，预计将出战周四对阵雄鹿的比赛</td>
+            <td>出战存疑</td>
+            <td>右膝酸痛，不确定是否出战周六对阵雄鹿的比赛</td>
         </tr> 
         <tr>  
             <td>亨特</td>
