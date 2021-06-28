@@ -28,20 +28,10 @@
             <th colspan="4" class="team-name hawks">[A]亚特兰大老鹰<span class="en-name">Atlanta Hawks</span></th>
         </tr> 
         <tr class="title">  
-            <td rowspan="5" class="team_logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/nba-logo/hawks.jpeg" /></td>
+            <td rowspan="3" class="team_logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/nba-logo/hawks.jpeg" /></td>
             <th class="name">姓名</th>
             <th class="status">状态</th>
             <th class="detail">详情</th>
-        </tr> 
-        <tr>  
-            <td>雷迪什<span class="important">重要</span></td>
-            <td>复出</td>
-            <td>右脚跟腱伤愈，周六对阵雄鹿的比赛伤愈复出</td>
-        </tr>
-        <tr>  
-            <td>博格丹<span class="important">重要</span></td>
-            <td>出战存疑</td>
-            <td>右膝酸痛，不确定是否出战周六对阵雄鹿的比赛</td>
         </tr> 
         <tr>  
             <td>亨特</td>
@@ -60,20 +50,15 @@
             <th colspan="4" class="team-name clippers">[L]洛杉矶快船<span class="en-name">Los Angeles Clippers</span></th>
         </tr> 
         <tr class="title">  
-            <td rowspan="4" class="team_logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/nba-logo/clippers.jpeg" /></td>
+            <td rowspan="3" class="team_logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/nba-logo/clippers.jpeg" /></td>
             <th class="name">姓名</th>
             <th class="status">状态</th>
             <th class="detail">详情</th>
         </tr> 
         <tr>  
-            <td>马库斯.莫里斯<span class="important">重要</span></td>
-            <td>出战</td>
-            <td>莫里斯膝盖扭伤，预计将会出战周五对阵太阳的比赛</td>
-        </tr> 
-        <tr>  
             <td>科怀.伦纳德<span class="important">重要</span></td>
             <td>缺席</td>
-            <td>膝盖受伤，不会出战周五对阵太阳的比赛，归期未定</td>
+            <td>膝盖受伤，不会出战周二对阵太阳的比赛，归期未定</td>
         </tr> 
         <tr>  
             <td>伊巴卡</td>
@@ -87,15 +72,10 @@
             <th colspan="4" class="team-name bucks">[M]密尔沃基雄鹿<span class="en-name">Milwaukee Bucks</span></th>
         </tr> 
         <tr class="title">  
-            <td rowspan="3" class="team_logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/nba-logo/bucks.jpeg" /></td>
+            <td rowspan="2" class="team_logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/nba-logo/bucks.jpeg" /></td>
             <th class="name">姓名</th>
             <th class="status">状态</th>
             <th class="detail">详情</th>
-        </tr> 
-        <tr>  
-            <td>乔丹.沃拉</td>
-            <td>出战存疑</td>
-            <td>大腿拉伤，周四对阵老鹰的比赛出战存疑</td>
         </tr> 
         <tr>  
             <td>迪温琴佐</td>
@@ -109,15 +89,10 @@
             <th colspan="4" class="team-name suns">[P]菲尼克斯太阳<span class="en-name">Phoenix Suns</span></th>
         </tr> 
         <tr class="title">  
-            <td rowspan="3" class="team_logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/nba-logo/suns.jpeg" /></td>
+            <td rowspan="2" class="team_logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/nba-logo/suns.jpeg" /></td>
             <th class="name">姓名</th>
             <th class="status">状态</th>
             <th class="detail">详情</th>
-        </tr> 
-        <tr>  
-            <td>克里斯.保罗<span class="important">重要</span></td>
-            <td>出战</td>
-            <td>联盟防疫观察解禁，预计将出战周五对阵快船的比赛</td>
         </tr> 
         <tr>  
             <td>纳迪尔</td>
