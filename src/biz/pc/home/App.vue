@@ -17,7 +17,7 @@
     <section class="footer">
         <div class="ministry">
             <img src="//h0.beicdn.com/open201912/7296bdfd984af62f_14x16.png" class="gongan-icon" alt=""> <a class="gonganbei" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=33010402003818">浙公网安备
-                33010402003818号</a> | <a href="//beian.miit.gov.cn" class="gonganbei J_zhebei">浙ICP备17001885号-1</a>
+                33010402003818号</a> | <a href="//beian.miit.gov.cn" class="gonganbei J_zhebei">浙ICP备17001885号</a>
         </div>
         <div class="copyright"><a href="http://idinfo.zjamr.zj.gov.cn/bscx.do?method=lzxx&amp;id=3301043301040001194716"><img src="//h0.beicdn.com/open201951/023cf68733c6ee08_65x70.png" class="hongdun-icon" alt=""> </a>© <span class="J_year">2021</span> 个人版权所有 </div>
     </section>
