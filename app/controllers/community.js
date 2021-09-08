@@ -1,6 +1,7 @@
 const casesListHandler = require("../models/handles/casesListHandler.js");
 const productsListHandler = require("../models/handles/productsListHandler.js");
 const commentsListHandler = require("../models/handles/commentsListHandler.js");
+const nideshopAdHandler = require("../models/handles/nideshopAdHandler.js");
 
 const getCasesList = async function (ctx, next) {
     return await (new casesListHandler()).handler(ctx, next);
@@ -12,6 +13,10 @@ const getProductsList = async function (ctx, next) {
 
 const getCommentsList = async function (ctx, next) {
     return await (new commentsListHandler()).handler(ctx, next);
+};
+
+const getNideshopAd = async function (ctx, next) {
+    return await (new nideshopAdHandler()).handler(ctx, next);
 };
 
 const guess = async function (ctx, next) {
@@ -125,6 +130,7 @@ module.exports = {
     getCasesList,
     getProductsList,
     getCommentsList,
+    getNideshopAd,
     guess,
     injuryNBA,
     injuryWNBA,

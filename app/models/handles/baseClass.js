@@ -2,6 +2,7 @@ const AccountModel = require("../model/accountModel.js");
 const CasesModel = require("../model/casesModel.js");
 const ProductsModel = require("../model/productsModel.js");
 const CommentsModel = require("../model/commentsModel.js");
+const NideshopAdModel = require("../model/nideshopAdModel.js");
 
 class BaseClass {
 	constructor() {
@@ -9,6 +10,7 @@ class BaseClass {
         this.casesModel = CasesModel.instance();
         this.productsModel = ProductsModel.instance();
         this.commentsModel = CommentsModel.instance();
+        this.nideshopAdModel = NideshopAdModel.instance();
 		this.ctx = "";
 	}
 

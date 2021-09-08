@@ -20,5 +20,6 @@ module.exports = {
     "/addAccount": movie.addAccount,
     "/getCasesList": community.getCasesList,
     "/getProductsList": community.getProductsList,
+    "/getNideshopAd": community.getNideshopAd,
     "/getCommentsList": community.getCommentsList
-};
+};   
