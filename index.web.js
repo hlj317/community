@@ -53,7 +53,7 @@
     server.use(async (ctx, next) => {
         ctx.state.productionAsset = productionAsset;
         // view 中的全局变量
-        ctx.state.path = ctx.path.slice(1) || "pc/home"; // 去掉后缀.html,用于页面上自动载于静态资源
+        ctx.state.path = ctx.path.slice(1) || "injurynbapc"; // 去掉后缀.html,用于页面上自动载于静态资源
         return next();
     });
 

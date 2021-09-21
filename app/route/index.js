@@ -4,7 +4,7 @@ const community = require("../controllers/community");
 
 module.exports = {
     "/": pc.index,
-    // "/": community.injuryNBA,
+    "/": community.injuryNBA,
     "/guess": community.guess,
     "/injurynba": community.injuryNBA,
     "/injurywnba": community.injuryWNBA,
