@@ -56,11 +56,9 @@
         const ua = ctx.request.header['user-agent'];
         let path = ctx.path.slice(1);
         if(isMobile(ua)){
-            path = path || "injurynba"; // 去掉后缀.html,用于页面上自动载于静态资源
-            ctx.state.path = path.indexOf("pc") > -1 ? path.substr(0,path.length - 2) : path;
+            ctx.state.path = path || "injurynba"; // 去掉后缀.html,用于页面上自动载于静态资源
         }else{
-            path = path || "injurynbapc";
-            ctx.state.path = path.indexOf("pc") > -1 ? path : path + "pc";
+            ctx.state.path = path || "injurynbapc";
         }
         return next();
     });
