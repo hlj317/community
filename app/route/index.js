@@ -3,7 +3,6 @@ const movie = require("../../app/controllers/movie");
 const community = require("../controllers/community");
 
 module.exports = {
-    "/": pc.index,
     "/": community.injuryNBA,
     "/guess": community.guess,
     "/injurynba": community.injuryNBA,

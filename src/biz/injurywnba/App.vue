@@ -80,7 +80,7 @@
          <tr>  
             <td>吉亚.内斯<span class="important">重要</span></td>
             <td>出战存疑</td>
-            <td>腿部受伤</td>
+            <td>在第四场对阵王牌的比赛中，开场腿部受伤，下一场出战存疑</td>
         </tr> 
 
     </table>

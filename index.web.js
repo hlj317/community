@@ -53,7 +53,12 @@
     server.use(async (ctx, next) => {
         ctx.state.productionAsset = productionAsset;
         // view 中的全局变量
-        ctx.state.path = ctx.path.slice(1) || "injurynbapc"; // 去掉后缀.html,用于页面上自动载于静态资源
+        const ua = ctx.request.header['user-agent'];
+        if(isMobile(ua)){
+            ctx.state.path = ctx.path.slice(1) || "injurynba"; // 去掉后缀.html,用于页面上自动载于静态资源
+        }else{
+            ctx.state.path = ctx.path.slice(1) || "injurynbapc";
+        }
         return next();
     });
 
@@ -77,3 +82,21 @@
     await server.startup(router, port);
 
 })();
+
+//判断是否设备是手机
+const isMobile = function(userAgent){
+    const u = userAgent;
+    if( !!u.match(/AppleWebKit.*Mobile.*/)){
+        return true;
+    }else if(!!u.match(/\(i[^;]+;( U;)? CPU.+Mac OS X/)){
+        return true;
+    }else if(u.indexOf("Android") > -1 || u.indexOf("Linux") > -1){
+        return true;
+    }else if(u.indexOf("iPhone") > -1){
+        return true;
+    }else if(u.indexOf("iPad") > -1){
+        return true;
+    }else{
+        return false;
+    }
+}
