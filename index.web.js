@@ -54,10 +54,11 @@
         ctx.state.productionAsset = productionAsset;
         // view 中的全局变量
         const ua = ctx.request.header['user-agent'];
+        const path = ctx.path.slice(1);
         if(isMobile(ua)){
-            ctx.state.path = ctx.path.slice(1) || "injurynba"; // 去掉后缀.html,用于页面上自动载于静态资源
+            ctx.state.path = (path.indexOf("pc") > -1 ? path.substr(0,path.length - 2) : path)|| "injurynba"; // 去掉后缀.html,用于页面上自动载于静态资源
         }else{
-            ctx.state.path = ctx.path.slice(1) || "injurynbapc";
+            ctx.state.path = (path.indexOf("pc") > -1 ? path : path + "pc") || "injurynbapc";
         }
         return next();
     });
