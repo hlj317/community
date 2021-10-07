@@ -31,64 +31,48 @@
         </tr>
 
         <tr class="play-time-tr">  
-            <td rowspan="3" class="play-time">Thu 10/07,6:00 AM</td>
+            <td rowspan="3" class="play-time">Fri 10/08, 7:00 AM</td>
         </tr> 
         <tr>  
-            <td class="verse-logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/nba-logo/hawks.jpeg" /><span class="verse-name">亚特兰大老鹰</span></td>
-            <td class="verse-trend"><span class="verse-left">-1.5</span><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/common/arrow.png" /><span class="verse-right">-1.5</span></td>
-            <td class="verse-ratio">20%<span class="verse-wrapper"><span class="verse-inner" v-bind:style="{ width: calWidth(20) + 'px' }"></span></span></td>
+            <td class="verse-logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/nba-logo/grizzlies.jpeg" /><span class="verse-name">孟菲斯灰熊</span></td>
+            <td class="verse-trend"><span class="verse-left">+1.0</span><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/common/arrow.png" /><span class="verse-right">+1.0</span></td>
+            <td class="verse-ratio">0%<span class="verse-wrapper"><span class="verse-inner" v-bind:style="{ width: calWidth(0) + 'px' }"></span></span></td>
+        </tr> 
+        <tr>  
+            <td class="verse-logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/nba-logo/hornets.jpeg" /><span class="verse-name">夏洛特黄蜂[主]</span></td>
+            <td class="verse-trend"><span class="verse-left">-1.0</span><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/common/arrow.png" /><span class="verse-right">-1.0</span></td>
+            <td class="verse-ratio">0%<span class="verse-wrapper"><span class="verse-inner" v-bind:style="{ width: calWidth(0) + 'px' }"></span></span></td>
+        </tr> 
+        <tr class="empty"><td colspan="4"></td></tr> 
+
+
+        <tr class="play-time-tr">  
+            <td rowspan="3" class="play-time">Fri 10/08, 7:00 AM</td>
+        </tr> 
+        <tr>  
+            <td class="verse-logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/nba-logo/raptors.jpeg" /><span class="verse-name">多伦多猛龙</span></td>
+            <td class="verse-trend"><span class="verse-left">+6.0</span><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/common/arrow.png" /><span class="verse-right">+6.0</span></td>
+            <td class="verse-ratio">0%<span class="verse-wrapper"><span class="verse-inner" v-bind:style="{ width: calWidth(0) + 'px' }"></span></span></td>
+        </tr> 
+        <tr>  
+            <td class="verse-logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/nba-logo/76ers.jpeg" /><span class="verse-name">费城76人[主]</span></td>
+            <td class="verse-trend"><span class="verse-left">-6.0</span><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/common/arrow.png" /><span class="verse-right">-6.0</span></td>
+            <td class="verse-ratio">0%<span class="verse-wrapper"><span class="verse-inner" v-bind:style="{ width: calWidth(0) + 'px' }"></span></span></td>
+        </tr> 
+        <tr class="empty"><td colspan="4"></td></tr> 
+
+        <tr class="play-time-tr">  
+            <td rowspan="3" class="play-time">Fri 10/08, 10:00 AM</td>
+        </tr> 
+        <tr>  
+            <td class="verse-logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/nba-logo/heat.jpeg" /><span class="verse-name">迈阿密热火</span></td>
+            <td class="verse-trend"><span class="verse-left">-6.0</span><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/common/arrow.png" /><span class="verse-right">-6.0</span></td>
+            <td class="verse-ratio">0%<span class="verse-wrapper"><span class="verse-inner" v-bind:style="{ width: calWidth(0) + 'px' }"></span></span></td>
         </tr> 
         <tr>  
             <td class="verse-logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/nba-logo/rockets.jpeg" /><span class="verse-name">休斯顿火箭[主]</span></td>
-            <td class="verse-trend"><span class="verse-left">+1.5</span><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/common/arrow.png" /><span class="verse-right">+1.5</span></td>
-            <td class="verse-ratio">80%<span class="verse-wrapper"><span class="verse-inner" v-bind:style="{ width: calWidth(80) + 'px' }"></span></span></td>
-        </tr> 
-        <tr class="empty"><td colspan="4"></td></tr>  
-
-
-        <tr class="play-time-tr">  
-            <td rowspan="3" class="play-time">Thu 10/07,6:00 AM</td>
-        </tr> 
-        <tr>  
-            <td class="verse-logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/nba-logo/pelicans.jpeg" /><span class="verse-name">新奥尔良鹈鹕</span></td>
-            <td class="verse-trend"><span class="verse-left">-1.5</span><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/common/arrow.png" /><span class="verse-right">-1.5</span></td>
-            <td class="verse-ratio">36%<span class="verse-wrapper"><span class="verse-inner" v-bind:style="{ width: calWidth(36) + 'px' }"></span></span></td>
-        </tr> 
-        <tr>  
-            <td class="verse-logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/nba-logo/knicks.jpeg" /><span class="verse-name">纽约尼克斯[主]</span></td>
-            <td class="verse-trend"><span class="verse-left">+1.5</span><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/common/arrow.png" /><span class="verse-right">+1.5</span></td>
-            <td class="verse-ratio">64%<span class="verse-wrapper"><span class="verse-inner" v-bind:style="{ width: calWidth(64) + 'px' }"></span></span></td>
-        </tr> 
-        <tr class="empty"><td colspan="4"></td></tr> 
-
-
-        <tr class="play-time-tr">  
-            <td rowspan="3" class="play-time">Thu 10/07,6:00 AM</td>
-        </tr> 
-        <tr>  
-            <td class="verse-logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/nba-logo/thunder.jpeg" /><span class="verse-name">俄克拉荷马城雷霆</span></td>
-            <td class="verse-trend"><span class="verse-left">-3.5</span><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/common/arrow.png" /><span class="verse-right">-2.5</span></td>
-            <td class="verse-ratio">46%<span class="verse-wrapper"><span class="verse-inner" v-bind:style="{ width: calWidth(46) + 'px' }"></span></span></td>
-        </tr> 
-        <tr>  
-            <td class="verse-logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/nba-logo/magic.jpeg" /><span class="verse-name">奥兰多魔术[主]</span></td>
-            <td class="verse-trend"><span class="verse-left">+3.5</span><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/common/arrow.png" /><span class="verse-right">+2.5</span></td>
-            <td class="verse-ratio">54%<span class="verse-wrapper"><span class="verse-inner" v-bind:style="{ width: calWidth(54) + 'px' }"></span></span></td>
-        </tr> 
-        <tr class="empty"><td colspan="4"></td></tr> 
-
-        <tr class="play-time-tr">  
-            <td rowspan="3" class="play-time">Thu 10/07,6:00 AM</td>
-        </tr> 
-        <tr>  
-            <td class="verse-logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/nba-logo/hawks.jpeg" /><span class="verse-name">亚特兰大老鹰</span></td>
-            <td class="verse-trend"><span class="verse-left">-1.5</span><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/common/arrow.png" /><span class="verse-right">-1.5</span></td>
-            <td class="verse-ratio">36%<span class="verse-wrapper"><span class="verse-inner" v-bind:style="{ width: calWidth(36) + 'px' }"></span></span></td>
-        </tr> 
-        <tr>  
-            <td class="verse-logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/nba-logo/rockets.jpeg" /><span class="verse-name">休斯顿火箭</span></td>
-            <td class="verse-trend"><span class="verse-left">+1.5</span><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/common/arrow.png" /><span class="verse-right">+1.5</span></td>
-            <td class="verse-ratio">64%<span class="verse-wrapper"><span class="verse-inner" v-bind:style="{ width: calWidth(64) + 'px' }"></span></span></td>
+            <td class="verse-trend"><span class="verse-left">+6.0</span><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/common/arrow.png" /><span class="verse-right">+6.0</span></td>
+            <td class="verse-ratio">0%<span class="verse-wrapper"><span class="verse-inner" v-bind:style="{ width: calWidth(0) + 'px' }"></span></span></td>
         </tr> 
 
     </table>

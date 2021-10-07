@@ -16,11 +16,11 @@
             <li><a href="/injurynba">NBA</a></li>
             <li><a href="#">WNBA</a><span class="selected"></span></li>
             <li><a href="/injurycba">CBA</a></li>
-            <li><a href="/vote">投注率</a></li>
+            <li class="vote-ratio"><a href="/vote">NBA投注率</a></li>
         </ul>
     </div>
     <div class="clear"></div>
-    <div class="updatetime">最近更新时间：<strong>2021-06-03[周二]14:05</strong>（每天晚23:00和早8:00更新）</div>
+    <div class="updatetime">最近更新时间：<strong>{{udpatetime}}</strong>（每日不定期更新，敬请关注）</div>
     <table class="list" border="0" cellspacing="1" cellpadding="0">
 
         <!-----A----亚特兰大梦想------>
@@ -28,20 +28,25 @@
             <th colspan="4" class="team-name dream">[A]亚特兰大梦想<span class="en-name">Atlanta Dream</span></th>
         </tr> 
         <tr class="title">  
-            <td rowspan="3" class="team_logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/wnba-logo/dream.jpeg" /></td>
+            <td rowspan="4" class="team_logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/wnba-logo/dream.jpeg" /></td>
             <th class="name">姓名</th>
             <th class="status">状态</th>
             <th class="detail">详情</th>
         </tr> 
         <tr>  
-            <td>安东尼.戴维斯</td>
-            <td>出战</td>
-            <td>周一左腹股沟拉伤，周三的G5已缺席，周五的G6将出战</td>
+            <td>蒂芙尼.海耶斯<span class="important">重要</span></td>
+            <td>缺席</td>
+            <td>膝盖受伤，预计缺阵4至6周</td>
         </tr> 
         <tr>  
-            <td>贾里德.杜德利</td>
+            <td>肯尼迪.卡特</td>
             <td>缺席</td>
-            <td>3月14日，右膝内侧副韧带撕裂，归期未定</td>
+            <td>肘部伤势严重，目前无确定性回归时间</td>
+        </tr> 
+        <tr>  
+            <td>卡拉尼.布朗</td>
+            <td>缺席</td>
+            <td>目前被球队排除在激活名单中</td>
         </tr> 
         <tr class="empty"><td colspan="4"></td></tr>  
 
@@ -50,20 +55,15 @@
             <th colspan="4" class="team-name sky">[C]芝加哥天空<span class="en-name">Chicago Sky</span></th>
         </tr> 
         <tr class="title">  
-            <td rowspan="3" class="team_logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/wnba-logo/sky.jpeg" /></td>
+            <td rowspan="2" class="team_logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/wnba-logo/sky.jpeg" /></td>
             <th class="name">姓名</th>
             <th class="status">状态</th>
             <th class="detail">详情</th>
         </tr> 
         <tr>  
-            <td>安东尼.戴维斯</td>
-            <td>出战</td>
-            <td>周一左腹股沟拉伤，周三的G5已缺席，周五的G6将出战</td>
-        </tr> 
-        <tr>  
-            <td>贾里德.杜德利</td>
-            <td>缺席</td>
-            <td>3月14日，右膝内侧副韧带撕裂，归期未定</td>
+            <td>加比.威廉姆斯</td>
+            <td>本赛季休战</td>
+            <td>经协商，球队决定加比.威廉姆斯在本赛季休战</td>
         </tr> 
         <tr class="empty"><td colspan="4"></td></tr>  
 
@@ -78,14 +78,14 @@
             <th class="detail">详情</th>
         </tr> 
         <tr>  
-            <td>安东尼.戴维斯</td>
-            <td>出战</td>
-            <td>周一左腹股沟拉伤，周三的G5已缺席，周五的G6将出战</td>
+            <td>艾丽萨.托马斯<span class="important">重要</span></td>
+            <td>缺席</td>
+            <td>跟腱受伤，不会出战周三对阵达拉斯飞翼的比赛</td>
         </tr> 
         <tr>  
-            <td>贾里德.杜德利</td>
+            <td>琼克尔.琼斯<span class="important">重要</span></td>
             <td>缺席</td>
-            <td>3月14日，右膝内侧副韧带撕裂，归期未定</td>
+            <td>因为个人原因缺席，直到6月29日复出</td>
         </tr> 
         <tr class="empty"><td colspan="4"></td></tr>  
 
@@ -94,20 +94,13 @@
             <th colspan="4" class="team-name wings">[D]达拉斯飞翼<span class="en-name">Dallas Wings</span></th>
         </tr> 
         <tr class="title">  
-            <td rowspan="3" class="team_logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/wnba-logo/wings.jpeg" /></td>
+            <td rowspan="2" class="team_logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/wnba-logo/wings.jpeg" /></td>
             <th class="name">姓名</th>
             <th class="status">状态</th>
             <th class="detail">详情</th>
         </tr> 
         <tr>  
-            <td>安东尼.戴维斯</td>
-            <td>出战</td>
-            <td>周一左腹股沟拉伤，周三的G5已缺席，周五的G6将出战</td>
-        </tr> 
-        <tr>  
-            <td>贾里德.杜德利</td>
-            <td>缺席</td>
-            <td>3月14日，右膝内侧副韧带撕裂，归期未定</td>
+            <td colspan="3" class="none">暂无</td>
         </tr> 
         <tr class="empty"><td colspan="4"></td></tr>  
 
@@ -122,14 +115,14 @@
             <th class="detail">详情</th>
         </tr> 
         <tr>  
-            <td>安东尼.戴维斯<span class="important">重要</span></td>
-            <td>出战</td>
-            <td>周一左腹股沟拉伤，周三的G5已缺席，周五的G6将出战</td>
+            <td>哈塔尔<span class="important">重要</span></td>
+            <td>复出</td>
+            <td>脚趾受伤，伤愈复出</td>
         </tr> 
         <tr>  
-            <td>贾里德.杜德利</td>
-            <td>缺席</td>
-            <td>3月14日，右膝内侧副韧带撕裂，归期未定</td>
+            <td>阿勒曼德</td>
+            <td>赛季报销</td>
+            <td>因为个人原因，本赛季不会再上场</td>
         </tr> 
         <tr class="empty"><td colspan="4"></td></tr>
 
@@ -138,13 +131,20 @@
             <th colspan="4" class="team-name aces">[L]拉斯维加斯王牌<span class="en-name">Las Vegas Aces</span></th>
         </tr> 
         <tr class="title">  
-            <td rowspan="2" class="team_logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/wnba-logo/aces.jpeg" /></td>
+            <td rowspan="3" class="team_logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/wnba-logo/aces.jpeg" /></td>
             <th class="name">姓名</th>
             <th class="status">状态</th>
             <th class="detail">详情</th>
         </tr> 
         <tr>  
-            <td colspan="3" class="none">暂无</td>
+            <td>利亚纳.鲁珀特</td>
+            <td>赛季报销</td>
+            <td>因为个人原因，本赛季不会再上场</td>
+        </tr> 
+        <tr>  
+            <td>麦克康特利</td>
+            <td>赛季报销</td>
+            <td>膝盖手术，本赛季报销</td>
         </tr> 
         <tr class="empty"><td colspan="4"></td></tr>
 
@@ -153,20 +153,40 @@
             <th colspan="4" class="team-name sparks">[L]洛杉矶火花<span class="en-name">Los Angeles Sparks</span></th>
         </tr> 
         <tr class="title">  
-            <td rowspan="3" class="team_logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/wnba-logo/sparks.jpeg" /></td>
+            <td rowspan="7" class="team_logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/wnba-logo/sparks.jpeg" /></td>
             <th class="name">姓名</th>
             <th class="status">状态</th>
             <th class="detail">详情</th>
         </tr> 
         <tr>  
-            <td>安东尼.戴维斯</td>
-            <td>出战</td>
-            <td>周一左腹股沟拉伤，周三的G5已缺席，周五的G6将出战</td>
+            <td>奇妮.欧古米克</td>
+            <td>赛季报销</td>
+            <td>膝盖伤势，赛季报销</td>
         </tr> 
         <tr>  
-            <td>贾里德.杜德利</td>
-            <td>缺席</td>
-            <td>3月14日，右膝内侧副韧带撕裂，归期未定</td>
+            <td>妮姆卡.欧古米克</td>
+            <td>赛季报销</td>
+            <td>膝盖伤势，赛季报销</td>
+        </tr> 
+        <tr>  
+            <td>贾斯敏.沃克</td>
+            <td>赛季报销</td>
+            <td>膝盖伤势，赛季报销</td>
+        </tr> 
+        <tr>  
+            <td>米娅.瓦德伊娃</td>
+            <td>缺席本赛季</td>
+            <td>因为个人原因，无限期休战</td>
+        </tr> 
+        <tr>  
+            <td>妮娜.阿尤索</td>
+            <td>缺席本赛季</td>
+            <td>因为个人原因，本赛季不会再出场比赛</td>
+        </tr> 
+        <tr>  
+            <td>艾云娜·拉卡</td>
+            <td>缺席本赛季</td>
+            <td>因为个人原因，本赛季不会再出场比赛</td>
         </tr> 
         <tr class="empty"><td colspan="4"></td></tr>  
 
@@ -175,20 +195,30 @@
             <th colspan="4" class="team-name lynx">[M]明尼苏达天猫<span class="en-name">Minnesota Lynx</span></th>
         </tr> 
         <tr class="title">  
-            <td rowspan="3" class="team_logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/wnba-logo/lynx.jpeg" /></td>
+            <td rowspan="5" class="team_logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/wnba-logo/lynx.jpeg" /></td>
             <th class="name">姓名</th>
             <th class="status">状态</th>
             <th class="detail">详情</th>
         </tr> 
         <tr>  
-            <td>安东尼.戴维斯</td>
-            <td>出战</td>
-            <td>周一左腹股沟拉伤，周三的G5已缺席，周五的G6将出战</td>
+            <td>杰西卡.谢巴德<span class="important">重要</span></td>
+            <td>复出</td>
+            <td>腹股沟伤势，周六对阵拉斯维加斯王牌将复出</td>
         </tr> 
         <tr>  
-            <td>贾里德.杜德利</td>
+            <td>纳塔利.阿卓娃</td>
             <td>缺席</td>
-            <td>3月14日，右膝内侧副韧带撕裂，归期未定</td>
+            <td>膝盖伤势，本赛季归期不明</td>
+        </tr> 
+        <tr>  
+            <td>艾薇澳.鲍尔斯</td>
+            <td>缺席</td>
+            <td>拇指伤势，本赛季归期不明</td>
+        </tr> 
+        <tr>  
+            <td>伦尼亚.戴维斯</td>
+            <td>赛季报销</td>
+            <td>因为接受足部手术，本赛季报销</td>
         </tr> 
         <tr class="empty"><td colspan="4"></td></tr>  
 
@@ -198,20 +228,35 @@
             <th colspan="4" class="team-name liberty">[N]纽约自由<span class="en-name">New York Liberty</span></th>
         </tr> 
         <tr class="title">  
-            <td rowspan="3" class="team_logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/wnba-logo/liberty.jpeg" /></td>
+            <td rowspan="6" class="team_logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/wnba-logo/liberty.jpeg" /></td>
             <th class="name">姓名</th>
             <th class="status">状态</th>
             <th class="detail">详情</th>
         </tr> 
         <tr>  
-            <td>安东尼.戴维斯</td>
-            <td>出战</td>
-            <td>周一左腹股沟拉伤，周三的G5已缺席，周五的G6将出战</td>
+            <td>凯.斯托克斯</td>
+            <td>缺席</td>
+            <td>因为个人原因，本赛季无限期休战</td>
         </tr> 
         <tr>  
-            <td>贾里德.杜德利</td>
+            <td>娜塔莎.霍华德</td>
             <td>缺席</td>
-            <td>3月14日，右膝内侧副韧带撕裂，归期未定</td>
+            <td>膝关节韧带拉伤，缺阵4-6周</td>
+        </tr> 
+        <tr>  
+            <td>玛丽尼.约翰尼斯</td>
+            <td>缺席</td>
+            <td>因为个人原因，本赛季不会再出场比赛</td>
+        </tr> 
+        <tr>  
+            <td>乔斯林.威洛比</td>
+            <td>赛季报销</td>
+            <td>跟腱伤势，本赛季报销</td>
+        </tr> 
+        <tr>  
+            <td>雅西娅.杜尔</td>
+            <td>赛季报销</td>
+            <td>因为患了某种严重疾病，本赛季报销</td>
         </tr> 
         <tr class="empty"><td colspan="4"></td></tr>  
 
@@ -226,14 +271,14 @@
             <th class="detail">详情</th>
         </tr> 
         <tr>  
-            <td>安东尼.戴维斯</td>
-            <td>出战</td>
-            <td>周一左腹股沟拉伤，周三的G5已缺席，周五的G6将出战</td>
+            <td>戴安娜.陶乐西<span class="important">重要</span></td>
+            <td>复出</td>
+            <td>胸骨骨折，伤愈复出</td>
         </tr> 
         <tr>  
-            <td>贾里德.杜德利</td>
+            <td>布里亚.哈特利</td>
             <td>缺席</td>
-            <td>3月14日，右膝内侧副韧带撕裂，归期未定</td>
+            <td>膝盖伤势，本赛季无限期休战</td>
         </tr> 
         <tr class="empty"><td colspan="4"></td></tr>  
 
@@ -242,20 +287,15 @@
             <th colspan="4" class="team-name storm">[S]西雅图风暴<span class="en-name">Seattle Storm</span></th>
         </tr> 
         <tr class="title">  
-            <td rowspan="3" class="team_logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/wnba-logo/storm.jpeg" /></td>
+            <td rowspan="2" class="team_logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/wnba-logo/storm.jpeg" /></td>
             <th class="name">姓名</th>
             <th class="status">状态</th>
             <th class="detail">详情</th>
         </tr> 
         <tr>  
-            <td>安东尼.戴维斯</td>
-            <td>出战</td>
-            <td>周一左腹股沟拉伤，周三的G5已缺席，周五的G6将出战</td>
-        </tr> 
-        <tr>  
-            <td>贾里德.杜德利</td>
+            <td>米基娅.哈里根</td>
             <td>缺席</td>
-            <td>3月14日，右膝内侧副韧带撕裂，归期未定</td>
+            <td>因为个人原因，本赛季不会再出场比赛</td>
         </tr> 
         <tr class="empty"><td colspan="4"></td></tr>  
 
@@ -264,20 +304,35 @@
             <th colspan="4" class="team-name mystics">[W]华盛顿神秘人<span class="en-name">Washington Mystics</span></th>
         </tr> 
         <tr class="title">  
-            <td rowspan="3" class="team_logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/wnba-logo/mystics.jpeg" /></td>
+            <td rowspan="6" class="team_logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/wnba-logo/mystics.jpeg" /></td>
             <th class="name">姓名</th>
             <th class="status">状态</th>
             <th class="detail">详情</th>
         </tr> 
         <tr>  
-            <td>安东尼.戴维斯</td>
-            <td>出战</td>
-            <td>周一左腹股沟拉伤，周三的G5已缺席，周五的G6将出战</td>
+            <td>海恩斯.艾伦</td>
+            <td>缺席</td>
+            <td>膝盖伤势，周日对阵印第安纳狂热将缺席</td>
         </tr> 
         <tr>  
-            <td>贾里德.杜德利</td>
+            <td>艾丽卡.麦考尔</td>
             <td>缺席</td>
-            <td>3月14日，右膝内侧副韧带撕裂，归期未定</td>
+            <td>膝盖伤势，周日对阵印第安纳狂热将缺席</td>
+        </tr> 
+        <tr>  
+            <td>基艾拉.莱斯利</td>
+            <td>缺席</td>
+            <td>脑震荡原因，周日对阵印第安纳狂热将缺席</td>
+        </tr> 
+        <tr>  
+            <td>蒂娜.查尔斯<span class="important">重要</span></td>
+            <td>出战</td>
+            <td>上一场比赛个人原因缺席，周日对阵印第安纳狂热将出战</td>
+        </tr> 
+        <tr>  
+            <td>戴尔多恩<span class="important">重要</span></td>
+            <td>缺席</td>
+            <td>背部伤势，本赛季无限期休战</td>
         </tr> 
 
     </table>
@@ -411,12 +466,18 @@
     margin-right:50 / @b;
     color:#ffffff;
     font-size:24 / @b;
-    width:120 / @b;
-    font-weight: bold;
-    text-align:center;
+    &.vote-ratio a{
+        width:140 / @b;   
+    }
 }
 .nav li span{
     display: block;
+}
+.nav li a{
+    display: block;
+    width:120 / @b;
+    font-weight: bold;
+    text-align:center;
 }
 .updatetime{
     text-align: left;
@@ -556,6 +617,7 @@ img{
 export default {
   data () {
     return {
+       udpatetime : ''
     }
   },
   components: {
@@ -566,10 +628,11 @@ export default {
   },
   methods: {
     init () {
-    },
-    gotoPage(target){
-        window.location.href = "/injury" + target;
     }
+  },
+  mounted() {
+      const udpatetime = document.getElementById("udpatetime").value;
+      this.udpatetime = udpatetime || "2021-06-22[周二]09:50";
   }
 }
 </script>

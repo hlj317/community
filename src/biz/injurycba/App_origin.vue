@@ -13,14 +13,14 @@
         </div>
         <div class="clear"></div>
         <ul class="nav">
-            <li @click="gotoPage('nba')"><span>NBA</span></li>
-            <li @click="gotoPage('wnba')"><span>WNBA</span></li>
-            <li><span>CBA</span><span class="selected"></span></li>
-            <li><a href="/vote">投注率</a></li>
+            <li><a href="/injurynba">NBA</a></li>
+            <li><a href="/injurywnba">WNBA</a></li>
+            <li><a href="#">CBA</a><span class="selected"></span></li>
+            <li class="vote-ratio"><a href="/vote">NBA投注率</a></li>
         </ul>
     </div>
     <div class="clear"></div>
-    <div class="updatetime">最近更新时间：<strong>2021-06-03[周二]14:05</strong>（每天晚23:00和早8:00更新）</div>
+    <div class="updatetime">最近更新时间：<strong>{{udpatetime}}</strong>（每日不定期更新，敬请关注）</div>
     <table class="list" border="0" cellspacing="1" cellpadding="0">
 
         <!-----B----北京鸭------>
@@ -464,18 +464,33 @@ Z 浙江猛狮    mengshi     #d79700
     padding:0;
 }
 
+.nav{
+    background:#0c859b;
+    width:100%;
+    height:60 / @b;
+    line-height:60 / @b;
+    list-style: none;
+    padding:0;
+}
+
 .nav li{
     float:left;
     margin-left:0;
     margin-right:50 / @b;
     color:#ffffff;
     font-size:24 / @b;
-    width:120 / @b;
-    font-weight: bold;
-    text-align:center;
+    &.vote-ratio a{
+        width:140 / @b;   
+    }
 }
 .nav li span{
     display: block;
+}
+.nav li a{
+    display: block;
+    width:120 / @b;
+    font-weight: bold;
+    text-align:center;
 }
 .updatetime{
     text-align: left;
@@ -615,6 +630,7 @@ img{
 export default {
   data () {
     return {
+       udpatetime : ''
     }
   },
   components: {
@@ -625,10 +641,11 @@ export default {
   },
   methods: {
     init () {
-    },
-    gotoPage(target){
-        window.location.href = "/injury" + target;
     }
+  },
+  mounted() {
+      const udpatetime = document.getElementById("udpatetime").value;
+      this.udpatetime = udpatetime || "2021-06-22[周二]09:50";
   }
 }
 </script>

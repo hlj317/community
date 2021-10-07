@@ -7,7 +7,7 @@
                 <img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/common/portait.png"/>
             </div>
             <div class="portait-text">
-                <div class="text-name">请关注微信公众号：<strong>[篮彩老黑]</strong> → <span class="scan">可扫一扫右侧二维码</span></div>
+                <div class="text-name">请关注微信公众号：<strong>[篮彩老黑]</strong><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/common/arrow.png" /><span class="scan">可扫一扫右侧二维码</span></div>
                 <div class="text-notice">NBA伤病名单实时更新/WNBA伤病名单实时更新/CBA伤病名单实时更新</div>
             </div>
             <div class="portait-qrcode">
@@ -453,6 +453,11 @@ Z 浙江猛狮    mengshi     #d79700
 .text-name{
     font-size:18px;
     color:#666666;
+    img{
+        width:20px;
+        height:21px;
+        margin:5px 10px 0 12px;
+    }
 }
 .scan{
     color:#cc0000;

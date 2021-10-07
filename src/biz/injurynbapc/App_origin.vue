@@ -6,8 +6,8 @@
             <img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/common/portait.png"/>
         </div>
         <div class="portait-text">
-            <div class="text-name">请关注微信公众号：<strong>[篮彩老黑]</strong> → <span class="scan">可扫一扫右侧二维码</span></div>
-            <div class="text-notice">NBA伤病名单实时更新/WNBA伤病名单实时更新/NBA伤病名单实时更新</div>
+            <div class="text-name">请关注微信公众号：<strong>[篮彩老黑]</strong><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/common/arrow.png" /><span class="scan">可扫一扫右侧二维码</span></div>
+            <div class="text-notice">NBA伤病名单实时更新/WNBA伤病名单实时更新/CBA伤病名单实时更新</div>
         </div>
         <div class="portait-qrcode">
             <img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/common/lancai_qrcode.jpg" />
@@ -18,10 +18,10 @@
         <li><a class="selected" href="#">NBA</a></li>
         <li><a href="/injurywnbapc">WNBA</a></li>
         <li><a href="/injurycbapc">CBA</a></li>
-        <li><a href="/votepc">投注率</a></li>
+        <li class="vote-ratio"><a href="/votepc">NBA投注率</a></li>
     </ul>
     <div class="clear"></div>
-    <div class="updatetime">最近更新时间：<strong>2021-06-03[周二]14:05</strong>（每天晚23:00和早8:00更新）</div>
+    <div class="updatetime">最近更新时间：<strong>{{udpatetime}}</strong>（每日不定期更新，敬请关注）</div>
     <table class="list" border="0" cellspacing="1" cellpadding="0">
 
         <!-----A----亚特兰大老鹰------>
@@ -868,6 +868,11 @@
 .text-name{
     font-size:18px;
     color:#666666;
+    img{
+        width:20px;
+        height:21px;
+        margin:5px 10px 0 12px;
+    }
 }
 .scan{
     color:#cc0000;
@@ -898,14 +903,17 @@
     margin-right:30px;
     color:#cccccc;
     font-size:20px;
+    &.vote-ratio a{
+        width: 150px;    
+    }
+}
+.nav li a{
+    display: block;
     font-weight: bold;
     text-align:center;
     cursor: pointer;
     width: 100px;                
     height: 40px;
-}
-.nav li span{
-    display: block;
 }
 .updatetime{
     text-align: left;
@@ -915,8 +923,7 @@
     margin:10px 0 10px 39px;
 }
 
-.selected {
-    width: 100px;                
+.selected {               
     height: 40px;
     color:#ffffff;
     background: #cc0000;
@@ -1032,6 +1039,7 @@ td{
 export default {
   data () {
     return {
+       udpatetime : ''
     }
   },
   components: {
@@ -1042,10 +1050,11 @@ export default {
   },
   methods: {
     init () {
-    },
-    gotoPage(target){
-        window.location.href = "/injury" + target;
     }
+  },
+  mounted() {
+      const udpatetime = document.getElementById("udpatetime").value;
+      this.udpatetime = udpatetime || "2021-06-22[周二]09:50";
   }
 }
 </script>
