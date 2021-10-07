@@ -1038,6 +1038,7 @@ img{
 export default {
   data () {
     return {
+        udpatetime : ''
     }
   },
   components: {
@@ -1052,6 +1053,10 @@ export default {
     gotoPage(target){
         window.location.href = "/injury" + target;
     }
+  },
+  mounted() {
+      const udpatetime = document.getElementById("udpatetime").value;
+      this.udpatetime = udpatetime || "2021-06-22[周二]09:50";
   }
 }
 </script>
