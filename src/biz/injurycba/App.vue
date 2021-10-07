@@ -16,6 +16,7 @@
             <li><a href="/injurynba">NBA</a></li>
             <li><a href="/injurywnba">WNBA</a></li>
             <li><a href="#">CBA</a><span class="selected"></span></li>
+            <li><a href="/vote">投注率</a></li>
         </ul>
     </div>
     <div class="clear"></div>

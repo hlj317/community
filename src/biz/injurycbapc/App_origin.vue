@@ -8,7 +8,7 @@
             </div>
             <div class="portait-text">
                 <div class="text-name">请关注微信公众号：<strong>[篮彩老黑]</strong> → <span class="scan">可扫一扫右侧二维码</span></div>
-                <div class="text-notice">NBA伤病名单实时更新/WNBA伤病名单实时更新/NBA伤病名单实时更新</div>
+                <div class="text-notice">NBA伤病名单实时更新/WNBA伤病名单实时更新/CBA伤病名单实时更新</div>
             </div>
             <div class="portait-qrcode">
                 <img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/common/lancai_qrcode.jpg" />
@@ -16,9 +16,10 @@
         </div>
         <div class="clear"></div>
         <ul class="nav">
-            <li @click="gotoPage('nbapc')"><span>NBA</span></li>
-            <li @click="gotoPage('wnbapc')"><span>WNBA</span></li>
-            <li><span class="selected">CBA</span></li>
+            <li><a href="/injurynbapc">NBA</a></li>
+            <li><a href="/injurywnbapc">WNBA</a></li>
+            <li><a class="selected" href="#">CBA</a></li>
+            <li><a href="/votepc">投注率</a></li>
         </ul>
     </div>
     <div class="clear"></div>

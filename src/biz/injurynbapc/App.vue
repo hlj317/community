@@ -7,7 +7,7 @@
         </div>
         <div class="portait-text">
             <div class="text-name">请关注微信公众号：<strong>[篮彩老黑]</strong> → <span class="scan">可扫一扫右侧二维码</span></div>
-            <div class="text-notice">NBA伤病名单实时更新/WNBA伤病名单实时更新/NBA伤病名单实时更新</div>
+            <div class="text-notice">NBA伤病名单实时更新/WNBA伤病名单实时更新/CBA伤病名单实时更新</div>
         </div>
         <div class="portait-qrcode">
             <img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/common/lancai_qrcode.jpg" />
@@ -18,6 +18,7 @@
         <li><a class="selected" href="#">NBA</a></li>
         <li><a href="/injurywnbapc">WNBA</a></li>
         <li><a href="/injurycbapc">CBA</a></li>
+        <li class="vote-ratio"><a href="/votepc">NBA投注率</a></li>
     </ul>
     <div class="clear"></div>
     <div class="updatetime">最近更新时间：<strong>{{udpatetime}}</strong>（每日不定期更新，敬请关注）</div>
@@ -34,14 +35,250 @@
             <th class="detail">详情</th>
         </tr> 
         <tr>  
-            <td>亨特</td>
-            <td>赛季报销</td>
-            <td>亨特（膝盖）成功接受了修复半月板撕裂的手术，预计将在训练营开始前完全康复</td>
+            <td>安东尼.戴维斯</td>
+            <td>出战</td>
+            <td>周一左腹股沟拉伤，周三的G5已缺席，周五的G6将出战</td>
         </tr> 
         <tr>  
-            <td>古德温</td>
-            <td>赛季报销</td>
-            <td>古德温因呼吸系统疾病需要治疗，而缺席本赛季剩余的比赛</td>
+            <td>贾里德.杜德利</td>
+            <td>缺席</td>
+            <td>3月14日，右膝内侧副韧带撕裂，归期未定</td>
+        </tr> 
+        <tr class="empty"><td colspan="4"></td></tr>  
+
+        <!-----B--波士顿凯尔特人------>
+        <tr>  
+            <th colspan="4" class="team-name celtics">[B]波士顿凯尔特人<span class="en-name">Boston Celtics</span></th>
+        </tr> 
+        <tr class="title">  
+            <td rowspan="3" class="team_logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/nba-logo/celtics.jpeg" /></td>
+            <th class="name">姓名</th>
+            <th class="status">状态</th>
+            <th class="detail">详情</th>
+        </tr> 
+        <tr>  
+            <td>安东尼.戴维斯</td>
+            <td>出战</td>
+            <td>周一左腹股沟拉伤，周三的G5已缺席，周五的G6将出战</td>
+        </tr> 
+        <tr>  
+            <td>贾里德.杜德利</td>
+            <td>缺席</td>
+            <td>3月14日，右膝内侧副韧带撕裂，归期未定</td>
+        </tr> 
+        <tr class="empty"><td colspan="4"></td></tr>  
+
+        <!-----B----布鲁克林篮网------>
+        <tr>  
+            <th colspan="4" class="team-name nets">[B]布鲁克林篮网<span class="en-name">Brooklyn Nets</span></th>
+        </tr> 
+        <tr class="title">  
+            <td rowspan="3" class="team_logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/nba-logo/nets.jpeg" /></td>
+            <th class="name">姓名</th>
+            <th class="status">状态</th>
+            <th class="detail">详情</th>
+        </tr> 
+        <tr>  
+            <td>安东尼.戴维斯</td>
+            <td>出战</td>
+            <td>周一左腹股沟拉伤，周三的G5已缺席，周五的G6将出战</td>
+        </tr> 
+        <tr>  
+            <td>贾里德.杜德利</td>
+            <td>缺席</td>
+            <td>3月14日，右膝内侧副韧带撕裂，归期未定</td>
+        </tr> 
+        <tr class="empty"><td colspan="4"></td></tr>  
+
+        <!-----C----夏洛特黄蜂------>
+        <tr>  
+            <th colspan="4" class="team-name hornets">[C]夏洛特黄蜂<span class="en-name">Charlotte Hornets</span></th>
+        </tr> 
+        <tr class="title">  
+            <td rowspan="3" class="team_logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/nba-logo/hornets.jpeg" /></td>
+            <th class="name">姓名</th>
+            <th class="status">状态</th>
+            <th class="detail">详情</th>
+        </tr> 
+        <tr>  
+            <td>安东尼.戴维斯</td>
+            <td>出战</td>
+            <td>周一左腹股沟拉伤，周三的G5已缺席，周五的G6将出战</td>
+        </tr> 
+        <tr>  
+            <td>贾里德.杜德利</td>
+            <td>缺席</td>
+            <td>3月14日，右膝内侧副韧带撕裂，归期未定</td>
+        </tr> 
+        <tr class="empty"><td colspan="4"></td></tr>  
+
+        <!-----C--芝加哥公牛------>
+        <tr>  
+            <th colspan="4" class="team-name bulls">[C]芝加哥公牛<span class="en-name">Chicago Bulls</span></th>
+        </tr> 
+        <tr class="title">  
+            <td rowspan="3" class="team_logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/nba-logo/bulls.jpeg" /></td>
+            <th class="name">姓名</th>
+            <th class="status">状态</th>
+            <th class="detail">详情</th>
+        </tr> 
+        <tr>  
+            <td>安东尼.戴维斯<span class="important">重要</span></td>
+            <td>出战</td>
+            <td>周一左腹股沟拉伤，周三的G5已缺席，周五的G6将出战</td>
+        </tr> 
+        <tr>  
+            <td>贾里德.杜德利</td>
+            <td>缺席</td>
+            <td>3月14日，右膝内侧副韧带撕裂，归期未定</td>
+        </tr> 
+        <tr class="empty"><td colspan="4"></td></tr>
+
+        <!-----C--克利夫兰骑士------>
+        <tr>  
+            <th colspan="4" class="team-name cavaliers">[C]克利夫兰骑士<span class="en-name">Cleveland Cavaliers</span></th>
+        </tr> 
+        <tr class="title">  
+            <td rowspan="2" class="team_logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/nba-logo/cavaliers.jpeg" /></td>
+            <th class="name">姓名</th>
+            <th class="status">状态</th>
+            <th class="detail">详情</th>
+        </tr> 
+        <tr>  
+            <td colspan="3" class="none">暂无</td>
+        </tr> 
+        <tr class="empty"><td colspan="4"></td></tr>
+
+        <!-----D----达拉斯独行侠------>
+        <tr>  
+            <th colspan="4" class="team-name mavericks">[D]达拉斯独行侠<span class="en-name">Dallas Mavericks</span></th>
+        </tr> 
+        <tr class="title">  
+            <td rowspan="3" class="team_logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/nba-logo/mavericks.jpeg" /></td>
+            <th class="name">姓名</th>
+            <th class="status">状态</th>
+            <th class="detail">详情</th>
+        </tr> 
+        <tr>  
+            <td>安东尼.戴维斯</td>
+            <td>出战</td>
+            <td>周一左腹股沟拉伤，周三的G5已缺席，周五的G6将出战</td>
+        </tr> 
+        <tr>  
+            <td>贾里德.杜德利</td>
+            <td>缺席</td>
+            <td>3月14日，右膝内侧副韧带撕裂，归期未定</td>
+        </tr> 
+        <tr class="empty"><td colspan="4"></td></tr>  
+
+        <!-----D----丹佛掘金------>
+        <tr>  
+            <th colspan="4" class="team-name nuggets">[D]丹佛掘金<span class="en-name">Denver Nuggets</span></th>
+        </tr> 
+        <tr class="title">  
+            <td rowspan="3" class="team_logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/nba-logo/nuggets.jpeg" /></td>
+            <th class="name">姓名</th>
+            <th class="status">状态</th>
+            <th class="detail">详情</th>
+        </tr> 
+        <tr>  
+            <td>安东尼.戴维斯</td>
+            <td>出战</td>
+            <td>周一左腹股沟拉伤，周三的G5已缺席，周五的G6将出战</td>
+        </tr> 
+        <tr>  
+            <td>贾里德.杜德利</td>
+            <td>缺席</td>
+            <td>3月14日，右膝内侧副韧带撕裂，归期未定</td>
+        </tr> 
+        <tr class="empty"><td colspan="4"></td></tr>  
+
+
+        <!-----D----底特律活塞------>
+        <tr>  
+            <th colspan="4" class="team-name pistons">[D]底特律活塞<span class="en-name">Detroit Pistons</span></th>
+        </tr> 
+        <tr class="title">  
+            <td rowspan="3" class="team_logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/nba-logo/pistons.jpeg" /></td>
+            <th class="name">姓名</th>
+            <th class="status">状态</th>
+            <th class="detail">详情</th>
+        </tr> 
+        <tr>  
+            <td>安东尼.戴维斯</td>
+            <td>出战</td>
+            <td>周一左腹股沟拉伤，周三的G5已缺席，周五的G6将出战</td>
+        </tr> 
+        <tr>  
+            <td>贾里德.杜德利</td>
+            <td>缺席</td>
+            <td>3月14日，右膝内侧副韧带撕裂，归期未定</td>
+        </tr> 
+        <tr class="empty"><td colspan="4"></td></tr>  
+
+        <!-----G----金州勇士------>
+        <tr>  
+            <th colspan="4" class="team-name warriors">[G]金州勇士<span class="en-name">Detroit Pistons</span></th>
+        </tr> 
+        <tr class="title">  
+            <td rowspan="3" class="team_logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/nba-logo/warriors.jpeg" /></td>
+            <th class="name">姓名</th>
+            <th class="status">状态</th>
+            <th class="detail">详情</th>
+        </tr> 
+        <tr>  
+            <td>安东尼.戴维斯</td>
+            <td>出战</td>
+            <td>周一左腹股沟拉伤，周三的G5已缺席，周五的G6将出战</td>
+        </tr> 
+        <tr>  
+            <td>贾里德.杜德利</td>
+            <td>缺席</td>
+            <td>3月14日，右膝内侧副韧带撕裂，归期未定</td>
+        </tr> 
+        <tr class="empty"><td colspan="4"></td></tr>  
+
+        <!-----H----休斯顿火箭------>
+        <tr>  
+            <th colspan="4" class="team-name rockets">[H]休斯顿火箭<span class="en-name">Houston Rockets</span></th>
+        </tr> 
+        <tr class="title">  
+            <td rowspan="3" class="team_logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/nba-logo/rockets.jpeg" /></td>
+            <th class="name">姓名</th>
+            <th class="status">状态</th>
+            <th class="detail">详情</th>
+        </tr> 
+        <tr>  
+            <td>安东尼.戴维斯</td>
+            <td>出战</td>
+            <td>周一左腹股沟拉伤，周三的G5已缺席，周五的G6将出战</td>
+        </tr> 
+        <tr>  
+            <td>贾里德.杜德利</td>
+            <td>缺席</td>
+            <td>3月14日，右膝内侧副韧带撕裂，归期未定</td>
+        </tr> 
+        <tr class="empty"><td colspan="4"></td></tr>  
+
+        <!-----I----印第安纳步行者------>
+        <tr>  
+            <th colspan="4" class="team-name pacers">[I]印第安纳步行者<span class="en-name">Indiana Pacers</span></th>
+        </tr> 
+        <tr class="title">  
+            <td rowspan="3" class="team_logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/nba-logo/pacers.jpeg" /></td>
+            <th class="name">姓名</th>
+            <th class="status">状态</th>
+            <th class="detail">详情</th>
+        </tr> 
+        <tr>  
+            <td>安东尼.戴维斯</td>
+            <td>出战</td>
+            <td>周一左腹股沟拉伤，周三的G5已缺席，周五的G6将出战</td>
+        </tr> 
+        <tr>  
+            <td>贾里德.杜德利</td>
+            <td>缺席</td>
+            <td>3月14日，右膝内侧副韧带撕裂，归期未定</td>
         </tr> 
         <tr class="empty"><td colspan="4"></td></tr>  
 
@@ -56,31 +293,236 @@
             <th class="detail">详情</th>
         </tr> 
         <tr>  
-            <td>科怀.伦纳德<span class="important">重要</span></td>
-            <td>缺席</td>
-            <td>膝盖受伤，不会出战周二对阵太阳的比赛，归期未定</td>
+            <td>安东尼.戴维斯</td>
+            <td>出战</td>
+            <td>周一左腹股沟拉伤，周三的G5已缺席，周五的G6将出战</td>
         </tr> 
         <tr>  
-            <td>伊巴卡</td>
-            <td>赛季报销</td>
-            <td>背部接受了手术，将缺席季后赛的剩余比赛</td>
+            <td>贾里德.杜德利</td>
+            <td>缺席</td>
+            <td>3月14日，右膝内侧副韧带撕裂，归期未定</td>
         </tr> 
         <tr class="empty"><td colspan="4"></td></tr> 
+
+        <!-----L----洛杉矶湖人------>
+        <tr>  
+            <th colspan="4" class="team-name lakers">[L]洛杉矶湖人<span class="en-name">Los Angeles Lakers</span></th>
+        </tr> 
+        <tr class="title">  
+            <td rowspan="3" class="team_logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/nba-logo/lakers.jpeg" /></td>
+            <th class="name">姓名</th>
+            <th class="status">状态</th>
+            <th class="detail">详情</th>
+        </tr> 
+        <tr>  
+            <td>安东尼.戴维斯</td>
+            <td>出战</td>
+            <td>周一左腹股沟拉伤，周三的G5已缺席，周五的G6将出战</td>
+        </tr> 
+        <tr>  
+            <td>贾里德.杜德利</td>
+            <td>缺席</td>
+            <td>3月14日，右膝内侧副韧带撕裂，归期未定</td>
+        </tr> 
+        <tr class="empty"><td colspan="4"></td></tr>  
+
+        <!-----M----孟菲斯灰熊------>
+        <tr>  
+            <th colspan="4" class="team-name grizzlies">[M]孟菲斯灰熊<span class="en-name">Memphis Grizzlies</span></th>
+        </tr> 
+        <tr class="title">  
+            <td rowspan="3" class="team_logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/nba-logo/grizzlies.jpeg" /></td>
+            <th class="name">姓名</th>
+            <th class="status">状态</th>
+            <th class="detail">详情</th>
+        </tr> 
+        <tr>  
+            <td>安东尼.戴维斯</td>
+            <td>出战</td>
+            <td>周一左腹股沟拉伤，周三的G5已缺席，周五的G6将出战</td>
+        </tr> 
+        <tr>  
+            <td>贾里德.杜德利</td>
+            <td>缺席</td>
+            <td>3月14日，右膝内侧副韧带撕裂，归期未定</td>
+        </tr> 
+        <tr class="empty"><td colspan="4"></td></tr>  
+
+        <!-----M----迈阿密热火------>
+        <tr>  
+            <th colspan="4" class="team-name heat">[M]迈阿密热火<span class="en-name">Miami Heat</span></th>
+        </tr> 
+        <tr class="title">  
+            <td rowspan="3" class="team_logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/nba-logo/heat.jpeg" /></td>
+            <th class="name">姓名</th>
+            <th class="status">状态</th>
+            <th class="detail">详情</th>
+        </tr> 
+        <tr>  
+            <td>安东尼.戴维斯</td>
+            <td>出战</td>
+            <td>周一左腹股沟拉伤，周三的G5已缺席，周五的G6将出战</td>
+        </tr> 
+        <tr>  
+            <td>贾里德.杜德利</td>
+            <td>缺席</td>
+            <td>3月14日，右膝内侧副韧带撕裂，归期未定</td>
+        </tr> 
+        <tr class="empty"><td colspan="4"></td></tr>  
+
+
+        <!-----M----明尼苏达森林狼------>
+        <tr>  
+            <th colspan="4" class="team-name timberwolves">[M]明尼苏达森林狼<span class="en-name">Minnesota Timberwolves</span></th>
+        </tr> 
+        <tr class="title">  
+            <td rowspan="3" class="team_logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/nba-logo/timberwolves.jpeg" /></td>
+            <th class="name">姓名</th>
+            <th class="status">状态</th>
+            <th class="detail">详情</th>
+        </tr> 
+        <tr>  
+            <td>安东尼.戴维斯</td>
+            <td>出战</td>
+            <td>周一左腹股沟拉伤，周三的G5已缺席，周五的G6将出战</td>
+        </tr> 
+        <tr>  
+            <td>贾里德.杜德利</td>
+            <td>缺席</td>
+            <td>3月14日，右膝内侧副韧带撕裂，归期未定</td>
+        </tr> 
+        <tr class="empty"><td colspan="4"></td></tr>  
+
 
         <!-----M--密尔沃基雄鹿------>
         <tr>  
             <th colspan="4" class="team-name bucks">[M]密尔沃基雄鹿<span class="en-name">Milwaukee Bucks</span></th>
         </tr> 
         <tr class="title">  
-            <td rowspan="2" class="team_logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/nba-logo/bucks.jpeg" /></td>
+            <td rowspan="3" class="team_logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/nba-logo/bucks.jpeg" /></td>
             <th class="name">姓名</th>
             <th class="status">状态</th>
             <th class="detail">详情</th>
         </tr> 
         <tr>  
-            <td>迪温琴佐</td>
-            <td>赛季报销</td>
-            <td>周二脚踝接受了成功的手术，修复左脚踝撕裂的韧带</td>
+            <td>安东尼.戴维斯</td>
+            <td>出战</td>
+            <td>周一左腹股沟拉伤，周三的G5已缺席，周五的G6将出战</td>
+        </tr> 
+        <tr>  
+            <td>贾里德.杜德利</td>
+            <td>缺席</td>
+            <td>3月14日，右膝内侧副韧带撕裂，归期未定</td>
+        </tr> 
+        <tr class="empty"><td colspan="4"></td></tr>
+
+        <!-----N----新奥尔良鹈鹕------>
+        <tr>  
+            <th colspan="4" class="team-name pelicans">[N]新奥尔良鹈鹕<span class="en-name">New Orleans Pelicans</span></th>
+        </tr> 
+        <tr class="title">  
+            <td rowspan="3" class="team_logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/nba-logo/pelicans.jpeg" /></td>
+            <th class="name">姓名</th>
+            <th class="status">状态</th>
+            <th class="detail">详情</th>
+        </tr> 
+        <tr>  
+            <td>安东尼.戴维斯</td>
+            <td>出战</td>
+            <td>周一左腹股沟拉伤，周三的G5已缺席，周五的G6将出战</td>
+        </tr> 
+        <tr>  
+            <td>贾里德.杜德利</td>
+            <td>缺席</td>
+            <td>3月14日，右膝内侧副韧带撕裂，归期未定</td>
+        </tr> 
+        <tr class="empty"><td colspan="4"></td></tr>  
+
+        <!-----N----纽约尼克斯------>
+        <tr>  
+            <th colspan="4" class="team-name knicks">[N]纽约尼克斯<span class="en-name">New York Knicks</span></th>
+        </tr> 
+        <tr class="title">  
+            <td rowspan="3" class="team_logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/nba-logo/knicks.jpeg" /></td>
+            <th class="name">姓名</th>
+            <th class="status">状态</th>
+            <th class="detail">详情</th>
+        </tr> 
+        <tr>  
+            <td>安东尼.戴维斯</td>
+            <td>出战</td>
+            <td>周一左腹股沟拉伤，周三的G5已缺席，周五的G6将出战</td>
+        </tr> 
+        <tr>  
+            <td>贾里德.杜德利</td>
+            <td>缺席</td>
+            <td>3月14日，右膝内侧副韧带撕裂，归期未定</td>
+        </tr> 
+        <tr class="empty"><td colspan="4"></td></tr>  
+
+        <!-----O----俄克拉荷马城雷霆------>
+        <tr>  
+            <th colspan="4" class="team-name thunder">[O]俄克拉荷马城雷霆<span class="en-name">Oklahoma City Thunder</span></th>
+        </tr> 
+        <tr class="title">  
+            <td rowspan="3" class="team_logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/nba-logo/thunder.jpeg" /></td>
+            <th class="name">姓名</th>
+            <th class="status">状态</th>
+            <th class="detail">详情</th>
+        </tr> 
+        <tr>  
+            <td>安东尼.戴维斯</td>
+            <td>出战</td>
+            <td>周一左腹股沟拉伤，周三的G5已缺席，周五的G6将出战</td>
+        </tr> 
+        <tr>  
+            <td>贾里德.杜德利</td>
+            <td>缺席</td>
+            <td>3月14日，右膝内侧副韧带撕裂，归期未定</td>
+        </tr> 
+        <tr class="empty"><td colspan="4"></td></tr>  
+
+        <!-----O----奥兰多魔术------>
+        <tr>  
+            <th colspan="4" class="team-name magic">[O]奥兰多魔术<span class="en-name">Orlando Magic</span></th>
+        </tr> 
+        <tr class="title">  
+            <td rowspan="3" class="team_logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/nba-logo/magic.jpeg" /></td>
+            <th class="name">姓名</th>
+            <th class="status">状态</th>
+            <th class="detail">详情</th>
+        </tr> 
+        <tr>  
+            <td>安东尼.戴维斯</td>
+            <td>出战</td>
+            <td>周一左腹股沟拉伤，周三的G5已缺席，周五的G6将出战</td>
+        </tr> 
+        <tr>  
+            <td>贾里德.杜德利</td>
+            <td>缺席</td>
+            <td>3月14日，右膝内侧副韧带撕裂，归期未定</td>
+        </tr> 
+        <tr class="empty"><td colspan="4"></td></tr>  
+
+        <!-----P--费城76人------>
+        <tr>  
+            <th colspan="4" class="team-name seven6ers">[P]费城76人<span class="en-name">Philadelphia 76ers</span></th>
+        </tr> 
+        <tr class="title">  
+            <td rowspan="3" class="team_logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/nba-logo/76ers.jpeg" /></td>
+            <th class="name">姓名</th>
+            <th class="status">状态</th>
+            <th class="detail">详情</th>
+        </tr> 
+        <tr>  
+            <td>安东尼.戴维斯</td>
+            <td>出战</td>
+            <td>周一左腹股沟拉伤，周三的G5已缺席，周五的G6将出战</td>
+        </tr> 
+        <tr>  
+            <td>贾里德.杜德利</td>
+            <td>缺席</td>
+            <td>3月14日，右膝内侧副韧带撕裂，归期未定</td>
         </tr> 
         <tr class="empty"><td colspan="4"></td></tr>
 
@@ -89,15 +531,154 @@
             <th colspan="4" class="team-name suns">[P]菲尼克斯太阳<span class="en-name">Phoenix Suns</span></th>
         </tr> 
         <tr class="title">  
-            <td rowspan="2" class="team_logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/nba-logo/suns.jpeg" /></td>
+            <td rowspan="3" class="team_logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/nba-logo/suns.jpeg" /></td>
             <th class="name">姓名</th>
             <th class="status">状态</th>
             <th class="detail">详情</th>
         </tr> 
         <tr>  
-            <td>纳迪尔</td>
-            <td>赛季报销</td>
-            <td>膝盖受伤，缺席季后赛余下比赛</td>
+            <td>安东尼.戴维斯</td>
+            <td>出战</td>
+            <td>周一左腹股沟拉伤，周三的G5已缺席，周五的G6将出战</td>
+        </tr> 
+        <tr>  
+            <td>贾里德.杜德利</td>
+            <td>缺席</td>
+            <td>3月14日，右膝内侧副韧带撕裂，归期未定</td>
+        </tr> 
+        <tr class="empty"><td colspan="4"></td></tr>  
+
+        <!-----P--波特兰开拓者------>
+        <tr>  
+            <th colspan="4" class="team-name blazers">[P]波特兰开拓者<span class="en-name">Portland Trail Blazers</span></th>
+        </tr> 
+        <tr class="title">  
+            <td rowspan="3" class="team_logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/nba-logo/blazers.jpeg" /></td>
+            <th class="name">姓名</th>
+            <th class="status">状态</th>
+            <th class="detail">详情</th>
+        </tr> 
+        <tr>  
+            <td>安东尼.戴维斯</td>
+            <td>出战</td>
+            <td>周一左腹股沟拉伤，周三的G5已缺席，周五的G6将出战</td>
+        </tr> 
+        <tr>  
+            <td>贾里德.杜德利</td>
+            <td>缺席</td>
+            <td>3月14日，右膝内侧副韧带撕裂，归期未定</td>
+        </tr> 
+        <tr class="empty"><td colspan="4"></td></tr>   
+
+        <!-----S----萨克拉门托国王------>
+        <tr>  
+            <th colspan="4" class="team-name kings">[S]萨克拉门托国王<span class="en-name">Sacramento Kings</span></th>
+        </tr> 
+        <tr class="title">  
+            <td rowspan="3" class="team_logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/nba-logo/kings.jpeg" /></td>
+            <th class="name">姓名</th>
+            <th class="status">状态</th>
+            <th class="detail">详情</th>
+        </tr> 
+        <tr>  
+            <td>安东尼.戴维斯</td>
+            <td>出战</td>
+            <td>周一左腹股沟拉伤，周三的G5已缺席，周五的G6将出战</td>
+        </tr> 
+        <tr>  
+            <td>贾里德.杜德利</td>
+            <td>缺席</td>
+            <td>3月14日，右膝内侧副韧带撕裂，归期未定</td>
+        </tr> 
+        <tr class="empty"><td colspan="4"></td></tr>  
+
+
+        <!-----S----圣安东尼奥马刺------>
+        <tr>  
+            <th colspan="4" class="team-name spurs">[S]圣安东尼奥马刺<span class="en-name">San Antonio Spurs</span></th>
+        </tr> 
+        <tr class="title">  
+            <td rowspan="3" class="team_logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/nba-logo/spurs.jpeg" /></td>
+            <th class="name">姓名</th>
+            <th class="status">状态</th>
+            <th class="detail">详情</th>
+        </tr> 
+        <tr>  
+            <td>安东尼.戴维斯</td>
+            <td>出战</td>
+            <td>周一左腹股沟拉伤，周三的G5已缺席，周五的G6将出战</td>
+        </tr> 
+        <tr>  
+            <td>贾里德.杜德利</td>
+            <td>缺席</td>
+            <td>3月14日，右膝内侧副韧带撕裂，归期未定</td>
+        </tr> 
+        <tr class="empty"><td colspan="4"></td></tr>  
+
+
+        <!-----T----多伦多猛龙------>
+        <tr>  
+            <th colspan="4" class="team-name raptors">[T]多伦多猛龙<span class="en-name">Toronto Raptors</span></th>
+        </tr> 
+        <tr class="title">  
+            <td rowspan="3" class="team_logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/nba-logo/raptors.jpeg" /></td>
+            <th class="name">姓名</th>
+            <th class="status">状态</th>
+            <th class="detail">详情</th>
+        </tr> 
+        <tr>  
+            <td>安东尼.戴维斯</td>
+            <td>出战</td>
+            <td>周一左腹股沟拉伤，周三的G5已缺席，周五的G6将出战</td>
+        </tr> 
+        <tr>  
+            <td>贾里德.杜德利</td>
+            <td>缺席</td>
+            <td>3月14日，右膝内侧副韧带撕裂，归期未定</td>
+        </tr> 
+        <tr class="empty"><td colspan="4"></td></tr>  
+
+        <!-----U----犹他爵士------>
+        <tr>  
+            <th colspan="4" class="team-name jazz">[U]犹他爵士<span class="en-name">Utah Jazz</span></th>
+        </tr> 
+        <tr class="title">  
+            <td rowspan="3" class="team_logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/nba-logo/jazz.jpeg" /></td>
+            <th class="name">姓名</th>
+            <th class="status">状态</th>
+            <th class="detail">详情</th>
+        </tr> 
+        <tr>  
+            <td>安东尼.戴维斯</td>
+            <td>出战</td>
+            <td>周一左腹股沟拉伤，周三的G5已缺席，周五的G6将出战</td>
+        </tr> 
+        <tr>  
+            <td>贾里德.杜德利</td>
+            <td>缺席</td>
+            <td>3月14日，右膝内侧副韧带撕裂，归期未定</td>
+        </tr> 
+        <tr class="empty"><td colspan="4"></td></tr>  
+
+        <!-----W----华盛顿奇才------>
+        <tr>  
+            <th colspan="4" class="team-name wizards">[W]华盛顿奇才<span class="en-name">Washington Wizards</span></th>
+        </tr> 
+        <tr class="title">  
+            <td rowspan="3" class="team_logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/nba-logo/wizards.jpeg" /></td>
+            <th class="name">姓名</th>
+            <th class="status">状态</th>
+            <th class="detail">详情</th>
+        </tr> 
+        <tr>  
+            <td>安东尼.戴维斯</td>
+            <td>出战</td>
+            <td>周一左腹股沟拉伤，周三的G5已缺席，周五的G6将出战</td>
+        </tr> 
+        <tr>  
+            <td>贾里德.杜德利</td>
+            <td>缺席</td>
+            <td>3月14日，右膝内侧副韧带撕裂，归期未定</td>
         </tr> 
 
     </table>
@@ -317,6 +898,9 @@
     margin-right:30px;
     color:#cccccc;
     font-size:20px;
+    &.vote-ratio a{
+        width: 150px;    
+    }
 }
 .nav li a{
     display: block;
@@ -334,8 +918,7 @@
     margin:10px 0 10px 39px;
 }
 
-.selected {
-    width: 100px;                
+.selected {               
     height: 40px;
     color:#ffffff;
     background: #cc0000;

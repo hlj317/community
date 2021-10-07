@@ -8,14 +8,15 @@
             </div>
             <div class="portait-text">
                 <div class="text-name">请关注微信公众号：<strong>[篮彩老黑]</strong></div>
-                <div class="text-notice">NBA伤病名单实时更新/WNBA伤病名单实时更新/NBA伤病名单实时更新</div>
+                <div class="text-notice">NBA伤病名单实时更新/WNBA伤病名单实时更新/CBA伤病名单实时更新</div>
             </div>
         </div>
         <div class="clear"></div>
         <ul class="nav">
-            <li><span>NBA</span><span class="selected"></span></li>
-            <li @click="gotoPage('wnba')"><span>WNBA</span></li>
-            <li @click="gotoPage('cba')"><span>CBA</span></li>
+            <li><a href="#">NBA</a><span class="selected"></span></li>
+            <li><a href="injurywnba">WNBA</a></li>
+            <li><a href="/injurycba">CBA</a></li>
+            <li><a href="/vote">投注率</a></li>
         </ul>
     </div>
     <div class="clear"></div>

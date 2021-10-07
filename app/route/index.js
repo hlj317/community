@@ -12,6 +12,8 @@ module.exports = {
     "/injurynbapc": community.injuryNBAPC,
     "/injurywnbapc": community.injuryWNBAPC,
     "/injurycbapc": community.injuryCBAPC,
+    "/vote": community.vote,
+    "/votepc": community.votePC,
     "/pc/home": pc.home,
     "/movie/index": movie.index,
     "/movie/login": movie.login,

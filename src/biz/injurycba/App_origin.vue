@@ -16,6 +16,7 @@
             <li @click="gotoPage('nba')"><span>NBA</span></li>
             <li @click="gotoPage('wnba')"><span>WNBA</span></li>
             <li><span>CBA</span><span class="selected"></span></li>
+            <li><a href="/vote">投注率</a></li>
         </ul>
     </div>
     <div class="clear"></div>

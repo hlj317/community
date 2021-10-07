@@ -43,6 +43,32 @@ const injuryNBA = async function (ctx, next) {
     return next();
 };
 
+const vote = async function (ctx, next) {
+    const ua = ctx.request.header['user-agent'];
+    if(!isMobile(ua)){
+        ctx.redirect('/votepc');
+    };
+    await ctx.render("community/vote", {
+        title: "NBA篮彩投注率实时更新 - 篮彩老黑",
+        keywords: "NBA篮彩投注率实时更新 - 篮彩老黑",
+        description: "NBA篮彩投注率实时更新 - 篮彩老黑"
+    });
+    return next();
+};
+
+const votePC = async function (ctx, next) {
+    const ua = ctx.request.header['user-agent'];
+    if(isMobile(ua)){
+        ctx.redirect('/vote');
+    };
+    await ctx.render("community/votepc", {
+        title: "NBA篮彩投注率实时更新 - 篮彩老黑",
+        keywords: "NBA篮彩投注率实时更新 - 篮彩老黑",
+        description: "NBA篮彩投注率实时更新 - 篮彩老黑"
+    });
+    return next();
+};
+
 const injuryWNBA = async function (ctx, next) {
     const ua = ctx.request.header['user-agent'];
     if(!isMobile(ua)){
@@ -137,5 +163,7 @@ module.exports = {
     injuryCBA,
     injuryNBAPC,
     injuryWNBAPC,
-    injuryCBAPC
+    injuryCBAPC,
+    vote,
+    votePC
 };
