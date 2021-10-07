@@ -16,7 +16,7 @@
             <li><a href="/injurynba">NBA</a></li>
             <li><a href="/injurywnba">WNBA</a></li>
             <li><a href="#">CBA</a><span class="selected"></span></li>
-            <li><a href="/vote">投注率</a></li>
+            <li class="vote-ratio"><a href="/vote">NBA投注率</a></li>
         </ul>
     </div>
     <div class="clear"></div>
@@ -479,6 +479,9 @@ Z 浙江猛狮    mengshi     #d79700
     margin-right:50 / @b;
     color:#ffffff;
     font-size:24 / @b;
+    &.vote-ratio a{
+        width:140 / @b;   
+    }
 }
 .nav li span{
     display: block;
