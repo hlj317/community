@@ -67,7 +67,7 @@
             <th colspan="4" class="team-name mercury">[P]凤凰城水银<span class="en-name">Phoenix Mercury</span></th>
         </tr> 
         <tr class="title">  
-            <td rowspan="2" class="team_logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/wnba-logo/mercury.jpeg" /></td>
+            <td rowspan="3" class="team_logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/wnba-logo/mercury.jpeg" /></td>
             <th class="name">姓名</th>
             <th class="status">状态</th>
             <th class="detail">详情</th>
@@ -76,6 +76,11 @@
             <td>索菲.坎宁安</td>
             <td>出战存疑</td>
             <td>脚踝受伤</td>
+        </tr> 
+         <tr>  
+            <td>吉亚.内斯<span class="important">重要</span></td>
+            <td>出战存疑</td>
+            <td>腿部受伤</td>
         </tr> 
 
     </table>

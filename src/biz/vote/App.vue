@@ -36,12 +36,12 @@
         <tr>  
             <td class="verse-logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/nba-logo/grizzlies.jpeg" /><span class="verse-name">孟菲斯灰熊</span></td>
             <td class="verse-trend"><span class="verse-left">+1.0</span><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/common/arrow.png" /><span class="verse-right">+1.0</span></td>
-            <td class="verse-ratio">0%<span class="verse-wrapper"><span class="verse-inner" v-bind:style="{ width: calWidth(0) + 'px' }"></span></span></td>
+            <td class="verse-ratio">暂无<span class="verse-wrapper"><span class="verse-inner" v-bind:style="{ width: calWidth(0) + 'px' }"></span></span></td>
         </tr> 
         <tr>  
             <td class="verse-logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/nba-logo/hornets.jpeg" /><span class="verse-name">夏洛特黄蜂[主]</span></td>
             <td class="verse-trend"><span class="verse-left">-1.0</span><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/common/arrow.png" /><span class="verse-right">-1.0</span></td>
-            <td class="verse-ratio">0%<span class="verse-wrapper"><span class="verse-inner" v-bind:style="{ width: calWidth(0) + 'px' }"></span></span></td>
+            <td class="verse-ratio">暂无<span class="verse-wrapper"><span class="verse-inner" v-bind:style="{ width: calWidth(0) + 'px' }"></span></span></td>
         </tr> 
         <tr class="empty"><td colspan="4"></td></tr> 
 
@@ -51,13 +51,13 @@
         </tr> 
         <tr>  
             <td class="verse-logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/nba-logo/raptors.jpeg" /><span class="verse-name">多伦多猛龙</span></td>
-            <td class="verse-trend"><span class="verse-left">+6.0</span><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/common/arrow.png" /><span class="verse-right">+6.0</span></td>
-            <td class="verse-ratio">0%<span class="verse-wrapper"><span class="verse-inner" v-bind:style="{ width: calWidth(0) + 'px' }"></span></span></td>
+            <td class="verse-trend"><span class="verse-left">+6.0</span><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/common/arrow.png" /><span class="verse-right">+5.5</span></td>
+            <td class="verse-ratio">暂无<span class="verse-wrapper"><span class="verse-inner" v-bind:style="{ width: calWidth(0) + 'px' }"></span></span></td>
         </tr> 
         <tr>  
             <td class="verse-logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/nba-logo/76ers.jpeg" /><span class="verse-name">费城76人[主]</span></td>
-            <td class="verse-trend"><span class="verse-left">-6.0</span><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/common/arrow.png" /><span class="verse-right">-6.0</span></td>
-            <td class="verse-ratio">0%<span class="verse-wrapper"><span class="verse-inner" v-bind:style="{ width: calWidth(0) + 'px' }"></span></span></td>
+            <td class="verse-trend"><span class="verse-left">-6.0</span><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/common/arrow.png" /><span class="verse-right">-5.5</span></td>
+            <td class="verse-ratio">暂无<span class="verse-wrapper"><span class="verse-inner" v-bind:style="{ width: calWidth(0) + 'px' }"></span></span></td>
         </tr> 
         <tr class="empty"><td colspan="4"></td></tr> 
 
@@ -66,13 +66,13 @@
         </tr> 
         <tr>  
             <td class="verse-logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/nba-logo/heat.jpeg" /><span class="verse-name">迈阿密热火</span></td>
-            <td class="verse-trend"><span class="verse-left">-6.0</span><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/common/arrow.png" /><span class="verse-right">-6.0</span></td>
-            <td class="verse-ratio">0%<span class="verse-wrapper"><span class="verse-inner" v-bind:style="{ width: calWidth(0) + 'px' }"></span></span></td>
+            <td class="verse-trend"><span class="verse-left">-6.0</span><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/common/arrow.png" /><span class="verse-right">-5.5</span></td>
+            <td class="verse-ratio">暂无<span class="verse-wrapper"><span class="verse-inner" v-bind:style="{ width: calWidth(0) + 'px' }"></span></span></td>
         </tr> 
         <tr>  
             <td class="verse-logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/nba-logo/rockets.jpeg" /><span class="verse-name">休斯顿火箭[主]</span></td>
-            <td class="verse-trend"><span class="verse-left">+6.0</span><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/common/arrow.png" /><span class="verse-right">+6.0</span></td>
-            <td class="verse-ratio">0%<span class="verse-wrapper"><span class="verse-inner" v-bind:style="{ width: calWidth(0) + 'px' }"></span></span></td>
+            <td class="verse-trend"><span class="verse-left">+6.0</span><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/common/arrow.png" /><span class="verse-right">+5.5</span></td>
+            <td class="verse-ratio">暂无<span class="verse-wrapper"><span class="verse-inner" v-bind:style="{ width: calWidth(0) + 'px' }"></span></span></td>
         </tr> 
 
     </table>
