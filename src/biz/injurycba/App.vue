@@ -530,7 +530,7 @@ Z 浙江猛狮    mengshi     #d79700
     width:100%;
     font-size:24 / @b;
     margin-top:5 / @b;
-    border: 1 / @b solid #333333;
+    border: 1 / @b solid #666666;
     border-spacing: 0;/*去掉单元格间隙*/
 }
 .team_logo{
@@ -561,7 +561,7 @@ Z 浙江猛狮    mengshi     #d79700
     line-height:10 / @b;
 }
 th{
-    border: 1 / @b solid #333333;
+    border: 1 / @b solid #666666;
     background: #a2cafd;
     font-weight: bold;
     padding:8 / @b 0 8 / @b 8 / @b;
@@ -569,7 +569,7 @@ th{
     color:#ffffff;
 }
 td{
-    border: 1 / @b solid #333333;
+    border: 1 / @b solid #666666;
     padding:8 / @b 4 / @b 8 / @b 8 / @b;
     vertical-align: middle;
 }
