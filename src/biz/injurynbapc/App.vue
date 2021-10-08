@@ -82,6 +82,11 @@
             <th class="detail">详情</th>
         </tr> 
         <tr>  
+            <td>杰伦.布朗<span class="important">重要</span></td>
+            <td>缺阵</td>
+            <td>感染新冠，暂时无法出场比赛</td>
+        </tr> 
+        <tr>  
             <td>朱万.摩根</td>
             <td>缺阵</td>
             <td>不会出战周二对魔术的比赛</td>
@@ -93,15 +98,20 @@
             <th colspan="4" class="team-name nets">[B]布鲁克林篮网<span class="en-name">Brooklyn Nets</span></th>
         </tr> 
         <tr class="title">  
-            <td rowspan="9" class="team_logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/nba-logo/nets.jpeg" /></td>
+            <td rowspan="10" class="team_logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/nba-logo/nets.jpeg" /></td>
             <th class="name">姓名</th>
             <th class="status">状态</th>
             <th class="detail">详情</th>
         </tr> 
         <tr>  
             <td>凯里.欧文<span class="important">重要</span></td>
-            <td>归期未定</td>
-            <td>由于未达疫苗，不确定何时可以回归球队</td>
+            <td>缺阵</td>
+            <td>由于未打疫苗，不确定何时可以回归球队</td>
+        </tr> 
+        <tr>  
+            <td>米尔萨普</td>
+            <td>缺阵</td>
+            <td>因为防疫政策，无法出战周六对阵雄鹿的比赛</td>
         </tr> 
         <tr>  
             <td>埃德蒙.萨姆纳</td>
@@ -110,33 +120,33 @@
         </tr> 
         <tr>  
             <td>帕蒂.米尔斯</td>
-            <td>出战存疑</td>
-            <td>出战存疑，明日比赛出场待定</td>
+            <td>出战</td>
+            <td>出战周六对阵雄鹿的比赛</td>
         </tr> 
         <tr>  
             <td>詹姆斯.约翰逊</td>
-            <td>出战存疑</td>
-            <td>出战存疑，明日比赛出场待定</td>
+            <td>出战</td>
+            <td>出战周六对阵雄鹿的比赛</td>
         </tr> 
         <tr>  
             <td>乔.哈里斯</td>
-            <td>出战存疑</td>
-            <td>出战存疑，明日比赛出场待定</td>
+            <td>出战</td>
+            <td>出战周六对阵雄鹿的比赛</td>
         </tr> 
         <tr>  
             <td>詹姆斯.哈登<span class="important">重要</span></td>
-            <td>出战存疑</td>
-            <td>出战存疑，明日比赛出场待定</td>
+            <td>出战</td>
+            <td>出战周六对阵雄鹿的比赛</td>
         </tr> 
         <tr>  
             <td>布雷克.格里芬</td>
-            <td>出战存疑</td>
-            <td>出战存疑，明日比赛出场待定</td>
+            <td>出战</td>
+            <td>出战周六对阵雄鹿的比赛</td>
         </tr> 
         <tr>  
             <td>凯文.杜兰特<span class="important">重要</span></td>
-            <td>出战存疑</td>
-            <td>出战存疑，明日比赛出场待定</td>
+            <td>出战</td>
+            <td>出战周六对阵雄鹿的比赛</td>
         </tr> 
         <tr class="empty"><td colspan="4"></td></tr>  
 
@@ -513,10 +523,25 @@
             <th colspan="4" class="team-name grizzlies">[M]孟菲斯灰熊<span class="en-name">Memphis Grizzlies</span></th>
         </tr> 
         <tr class="title">  
-            <td rowspan="6" class="team_logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/nba-logo/grizzlies.jpeg" /></td>
+            <td rowspan="9" class="team_logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/nba-logo/grizzlies.jpeg" /></td>
             <th class="name">姓名</th>
             <th class="status">状态</th>
             <th class="detail">详情</th>
+        </tr> 
+        <tr>  
+            <td>莫兰特<span class="important">重要</span></td>
+            <td>缺阵</td>
+            <td>身体不适，无法出战</td>
+        </tr> 
+        <tr>  
+            <td>杰伦.杰克逊JR</td>
+            <td>缺阵</td>
+            <td>身体不适，无法出战</td>
+        </tr> 
+        <tr>  
+            <td>亚当斯</td>
+            <td>缺阵</td>
+            <td>身体不适，无法出战</td>
         </tr> 
         <tr>  
             <td>基利安.迪力</td>
@@ -550,10 +575,30 @@
             <th colspan="4" class="team-name heat">[M]迈阿密热火<span class="en-name">Miami Heat</span></th>
         </tr> 
         <tr class="title">  
-            <td rowspan="6" class="team_logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/nba-logo/heat.jpeg" /></td>
+            <td rowspan="10" class="team_logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/nba-logo/heat.jpeg" /></td>
             <th class="name">姓名</th>
             <th class="status">状态</th>
             <th class="detail">详情</th>
+        </tr> 
+        <tr>  
+            <td>洛瑞<span class="important">重要</span></td>
+            <td>缺阵</td>
+            <td>身体不适，无法出战</td>
+        </tr> 
+        <tr>  
+            <td>吉米.巴特勒<span class="important">重要</span></td>
+            <td>缺阵</td>
+            <td>身体不适，无法出战</td>
+        </tr> 
+        <tr>  
+            <td>PJ.塔克</td>
+            <td>缺阵</td>
+            <td>身体不适，无法出战</td>
+        </tr> 
+        <tr>  
+            <td>阿德巴约<span class="important">重要</span></td>
+            <td>缺阵</td>
+            <td>身体不适，无法出战</td>
         </tr> 
         <tr>  
             <td>马库斯.加勒特</td>
@@ -623,8 +668,8 @@
         </tr> 
         <tr>  
             <td>朱.霍乐迪<span class="important">重要</span></td>
-            <td>出战存疑</td>
-            <td>左膝受伤，出战存疑</td>
+            <td>缺阵</td>
+            <td>腿部受伤，无法出战</td>
         </tr> 
         <tr>  
             <td>赛米.奥杰莱伊</td>
@@ -675,18 +720,18 @@
         </tr> 
         <tr>  
             <td>英格拉姆<span class="important">重要</span></td>
-            <td>出战存疑</td>
-            <td>腿部受伤，出战存疑</td>
+            <td>缺阵</td>
+            <td>腿部受伤，无法出战</td>
         </tr> 
         <tr>  
             <td>贾克森.海耶斯</td>
             <td>缺阵</td>
-            <td>周一左腹股沟拉伤，周三的G5已缺席，周五的G6将出战</td>
+            <td>腿部受伤，无法出战</td>
         </tr> 
         <tr>  
             <td>锡安.威廉姆森<span class="important">重要</span></td>
             <td>缺阵</td>
-            <td>腿部受伤，无法出战周四对阵魔术的比赛</td>
+            <td>腿部受伤，无法出战</td>
         </tr> 
         <tr class="empty"><td colspan="4"></td></tr>  
 
@@ -701,9 +746,9 @@
             <th class="detail">详情</th>
         </tr> 
         <tr>  
-            <td>诺埃尔</td>
-            <td>出战存疑</td>
-            <td>出战存疑，每日观察</td>
+            <td>兰德尔<span class="important">重要</span></td>
+            <td>缺阵</td>
+            <td>身体不适，无法出战周日对阵奇才的比赛</td>
         </tr> 
         <tr>  
             <td>米切尔.罗宾逊</td>
@@ -851,10 +896,12 @@
             <th class="name">姓名</th>
             <th class="status">状态</th>
             <th class="detail">详情</th>
-        </tr> 
+        </tr>  
         <tr>  
-            <td colspan="3" class="none">暂无伤病</td>
-        </tr>
+            <td>巴格利</td>
+            <td>出战存疑</td>
+            <td>出战存疑，每日观察</td>
+        </tr> 
         <tr class="empty"><td colspan="4"></td></tr>  
 
 
@@ -863,10 +910,15 @@
             <th colspan="4" class="team-name spurs">[S]圣安东尼奥马刺<span class="en-name">San Antonio Spurs</span></th>
         </tr> 
         <tr class="title">  
-            <td rowspan="4" class="team_logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/nba-logo/spurs.jpeg" /></td>
+            <td rowspan="5" class="team_logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/nba-logo/spurs.jpeg" /></td>
             <th class="name">姓名</th>
             <th class="status">状态</th>
             <th class="detail">详情</th>
+        </tr> 
+        <tr>  
+            <td>雅各布.伯尔特</td>
+            <td>缺阵</td>
+            <td>腿部受伤，无法出战周六对阵热火的比赛</td>
         </tr> 
         <tr>  
             <td>贝茨-迪奥普</td>
