@@ -109,33 +109,33 @@
         </tr> 
         <tr>  
             <td>帕蒂.米尔斯</td>
-            <td>出战存疑</td>
-            <td>出战存疑，明日比赛出场待定</td>
+            <td>大概率出战</td>
+            <td>出战存疑，明日大概率出战</td>
         </tr> 
         <tr>  
             <td>詹姆斯.约翰逊</td>
-            <td>出战存疑</td>
-            <td>出战存疑，明日比赛出场待定</td>
+            <td>大概率出战</td>
+            <td>出战存疑，明日大概率出战</td>
         </tr> 
         <tr>  
             <td>乔.哈里斯</td>
-            <td>出战存疑</td>
-            <td>出战存疑，明日比赛出场待定</td>
+            <td>大概率出战</td>
+            <td>出战存疑，明日大概率出战</td>
         </tr> 
         <tr>  
             <td>詹姆斯.哈登<span class="important">重要</span></td>
-            <td>出战存疑</td>
-            <td>出战存疑，明日比赛出场待定</td>
+            <td>大概率出战</td>
+            <td>出战存疑，明日大概率出战</td>
         </tr> 
         <tr>  
             <td>布雷克.格里芬</td>
-            <td>出战存疑</td>
-            <td>出战存疑，明日比赛出场待定</td>
+            <td>大概率出战</td>
+            <td>出战存疑，明日大概率出战</td>
         </tr> 
         <tr>  
             <td>凯文.杜兰特<span class="important">重要</span></td>
             <td>出战存疑</td>
-            <td>出战存疑，明日比赛出场待定</td>
+            <td>出战存疑，明日大概率出战</td>
         </tr> 
         <tr class="empty"><td colspan="4"></td></tr>  
 
