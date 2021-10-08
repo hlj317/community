@@ -20,7 +20,20 @@
         </ul>
     </div>
     <div class="clear"></div>
-    <div class="updatetime">最近更新时间：<strong>{{udpatetime}}</strong> <span class="source">投注率来源：</span><strong>NBA Las Vegas Odds</strong></div>
+    <div class="updatetime">最近更新时间：<strong>{{udpatetime}}</strong>（在开赛前，投注率会一直变化）</div>
+    <div class="pick">
+        <span class="pick-time">
+            <span class="arrow-left" @click="cal('left')">
+                <img :src="arrowLeftImg"/>
+            </span>
+            <span class="arrow-text">{{currentDate}}</span>
+            <span class="arrow-right" @click="cal('right')">
+                <img :src="arrowRightImg"/>
+            </span>
+        </span>
+        <span class="source">投注率来源：</span>
+        <span class="source-name">NBA Las Vegas Odds</span>
+    </div>
     <table class="list" border="0" cellspacing="1" cellpadding="0">
 
         <tr>
@@ -30,50 +43,23 @@
             <th class="th-ratio">让分投注比例</th>
         </tr>
 
-        <tr class="play-time-tr">  
-            <td rowspan="3" class="play-time">Fri 10/08, 7:00 AM</td>
-        </tr> 
-        <tr>  
-            <td class="verse-logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/nba-logo/grizzlies.jpeg" /><span class="verse-name">孟菲斯灰熊</span></td>
-            <td class="verse-trend"><span class="verse-left">+1.0</span><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/common/arrow.png" /><span class="verse-right">+1.0</span></td>
-            <td class="verse-ratio">0%<span class="verse-wrapper"><span class="verse-inner" v-bind:style="{ width: calWidth(0) + 'px' }"></span></span></td>
-        </tr> 
-        <tr>  
-            <td class="verse-logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/nba-logo/hornets.jpeg" /><span class="verse-name">夏洛特黄蜂[主]</span></td>
-            <td class="verse-trend"><span class="verse-left">-1.0</span><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/common/arrow.png" /><span class="verse-right">-1.0</span></td>
-            <td class="verse-ratio">0%<span class="verse-wrapper"><span class="verse-inner" v-bind:style="{ width: calWidth(0) + 'px' }"></span></span></td>
-        </tr> 
-        <tr class="empty"><td colspan="4"></td></tr> 
-
-
-        <tr class="play-time-tr">  
-            <td rowspan="3" class="play-time">Fri 10/08, 7:00 AM</td>
-        </tr> 
-        <tr>  
-            <td class="verse-logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/nba-logo/raptors.jpeg" /><span class="verse-name">多伦多猛龙</span></td>
-            <td class="verse-trend"><span class="verse-left">+6.0</span><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/common/arrow.png" /><span class="verse-right">+5.5</span></td>
-            <td class="verse-ratio">0%<span class="verse-wrapper"><span class="verse-inner" v-bind:style="{ width: calWidth(0) + 'px' }"></span></span></td>
-        </tr> 
-        <tr>  
-            <td class="verse-logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/nba-logo/76ers.jpeg" /><span class="verse-name">费城76人[主]</span></td>
-            <td class="verse-trend"><span class="verse-left">-6.0</span><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/common/arrow.png" /><span class="verse-right">-5.5</span></td>
-            <td class="verse-ratio">0%<span class="verse-wrapper"><span class="verse-inner" v-bind:style="{ width: calWidth(0) + 'px' }"></span></span></td>
-        </tr> 
-        <tr class="empty"><td colspan="4"></td></tr> 
-
-        <tr class="play-time-tr">  
-            <td rowspan="3" class="play-time">Fri 10/08, 10:00 AM</td>
-        </tr> 
-        <tr>  
-            <td class="verse-logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/nba-logo/heat.jpeg" /><span class="verse-name">迈阿密热火</span></td>
-            <td class="verse-trend"><span class="verse-left">-6.0</span><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/common/arrow.png" /><span class="verse-right">-5.5</span></td>
-            <td class="verse-ratio">0%<span class="verse-wrapper"><span class="verse-inner" v-bind:style="{ width: calWidth(0) + 'px' }"></span></span></td>
-        </tr> 
-        <tr>  
-            <td class="verse-logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/nba-logo/rockets.jpeg" /><span class="verse-name">休斯顿火箭[主]</span></td>
-            <td class="verse-trend"><span class="verse-left">+6.0</span><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/common/arrow.png" /><span class="verse-right">+5.5</span></td>
-            <td class="verse-ratio">0%<span class="verse-wrapper"><span class="verse-inner" v-bind:style="{ width: calWidth(0) + 'px' }"></span></span></td>
-        </tr> 
+        <template v-for="(item,index) in currentData">
+            <tr class="play-time-tr" :key="index">  
+                <td rowspan="3" class="play-time">{{item.time}}</td>
+            </tr> 
+        
+            <tr :key="index">  
+                <td class="verse-logo"><img :src="getTeam(item.awayName).img" /><span class="verse-name">{{getTeam(item.awayName).name}}</span></td>
+                <td class="verse-trend"><span class="verse-left">{{item.awayLeftPoints}}</span><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/common/arrow.png" /><span class="verse-right">{{item.awayRightPoints}}</span></td>
+                <td class="verse-ratio">{{item.awayRatio}}%<span class="verse-wrapper"><span class="verse-inner" v-bind:style="{ width: item.awayRatio + '%' }"></span></span></td>
+            </tr> 
+            <tr :key="index">  
+                <td class="verse-logo"><img :src="getTeam(item.homeName).img" /><span class="verse-name">{{getTeam(item.homeName).name}}[主]</span></td>
+                <td class="verse-trend"><span class="verse-left">{{item.awayLeftPoints}}</span><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/common/arrow.png" /><span class="verse-right">{{item.awayRightPoints}}</span></td>
+                <td class="verse-ratio">{{item.homeRatio}}%<span class="verse-wrapper"><span class="verse-inner" v-bind:style="{ width: item.homeRatio + '%' }"></span></span></td>
+            </tr> 
+            <tr class="empty" :key="index" v-show="index !== (lastTrIndex-1)"><td colspan="4"></td></tr> 
+        </template>
 
     </table>
     <div class="bottom">
@@ -294,16 +280,65 @@
 }
 .updatetime{
     text-align: left;
-    margin-left: 10 / @b;
+    margin-left: 20 / @b;
     color:#333333;
     font-size:20 / @b;
     position: relative;
     top: -10 / @b;
     margin-top:170 / @b;
 }
-
+.pick{
+    margin:3 / @b 0 0 0;
+}
+.pick-time{
+   border:1 / @b solid #999999;
+   border-radius: 4 / @b;
+   padding:0;
+   width:300 / @b;
+   display: inline-flex;
+   justify-content: space-between;
+   align-items: center;
+   margin:0 0 10 / @b 20 / @b;
+}
+.arrow-left{
+    display: inline-flex;
+    align-items: center;
+    width:70 / @b;
+    height:34 / @b;
+    img{
+        width:15 / @b;
+        height:23 / @b;
+    }
+    margin-left:12 / @b;
+}
+.arrow-right{
+    display: inline-flex;
+    align-items: center;
+    width:70 / @b;
+    height:34 / @b;
+    flex-direction: row-reverse;
+    img{
+        width:15 / @b;
+        height:23 / @b;
+    }
+    margin-right:12 / @b;
+}
+.arrow-text{
+    font-size:18 / @b;
+}
 .source{
-    margin:0 0 0 3 / @b;
+    margin:0 0 0 10 / @b;
+    font-size:20 / @b;
+    display: inline-block;
+    position: relative;
+    top: -5 / @b;
+}
+.source-name{
+    display: inline-block;
+    font-size:20 / @b;
+    font-weight: bold;
+    position: relative;
+    top: -5 / @b;
 }
 .th-time{
     width:120 / @b;
@@ -509,11 +544,18 @@ img{
 </style>
 
 <script>
-
+import { myData } from '../common/data/mydata_vote.js';
+import { getTeam } from '../common/js/utils.js';
 export default {
   data () {
     return {
-        udpatetime : ''
+        udpatetime : '',
+        currentData:{},
+        currentDate: '',
+        lastTrIndex : 0,
+        currentIndex: 0,
+        arrowLeftImg: '',
+        arrowRightImg: ''
     }
   },
   components: {
@@ -521,15 +563,35 @@ export default {
   computed: {
   },
   created () {
+      this.init();
   },
   methods: {
     init () {
+        this.currentIndex = myData.length-1;
+        this.update();
     },
-    calWidth(ratio) {
-        return Math.floor(ratio / 100 * 100);
+    update(){
+        this.currentData = myData[this.currentIndex].list;
+        this.currentDate = myData[this.currentIndex].date;
+        this.lastTrIndex = myData[this.currentIndex].list.length;
+        this.arrowLeftImg = (this.currentIndex === 0) ? "https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/common/arrow-left-grey.png" : "https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/common/arrow-left.png";
+        this.arrowRightImg = (this.currentIndex === myData.length-1) ? "https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/common/arrow-right-grey.png" : "https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/common/arrow-right.png";
     },
     gotoPage(target){
         window.location.href = "/injury" + target;
+    },
+    getTeam(name){
+        return getTeam(name);
+    },
+    cal(direction){
+        if(direction === "left"){
+            if(this.currentIndex === 0) return;
+            this.currentIndex -= 1;
+        }else{
+            if(this.currentIndex === myData.length-1) return;
+            this.currentIndex += 1;
+        }
+        this.update();
     }
   },
   mounted() {
