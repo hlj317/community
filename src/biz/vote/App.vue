@@ -440,7 +440,7 @@
     width:100%;
     font-size:24 / @b;
     margin-top:5 / @b;
-    border: 1 / @b solid #333333;
+    border: 1 / @b solid #666666;
     border-spacing: 0;/*去掉单元格间隙*/
 }
 .team_logo{
@@ -474,7 +474,7 @@
     }
 }
 th{
-    border: 1 / @b solid #333333;
+    border: 1 / @b solid #666666;
     border-top:none;
     border-bottom:none;
     background: #de4f67;
@@ -485,7 +485,7 @@ th{
     font-size:18 / @b;
 }
 td{
-    border: 1 / @b solid #333333;
+    border: 1 / @b solid #666666;
     border-bottom:none;
     padding:12 / @b 0 12 / @b 10 / @b;
     vertical-align: middle;
