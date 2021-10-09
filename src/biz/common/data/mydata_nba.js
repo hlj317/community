@@ -3,13 +3,13 @@ export const myData = {
     hawks:[
         {
             'name':'德隆.赖特',
-            'status':'出战存疑',
-            'detail':'腿部受伤，每日观察',
+            'status':'缺阵',
+            'detail':'腿部受伤，无法出战',
             'important':false
         },{
             'name':'特雷.杨',
-            'status':'大概率出战',
-            'detail':'每日观察，大概率出战周日对阵灰熊的比赛',
+            'status':'缺阵',
+            'detail':'身体不适，无法出战',
             'important':true
         },{
             'name':'加里纳利',
@@ -23,13 +23,13 @@ export const myData = {
             'important':false
         },{
             'name':'德安德鲁.亨特',
-            'status':'出战存疑',
-            'detail':'膝盖受伤，出战存疑',
+            'status':'缺阵',
+            'detail':'膝盖受伤，无法出战',
             'important':false
         },{
             'name':'凯文.赫尔特',
-            'status':'出战存疑',
-            'detail':'膝盖受伤，出战存疑',
+            'status':'大概率出战',
+            'detail':'每日观察，大概率出战',
             'important':false
         },{
             'name':'卡佩拉',
@@ -582,6 +582,12 @@ export const myData = {
     //纽约尼克斯
     knicks:[
         {
+            'name':'诺埃尔',
+            'status':'缺阵',
+            'detail':'膝盖受伤，无法出战周日对阵奇才的比赛',
+            'important':false
+        },
+        {
             'name':'兰德尔',
             'status':'缺阵',
             'detail':'个人原因，无法出战周日对阵奇才的比赛',
@@ -788,8 +794,8 @@ export const myData = {
             'important':false
         },{
             'name':'阿夫迪亚',
-            'status':'出战存疑',
-            'detail':'出战存疑，每日观察',
+            'status':'大概率出战',
+            'detail':'每日观察，大概率出战',
             'important':false
         },{
             'name':'卡修斯.温斯顿',
