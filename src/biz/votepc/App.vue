@@ -7,7 +7,7 @@
         </div>
         <div class="portait-text">
             <div class="text-name">请关注微信公众号：<strong>[篮彩老黑]</strong><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/common/arrow.png" /><span class="scan">可扫一扫右侧二维码</span></div>
-            <div class="text-notice">NBA伤病名单实时更新/WNBA伤病名单实时更新/CBA伤病名单实时更新</div>
+            <div class="text-notice">NBA/WNBA/CBA伤病名单实时更新、NBA篮彩投注率实时更新</div>
         </div>
         <div class="portait-qrcode">
             <img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/common/lancai_qrcode.jpg" />
@@ -59,7 +59,7 @@
                 <td class="verse-trend"><span class="verse-left">{{item.homeLeftPoints}}</span><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/common/arrow.png" /><span class="verse-right">{{item.homeRightPoints}}</span></td>
                 <td class="verse-ratio">{{item.homeRatio}}%<span class="verse-wrapper"><span class="verse-inner" v-bind:style="{ width: item.homeRatio + '%' }"></span></span></td>
             </tr> 
-            <tr class="empty" :key="index" v-show="index !== (lastTrIndex-1)"><td colspan="4"></td></tr> 
+            <tr class="empty" :key="index" v-if="index !== (lastTrIndex-1)"><td colspan="4"></td></tr> 
         </template>
 
     </table>

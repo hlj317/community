@@ -66,7 +66,7 @@ import AlertModel from './components/AlertModel.vue';
 import Ad from './components/Ad.vue';
 import axios from 'axios';
 import { resData, proData } from './mock/guessData.js';
-import { isSupportCopy, getFormatDate, getFormatPrice } from '../common/js/utils.js';
+import { getFormatDate, getFormatPrice } from '../common/js/utils.js';
 const productImg = 'http://h0.beicdn.com/open/201825/d408f7cdf30594ed_405x416.png';
 
 export default {
