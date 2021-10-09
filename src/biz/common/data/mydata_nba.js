@@ -768,7 +768,7 @@ export const myData = {
             'detail':'身体不适，无法出战周四对阵独行侠的比赛',
             'important':false
         },{
-            'name':'博扬.博格达诺维奇',
+            'name':'博格达诺维奇',
             'status':'缺阵',
             'detail':'腿部受伤，无法出战',
             'important':false
