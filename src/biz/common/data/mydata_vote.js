@@ -132,22 +132,22 @@ export const myData = [
                 awayName:'knicks',
                 awayLeftPoints:'+2.0',
                 awayRightPoints:'+1.0',
-                awayRatio:0,
+                awayRatio:43,
                 homeName:'wizards',
                 homeLeftPoints:'-2.0',
                 homeRightPoints:'-1.0',
-                homeRatio:0
+                homeRatio:57
             },
             {
                 time:'Sun 10/10, 7:00 AM',
                 awayName:'raptors',
                 awayLeftPoints:'+3.0',
                 awayRightPoints:'+3.5',
-                awayRatio:0,
+                awayRatio:41,
                 homeName:'celtics',
                 homeLeftPoints:'-3.0',
                 homeRightPoints:'-3.5',
-                homeRatio:0
+                homeRatio:59
             },
             {
                 time:'Sun 10/10, 8:00 AM',
