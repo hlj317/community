@@ -1,4 +1,5 @@
 export const myData = {
+    //亚特兰大老鹰
     hawks:[
         {
             'name':'德隆.赖特',
@@ -47,6 +48,7 @@ export const myData = {
             'important':false
         }
     ],
+    //波士顿凯尔特人
     celtics:[
         {
             'name':'杰伦.布朗',
@@ -60,6 +62,7 @@ export const myData = {
             'important':false
         }
     ],
+    //布鲁克林篮网
     nets:[
         {
             'name':'凯里.欧文',
@@ -108,6 +111,7 @@ export const myData = {
             'important':true
         }
     ],
+    //夏洛特黄蜂
     hornets:[
         {
             'name':'梅森.普拉姆利',
@@ -131,6 +135,7 @@ export const myData = {
             'important':false
         }
     ],
+    //芝加哥公牛
     bulls:[
         {
             'name':'德里克.琼斯JR',
@@ -154,6 +159,7 @@ export const myData = {
             'important':false
         }
     ],
+    //克利夫兰骑士
     cavaliers:[
         {
             'name':'塔克.法尔',
@@ -167,6 +173,7 @@ export const myData = {
             'important':false
         }    
     ],
+    //达拉斯独行侠
     mavericks:[
         {
             'name':'德怀特.鲍威尔',
@@ -190,6 +197,7 @@ export const myData = {
             'important':false
         }    
     ],
+    //丹佛掘金
     nuggets:[
         {
             'name':'小迈克尔.波特',
@@ -208,6 +216,7 @@ export const myData = {
             'important':true
         }     
     ],
+    //底特律活塞
     pistons:[
         {
             'name':'基利.海耶斯',
@@ -251,6 +260,7 @@ export const myData = {
             'important':false
         }     
     ],
+    //金州勇士
     warriors:[
         {
             'name':'威金斯',
@@ -284,6 +294,7 @@ export const myData = {
             'important':true
         }       
     ],
+    //休斯顿火箭
     rockets:[
         {
             'name':'埃里克.戈登',
@@ -297,6 +308,7 @@ export const myData = {
             'important':true
         }     
     ],
+    //印第安纳步行者
     pacers:[
         {
             'name':'贾斯汀.霍乐迪',
@@ -321,6 +333,7 @@ export const myData = {
             'important':true
         }     
     ],
+    //洛杉矶快船
     clippers:[
         {
             'name':'马库斯.莫里斯',
@@ -362,6 +375,7 @@ export const myData = {
             'important':false
         }   
     ],
+    //洛杉矶湖人
     lakers:[
         {
             'name':'安东尼.戴维斯',
@@ -390,6 +404,7 @@ export const myData = {
             'important':false
         }     
     ],
+    //孟菲斯灰熊
     grizzlies:[
         {
             'name':'莫兰特',
@@ -433,6 +448,7 @@ export const myData = {
             'important':false
         }     
     ],
+    //迈阿密热火
     heat:[
         {
             'name':'洛瑞',
@@ -481,6 +497,7 @@ export const myData = {
             'important':false
         }        
     ],
+    //明尼苏达森林狼
     timberwolves:[
         {
             'name':'内森.奈特',
@@ -494,6 +511,7 @@ export const myData = {
             'important':false
         }      
     ],
+    //密尔沃基雄鹿
     bucks:[
         {
             'name':'格雷森.艾伦',
@@ -537,6 +555,7 @@ export const myData = {
             'important':false
         }  
     ],
+    //新奥尔良鹈鹕
     pelicans:[
         {
             'name':'格拉汉姆',
@@ -560,6 +579,7 @@ export const myData = {
             'important':true
         }     
     ],
+    //纽约尼克斯
     knicks:[
         {
             'name':'兰德尔',
@@ -573,6 +593,7 @@ export const myData = {
             'important':false
         }      
     ],
+    //俄克拉荷马城雷霆
     thunder:[
         {
             'name':'肯瑞奇.威廉姆斯',
@@ -586,6 +607,7 @@ export const myData = {
             'important':false
         }     
     ],
+    //奥兰多魔术
     magic:[
         {
             'name':'楚玛.奥克',
@@ -609,6 +631,7 @@ export const myData = {
             'important':false
         }  
     ],
+    //费城76人
     seven6ers:[
         {
             'name':'赛布尔',
@@ -627,6 +650,7 @@ export const myData = {
             'important':true
         }    
     ],
+    //菲尼克斯太阳
     suns:[
         {
             'name':'德文.布克',
@@ -640,6 +664,7 @@ export const myData = {
             'important':false
         }  
     ],
+    //波特兰开拓者
     blazers:[
         {
             'name':'诺曼.鲍威尔',
@@ -658,6 +683,7 @@ export const myData = {
             'important':false
         }     
     ],
+    //萨克拉门托国王
     kings:[
         {
         'name':'巴格利',
@@ -666,6 +692,7 @@ export const myData = {
         'important':false
         }
     ],
+    //圣安东尼奥马刺
     spurs:[
         {
             'name':'雅各布.伯尔特',
@@ -689,6 +716,7 @@ export const myData = {
             'important':false
         }  
     ],
+    //多伦多猛龙
     raptors:[
         {
             'name':'渡边雄太',
@@ -712,6 +740,7 @@ export const myData = {
             'important':true
         }      
     ],
+    //犹它爵士
     jazz:[
         {
             'name':'麦克.康利',
@@ -750,6 +779,7 @@ export const myData = {
             'important':false
         }      
     ],
+    //华盛顿奇才
     wizards:[
         {
             'name':'波普',
