@@ -154,11 +154,11 @@ export const myData = [
                 awayName:'hawks',
                 awayLeftPoints:'-1.5',
                 awayRightPoints:'-1.5',
-                awayRatio:76,
+                awayRatio:69,
                 homeName:'grizzlies',
                 homeLeftPoints:'+1.5',
                 homeRightPoints:'+1.5',
-                homeRatio:24
+                homeRatio:31
             }
         ]
     },
