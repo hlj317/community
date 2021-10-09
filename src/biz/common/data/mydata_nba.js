@@ -34,7 +34,7 @@ export const myData = {
         },{
             'name':'卡佩拉',
             'status':'缺阵',
-            'detail':'脚踝受伤',
+            'detail':'脚踝受伤，无法出战',
             'important':true
         },{
             'name':'博格达诺维奇',
@@ -415,12 +415,12 @@ export const myData = {
             'name':'杰伦.杰克逊JR',
             'status':'轮休',
             'detail':'身体不适，无法出战',
-            'important':true
+            'important':false
         },{
             'name':'亚当斯',
             'status':'轮休',
             'detail':'身体不适，无法出战',
-            'important':true
+            'important':false
         },{
             'name':'基利安.迪力',
             'status':'缺阵',
@@ -430,7 +430,7 @@ export const myData = {
             'name':'狄龙.布鲁克斯',
             'status':'缺阵',
             'detail':'腿部受伤，无法出战',
-            'important':true
+            'important':false
         },{
             'name':'麦克德莫特',
             'status':'缺阵',
