@@ -20,7 +20,7 @@ export const myData = {
             'status':'出战存疑',
             'detail':'每日观察，出战存疑',
             'important':false
-        },,{
+        },{
             'name':'德安德鲁.亨特',
             'status':'出战存疑',
             'detail':'膝盖受伤，出战存疑',
