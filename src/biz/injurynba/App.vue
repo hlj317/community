@@ -490,10 +490,15 @@
             <th colspan="4" class="team-name lakers">[L]洛杉矶湖人<span class="en-name">Los Angeles Lakers</span></th>
         </tr> 
         <tr class="title">  
-            <td rowspan="5" class="team_logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/nba-logo/lakers.jpeg" /></td>
+            <td rowspan="6" class="team_logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/nba-logo/lakers.jpeg" /></td>
             <th class="name">姓名</th>
             <th class="status">状态</th>
             <th class="detail">详情</th>
+        </tr> 
+        <tr>  
+            <td>安东尼.戴维斯<span class="important">重要</span></td>
+            <td>缺阵</td>
+            <td>身体不适，无法出战周六对阵勇士的比赛</td>
         </tr> 
         <tr>  
             <td>威斯布鲁克<span class="important">重要</span></td>
