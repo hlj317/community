@@ -771,7 +771,7 @@ export const myData = {
             'name':'博扬.博格达诺维奇',
             'status':'缺阵',
             'detail':'腿部受伤，无法出战',
-            'important':true
+            'important':false
         },{
             'name':'鲁迪.盖伊',
             'status':'缺阵',
