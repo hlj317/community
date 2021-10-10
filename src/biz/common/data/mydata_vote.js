@@ -154,11 +154,62 @@ export const myData = [
                 awayName:'hawks',
                 awayLeftPoints:'-1.5',
                 awayRightPoints:'-1.5',
-                awayRatio:69,
+                awayRatio:67,
                 homeName:'grizzlies',
                 homeLeftPoints:'+1.5',
                 homeRightPoints:'+1.5',
-                homeRatio:31
+                homeRatio:33
+            }
+        ]
+    },
+
+    //10月11日
+    {
+        date: 'Sun Oct 11',
+        list: [
+            {
+                time:'Mon 10/11, 6:00 AM',
+                awayName:'spurs',
+                awayLeftPoints:'-2.0',
+                awayRightPoints:'-2.0',
+                awayRatio:0,
+                homeName:'magic',
+                homeLeftPoints:'+2.0',
+                homeRightPoints:'+2.0',
+                homeRatio:0
+            },
+            {
+                time:'Mon 10/11, 7:00 AM',
+                awayName:'bulls',
+                awayLeftPoints:'-6.0',
+                awayRightPoints:'-6.0',
+                awayRatio:0,
+                homeName:'cavaliers',
+                homeLeftPoints:'+6.0',
+                homeRightPoints:'+6.0',
+                homeRatio:0
+            },
+            {
+                time:'Mon 10/11, 7:30 AM',
+                awayName:'thunder',
+                awayLeftPoints:'+4.5',
+                awayRightPoints:'+4.5',
+                awayRatio:0,
+                homeName:'bucks',
+                homeLeftPoints:'-4.5',
+                homeRightPoints:'-4.5',
+                homeRatio:0
+            },
+            {
+                time:'Mon 10/11, 10:00 AM',
+                awayName:'suns',
+                awayLeftPoints:'-3.0',
+                awayRightPoints:'-3.0',
+                awayRatio:0,
+                homeName:'lakers',
+                homeLeftPoints:'+3.0',
+                homeRightPoints:'+3.0',
+                homeRatio:0
             }
         ]
     },
