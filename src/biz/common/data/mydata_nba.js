@@ -456,37 +456,37 @@ export const myData = {
         {
             'name':'格雷森.艾伦',
             'status':'出战存疑',
-            'detail':'膝盖受伤，出战存疑',
+            'detail':'每日观察，出战存疑',
             'important':false
         },{
             'name':'朱.霍乐迪',
-            'status':'缺阵',
-            'detail':'腿部受伤，无法出战',
+            'status':'出战存疑',
+            'detail':'每日观察，出战存疑',
             'important':true
         },{
             'name':'赛米.奥杰莱伊',
-            'status':'缺阵',
-            'detail':'腿部受伤，无法出战',
+            'status':'出战存疑',
+            'detail':'每日观察，出战存疑',
             'important':false
         },{
             'name':'罗德尼.胡德',
-            'status':'缺阵',
-            'detail':'腿部受伤，无法出战',
+            'status':'出战存疑',
+            'detail':'每日观察，出战存疑',
             'important':false
         },{
             'name':'波蒂斯',
-            'status':'缺阵',
-            'detail':'身体不适，无法出战周六对阵篮网的比赛',
+            'status':'出战存疑',
+            'detail':'每日观察，出战存疑',
             'important':false
         },{
             'name':'字母哥',
-            'status':'缺阵',
-            'detail':'膝盖受伤，无法出战周六对阵篮网的比赛',
+            'status':'出战存疑',
+            'detail':'每日观察，出战存疑',
             'important':true
         },{
             'name':'米德尔顿',
-            'status':'缺阵',
-            'detail':'腿部受伤，无法出战周六对阵篮网的比赛',
+            'status':'出战存疑',
+            'detail':'每日观察，出战存疑',
             'important':true
         },{
             'name':'迪文琴佐',
@@ -669,8 +669,8 @@ export const myData = {
         },
         {
             'name':'雅各布.伯尔特',
-            'status':'缺阵',
-            'detail':'腿部受伤，无法出战周六对阵热火的比赛',
+            'status':'出战存疑',
+            'detail':'每日观察，出战存疑',
             'important':false
         },{
             'name':'贝茨-迪奥普',
