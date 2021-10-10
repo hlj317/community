@@ -40,28 +40,6 @@
         </tr> 
         <tr class="empty"><td colspan="4"></td></tr>  
 
-        <!-----L--拉斯维加斯王牌------>
-        <tr>  
-            <th colspan="4" class="team-name aces">[L]拉斯维加斯王牌<span class="en-name">Las Vegas Aces</span></th>
-        </tr> 
-        <tr class="title">  
-            <td rowspan="3" class="team_logo"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/wnba-logo/aces.jpeg" /></td>
-            <th class="name">姓名</th>
-            <th class="status">状态</th>
-            <th class="detail">详情</th>
-        </tr> 
-        <tr>  
-            <td>利亚纳.鲁珀特</td>
-            <td>赛季报销</td>
-            <td>因为个人原因，本赛季不会再上场</td>
-        </tr> 
-        <tr>  
-            <td>麦克康特利</td>
-            <td>赛季报销</td>
-            <td>膝盖手术，本赛季报销</td>
-        </tr> 
-        <tr class="empty"><td colspan="4"></td></tr>
-
         <!-----P----凤凰城水银------>
         <tr>  
             <th colspan="4" class="team-name mercury">[P]凤凰城水银<span class="en-name">Phoenix Mercury</span></th>
@@ -75,12 +53,12 @@
         <tr>  
             <td>索菲.坎宁安</td>
             <td>出战存疑</td>
-            <td>脚踝受伤</td>
+            <td>脚踝受伤，出战存疑</td>
         </tr> 
          <tr>  
             <td>吉亚.内斯<span class="important">重要</span></td>
-            <td>出战存疑</td>
-            <td>在第四场对阵王牌的比赛中，开场腿部受伤，下一场出战存疑</td>
+            <td>伤停</td>
+            <td>遭受膝盖ACL伤病，本赛季报销</td>
         </tr> 
 
     </table>
