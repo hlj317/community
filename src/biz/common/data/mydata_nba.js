@@ -460,33 +460,33 @@ export const myData = {
             'important':false
         },{
             'name':'朱.霍乐迪',
-            'status':'出战存疑',
-            'detail':'每日观察，出战存疑',
+            'status':'出战',
+            'detail':'出战周一对阵雷霆的比赛',
             'important':true
         },{
             'name':'赛米.奥杰莱伊',
-            'status':'出战存疑',
-            'detail':'每日观察，出战存疑',
+            'status':'缺阵',
+            'detail':'腿部受伤，无法出战',
             'important':false
         },{
             'name':'罗德尼.胡德',
-            'status':'出战存疑',
-            'detail':'每日观察，出战存疑',
+            'status':'缺阵',
+            'detail':'腿部受伤，无法出战',
             'important':false
         },{
             'name':'波蒂斯',
-            'status':'出战存疑',
-            'detail':'每日观察，出战存疑',
+            'status':'缺阵',
+            'detail':'腿部受伤，无法出战',
             'important':false
         },{
             'name':'字母哥',
-            'status':'出战存疑',
-            'detail':'每日观察，出战存疑',
+            'status':'出战',
+            'detail':'出战周一对阵雷霆的比赛',
             'important':true
         },{
             'name':'米德尔顿',
-            'status':'出战存疑',
-            'detail':'每日观察，出战存疑',
+            'status':'出战',
+            'detail':'出战周一对阵雷霆的比赛',
             'important':true
         },{
             'name':'迪文琴佐',
