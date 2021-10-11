@@ -205,11 +205,11 @@ export const myData = [
                 awayName:'suns',
                 awayLeftPoints:'-3.0',
                 awayRightPoints:'-3.5',
-                awayRatio:42,
+                awayRatio:48,
                 homeName:'lakers',
                 homeLeftPoints:'+3.0',
                 homeRightPoints:'+3.5',
-                homeRatio:58
+                homeRatio:52
             }
         ]
     },
