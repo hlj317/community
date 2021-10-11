@@ -165,7 +165,7 @@ export const myData = [
 
     //10月11日
     {
-        date: 'Sun Oct 11',
+        date: 'Mon Oct 11',
         list: [
             {
                 time:'Mon 10/11, 6:00 AM',
@@ -210,6 +210,90 @@ export const myData = [
                 homeLeftPoints:'+3.0',
                 homeRightPoints:'+3.5',
                 homeRatio:52
+            }
+        ]
+    },
+
+    //10月12日
+    {
+        date: 'Tue Oct 12',
+        list: [
+            {
+                time:'Tue 10/12, 7:00 AM',
+                awayName:'rockets',
+                awayLeftPoints:'+3.0',
+                awayRightPoints:'+3.0',
+                awayRatio:0,
+                homeName:'raptors',
+                homeLeftPoints:'-3.0',
+                homeRightPoints:'-3.0',
+                homeRatio:0
+            },
+            {
+                time:'Tue 10/12, 7:30 AM',
+                awayName:'hornets',
+                awayLeftPoints:'+7.0',
+                awayRightPoints:'+7.0',
+                awayRatio:0,
+                homeName:'heat',
+                homeLeftPoints:'-7.0',
+                homeRightPoints:'-7.0',
+                homeRatio:0
+            },
+            {
+                time:'Tue 10/12, 8:00 AM',
+                awayName:'pistons',
+                awayLeftPoints:'+5.5',
+                awayRightPoints:'+5.5',
+                awayRatio:0,
+                homeName:'grizzlies',
+                homeLeftPoints:'-5.5',
+                homeRightPoints:'-5.5',
+                homeRatio:0
+            },
+            {
+                time:'Tue 10/12, 8:00 AM',
+                awayName:'nets',
+                awayLeftPoints:'-6.5',
+                awayRightPoints:'-6.5',
+                awayRatio:0,
+                homeName:'seven6ers',
+                homeLeftPoints:'+6.5',
+                homeRightPoints:'+6.5',
+                homeRatio:0
+            },
+            {
+                time:'Tue 10/12, 9:00 AM',
+                awayName:'pelicans',
+                awayLeftPoints:'+6.5',
+                awayRightPoints:'+6.5',
+                awayRatio:0,
+                homeName:'jazz',
+                homeLeftPoints:'-6.5',
+                homeRightPoints:'-6.5',
+                homeRatio:0
+            },
+            {
+                time:'Tue 10/12, 10:00 AM',
+                awayName:'kings',
+                awayLeftPoints:'-6.0',
+                awayRightPoints:'-6.0',
+                awayRatio:0,
+                homeName:'blazers',
+                homeLeftPoints:'+6.0',
+                homeRightPoints:'+6.0',
+                homeRatio:0
+            },
+            {
+                time:'Tue 10/12, 10:30 AM',
+                awayName:'timberwolves',
+                awayLeftPoints:'+1.5',
+                awayRightPoints:'+1.5',
+                awayRatio:0,
+                homeName:'clippers',
+                homeLeftPoints:'-1.5',
+                homeRightPoints:'-1.5',
+                homeRatio:0
             }
         ]
     },
