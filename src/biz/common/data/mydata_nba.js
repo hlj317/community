@@ -319,8 +319,8 @@ export const myData = {
     lakers:[
         {
             'name':'安东尼.戴维斯',
-            'status':'缺阵',
-            'detail':'身体不适，无法出战周六对阵勇士的比赛',
+            'status':'大概率出战',
+            'detail':'大概率出战周一对阵太阳的比赛',
             'important':true
         },{
             'name':'塔克',
@@ -333,10 +333,10 @@ export const myData = {
             'detail':'身体不适，无法出战周一对阵太阳的比赛',
             'important':false
         },{
-            'name':'德怀特.霍华德',
-            'status':'出战存疑',
-            'detail':'每日观察，出战存疑',
-            'important':false
+            'name':'勒布朗.詹姆斯',
+            'status':'轮休',
+            'detail':'身体不适，无法出战',
+            'important':true
         },{
             'name':'阿里扎',
             'status':'长期缺阵',
