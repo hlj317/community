@@ -79,6 +79,26 @@ export const myData = {
             'status':'缺阵',
             'detail':'预计马上会被球队放弃',
             'important':false
+        },{
+            'name':'本布里',
+            'status':'缺阵',
+            'detail':'身体不适，无法出战',
+            'important':false
+        },{
+            'name':'卡库克',
+            'status':'缺阵',
+            'detail':'身体不适，无法出战',
+            'important':false
+        },{
+            'name':'阿尔德里奇',
+            'status':'缺阵',
+            'detail':'身体不适，无法出战',
+            'important':false
+        },{
+            'name':'克拉克斯顿',
+            'status':'缺阵',
+            'detail':'身体不适，无法出战',
+            'important':false
         }
     ],
     //夏洛特黄蜂
@@ -309,6 +329,11 @@ export const myData = {
             'detail':'大概率出战周二对阵森林狼的比赛',
             'important':false
         },{
+            'name':'雷吉杰克逊',
+            'status':'缺阵',
+            'detail':'身体不适，无法出战',
+            'important':true
+        },{
             'name':'伊巴卡',
             'status':'缺阵',
             'detail':'背部受伤，归期未定',
@@ -419,8 +444,8 @@ export const myData = {
             'important':true
         },{
             'name':'吉米.巴特勒',
-            'status':'出战',
-            'detail':'大概率出战周二对阵黄蜂的比赛',
+            'status':'轮休',
+            'detail':'身体酸痛，无法出战',
             'important':true
         },{
             'name':'PJ.塔克',
@@ -696,14 +721,24 @@ export const myData = {
     kings:[
         {
             'name':'希尔德',
-            'status':'出战存疑',
-            'detail':'出战存疑，每日观察',
-            'important':false
+            'status':'缺阵',
+            'detail':'身体不适，无法出战',
+            'important':true
         },{
             'name':'巴格利',
             'status':'出战存疑',
-            'detail':'出战存疑，每日观察',
+            'detail':'腿部受伤，无法出战',
             'important':false
+        },{
+            'name':'特里斯坦.汤普森',
+            'status':'缺阵',
+            'detail':'腿部受伤，无法出战',
+            'important':false
+        },{
+            'name':'哈里伯顿',
+            'status':'缺阵',
+            'detail':'身体不适，无法出战',
+            'important':true
         }
     ],
     //圣安东尼奥马刺
@@ -739,6 +774,11 @@ export const myData = {
     //多伦多猛龙
     raptors:[
         {
+            'name':'德拉季奇',
+            'status':'缺阵',
+            'detail':'身体不适，无法出战',
+            'important':false
+        },{
             'name':'渡边雄太',
             'status':'缺阵',
             'detail':'小腿拉伤，无法出战周二对阵火箭的比赛',
