@@ -366,22 +366,32 @@ export const myData = {
         {
             'name':'安东尼.戴维斯',
             'status':'大概率出战',
-            'detail':'大概率出战周一对阵太阳的比赛',
+            'detail':'大概率出战周三对阵勇士的比赛',
             'important':true
         },{
             'name':'塔克',
             'status':'缺阵',
-            'detail':'身体不适，无法出战周一对阵太阳的比赛',
+            'detail':'拇指韧带撕裂，将接受手术',
             'important':false
         },{
             'name':'蒙克',
+            'status':'出战存疑',
+            'detail':'每日观察，出战存疑',
+            'important':false
+        },{
+            'name':'纳恩',
             'status':'缺阵',
-            'detail':'身体不适，无法出战周一对阵太阳的比赛',
+            'detail':'右脚踝受伤，无法出战周三对阵勇士的比赛',
             'important':false
         },{
             'name':'勒布朗.詹姆斯',
-            'status':'轮休',
-            'detail':'身体不适，无法出战',
+            'status':'出战',
+            'detail':'出战周三对阵勇士的比赛',
+            'important':true
+        },{
+            'name':'威斯布鲁克',
+            'status':'出战',
+            'detail':'出战周三对阵勇士的比赛',
             'important':true
         },{
             'name':'阿里扎',
@@ -848,12 +858,12 @@ export const myData = {
         {
             'name':'卡修斯.温斯顿',
             'status':'缺阵',
-            'detail':'腿部受伤，无法出战周日对阵尼克斯的比赛',
+            'detail':'腿部受伤，无法出战周三对阵猛龙的比赛',
             'important':false
         },{
             'name':'八村塁',
             'status':'缺阵',
-            'detail':'因为个人原因，无法出战，归期未定',
+            'detail':'个人原因，无法出战周三对阵猛龙的比赛',
             'important':false
         },{
             'name':'托马斯.布兰恩特',

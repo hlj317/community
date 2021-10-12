@@ -298,4 +298,33 @@ export const myData = [
             }
         ]
     },
+
+    //10月13日
+    {
+        date: 'Wed Oct 13',
+        list: [
+            {
+                time:'Wed 10/13, 7:00 AM',
+                awayName:'raptors',
+                awayLeftPoints:'+5.5',
+                awayRightPoints:'+5.5',
+                awayRatio:0,
+                homeName:'wizards',
+                homeLeftPoints:'-5.5',
+                homeRightPoints:'-5.5',
+                homeRatio:0
+            },
+            {
+                time:'Wed 10/13, 10:30 AM',
+                awayName:'warriors',
+                awayLeftPoints:'+5.0',
+                awayRightPoints:'+5.0',
+                awayRatio:0,
+                homeName:'lakers',
+                homeLeftPoints:'-5.0',
+                homeRightPoints:'-5.0',
+                homeRatio:0
+            }
+        ]
+    },
 ]
