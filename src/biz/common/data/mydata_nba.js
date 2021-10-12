@@ -322,12 +322,16 @@ export const myData = {
             'status':'出战',
             'detail':'大概率出战周二对阵森林狼的比赛',
             'important':false
-        },
-        {
+        },{
             'name':'巴图姆',
             'status':'出战',
             'detail':'大概率出战周二对阵森林狼的比赛',
             'important':false
+        },{
+            'name':'保罗.乔治',
+            'status':'缺阵',
+            'detail':'身体不适，无法出战',
+            'important':true
         },{
             'name':'雷吉杰克逊',
             'status':'缺阵',
