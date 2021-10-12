@@ -789,13 +789,13 @@ export const myData = {
     raptors:[
         {
             'name':'德拉季奇',
-            'status':'缺阵',
-            'detail':'身体不适，无法出战',
+            'status':'出战存疑',
+            'detail':'每日观察，出战存疑',
             'important':false
         },{
             'name':'渡边雄太',
-            'status':'缺阵',
-            'detail':'小腿拉伤，无法出战周二对阵火箭的比赛',
+            'status':'出战存疑',
+            'detail':'每日观察，出战存疑',
             'important':false
         },{
             'name':'肯.伯奇',
