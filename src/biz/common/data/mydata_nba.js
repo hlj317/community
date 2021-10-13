@@ -239,9 +239,19 @@ export const myData = {
     //金州勇士
     warriors:[
         {
-            'name':'威金斯',
+            'name':'库里',
             'status':'缺阵',
-            'detail':'身体酸痛，需要保养一下，大概率无法出战周五对阵湖人的比赛',
+            'detail':'身体酸痛，无法出战周三对阵湖人的比赛',
+            'important':true
+        },{
+            'name':'格林',
+            'status':'缺阵',
+            'detail':'身体酸痛，无法出战周三对阵湖人的比赛',
+            'important':true
+        },{
+            'name':'威金斯',
+            'status':'出战',
+            'detail':'出战周三对阵湖人的比赛',
             'important':true
         },{
             'name':'库明加',
@@ -250,13 +260,13 @@ export const myData = {
             'important':false
         },{
             'name':'伊戈达拉',
-            'status':'出战存疑',
-            'detail':'出战存疑，每日观察',
+            'status':'大概率出战',
+            'detail':'每日观察，大概率出战周三对阵湖人的比赛',
             'important':false
         },{
             'name':'加里.佩顿二世',
-            'status':'缺阵',
-            'detail':'当前在从休赛期的疝气手术中恢复，归期未定',
+            'status':'大概率出战',
+            'detail':'每日观察，大概率出战周三对阵湖人的比赛',
             'important':false
         },{
             'name':'怀斯曼',
@@ -364,9 +374,15 @@ export const myData = {
     //洛杉矶湖人
     lakers:[
         {
+            'name':'埃林顿',
+            'status':'缺阵',
+            'detail':'腿部受伤，无法出战',
+            'important':false
+        },
+        {
             'name':'安东尼.戴维斯',
-            'status':'大概率出战',
-            'detail':'大概率出战周三对阵勇士的比赛',
+            'status':'出战',
+            'detail':'出战周三对阵勇士的比赛',
             'important':true
         },{
             'name':'塔克',
@@ -788,14 +804,25 @@ export const myData = {
     //多伦多猛龙
     raptors:[
         {
+            'name':'范弗利特',
+            'status':'缺阵',
+            'detail':'身体酸痛，无法出战周三对阵奇才的比赛',
+            'important':true
+        },{
+            'name':'阿奴诺比',
+            'status':'缺阵',
+            'detail':'身体酸痛，无法出战周三对阵奇才的比赛',
+            'important':true
+        },
+        {
             'name':'德拉季奇',
-            'status':'出战存疑',
-            'detail':'每日观察，出战存疑',
+            'status':'出战',
+            'detail':'出战周三对阵奇才的比赛',
             'important':false
         },{
             'name':'渡边雄太',
-            'status':'出战存疑',
-            'detail':'每日观察，出战存疑',
+            'status':'缺阵',
+            'detail':'腿部受伤，无法出战',
             'important':false
         },{
             'name':'肯.伯奇',
