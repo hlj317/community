@@ -327,4 +327,89 @@ export const myData = [
             }
         ]
     },
+
+
+    //10月14日
+    {
+        date: 'Thu Oct 14',
+        list: [
+            {
+                time:'Thu 10/14, 5:00 AM',
+                awayName:'blazers',
+                awayLeftPoints:'+4.0',
+                awayRightPoints:'+4.0',
+                awayRatio:0,
+                homeName:'suns',
+                homeLeftPoints:'-4.0',
+                homeRightPoints:'-4.0',
+                homeRatio:0
+            },
+            {
+                time:'Thu 10/14, 6:30 AM',
+                awayName:'mavericks',
+                awayLeftPoints:'-6.0',
+                awayRightPoints:'-6.0',
+                awayRatio:0,
+                homeName:'hornets',
+                homeLeftPoints:'+6.0',
+                homeRightPoints:'+6.0',
+                homeRatio:0
+            },
+            {
+                time:'Thu 10/14, 7:00 AM',
+                awayName:'celtics',
+                awayLeftPoints:'+4.5',
+                awayRightPoints:'+4.5',
+                awayRatio:0,
+                homeName:'magic',
+                homeLeftPoints:'-4.5',
+                homeRightPoints:'-4.5',
+                homeRatio:0
+            },
+            {
+                time:'Thu 10/14, 7:00 AM',
+                awayName:'grizzlies',
+                awayLeftPoints:'+6.5',
+                awayRightPoints:'+6.5',
+                awayRatio:0,
+                homeName:'pacers',
+                homeLeftPoints:'-6.5',
+                homeRightPoints:'-6.5',
+                homeRatio:0
+            },
+            {
+                time:'Thu 10/14, 7:30 AM',
+                awayName:'pistons',
+                awayLeftPoints:'+8.0',
+                awayRightPoints:'+8.0',
+                awayRatio:0,
+                homeName:'knicks',
+                homeLeftPoints:'-8.0',
+                homeRightPoints:'-8.0',
+                homeRatio:0
+            },
+            {
+                time:'Thu 10/14, 8:00 AM',
+                awayName:'nuggets',
+                awayLeftPoints:'-7.0',
+                awayRightPoints:'-7.0',
+                awayRatio:0,
+                homeName:'thunder',
+                homeLeftPoints:'+7.0',
+                homeRightPoints:'+7.0',
+                homeRatio:0
+            },
+            {
+                time:'Thu 10/14, 9:00 AM',
+                awayName:'bucks',
+                awayLeftPoints:'+2.0',
+                awayRightPoints:'+2.0',
+                awayRatio:0,
+                homeName:'jazz',
+                homeLeftPoints:'-2.0',
+                homeRightPoints:'-2.0',
+                homeRatio:0
+            }
+        ]
+    },
 ]
