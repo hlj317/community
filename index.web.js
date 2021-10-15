@@ -43,6 +43,8 @@
     server.use(conditional());
     server.use(etag());
     server.use(middleware.staticMount());
+    server.use(middleware.siteMapMount());
+    server.use(middleware.robotsMount());
     // 添加日志记录
     server.use(koaLog("common"));
     // 添加页面CDN中间件
