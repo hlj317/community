@@ -105,25 +105,3 @@ dist
 
 # TernJS port file
 .tern-port
-assets/webpack-assets.json
-assets/static/guess-3b44c697.css
-assets/static/guess-938d743d.js
-assets/static/index-3b44c697.css
-assets/static/index-3e7a3aec.js
-assets/static/index-8ff547aa.css
-assets/static/index-c6b360c4.js
-assets/static/error/404-3b44c697.css
-assets/static/error/404-736c5c37.css
-assets/static/error/404-c88eef0c.js
-assets/static/error/404-c493ae56.js
-assets/static/movie/login-3b44c697.css
-assets/static/movie/login-8a06f314.js
-assets/static/movie/login-8ff547aa.css
-assets/static/movie/register-3b44c697.css
-assets/static/movie/register-8ff547aa.css
-assets/static/movie/register-d4adaeb4.js
-assets/static/pc/home-3b44c697.css
-assets/static/pc/home-8ff547aa.css
-assets/static/pc/home-852f3da3.js
-assets/static/pc/home-d081409c.js
-assets/webpack-assets.json
