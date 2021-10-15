@@ -1,4 +1,4 @@
-export const myData = {
+const nbaData = {
     //亚特兰大老鹰
     hawks:[
         {
@@ -950,3 +950,5 @@ export const myData = {
         }     
     ]   
 }
+
+module.exports = nbaData;

@@ -1,4 +1,4 @@
-export const myData = [
+const voteData = [
     //10月8日
     {
         date: 'Fri Oct 08',
@@ -412,4 +412,6 @@ export const myData = [
             }
         ]
     },
-]
+];
+
+module.exports = voteData;

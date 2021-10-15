@@ -16,7 +16,7 @@
 
     const mysql = require("./app/models/common/mysql.js");
 
-    const port = process.env.NODE_ENV === "dev" ? "2020" : "21";
+    const port = "80";
 
     mysql.init();
 
