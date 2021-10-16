@@ -39,7 +39,6 @@
 太阳:#2b2370     suns
 */
 .injury-nbapc-page{
-    font-weight: 450;
     .cavaliers{
         background-color: #88023f;
     }
