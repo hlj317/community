@@ -553,7 +553,7 @@ export const myData = [
         ]
     },
 
-    //10月17日
+    //10月20日
     {
         date: 'Wed Oct 20',
         list: [
@@ -562,21 +562,21 @@ export const myData = [
                 awayName:'nets',
                 awayLeftPoints:'-1.0',
                 awayRightPoints:'-1.0',
-                awayRatio:41,
+                awayRatio:54,
                 homeName:'bucks',
                 homeLeftPoints:'+1.0',
                 homeRightPoints:'+1.0',
-                homeRatio:59
+                homeRatio:46
             },{
                 time:'Wed 10/20, 10:00 AM',
                 awayName:'warriors',
                 awayLeftPoints:'+5.0',
                 awayRightPoints:'+5.0',
-                awayRatio:56,
+                awayRatio:55,
                 homeName:'lakers',
                 homeLeftPoints:'-5.0',
                 homeRightPoints:'-5.0',
-                homeRatio:44
+                homeRatio:45
             }
         ]
     },

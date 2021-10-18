@@ -38,6 +38,20 @@ let htmlMinifier = () => HtmlMinifier({
 let responseTime = () => koaResponseTime();
 
 /**
+ * 绑定sitemap和robots
+ *
+ * @public
+ * @return {Function}
+ */
+const siteMapMount = () => {
+    const mount = KoaMount("/", KoaStatic("./static", {
+        maxage: 300000,
+    }));
+
+    return mount;
+};
+
+/**
  * 静态资源绑定
  *
  * @public
@@ -47,26 +61,6 @@ let staticMount = () => {
     const mount = KoaMount("/assets/", KoaStatic("./assets", {
         maxage: 300000,
     }));
-
-    return mount;
-};
-
-const siteMapMount = () => {
-    const mount = KoaMount('/sitemap.xml', async (ctx, next) => {
-        ctx.body = `<?xml version='1.0' encoding='UTF-8'?><urlset><url><loc><![CDATA[https://www.lancailaohei.com]]></loc><lastmod>2021-10-15</lastmod><changefreq>weekly</changefreq></url><url><loc><![CDATA[https://www.lancailaohei.com/injurycbapc]]></loc><lastmod>2021-10-15</lastmod><changefreq>weekly</changefreq></url><url><loc><![CDATA[https://www.lancailaohei.com/injurynbapc]]></loc><lastmod>2021-10-15</lastmod><changefreq>weekly</changefreq>
-        </url><url><loc><![CDATA[https://www.lancailaohei.com/injurywnbapc]]></loc><lastmod>2021-10-15</lastmod><changefreq>weekly</changefreq></url><url><loc><![CDATA[https://www.lancailaohei.com/votepc]]></loc><lastmod>2021-10-15</lastmod><changefreq>weekly</changefreq></url></urlset>`;
-        await next();
-    });
-
-    return mount;
-};
-
-//百度爬虫协议
-const robotsMount = () => {
-    const mount = KoaMount('/robots.txt', async (ctx, next) => {
-        ctx.body = `User-agent: *\nDisallow:\nSitemap: https://www.lancailaohei.com/sitemap.xml`;
-        await next();
-    });
 
     return mount;
 };
@@ -140,6 +134,5 @@ module.exports = {
     htmlMinifier,
     staticMount,
     siteMapMount,
-    robotsMount,
     handleError
 };
