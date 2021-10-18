@@ -561,22 +561,22 @@ export const myData = [
                 time:'Wed 10/20, 7:30 AM',
                 awayName:'nets',
                 awayLeftPoints:'-1.0',
-                awayRightPoints:'-1.0',
-                awayRatio:54,
+                awayRightPoints:'+1.0',
+                awayRatio:51,
                 homeName:'bucks',
                 homeLeftPoints:'+1.0',
-                homeRightPoints:'+1.0',
-                homeRatio:46
+                homeRightPoints:'-1.0',
+                homeRatio:49
             },{
                 time:'Wed 10/20, 10:00 AM',
                 awayName:'warriors',
                 awayLeftPoints:'+5.0',
-                awayRightPoints:'+5.0',
-                awayRatio:55,
+                awayRightPoints:'+4.0',
+                awayRatio:57,
                 homeName:'lakers',
                 homeLeftPoints:'-5.0',
-                homeRightPoints:'-5.0',
-                homeRatio:45
+                homeRightPoints:'-4.0',
+                homeRatio:43
             }
         ]
     },
