@@ -135,8 +135,8 @@ const nbaData = {
     warriors:[
         {
             'name':'库明加',
-            'status':'出战存疑',
-            'detail':'每日观察，出战存疑',
+            'status':'缺阵',
+            'detail':'腿部受伤，无法出战',
             'important':false
         },{
             'name':'怀斯曼',
@@ -212,8 +212,8 @@ const nbaData = {
     lakers:[
         {
             'name':'艾灵顿',
-            'status':'出战存疑',
-            'detail':'腿部受伤，每日观察',
+            'status':'缺阵',
+            'detail':'腿部受伤，无法出战周三对阵勇士的揭幕战',
             'important':false
         },{
             'name':'塔克',
@@ -233,7 +233,7 @@ const nbaData = {
         },{
             'name':'阿里扎',
             'status':'长期缺阵',
-            'detail':'本周三接受了脚踝手术，预计至少将缺席8周的比赛',
+            'detail':'接受了脚踝手术，预计至少将缺席8周的比赛',
             'important':false
         }     
     ],
@@ -274,27 +274,22 @@ const nbaData = {
         {
             'name':'赛米.奥杰莱伊',
             'status':'缺阵',
-            'detail':'腿部受伤，无法出战',
+            'detail':'腿部受伤，无法出战周三对阵篮网的揭幕战',
             'important':false
         },{
             'name':'罗德尼.胡德',
-            'status':'出战存疑',
-            'detail':'腿部受伤，每日观察',
+            'status':'缺阵',
+            'detail':'腿部受伤，无法出战周三对阵篮网的揭幕战',
             'important':false
-        },{
-            'name':'米德尔顿',
-            'status':'出战存疑',
-            'detail':'腿部受伤，每日观察',
-            'important':true
         },{
             'name':'波蒂斯',
             'status':'缺阵',
-            'detail':'腿部受伤，无法出战',
+            'detail':'腿部受伤，无法出战周三对阵篮网的揭幕战',
             'important':false
         },{
             'name':'迪文琴佐',
             'status':'缺阵',
-            'detail':'腿部受伤，无法出战',
+            'detail':'腿部受伤，无法出战周三对阵篮网的揭幕战',
             'important':false
         }  
     ],
