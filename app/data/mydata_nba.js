@@ -27,8 +27,8 @@ const nbaData = {
             'important':false
         },{
             'name':'杰伦.布朗',
-            'status':'出战存疑',
-            'detail':'每日观察，揭幕战出战存疑',
+            'status':'出战',
+            'detail':'出战本赛季揭幕战',
             'important':true
         }
     ],
