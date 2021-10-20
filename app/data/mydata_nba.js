@@ -45,14 +45,9 @@ const nbaData = {
     hornets:[
         {
             'name':'罗齐尔',
-            'status':'出战存疑',
-            'detail':'背部受伤，每日观察',
+            'status':'缺阵',
+            'detail':'背部受伤，无法出战揭幕战',
             'important':true
-        },{
-            'name':'布里奇斯',
-            'status':'出战存疑',
-            'detail':'膝盖受伤，每日观察',
-            'important':false
         }
     ],
     //芝加哥公牛
@@ -279,9 +274,15 @@ const nbaData = {
     //纽约尼克斯
     knicks:[
         {
+            'name':'泰.吉布森',
+            'status':'缺阵',
+            'detail':'腿部受伤，无法出战',
+            'important':false
+        },
+        {
             'name':'诺埃尔',
-            'status':'出战存疑',
-            'detail':'腿部受伤，每日观察',
+            'status':'缺阵',
+            'detail':'腿部受伤，无法出战',
             'important':false
         }    
     ],
