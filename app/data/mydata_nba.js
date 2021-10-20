@@ -147,11 +147,6 @@ const nbaData = {
     //印第安纳步行者
     pacers:[
         {
-            'name':'布罗格登',
-            'status':'出战存疑',
-            'detail':'左膝一级扭伤，每日观察，出战存疑',
-            'important':true
-        },{
             'name':'勒维尔',
             'status':'缺阵',
             'detail':'腿部受伤，无法出战揭幕战',
