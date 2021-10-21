@@ -7,11 +7,6 @@ const nbaData = {
             'detail':'腿部受伤，无法出战揭幕战',
             'important':false
         },{
-            'name':'路易斯.威廉姆斯',
-            'status':'出战存疑',
-            'detail':'腿部受伤，每日观察',
-            'important':false
-        },{
             'name':'奥孔古',
             'status':'长期缺阵',
             'detail':'预计12月份回归球队',
@@ -246,29 +241,34 @@ const nbaData = {
     //密尔沃基雄鹿
     bucks:[
         {
+            'name':'洛佩兹',
+            'status':'缺阵',
+            'detail':'背部受伤，无法出战周五对阵热火的比赛',
+            'important':false
+        },{
             'name':'霍乐迪',
-            'status':'大概率出战',
-            'detail':'轻微扭伤，大概率出战周五对阵热火的比赛',
+            'status':'缺阵',
+            'detail':'轻微扭伤，无法出战周五对阵热火的比赛',
             'important':true
         },{
             'name':'赛米.奥杰莱伊',
             'status':'缺阵',
-            'detail':'腿部受伤，无法出战周五对阵热火的揭幕战',
+            'detail':'腿部受伤，无法出战周五对阵热火的比赛',
             'important':false
         },{
             'name':'罗德尼.胡德',
             'status':'缺阵',
-            'detail':'腿部受伤，无法出战周五对阵热火的揭幕战',
+            'detail':'腿部受伤，无法出战周五对阵热火的比赛',
             'important':false
         },{
             'name':'波蒂斯',
             'status':'缺阵',
-            'detail':'腿部受伤，无法出战周五对阵热火的揭幕战',
+            'detail':'腿部受伤，无法出战周五对阵热火的比赛',
             'important':false
         },{
             'name':'迪文琴佐',
             'status':'缺阵',
-            'detail':'腿部受伤，无法出战周五对阵热火的揭幕战',
+            'detail':'腿部受伤，无法出战周五对阵热火的比赛',
             'important':false
         }  
     ],
