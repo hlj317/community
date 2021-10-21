@@ -3,8 +3,8 @@ const nbaData = {
     hawks:[
         {
             'name':'加里纳利',
-            'status':'出战存疑',
-            'detail':'腿部受伤，每日观察',
+            'status':'缺阵',
+            'detail':'腿部受伤，无法出战揭幕战',
             'important':false
         },{
             'name':'路易斯.威廉姆斯',
