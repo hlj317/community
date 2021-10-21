@@ -161,6 +161,16 @@ const nbaData = {
     //洛杉矶快船
     clippers:[
         {
+            'name':'基恩.约翰逊',
+            'status':'缺阵',
+            'detail':'身体不适，无法出战揭幕战',
+            'important':false
+        },{
+            'name':'巴图姆',
+            'status':'缺阵',
+            'detail':'个人原因，无法出战揭幕战',
+            'important':false
+        },{
             'name':'伊巴卡',
             'status':'缺阵',
             'detail':'背部受伤，归期未定',
@@ -236,24 +246,29 @@ const nbaData = {
     //密尔沃基雄鹿
     bucks:[
         {
+            'name':'霍乐迪',
+            'status':'大概率出战',
+            'detail':'轻微扭伤，大概率出战周五对阵热火的比赛',
+            'important':true
+        },{
             'name':'赛米.奥杰莱伊',
             'status':'缺阵',
-            'detail':'腿部受伤，无法出战周三对阵篮网的揭幕战',
+            'detail':'腿部受伤，无法出战周五对阵热火的揭幕战',
             'important':false
         },{
             'name':'罗德尼.胡德',
             'status':'缺阵',
-            'detail':'腿部受伤，无法出战周三对阵篮网的揭幕战',
+            'detail':'腿部受伤，无法出战周五对阵热火的揭幕战',
             'important':false
         },{
             'name':'波蒂斯',
             'status':'缺阵',
-            'detail':'腿部受伤，无法出战周三对阵篮网的揭幕战',
+            'detail':'腿部受伤，无法出战周五对阵热火的揭幕战',
             'important':false
         },{
             'name':'迪文琴佐',
             'status':'缺阵',
-            'detail':'腿部受伤，无法出战周三对阵篮网的揭幕战',
+            'detail':'腿部受伤，无法出战周五对阵热火的揭幕战',
             'important':false
         }  
     ],

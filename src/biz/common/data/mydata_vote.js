@@ -699,4 +699,42 @@ export const myData = [
             }
         ]
     },
+
+    //10月22日
+    {
+        date: 'Fri Oct 22',
+        list: [
+            {
+                time:'Fri 10/22, 7:30 AM',
+                awayName:'mavericks',
+                awayLeftPoints:'+2.5',
+                awayRightPoints:'+2.5',
+                awayRatio:37,
+                homeName:'hawks',
+                homeLeftPoints:'-2.5',
+                homeRightPoints:'-2.5',
+                homeRatio:63
+            },{
+                time:'Fri 10/22, 8:00 AM',
+                awayName:'bucks',
+                awayLeftPoints:'-1.5',
+                awayRightPoints:'-2.0',
+                awayRatio:83,
+                homeName:'heat',
+                homeLeftPoints:'+1.5',
+                homeRightPoints:'+2.0',
+                homeRatio:17
+            },{
+                time:'Fri 10/22, 10:00 AM',
+                awayName:'clippers',
+                awayLeftPoints:'+3.0',
+                awayRightPoints:'+3.5',
+                awayRatio:20,
+                homeName:'warriors',
+                homeLeftPoints:'-3.0',
+                homeRightPoints:'-3.5',
+                homeRatio:80
+            }
+        ]
+    },
 ]
