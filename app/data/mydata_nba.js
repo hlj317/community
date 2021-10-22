@@ -362,8 +362,8 @@ const nbaData = {
     seven6ers:[
         {
             'name':'恩比德',
-            'status':'出战存疑',
-            'detail':'右膝受伤，每日观察',
+            'status':'出战',
+            'detail':'右膝受伤，出战周六对阵篮网的比赛',
             'important':true
         },{
             'name':'米尔顿',
