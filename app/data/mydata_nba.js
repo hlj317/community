@@ -45,8 +45,8 @@ const nbaData = {
     hornets:[
         {
             'name':'罗齐尔',
-            'status':'出战存疑',
-            'detail':'脚踝受伤，出战存疑',
+            'status':'复出',
+            'detail':'脚踝受伤，出战周六对阵骑士的比赛',
             'important':true
         }
     ],
