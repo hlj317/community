@@ -73,8 +73,8 @@ const nbaData = {
             'important':false
         },{
             'name':'加兰',
-            'status':'出战存疑',
-            'detail':'腿部受伤，每日观察',
+            'status':'缺阵',
+            'detail':'腿部受伤，无法出战',
             'important':false
         }       
     ],
@@ -138,15 +138,9 @@ const nbaData = {
     rockets:[
         {
             'name':'马修斯',
-            'status':'出战存疑',
-            'detail':'脚踝受伤，每日观察',
+            'status':'缺阵',
+            'detail':'脚踝受伤，无法出战',
             'important':false
-        },
-        {
-            'name':'豪斯',
-            'status':'出战存疑',
-            'detail':'脚踝受伤，每日观察',
-            'important':true
         },{
             'name':'约翰.沃尔',
             'status':'长期缺阵',
@@ -156,20 +150,10 @@ const nbaData = {
     ],
     //印第安纳步行者
     pacers:[
-        {
-            'name':'兰姆',
-            'status':'出战存疑',
-            'detail':'腿部受伤，每日观察',
-            'important':false
-        },{
-            'name':'格雷格',
-            'status':'出战存疑',
-            'detail':'腿部受伤，每日观察',
-            'important':false
-        },{
-            'name':'出战存疑',
-            'status':'出战存疑',
-            'detail':'腿部受伤，每日观察',
+        {{
+            'name':'柯兰.马丁',
+            'status':'缺阵',
+            'detail':'腿部受伤，无法出战',
             'important':false
         },{
             'name':'勒维尔',
@@ -320,8 +304,8 @@ const nbaData = {
     knicks:[
         {
             'name':'泰.吉布森',
-            'status':'出战存疑',
-            'detail':'个人原因，下一场出战存疑',
+            'status':'缺阵',
+            'detail':'个人原因，无法出战',
             'important':false
         },
         {
@@ -481,8 +465,8 @@ const nbaData = {
     wizards:[
         {
             'name':'比尔',
-            'status':'出战存疑',
-            'detail':'臀部受伤，每日观察',
+            'status':'缺阵',
+            'detail':'臀部受伤，无法出战',
             'important':true
         },{
             'name':'安东尼.吉尔',
