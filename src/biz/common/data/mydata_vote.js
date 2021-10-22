@@ -766,21 +766,21 @@ export const myData = [
                 time:'Sat 10/23, 7:00 AM',
                 awayName:'pacers',
                 awayLeftPoints:'+2.0',
-                awayRightPoints:'+2.0',
+                awayRightPoints:'+1.5',
                 awayRatio:34,
                 homeName:'wizards',
                 homeLeftPoints:'-2.0',
-                homeRightPoints:'-2.0',
+                homeRightPoints:'-1.5',
                 homeRatio:66
             },{
                 time:'Sat 10/23, 7:30 AM',
                 awayName:'nets',
                 awayLeftPoints:'-1.5',
-                awayRightPoints:'-1.5',
+                awayRightPoints:'-2.5',
                 awayRatio:81,
                 homeName:'seven6ers',
                 homeLeftPoints:'+1.5',
-                homeRightPoints:'+1.5',
+                homeRightPoints:'+2.5',
                 homeRatio:19
             },{
                 time:'Sat 10/23, 7:30 AM',
@@ -816,11 +816,11 @@ export const myData = [
                 time:'Sat 10/23, 9:00 AM',
                 awayName:'spurs',
                 awayLeftPoints:'+8.0',
-                awayRightPoints:'+7.5',
+                awayRightPoints:'+7.0',
                 awayRatio:33,
                 homeName:'nuggets',
                 homeLeftPoints:'-8.0',
-                homeRightPoints:'-7.5',
+                homeRightPoints:'-7.0',
                 homeRatio:67
             },{
                 time:'Sat 10/23, 10:00 AM',
