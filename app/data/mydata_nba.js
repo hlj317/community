@@ -150,7 +150,7 @@ const nbaData = {
     ],
     //印第安纳步行者
     pacers:[
-        {{
+        {
             'name':'柯兰.马丁',
             'status':'缺阵',
             'detail':'腿部受伤，无法出战',
