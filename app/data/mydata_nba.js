@@ -176,8 +176,8 @@ const nbaData = {
             'important':false
         },{
             'name':'巴图姆',
-            'status':'缺阵',
-            'detail':'个人原因，无法出战揭幕战',
+            'status':'复出',
+            'detail':'出战周日对阵灰熊的比赛',
             'important':false
         },{
             'name':'伊巴卡',
@@ -237,6 +237,16 @@ const nbaData = {
     //迈阿密热火
     heat:[
         {
+            'name':'戴德蒙',
+            'status':'出战存疑',
+            'detail':'腿部受伤，每日观察',
+            'important':false
+        },{
+            'name':'洛瑞',
+            'status':'出战存疑',
+            'detail':'腿部受伤，每日观察',
+            'important':true
+        },{
             'name':'奥拉迪波',
             'status':'长期缺阵',
             'detail':'股四头肌受伤，归期未定',
@@ -257,12 +267,12 @@ const nbaData = {
         {
             'name':'洛佩兹',
             'status':'缺阵',
-            'detail':'背部受伤，无法出战周五对阵热火的比赛',
+            'detail':'背部受伤，无法出战周日对阵马刺的比赛',
             'important':false
         },{
             'name':'霍乐迪',
-            'status':'缺阵',
-            'detail':'轻微扭伤，无法出战周五对阵热火的比赛',
+            'status':'出战存疑',
+            'detail':'轻微扭伤，每日观察',
             'important':true
         },{
             'name':'赛米.奥杰莱伊',
@@ -271,8 +281,8 @@ const nbaData = {
             'important':false
         },{
             'name':'罗德尼.胡德',
-            'status':'缺阵',
-            'detail':'腿部受伤，无法出战周五对阵热火的比赛',
+            'status':'出战存疑',
+            'detail':'腿部受伤，每日观察',
             'important':false
         },{
             'name':'波蒂斯',
@@ -400,8 +410,8 @@ const nbaData = {
     blazers:[
         {
             'name':'斯内尔',
-            'status':'出战存疑',
-            'detail':'腿部受伤，每日观察',
+            'status':'缺阵',
+            'detail':'腿部受伤，无法出战',
             'important':false
         }     
     ],
@@ -437,13 +447,8 @@ const nbaData = {
     raptors:[
         {
             'name':'渡边雄太',
-            'status':'缺阵',
-            'detail':'小腿受伤，无法出战',
-            'important':false
-        },{
-            'name':'克里斯.布歇',
-            'status':'复出',
-            'detail':'可以出场周六对阵凯尔特人的比赛',
+            'status':'出战存疑',
+            'detail':'小腿受伤，每日观察',
             'important':false
         },{
             'name':'西亚卡姆',
