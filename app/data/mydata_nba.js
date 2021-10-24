@@ -16,19 +16,9 @@ const nbaData = {
     //波士顿凯尔特人
     celtics:[
         {
-            'name':'AI.霍福德',
-            'status':'缺阵',
-            'detail':'腿部受伤，无法出战',
-            'important':false
-        },{
-            'name':'斯马特',
+            'name':'杰伦.布朗',
             'status':'出战存疑',
-            'detail':'右膝受伤，每日观察',
-            'important':false
-        },{
-            'name':'约什.理查德森',
-            'status':'出战存疑',
-            'detail':'腿部受伤，每日观察',
+            'detail':'膝盖受伤，每日观察',
             'important':false
         }
     ],
@@ -45,8 +35,8 @@ const nbaData = {
     hornets:[
         {
             'name':'罗齐尔',
-            'status':'复出',
-            'detail':'脚踝受伤，出战周六对阵骑士的比赛',
+            'status':'出战存疑',
+            'detail':'脚踝受伤，每日观察',
             'important':true
         }
     ],
@@ -118,6 +108,11 @@ const nbaData = {
     //金州勇士
     warriors:[
         {
+            'name':'伊戈达拉',
+            'status':'出战存疑',
+            'detail':'臀部受伤，无法出战',
+            'important':false
+        },{
             'name':'库明加',
             'status':'缺阵',
             'detail':'腿部受伤，无法出战',
@@ -138,8 +133,8 @@ const nbaData = {
     rockets:[
         {
             'name':'马修斯',
-            'status':'缺阵',
-            'detail':'脚踝受伤，无法出战',
+            'status':'出战存疑',
+            'detail':'脚踝受伤，每日观察',
             'important':false
         },{
             'name':'约翰.沃尔',
@@ -362,13 +357,13 @@ const nbaData = {
     seven6ers:[
         {
             'name':'恩比德',
-            'status':'出战',
-            'detail':'右膝受伤，出战周六对阵篮网的比赛',
+            'status':'出战存疑',
+            'detail':'右膝受伤，每日观察',
             'important':true
         },{
-            'name':'米尔顿',
-            'status':'缺阵',
-            'detail':'腿部受伤，无法出战',
+            'name':'德拉蒙德',
+            'status':'出战存疑',
+            'detail':'右脚踝受伤，每日观察',
             'important':false
         },{
             'name':'格兰特.瑞',
@@ -385,9 +380,9 @@ const nbaData = {
     //菲尼克斯太阳
     suns:[
         {
-            'name':'沙梅特',
-            'status':'大概率出战',
-            'detail':'伤情好转，大概率出战周日对阵开拓者的比赛',
+            'name':'佩恩',
+            'status':'缺阵',
+            'detail':'腿部受伤，无法出战',
             'important':false
         },{
             'name':'沙里奇',

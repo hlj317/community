@@ -934,4 +934,73 @@ export const myData = [
             }
         ]
     },
+
+
+    //10月25日
+    {
+        date: 'Mon Oct 25',
+        list: [
+            {
+                time:'Mon 10/25, 4:00 AM',
+                awayName:'hornets',
+                awayLeftPoints:'+8.5',
+                awayRightPoints:'+8.5',
+                awayRatio:26,
+                homeName:'nets',
+                homeLeftPoints:'-8.5',
+                homeRightPoints:'-8.5',
+                homeRatio:74
+            },{
+                time:'Mon 10/25, 7:00 AM',
+                awayName:'seven6ers',
+                awayLeftPoints:'-8.5',
+                awayRightPoints:'-8.5',
+                awayRatio:90,
+                homeName:'thunder',
+                homeLeftPoints:'+8.5',
+                homeRightPoints:'+8.5',
+                homeRatio:10
+            },{
+                time:'Mon 10/25, 7:00 AM',
+                awayName:'celtics',
+                awayLeftPoints:'-6.0',
+                awayRightPoints:'-6.0',
+                awayRatio:89,
+                homeName:'rockets',
+                homeLeftPoints:'+6.0',
+                homeRightPoints:'+6.0',
+                homeRatio:11
+            },{
+                time:'Mon 10/25, 7:00 AM',
+                awayName:'magic',
+                awayLeftPoints:'+12.0',
+                awayRightPoints:'+12.0',
+                awayRatio:27,
+                homeName:'knicks',
+                homeLeftPoints:'-12.0',
+                homeRightPoints:'-12.0',
+                homeRatio:73
+            },{
+                time:'Mon 10/25, 9:00 AM',
+                awayName:'warrios',
+                awayLeftPoints:'-3.0',
+                awayRightPoints:'-3.5',
+                awayRatio:72,
+                homeName:'kings',
+                homeLeftPoints:'+3.0',
+                homeRightPoints:'+3.5',
+                homeRatio:28
+            },{
+                time:'Mon 10/25, 9:30 AM',
+                awayName:'grizzlies',
+                awayLeftPoints:'+6.0',
+                awayRightPoints:'+6.0',
+                awayRatio:17,
+                homeName:'lakers',
+                homeLeftPoints:'-6.0',
+                homeRightPoints:'-6.0',
+                homeRatio:83
+            }
+        ]
+    }
 ]
