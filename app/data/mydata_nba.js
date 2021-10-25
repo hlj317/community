@@ -17,13 +17,13 @@ const nbaData = {
     celtics:[
         {
             'name':'兰福德',
-            'status':'缺阵',
-            'detail':'腿部受伤，无法出战周一对阵火箭的比赛',
+            'status':'出战存疑',
+            'detail':'腿部受伤，每日观察',
             'important':false
         },{
             'name':'杰伦.布朗',
-            'status':'缺阵',
-            'detail':'膝盖受伤，无法出战周一对阵火箭的比赛',
+            'status':'出战存疑',
+            'detail':'膝盖受伤，每日观察',
             'important':true
         }
     ],
@@ -53,6 +53,11 @@ const nbaData = {
     //芝加哥公牛
     bulls:[
         {
+            'name':'武切维奇',
+            'status':'出战存疑',
+            'detail':'感冒生病，每日观察',
+            'important':true
+        },{
             'name':'科比.怀特',
             'status':'长期缺阵',
             'detail':'肩部伤势，预计11月份回归球队',
@@ -94,6 +99,11 @@ const nbaData = {
     //底特律活塞
     pistons:[
         {
+            'name':'格兰特',
+            'status':'缺阵',
+            'detail':'左肘伤势，每日观察',
+            'important':true
+        },{
             'name':'克里斯.史密斯',
             'status':'缺阵',
             'detail':'左膝受伤，无法出战',
