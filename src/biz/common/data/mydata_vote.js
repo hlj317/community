@@ -1054,21 +1054,21 @@ export const myData = [
                 awayName:'bulls',
                 awayLeftPoints:'-2.5',
                 awayRightPoints:'-2.5',
-                awayRatio:88,
+                awayRatio:83,
                 homeName:'raptors',
                 homeLeftPoints:'+2.5',
                 homeRightPoints:'+2.5',
-                homeRatio:12
+                homeRatio:17
             },{
                 time:'Tue 10/26, 7:30 AM',
                 awayName:'pistons',
                 awayLeftPoints:'+11.0',
                 awayRightPoints:'+10.5',
-                awayRatio:37,
+                awayRatio:25,
                 homeName:'hawks',
                 homeLeftPoints:'-11.0',
                 homeRightPoints:'-10.5',
-                homeRatio:63
+                homeRatio:75
             },{
                 time:'Tue 10/26, 8:00 AM',
                 awayName:'pelicans',

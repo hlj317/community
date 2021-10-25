@@ -3,8 +3,8 @@ const nbaData = {
     hawks:[
         {
             'name':'加里纳利',
-            'status':'缺阵',
-            'detail':'腿部受伤，无法出战',
+            'status':'出战存疑',
+            'detail':'腿部受伤，每日观察',
             'important':false
         },{
             'name':'奥孔古',
@@ -45,8 +45,8 @@ const nbaData = {
     hornets:[
         {
             'name':'罗齐尔',
-            'status':'缺阵',
-            'detail':'脚踝受伤，无法出战',
+            'status':'出战存疑',
+            'detail':'脚踝受伤，每日观察',
             'important':true
         }
     ],
@@ -56,11 +56,6 @@ const nbaData = {
             'name':'科比.怀特',
             'status':'长期缺阵',
             'detail':'肩部伤势，预计11月份回归球队',
-            'important':false
-        },{
-            'name':'帕特里克.威廉姆斯',
-            'status':'出战存疑',
-            'detail':'肩部伤势，每日观察',
             'important':false
         }
     ],
@@ -73,8 +68,8 @@ const nbaData = {
             'important':false
         },{
             'name':'加兰',
-            'status':'缺阵',
-            'detail':'腿部受伤，无法出战',
+            'status':'出战存疑',
+            'detail':'腿部受伤，每日观察',
             'important':false
         }       
     ],
@@ -158,7 +153,7 @@ const nbaData = {
         },{
             'name':'勒维尔',
             'status':'缺阵',
-            'detail':'腿部受伤，无法出战',
+            'detail':'背部受伤，无法出战',
             'important':true
         },{
             'name':'TJ.沃伦',
@@ -173,11 +168,6 @@ const nbaData = {
             'name':'基恩.约翰逊',
             'status':'出战存疑',
             'detail':'身体不适，每日观察',
-            'important':false
-        },{
-            'name':'巴图姆',
-            'status':'复出',
-            'detail':'出战周日对阵灰熊的比赛',
             'important':false
         },{
             'name':'伊巴卡',
@@ -233,8 +223,8 @@ const nbaData = {
     heat:[
         {
             'name':'洛瑞',
-            'status':'缺阵',
-            'detail':'腿部受伤，无法出战',
+            'status':'出战存疑',
+            'detail':'腿部受伤，每日观察',
             'important':true
         },{
             'name':'奥拉迪波',
@@ -257,12 +247,12 @@ const nbaData = {
         {
             'name':'洛佩兹',
             'status':'缺阵',
-            'detail':'背部受伤，无法出战周日对阵马刺的比赛',
+            'detail':'背部受伤，无法出战周二对阵步行者的比赛',
             'important':false
         },{
             'name':'霍乐迪',
-            'status':'复出',
-            'detail':'轻微扭伤，可以出战周日对阵马刺的比赛',
+            'status':'出战存疑',
+            'detail':'轻微扭伤，每日观察',
             'important':true
         },{
             'name':'赛米.奥杰莱伊',
@@ -370,8 +360,8 @@ const nbaData = {
     suns:[
         {
             'name':'佩恩',
-            'status':'缺阵',
-            'detail':'腿部受伤，无法出战',
+            'status':'出战存疑',
+            'detail':'腿部受伤，每日观察',
             'important':false
         },{
             'name':'沙里奇',
@@ -383,6 +373,11 @@ const nbaData = {
     //波特兰开拓者
     blazers:[
         {
+            'name':'诺曼.鲍威尔',
+            'status':'缺阵',
+            'detail':'腿部受伤，无法出战',
+            'important':true
+        },{
             'name':'斯内尔',
             'status':'缺阵',
             'detail':'腿部受伤，无法出战',
@@ -392,9 +387,9 @@ const nbaData = {
     //萨克拉门托国王
     kings:[
         {
-            'name':'哈克里斯',
+            'name':'巴格利',
             'status':'出战存疑',
-            'detail':'腿部受伤，每日观察',
+            'detail':'身体不适，每日观察',
             'important':false
         }
     ],
@@ -402,8 +397,8 @@ const nbaData = {
     spurs:[
         {
             'name':'科考克',
-            'status':'缺阵',
-            'detail':'脚踝受伤，无法出战',
+            'status':'出战存疑',
+            'detail':'脚踝受伤，每日观察',
             'important':false
         },{
             'name':'查克.科林斯',
@@ -439,13 +434,13 @@ const nbaData = {
     wizards:[
         {
             'name':'比尔',
-            'status':'缺阵',
-            'detail':'臀部受伤，无法出战',
+            'status':'出战存疑',
+            'detail':'臀部受伤，每日观察',
             'important':true
         },{
             'name':'安东尼.吉尔',
-            'status':'出战存疑',
-            'detail':'腿部受伤，每日观察',
+            'status':'缺阵',
+            'detail':'腿部受伤，无法出战',
             'important':false
         },{
             'name':'卡修斯.温斯顿',
