@@ -1043,11 +1043,11 @@ export const myData = [
                 time:'Tue 10/26, 7:30 AM',
                 awayName:'wizards',
                 awayLeftPoints:'+8.5',
-                awayRightPoints:'+8.5',
+                awayRightPoints:'+7.5',
                 awayRatio:55,
                 homeName:'nets',
                 homeLeftPoints:'-8.5',
-                homeRightPoints:'-8.5',
+                homeRightPoints:'-7.5',
                 homeRatio:45
             },{
                 time:'Tue 10/26, 7:30 AM',
@@ -1073,11 +1073,11 @@ export const myData = [
                 time:'Tue 10/26, 8:00 AM',
                 awayName:'pelicans',
                 awayLeftPoints:'+5.5',
-                awayRightPoints:'+6.0',
+                awayRightPoints:'+5.5',
                 awayRatio:28,
                 homeName:'timberwolves',
                 homeLeftPoints:'-5.5',
-                homeRightPoints:'-6.0',
+                homeRightPoints:'-5.5',
                 homeRatio:72
             },{
                 time:'Tue 10/26, 9:00 AM',
