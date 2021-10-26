@@ -1112,51 +1112,51 @@ export const myData = [
                 awayName:'seven6ers',
                 awayLeftPoints:'+1.0',
                 awayRightPoints:'+1.5',
-                awayRatio:43,
+                awayRatio:55,
                 homeName:'knicks',
                 homeLeftPoints:'-1.0',
                 homeRightPoints:'-1.5',
-                homeRatio:57
+                homeRatio:45
             },{
                 time:'Wed 10/27, 8:00 AM',
                 awayName:'warriors',
                 awayLeftPoints:'-9.0',
                 awayRightPoints:'-9.0',
-                awayRatio:71,
+                awayRatio:90,
                 homeName:'thunder',
                 homeLeftPoints:'+9.0',
                 homeRightPoints:'+9.0',
-                homeRatio:29
+                homeRatio:10
             },{
                 time:'Wed 10/27, 8:30 AM',
                 awayName:'lakers',
                 awayLeftPoints:'-4.0',
                 awayRightPoints:'-4.5',
-                awayRatio:39,
+                awayRatio:62,
                 homeName:'spurs',
                 homeLeftPoints:'+4.0',
                 homeRightPoints:'+4.5',
-                homeRatio:61
+                homeRatio:38
             },{
                 time:'Wed 10/27, 8:30 AM',
                 awayName:'rockets',
                 awayLeftPoints:'+11.0',
                 awayRightPoints:'+11.0',
-                awayRatio:49,
+                awayRatio:27,
                 homeName:'mavericks',
                 homeLeftPoints:'-11.0',
                 homeRightPoints:'-11.0',
-                homeRatio:51
+                homeRatio:73
             },{
                 time:'Wed 10/27, 10:00 AM',
                 awayName:'nuggets',
                 awayLeftPoints:'+7.0',
                 awayRightPoints:'+7.5',
-                awayRatio:77,
+                awayRatio:40,
                 homeName:'jazz',
                 homeLeftPoints:'-7.0',
                 homeRightPoints:'-7.5',
-                homeRatio:23
+                homeRatio:60
             }
         ]
     }
