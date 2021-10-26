@@ -1111,11 +1111,11 @@ export const myData = [
                 time:'Wed 10/27, 7:30 AM',
                 awayName:'seven6ers',
                 awayLeftPoints:'+1.0',
-                awayRightPoints:'+1.5',
+                awayRightPoints:'+1.0',
                 awayRatio:55,
                 homeName:'knicks',
                 homeLeftPoints:'-1.0',
-                homeRightPoints:'-1.5',
+                homeRightPoints:'-1.0',
                 homeRatio:45
             },{
                 time:'Wed 10/27, 8:00 AM',
