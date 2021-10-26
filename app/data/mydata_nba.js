@@ -139,8 +139,8 @@ const nbaData = {
     warriors:[
         {
             'name':'伊戈达拉',
-            'status':'缺阵',
-            'detail':'臀部受伤，无法出战周一对阵国王的比赛',
+            'status':'大概率出战',
+            'detail':'臀部受伤，大概率出战周三对阵雷霆的比赛',
             'important':false
         },{
             'name':'库明加',

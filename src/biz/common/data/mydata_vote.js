@@ -1111,52 +1111,52 @@ export const myData = [
                 time:'Wed 10/27, 7:30 AM',
                 awayName:'seven6ers',
                 awayLeftPoints:'+1.0',
-                awayRightPoints:'+1.0',
-                awayRatio:55,
+                awayRightPoints:'+1.5',
+                awayRatio:40,
                 homeName:'knicks',
                 homeLeftPoints:'-1.0',
-                homeRightPoints:'-1.0',
-                homeRatio:45
+                homeRightPoints:'-1.5',
+                homeRatio:60
             },{
                 time:'Wed 10/27, 8:00 AM',
                 awayName:'warriors',
                 awayLeftPoints:'-9.0',
                 awayRightPoints:'-9.0',
-                awayRatio:90,
+                awayRatio:80,
                 homeName:'thunder',
                 homeLeftPoints:'+9.0',
                 homeRightPoints:'+9.0',
-                homeRatio:10
+                homeRatio:20
             },{
                 time:'Wed 10/27, 8:30 AM',
                 awayName:'lakers',
                 awayLeftPoints:'-4.0',
-                awayRightPoints:'-4.5',
-                awayRatio:62,
+                awayRightPoints:'-2.5',
+                awayRatio:63,
                 homeName:'spurs',
                 homeLeftPoints:'+4.0',
-                homeRightPoints:'+4.5',
-                homeRatio:38
+                homeRightPoints:'+2.5',
+                homeRatio:37
             },{
                 time:'Wed 10/27, 8:30 AM',
                 awayName:'rockets',
                 awayLeftPoints:'+11.0',
-                awayRightPoints:'+11.0',
-                awayRatio:27,
+                awayRightPoints:'+10.5',
+                awayRatio:37,
                 homeName:'mavericks',
                 homeLeftPoints:'-11.0',
-                homeRightPoints:'-11.0',
-                homeRatio:73
+                homeRightPoints:'-10.5',
+                homeRatio:63
             },{
                 time:'Wed 10/27, 10:00 AM',
                 awayName:'nuggets',
                 awayLeftPoints:'+7.0',
-                awayRightPoints:'+7.5',
-                awayRatio:40,
+                awayRightPoints:'+7.0',
+                awayRatio:46,
                 homeName:'jazz',
                 homeLeftPoints:'-7.0',
-                homeRightPoints:'-7.5',
-                homeRatio:60
+                homeRightPoints:'-7.0',
+                homeRatio:54
             }
         ]
     }
