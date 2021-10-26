@@ -214,6 +214,12 @@ const nbaData = {
     //洛杉矶湖人
     lakers:[
         {
+            'name':'詹姆斯',
+            'status':'出战存疑',
+            'detail':'右脚踝扭伤，每日观察',
+            'important':true
+        },
+        {
             'name':'艾灵顿',
             'status':'缺阵',
             'detail':'腿部受伤，无法出战',
@@ -365,8 +371,13 @@ const nbaData = {
     //费城76人
     seven6ers:[
         {
+            'name':'恩比德',
+            'status':'出战存疑',
+            'detail':'膝盖伤势，出战存疑',
+            'important':true
+        },{
             'name':'德拉蒙德',
-            'status':'缺阵',
+            'status':'出战存疑',
             'detail':'右脚踝受伤，无法出战',
             'important':false
         },{
@@ -458,10 +469,10 @@ const nbaData = {
     //华盛顿奇才
     wizards:[
         {
-            'name':'比尔',
-            'status':'复出',
-            'detail':'可以出战周二对阵篮网的比赛',
-            'important':true
+            'name':'内托',
+            'status':'出战存疑',
+            'detail':'腿部伤势，每日观察',
+            'important':false
         },{
             'name':'安东尼.吉尔',
             'status':'缺阵',
