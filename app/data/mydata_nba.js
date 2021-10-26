@@ -105,6 +105,11 @@ const nbaData = {
     //丹佛掘金
     nuggets:[
         {
+            'name':'多齐尔',
+            'status':'出战存疑',
+            'detail':'腿部受伤，每日观察',
+            'important':false
+        },{
             'name':'贾马尔.默里',
             'status':'长期缺阵',
             'detail':'遭受ACL膝伤，目前没有明确的复出时间',
@@ -215,15 +220,9 @@ const nbaData = {
     lakers:[
         {
             'name':'詹姆斯',
-            'status':'出战存疑',
-            'detail':'右脚踝扭伤，每日观察',
-            'important':true
-        },
-        {
-            'name':'艾灵顿',
             'status':'缺阵',
-            'detail':'腿部受伤，无法出战',
-            'important':false
+            'detail':'右脚踝扭伤，无法出战周三对阵马刺的比赛',
+            'important':true
         },{
             'name':'塔克',
             'status':'长期缺阵',
@@ -372,8 +371,8 @@ const nbaData = {
     seven6ers:[
         {
             'name':'恩比德',
-            'status':'出战存疑',
-            'detail':'膝盖伤势，出战存疑',
+            'status':'出战',
+            'detail':'可以出战周三对阵尼克斯的比赛',
             'important':true
         },{
             'name':'德拉蒙德',
@@ -460,6 +459,11 @@ const nbaData = {
     //犹它爵士
     jazz:[
         {
+            'name':'奥尼',
+            'status':'出战存疑',
+            'detail':'腿部受伤，每日观察',
+            'important':false
+        },{
             'name':'鲁迪.盖伊',
             'status':'长期缺阵',
             'detail':'腿部受伤，目前还没有做好参加新赛季的准备',
