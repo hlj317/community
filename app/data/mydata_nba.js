@@ -66,7 +66,7 @@ const nbaData = {
             'name':'拉文',
             'status':'大概率出战',
             'detail':'拇指韧带撕裂，大概率会带伤出战',
-            'important':false
+            'important':true
         },{
             'name':'科比.怀特',
             'status':'长期缺阵',
