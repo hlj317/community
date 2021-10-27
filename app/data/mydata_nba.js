@@ -3,19 +3,19 @@ const nbaData = {
     hawks:[
         {
             'name':'路易斯.威廉姆斯',
-            'status':'出战存疑',
-            'detail':'右脚踝受伤，每日观察',
+            'status':'缺阵',
+            'detail':'右脚踝受伤，无法出战',
             'important':false
         },{
             'name':'加里纳利',
-            'status':'缺阵',
-            'detail':'肩膀受伤，无法出战周四对阵鹈鹕的比赛',
+            'status':'复出',
+            'detail':'肩膀受伤，可以出战下一场比赛',
             'important':false
         },{
             'name':'亨特',
-            'status':'大概率出战',
-            'detail':'身体好转，大概率出战周四对阵鹈鹕的比赛',
-            'important':true
+            'status':'复出',
+            'detail':'身体好转，可以出战下一场比赛',
+            'important':false
         },{
             'name':'奥孔古',
             'status':'长期缺阵',
@@ -27,19 +27,23 @@ const nbaData = {
     celtics:[
         {
             'name':'霍福德',
-            'status':'出战存疑',
-            'detail':'臀部受伤，每日观察',
+            'status':'复出',
+            'detail':'臀部受伤，可以出战下一场比赛',
             'important':false
         },{
             'name':'兰福德',
-            'status':'出战存疑',
-            'detail':'腿部受伤，每日观察',
+            'status':'缺阵',
+            'detail':'腿部受伤，无法出战',
             'important':false
         }
     ],
     //布鲁克林篮网
     nets:[
         {
+            'name':'克拉克斯顿',
+            'status':'缺阵',
+            'detail':'腿部受伤，无法出战',
+        },{
             'name':'凯里.欧文',
             'status':'缺阵',
             'detail':'由于未打疫苗，不确定何时可以回归球队',
@@ -50,8 +54,8 @@ const nbaData = {
     hornets:[
         {
             'name':'罗齐尔',
-            'status':'出战存疑',
-            'detail':'脚踝受伤，每日观察',
+            'status':'缺阵',
+            'detail':'腿部受伤，无法出战',
             'important':true
         },{
             'name':'PJ.华盛顿',
@@ -95,6 +99,11 @@ const nbaData = {
     //丹佛掘金
     nuggets:[
         {
+            'name':'约基奇',
+            'status':'出战存疑',
+            'detail':'膝盖受伤，每日观察',
+            'important':true
+        },{
             'name':'多齐尔',
             'status':'出战存疑',
             'detail':'腿部受伤，每日观察',
@@ -157,6 +166,11 @@ const nbaData = {
     //休斯顿火箭
     rockets:[
         {
+            'name':'豪斯',
+            'status':'缺阵',
+            'detail':'腿部受伤，无法出战',
+            'important':false
+        },{
             'name':'约翰.沃尔',
             'status':'长期缺阵',
             'detail':'跟球队协商后决定，新赛季不会为火箭出场比赛，但工资照拿',
@@ -215,13 +229,13 @@ const nbaData = {
     lakers:[
         {
             'name':'安东尼.戴维斯',
-            'status':'出战存疑',
-            'detail':'膝盖受伤，每日观察',
+            'status':'大概率出战',
+            'detail':'膝盖受伤，大概率可以出战下一场比赛',
             'important':true
         },{
             'name':'詹姆斯',
-            'status':'出战存疑',
-            'detail':'右脚踝扭伤，每日观察',
+            'status':'缺阵',
+            'detail':'右脚踝扭伤，无法出战',
             'important':true
         },{
             'name':'塔克',
@@ -286,13 +300,13 @@ const nbaData = {
             'important':true
         },{
             'name':'赛米.奥杰莱伊',
-            'status':'缺阵',
-            'detail':'腿部受伤，无法出战',
+            'status':'出战',
+            'detail':'可以出战周四对阵森林狼的比赛',
             'important':false
         },{
             'name':'波蒂斯',
-            'status':'缺阵',
-            'detail':'腿部受伤，无法出战',
+            'status':'出战',
+            'detail':'可以出战周四对阵森林狼的比赛',
             'important':false
         },{
             'name':'迪文琴佐',
@@ -327,20 +341,15 @@ const nbaData = {
     //俄克拉荷马城雷霆
     thunder:[
         {
-            'name':'德里克.费沃斯',
-            'status':'出战存疑',
-            'detail':'腿部受伤，每日观察',
+            'name':'穆斯卡拉',
+            'status':'缺阵',
+            'detail':'腿部受伤，无法出战',
             'important':false
         }     
     ],
     //奥兰多魔术
     magic:[
         {
-            'name':'摩尔',
-            'status':'缺阵',
-            'detail':'腿部受伤，无法出战',
-            'important':false
-        },{
             'name':'楚玛.奥克',
             'status':'缺阵',
             'detail':'臀部受伤，每日观察',
@@ -399,8 +408,8 @@ const nbaData = {
     blazers:[
         {
             'name':'诺曼.鲍威尔',
-            'status':'出战存疑',
-            'detail':'腿部受伤，每日观察',
+            'status':'缺阵',
+            'detail':'腿部受伤，无法出战',
             'important':true
         },{
             'name':'斯内尔',
