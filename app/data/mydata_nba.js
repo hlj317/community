@@ -63,6 +63,11 @@ const nbaData = {
     //芝加哥公牛
     bulls:[
         {
+            'name':'拉文',
+            'status':'大概率出战',
+            'detail':'拇指韧带撕裂，大概率会带伤出战',
+            'important':false
+        },{
             'name':'科比.怀特',
             'status':'长期缺阵',
             'detail':'肩部伤势，预计11月份回归球队',
