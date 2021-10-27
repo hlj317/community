@@ -1218,13 +1218,13 @@ export const myData = [
             },{
                 time:'Thu 10/28, 8:00 AM',
                 awayName:'lakers',
-                awayLeftPoints:'/',
-                awayRightPoints:'/',
-                awayRatio:0,
+                awayLeftPoints:'-8.5',
+                awayRightPoints:'-8.5',
+                awayRatio:65,
                 homeName:'thunder',
-                homeLeftPoints:'/',
-                homeRightPoints:'/',
-                homeRatio:0
+                homeLeftPoints:'+8.5',
+                homeRightPoints:'+8.5',
+                homeRatio:35
             },{
                 time:'Thu 10/28, 8:00 AM',
                 awayName:'timberwolves',
