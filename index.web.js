@@ -76,7 +76,7 @@
         router.all(urlPath, controller);
     }
 
-    开启https服务
+    //开启https服务
     if (process.env.NODE_ENV !== "dev") {
         await server.ssl("./config/6134343_www.cbdyou.com.cn.key", "./config/6134343_www.cbdyou.com.cn.pem");
     }
