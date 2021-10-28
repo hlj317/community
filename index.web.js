@@ -16,7 +16,7 @@
 
     const mysql = require("./app/models/common/mysql.js");
 
-    const port = process.env.NODE_ENV === "dev" ? "2020" : "80";
+    const port = process.env.NODE_ENV === "dev" ? "2020" : "21";
 
     mysql.init();
 
@@ -76,10 +76,10 @@
         router.all(urlPath, controller);
     }
 
-    //开启https服务
-    if (process.env.NODE_ENV !== "dev") {
-        await server.ssl("./config/6134343_www.cbdyou.com.cn.key", "./config/6134343_www.cbdyou.com.cn.pem");
-    }
+    // 开启https服务
+    // if (process.env.NODE_ENV !== "dev") {
+    //     await server.ssl("./config/4689301_m.xiaohuangren.top.key", "./config/4689301_m.xiaohuangren.top.pem");
+    // }
 
     await server.startup(router, port);
 
