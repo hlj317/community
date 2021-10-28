@@ -1267,5 +1267,74 @@ export const myData = [
                 homeRatio:49
             }
         ]
+    },
+
+
+    //10月29日
+    {
+        date: 'Fri Oct 29',
+        list: [
+            {
+                time:'Fri 10/29, 7:00 AM',
+                awayName:'pistons',
+                awayLeftPoints:'+11.5',
+                awayRightPoints:'+10.5',
+                awayRatio:29,
+                homeName:'seven6ers',
+                homeLeftPoints:'-11.5',
+                homeRightPoints:'-10.5',
+                homeRatio:71
+            },{
+                time:'Fri 10/29, 7:00 AM',
+                awayName:'hawks',
+                awayLeftPoints:'-2.5',
+                awayRightPoints:'-1.5',
+                awayRatio:82,
+                homeName:'wizards',
+                homeLeftPoints:'+2.5',
+                homeRightPoints:'+1.5',
+                homeRatio:18
+            },{
+                time:'Fri 10/29, 8:00 AM',
+                awayName:'knicks',
+                awayLeftPoints:'+4.0',
+                awayRightPoints:'+1.5',
+                awayRatio:43,
+                homeName:'bulls',
+                homeLeftPoints:'-4.0',
+                homeRightPoints:'-1.5',
+                homeRatio:57
+            },{
+                time:'Fri 10/29, 8:00 AM',
+                awayName:'jazz',
+                awayLeftPoints:'-9.0',
+                awayRightPoints:'-9.0',
+                awayRatio:84,
+                homeName:'rockets',
+                homeLeftPoints:'+9.0',
+                homeRightPoints:'+9.0',
+                homeRatio:16
+            },{
+                time:'Fri 10/29, 8:30 AM',
+                awayName:'spurs',
+                awayLeftPoints:'+6.5',
+                awayRightPoints:'+6.5',
+                awayRatio:40,
+                homeName:'mavericks',
+                homeLeftPoints:'-6.5',
+                homeRightPoints:'-6.5',
+                homeRatio:60
+            },{
+                time:'Fri 10/29, 10:00 AM',
+                awayName:'grizzlies',
+                awayLeftPoints:'+5.0',
+                awayRightPoints:'+5.5',
+                awayRatio:18,
+                homeName:'warriors',
+                homeLeftPoints:'-5.0',
+                homeRightPoints:'-5.5',
+                homeRatio:82
+            }
+        ]
     }
 ]
