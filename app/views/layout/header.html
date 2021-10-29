@@ -10,14 +10,7 @@
 <script>
     var host = window.location.hostname;
     var _hmt = _hmt || [];
-    var hmSrc = "";
-    if (/cbdyou\.com\.cn/.test(host)) {
-        console.log("cbdyou");
-        hmSrc = "https://hm.baidu.com/hm.js?b0a7434306e8fc3574f2a5ca9606d912";
-    }else{
-        console.log("lancai");
-        hmSrc = "https://hm.baidu.com/hm.js?b56a4019b3b6865c16c78d9ed30ca910";
-    }
+    var hmSrc = "https://hm.baidu.com/hm.js?b0a7434306e8fc3574f2a5ca9606d912";
     (function() {
       var hm = document.createElement("script");
       hm.src = hmSrc;
