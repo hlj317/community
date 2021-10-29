@@ -8,10 +8,19 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
 <script>
+    var host = window.location.hostname;
     var _hmt = _hmt || [];
+    var hmSrc = "";
+    if (/cbdyou\.com\.cn/.test(host)) {
+        console.log("cbdyou");
+        hmSrc = "https://hm.baidu.com/hm.js?b0a7434306e8fc3574f2a5ca9606d912";
+    }else{
+        console.log("lancai");
+        hmSrc = "https://hm.baidu.com/hm.js?b56a4019b3b6865c16c78d9ed30ca910";
+    }
     (function() {
       var hm = document.createElement("script");
-      hm.src = "https://hm.baidu.com/hm.js?b56a4019b3b6865c16c78d9ed30ca910";
+      hm.src = hmSrc;
       var s = document.getElementsByTagName("script")[0]; 
       s.parentNode.insertBefore(hm, s);
     })();
