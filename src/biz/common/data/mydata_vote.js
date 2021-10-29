@@ -1269,7 +1269,6 @@ export const myData = [
         ]
     },
 
-
     //10月29日
     {
         date: 'Fri Oct 29',
@@ -1334,6 +1333,84 @@ export const myData = [
                 homeLeftPoints:'-5.0',
                 homeRightPoints:'-6.0',
                 homeRatio:68
+            }
+        ]
+    },
+
+    //10月30日
+    {
+        date: 'Sat Oct 30',
+        list: [
+            {
+                time:'Sat 10/30, 7:00 AM',
+                awayName:'magic',
+                awayLeftPoints:'+8.0',
+                awayRightPoints:'+8.0',
+                awayRatio:26,
+                homeName:'raptors',
+                homeLeftPoints:'-8.0',
+                homeRightPoints:'-8.0',
+                homeRatio:74
+            },{
+                time:'Sat 10/30, 7:30 AM',
+                awayName:'hornets',
+                awayLeftPoints:'+6.0',
+                awayRightPoints:'+5.5',
+                awayRatio:40,
+                homeName:'heat',
+                homeLeftPoints:'-6.0',
+                homeRightPoints:'-5.5',
+                homeRatio:60
+            },{
+                time:'Sat 10/30, 7:30 AM',
+                awayName:'pacers',
+                awayLeftPoints:'+8.0',
+                awayRightPoints:'+8.5',
+                awayRatio:29,
+                homeName:'nets',
+                homeLeftPoints:'-8.0',
+                homeRightPoints:'-8.5',
+                homeRatio:71
+            },{
+                time:'Sat 10/30, 8:00 AM',
+                awayName:'kings',
+                awayLeftPoints:'-1.0',
+                awayRightPoints:'-2.0',
+                awayRatio:72,
+                homeName:'pelicans',
+                homeLeftPoints:'+1.0',
+                homeRightPoints:'+2.0',
+                homeRatio:28
+            },{
+                time:'Sat 10/30, 10:00 AM',
+                awayName:'mavericks',
+                awayLeftPoints:'+1.5',
+                awayRightPoints:'+1.5',
+                awayRatio:58,
+                homeName:'nuggets',
+                homeLeftPoints:'-1.5',
+                homeRightPoints:'-1.5',
+                homeRatio:42
+            },{
+                time:'Sat 10/30, 10:00 AM',
+                awayName:'clippers',
+                awayLeftPoints:'+4.0',
+                awayRightPoints:'+2.5',
+                awayRatio:44,
+                homeName:'blazers',
+                homeLeftPoints:'-4.0',
+                homeRightPoints:'-2.5',
+                homeRatio:56
+            },{
+                time:'Sat 10/30, 10:30 AM',
+                awayName:'cavaliers',
+                awayLeftPoints:'+8.5',
+                awayRightPoints:'+8.5',
+                awayRatio:67,
+                homeName:'lakers',
+                homeLeftPoints:'-8.5',
+                homeRightPoints:'-8.5',
+                homeRatio:33
             }
         ]
     }
