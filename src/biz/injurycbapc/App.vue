@@ -175,6 +175,11 @@
             width: 100px;                
             height: 40px;
             color:#cccccc;
+            &.selected {               
+                height: 40px;
+                color:#ffffff;
+                background: #cc0000;
+            }
         }
         &.vote-ratio a{
             width: 150px;    
@@ -186,12 +191,6 @@
         color:#333333;
         font-size:14px;
         margin:10px 0 10px 39px;
-    }
-
-    .selected {               
-        height: 40px;
-        color:#ffffff;
-        background: #cc0000;
     }
 
     .injury-page{
