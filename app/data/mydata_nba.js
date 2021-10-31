@@ -45,8 +45,8 @@ const nbaData = {
     hornets:[
         {
             'name':'罗齐尔',
-            'status':'大概率出战',
-            'detail':'大概率可以出战周一与开拓者的比赛',
+            'status':'缺阵',
+            'detail':'脚踝受伤，无法出战周一与开拓者的比赛',
             'important':true
         }
     ],
@@ -99,6 +99,11 @@ const nbaData = {
     //底特律活塞
     pistons:[
         {
+            'name':'凯德.坎宁安',
+            'status':'缺阵',
+            'detail':'右脚踝受伤，无法出战周一与篮网的比赛',
+            'important':true
+        },{
             'name':'克里斯.史密斯',
             'status':'缺阵',
             'detail':'左膝受伤，无法出战',
@@ -133,9 +138,9 @@ const nbaData = {
     rockets:[
         {
             'name':'小波特',
-            'status':'出战存疑',
-            'detail':'脚踝受伤，每日观察',
-            'important':false
+            'status':'复出',
+            'detail':'可以出战周一与湖人的比赛',
+            'important':true
         },{
             'name':'豪斯',
             'status':'缺阵',
@@ -275,6 +280,11 @@ const nbaData = {
     //密尔沃基雄鹿
     bucks:[
         {
+            'name':'米德尔顿',
+            'status':'缺阵',
+            'detail':'身体不适，无法出战周一与爵士的比赛',
+            'important':true
+        },{
             'name':'洛佩兹',
             'status':'缺阵',
             'detail':'背部受伤，无法出战',
@@ -435,14 +445,9 @@ const nbaData = {
     jazz:[
         {
             'name':'康利',
-            'status':'出战存疑',
-            'detail':'腿部受伤，每日观察',
+            'status':'复出',
+            'detail':'可以出战周一与雄鹿的比赛',
             'important':true
-        },{
-            'name':'奥尼',
-            'status':'缺阵',
-            'detail':'腿部受伤，无法出战',
-            'important':false
         },{
             'name':'鲁迪.盖伊',
             'status':'长期缺阵',
