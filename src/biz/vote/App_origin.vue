@@ -79,7 +79,7 @@
     <div class="bottom">
         <div class="bottom-text">
             本网站服务由[篮彩老黑]独家提供&nbsp;&nbsp;&nbsp;&nbsp;浙ICP备17001885号-4<br/>
-            Copyright © 2021 lancailaohei.com 保留一切权利
+            Copyright © 2021 cbdyou.com.cn 保留一切权利
         </div>
         <div class="bottom-qrcode"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/common/lancai_qrcode_plus.jpg" /></div>
     </div>
