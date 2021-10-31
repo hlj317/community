@@ -1543,52 +1543,52 @@ export const myData = [
                 time:'Mon 11/01, 3:30 AM',
                 awayName:'kings',
                 awayLeftPoints:'+5.5',
-                awayRightPoints:'+5.5',
-                awayRatio:61,
+                awayRightPoints:'+4.0',
+                awayRatio:86,
                 homeName:'mavericks',
                 homeLeftPoints:'-5.5',
-                homeRightPoints:'-5.5',
-                homeRatio:39
+                homeRightPoints:'-4.0',
+                homeRatio:14
             },{
                 time:'Mon 11/01, 7:00 AM',
                 awayName:'jazz',
                 awayLeftPoints:'+1.0',
-                awayRightPoints:'+1.0',
-                awayRatio:64,
+                awayRightPoints:'+2.0',
+                awayRatio:36,
                 homeName:'bucks',
                 homeLeftPoints:'-1.0',
-                homeRightPoints:'-1.0',
-                homeRatio:36
+                homeRightPoints:'-2.0',
+                homeRatio:64
             },{
                 time:'Mon 11/01, 7:00 AM',
                 awayName:'blazers',
                 awayLeftPoints:'-1.0',
-                awayRightPoints:'-1.0',
-                awayRatio:55,
+                awayRightPoints:'-1.5',
+                awayRatio:43,
                 homeName:'hornets',
                 homeLeftPoints:'+1.0',
-                homeRightPoints:'+1.0',
-                homeRatio:45
+                homeRightPoints:'+1.5',
+                homeRatio:57
             },{
                 time:'Mon 11/01, 7:30 AM',
                 awayName:'pistons',
                 awayLeftPoints:'+12.5',
-                awayRightPoints:'+12.5',
-                awayRatio:47,
+                awayRightPoints:'+12.0',
+                awayRatio:37,
                 homeName:'nets',
                 homeLeftPoints:'-12.5',
-                homeRightPoints:'-12.5',
-                homeRatio:53
+                homeRightPoints:'-12.0',
+                homeRatio:63
             },{
                 time:'Mon 11/01, 10:30 AM',
                 awayName:'rockets',
                 awayLeftPoints:'+12.0',
-                awayRightPoints:'+12.5',
-                awayRatio:41,
+                awayRightPoints:'+11.0',
+                awayRatio:45,
                 homeName:'lakers',
                 homeLeftPoints:'-12.0',
-                homeRightPoints:'-12.5',
-                homeRatio:59
+                homeRightPoints:'-11.0',
+                homeRatio:55
             }
         ]
     }

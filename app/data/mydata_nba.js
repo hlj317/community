@@ -27,7 +27,7 @@ const nbaData = {
         {
             'name':'米尔萨普',
             'status':'轮休',
-            'detail':'周一与活塞的比赛大概率轮休',
+            'detail':'周一与活塞的比赛轮休',
             'important':false
         },{
             'name':'克拉克斯顿',
@@ -45,8 +45,8 @@ const nbaData = {
     hornets:[
         {
             'name':'罗齐尔',
-            'status':'缺阵',
-            'detail':'腿部受伤，无法出战',
+            'status':'大概率出战',
+            'detail':'大概率可以出战周一与开拓者的比赛',
             'important':true
         }
     ],
