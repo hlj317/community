@@ -157,8 +157,8 @@ const nbaData = {
     pacers:[
         {
             'name':'布罗格登',
-            'status':'缺阵',
-            'detail':'腿部肌腱受伤，无法出战',
+            'status':'出战存疑',
+            'detail':'腿部肌腱受伤，每日观察',
             'important':true
         },{
             'name':'以赛亚.杰克逊',
@@ -171,9 +171,14 @@ const nbaData = {
             'detail':'腿部受伤，无法出战',
             'important':false
         },{
+            'name':'兰姆',
+            'status':'出战存疑',
+            'detail':'腿部受伤，每日观察',
+            'important':false
+        },{
             'name':'勒维尔',
-            'status':'复出',
-            'detail':'可以出战周日与猛龙的比赛',
+            'status':'出战存疑',
+            'detail':'腿部受伤，每日观察',
             'important':true
         },{
             'name':'TJ.沃伦',
@@ -188,11 +193,6 @@ const nbaData = {
             'name':'马库斯.莫里斯',
             'status':'缺阵',
             'detail':'膝盖受伤，无法出战',
-            'important':false
-        },{
-            'name':'基恩.约翰逊',
-            'status':'缺阵',
-            'detail':'身体不适，无法出战',
             'important':false
         },{
             'name':'伊巴卡',
@@ -214,22 +214,12 @@ const nbaData = {
     //洛杉矶湖人
     lakers:[
         {
-            'name':'安东尼.戴维斯',
-            'status':'出战存疑',
-            'detail':'膝盖受伤，每日观察',
-            'important':true
-        },{
-            'name':'詹姆斯',
-            'status':'出战存疑',
-            'detail':'右脚踝扭伤，每日观察',
-            'important':true
-        },{
             'name':'塔克',
             'status':'长期缺阵',
             'detail':'拇指韧带撕裂，将接受手术',
             'important':false
         },{
-            'name':'埃灵顿',
+            'name':'霍华德',
             'status':'缺阵',
             'detail':'腿部受伤，无法出战',
             'important':false
@@ -341,6 +331,11 @@ const nbaData = {
     //奥兰多魔术
     magic:[
         {
+            'name':'加里.哈里斯',
+            'status':'出战存疑',
+            'detail':'腿部受伤，每日观察',
+            'important':false
+        },{
             'name':'摩尔',
             'status':'缺阵',
             'detail':'腿部受伤，无法出战',
