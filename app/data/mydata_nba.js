@@ -12,13 +12,13 @@ const nbaData = {
     celtics:[
         {
             'name':'罗伯特.威廉姆斯',
-            'status':'出战存疑',
-            'detail':'腿部受伤，每日观察',
+            'status':'大概率出战',
+            'detail':'大概率可以出战周二与公牛的比赛',
             'important':false
         },{
             'name':'斯马特',
-            'status':'出战存疑',
-            'detail':'身体不适，每日观察',
+            'status':'大概率出战',
+            'detail':'大概率可以出战周二与公牛的比赛',
             'important':true
         }
     ],
