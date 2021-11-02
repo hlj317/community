@@ -1689,5 +1689,63 @@ export const myData = [
                 homeRatio:49
             }
         ]
+    },
+
+    //11月03日
+    {
+        date: 'Wed Nov 03',
+        list: [
+            {
+                time:'Wed 11/03, 7:00 AM',
+                awayName:'bucks',
+                awayLeftPoints:'-5.0',
+                awayRightPoints:'-5.0',
+                awayRatio:79,
+                homeName:'pistons',
+                homeLeftPoints:'+5.0',
+                homeRightPoints:'+5.0',
+                homeRatio:21
+            },{
+                time:'Wed 11/03, 7:30 AM',
+                awayName:'heat',
+                awayLeftPoints:'+1.5',
+                awayRightPoints:'+1.5',
+                awayRatio:72,
+                homeName:'mavericks',
+                homeLeftPoints:'-1.5',
+                homeRightPoints:'-1.5',
+                homeRatio:28
+            },{
+                time:'Wed 11/03, 9:00 AM',
+                awayName:'kings',
+                awayLeftPoints:'+10.0',
+                awayRightPoints:'+9.0',
+                awayRatio:33,
+                homeName:'jazz',
+                homeLeftPoints:'-10.0',
+                homeRightPoints:'-9.0',
+                homeRatio:67
+            },{
+                time:'Wed 11/03, 10:00 AM',
+                awayName:'pelicans',
+                awayLeftPoints:'+10.0',
+                awayRightPoints:'+10.0',
+                awayRatio:39,
+                homeName:'suns',
+                homeLeftPoints:'-10.0',
+                homeRightPoints:'-10.0',
+                homeRatio:61
+            },{
+                time:'Wed 11/03, 10:30 AM',
+                awayName:'rockets',
+                awayLeftPoints:'+11.0',
+                awayRightPoints:'+11.0',
+                awayRatio:42,
+                homeName:'lakers',
+                homeLeftPoints:'-11.0',
+                homeRightPoints:'-11.0',
+                homeRatio:58
+            }
+        ]
     }
 ]
