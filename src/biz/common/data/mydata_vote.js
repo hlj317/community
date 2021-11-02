@@ -1665,7 +1665,7 @@ export const myData = [
                 awayRatio:30,
                 homeName:'timberwolves',
                 homeLeftPoints:'-9.0',
-                homeRightPoints:'-8。5',
+                homeRightPoints:'-8.5',
                 homeRatio:70
             },{
                 time:'Tue 11/02, 8:00 AM',
