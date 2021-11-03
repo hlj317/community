@@ -531,10 +531,12 @@ img{
 .bottom-text{
     float:left;
     margin:40 / @b 0 0 30 / @b;
+    width:560 / @b;
     line-height: 35 / @b;
 }
 .bottom-qrcode{
     float:right;
+    width:130/ @b;
     margin:0 20 / @b 0 0;
 }
 .bottom-qrcode img{

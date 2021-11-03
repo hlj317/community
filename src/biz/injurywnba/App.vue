@@ -83,6 +83,7 @@
 
     .portait-img{
         float:left;
+        width:70 / @b;
         img{
             width:60 / @b;
             height:60 / @b;
@@ -91,7 +92,7 @@
 
     .portait-text{
         float:left;
-        margin-left:10 / @b;
+        width:640 / @b;
     }
 
     .text-name{
@@ -257,10 +258,12 @@
     .bottom-text{
         float:left;
         margin:40 / @b 0 0 30 / @b;
+        width:560 / @b;
         line-height: 35 / @b;
     }
     .bottom-qrcode{
         float:right;
+        width:130/ @b;
         margin:0 20 / @b 0 0;
     }
     .bottom-qrcode img{

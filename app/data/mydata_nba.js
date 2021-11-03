@@ -319,7 +319,7 @@ const nbaData = {
             'detail':'腿部受伤，无法出战',
             'important':false
         },{
-            'name':'锡安.威廉姆森',
+            'name':'锡安.威廉森',
             'status':'缺阵',
             'detail':'腿部受伤，无法出战',
             'important':true
@@ -460,7 +460,7 @@ const nbaData = {
     //多伦多猛龙
     raptors:[
         {
-            'name':'斯科特.巴恩斯',
+            'name':'巴恩斯',
             'status':'缺阵',
             'detail':'腿部受伤，无法出战周四与奇才的比赛',
             'important':true
