@@ -82,8 +82,8 @@ const nbaData = {
     mavericks:[
         {
             'name':'波尔津吉斯',
-            'status':'出战存疑',
-            'detail':'背部受伤，每日观察',
+            'status':'大概率缺阵',
+            'detail':'背部受伤，大概率缺阵',
             'important':true
         },{
             'name':'克勒贝尔',
@@ -314,6 +314,11 @@ const nbaData = {
             'detail':'臀部受伤，每日观察',
             'important':true
         },{
+            'name':'赫伯特.琼斯',
+            'status':'出战存疑',
+            'detail':'出现脑震荡症状，每日观察',
+            'important':false
+        },{
             'name':'达顿.霍姆斯',
             'status':'缺阵',
             'detail':'腿部受伤，无法出战',
@@ -381,8 +386,8 @@ const nbaData = {
     seven6ers:[
         {
             'name':'恩比德',
-            'status':'大概率出战',
-            'detail':'大概率可以出战周四与公牛的比赛',
+            'status':'出战',
+            'detail':'可以出战周四与公牛的比赛',
             'important':true
         },{
             'name':'丹尼.格林',
