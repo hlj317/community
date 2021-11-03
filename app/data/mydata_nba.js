@@ -338,7 +338,7 @@ const nbaData = {
             'status':'缺阵',
             'detail':'腿部受伤，无法出战',
             'important':false
-        }  {
+        },{
             'name':'锡安.威廉姆森',
             'status':'缺阵',
             'detail':'腿部受伤，无法出战',
