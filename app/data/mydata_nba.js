@@ -3,13 +3,13 @@ const nbaData = {
     hawks:[
         {
             'name':'特雷杨',
-            'status':'大概率出战',
-            'detail':'右膝酸痛，每日观察',
+            'status':'出战',
+            'detail':'可以出战周四与篮网的比赛',
             'important':true
         },{
             'name':'科林斯',
-            'status':'出战存疑',
-            'detail':'腿部受伤，每日观察',
+            'status':'出战',
+            'detail':'可以出战周四与篮网的比赛',
             'important':true
         },{
             'name':'奥孔古',
@@ -45,8 +45,8 @@ const nbaData = {
     hornets:[
         {
             'name':'罗齐尔',
-            'status':'大概率出战',
-            'detail':'大概率可以出战周四与勇士的比赛',
+            'status':'出战',
+            'detail':'可以出战周四与勇士的比赛',
             'important':true
         }
     ],
@@ -67,6 +67,11 @@ const nbaData = {
     //克利夫兰骑士
     cavaliers:[
         {
+            'name':'马尔坎宁',
+            'status':'缺阵',
+            'detail':'触发健康协议，需要缺阵数场比赛',
+            'important':true
+        },{
             'name':'凯文.乐福',
             'status':'缺阵',
             'detail':'触发健康协议，需要缺阵数场比赛',
@@ -82,8 +87,8 @@ const nbaData = {
     mavericks:[
         {
             'name':'波尔津吉斯',
-            'status':'大概率缺阵',
-            'detail':'背部受伤，大概率缺阵',
+            'status':'缺阵',
+            'detail':'背部受伤，无法出战',
             'important':true
         },{
             'name':'克勒贝尔',
@@ -157,8 +162,8 @@ const nbaData = {
     pacers:[
         {
             'name':'布罗格登',
-            'status':'大概率出战',
-            'detail':'大概率可以出战周四与尼克斯的比赛',
+            'status':'出战',
+            'detail':'可以出战周四与尼克斯的比赛',
             'important':true
         },{
             'name':'以赛亚.杰克逊',
@@ -257,8 +262,8 @@ const nbaData = {
     timberwolves:[
         {
             'name':'贝弗利',
-            'status':'出战存疑',
-            'detail':'腿部受伤，每日观察',
+            'status':'出战',
+            'detail':'可以出战周四与快船的比赛',
             'important':false
         },{
             'name':'拉塞尔',
@@ -334,8 +339,8 @@ const nbaData = {
     knicks:[
         {
             'name':'吉布森',
-            'status':'出战存疑',
-            'detail':'脚踝受伤，每日观察',
+            'status':'大概率出战',
+            'detail':'大概率可以出战周四与步行者的比赛',
             'important':false
         },{
             'name':'诺埃尔',
