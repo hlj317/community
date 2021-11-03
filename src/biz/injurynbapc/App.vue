@@ -351,7 +351,6 @@
 export default {
   data () {
     return {
-        udpatetime : ''
     }
   },
   components: {
