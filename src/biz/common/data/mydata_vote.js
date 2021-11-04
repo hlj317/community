@@ -1896,11 +1896,11 @@ export const myData = [
                 awayName:'jazz',
                 awayLeftPoints:'+1.0',
                 awayRightPoints:'+1.0',
-                awayRatio:72,
+                awayRatio:35,
                 homeName:'hawks',
                 homeLeftPoints:'-1.0',
                 homeRightPoints:'-1.0',
-                homeRatio:28
+                homeRatio:65
             },{
                 time:'Fri 11/05, 10:00 AM',
                 awayName:'rockets',
