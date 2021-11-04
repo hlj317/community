@@ -315,8 +315,8 @@ const nbaData = {
     pelicans:[
         {
             'name':'英格拉姆',
-            'status':'出战存疑',
-            'detail':'臀部受伤，每日观察',
+            'status':'缺阵',
+            'detail':'臀部受伤，无法出战周四对国王的比赛',
             'important':true
         },{
             'name':'赫伯特.琼斯',

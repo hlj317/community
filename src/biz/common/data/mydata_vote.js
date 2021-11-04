@@ -1848,20 +1848,20 @@ export const myData = [
                 awayName:'hornets',
                 awayLeftPoints:'+6.0',
                 awayRightPoints:'+6.0',
-                awayRatio:39,
+                awayRatio:37,
                 homeName:'warriors',
                 homeLeftPoints:'-6.0',
                 homeRightPoints:'-6.0',
-                homeRatio:61
+                homeRatio:63
             },{
                 time:'Thu 11/04, 10:00 AM',
                 awayName:'pelicans',
                 awayLeftPoints:'+5.5',
-                awayRightPoints:'+5.0',
+                awayRightPoints:'+6.0',
                 awayRatio:39,
                 homeName:'kings',
                 homeLeftPoints:'-5.5',
-                homeRightPoints:'-5.0',
+                homeRightPoints:'-6.0',
                 homeRatio:61
             }
         ]
