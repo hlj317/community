@@ -167,8 +167,8 @@ const nbaData = {
             'important':false
         },{
             'name':'兰姆',
-            'status':'缺阵',
-            'detail':'腿部受伤，无法出战周四与尼克斯的比赛',
+            'status':'出战存疑',
+            'detail':'腿部受伤，每日观察',
             'important':false
         },{
             'name':'TJ.沃伦',
@@ -295,8 +295,8 @@ const nbaData = {
     pelicans:[
         {
             'name':'英格拉姆',
-            'status':'缺阵',
-            'detail':'臀部受伤，无法出战',
+            'status':'出战存疑',
+            'detail':'臀部受伤，每日观察',
             'important':true
         },{
             'name':'赫伯特.琼斯',
