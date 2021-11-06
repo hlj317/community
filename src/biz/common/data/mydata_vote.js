@@ -2047,7 +2047,7 @@ export const myData = [
                 homeName:'heat',
                 homeLeftPoints:'-3.5',
                 homeRightPoints:'-2.5',
-                homeRatio:690
+                homeRatio:69
             },{
                 time:'Sun 11/07, 8:00 AM',
                 awayName:'seven6ers',
