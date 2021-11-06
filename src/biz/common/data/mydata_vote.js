@@ -2033,61 +2033,61 @@ export const myData = [
                 awayName:'rockets',
                 awayLeftPoints:'+10.5',
                 awayRightPoints:'+10.5',
-                awayRatio:42,
+                awayRatio:32,
                 homeName:'nuggets',
-                homeLeftPoints:'-10.5',
-                homeRightPoints:'-10.5',
-                homeRatio:58
+                homeLeftPoints:'-11.0',
+                homeRightPoints:'-11.0',
+                homeRatio:68
             },{
                 time:'Sun 11/07, 7:30 AM',
                 awayName:'jazz',
                 awayLeftPoints:'+3.5',
-                awayRightPoints:'+2.5',
-                awayRatio:40,
+                awayRightPoints:'+2.0',
+                awayRatio:26,
                 homeName:'heat',
                 homeLeftPoints:'-3.5',
-                homeRightPoints:'-2.5',
-                homeRatio:69
+                homeRightPoints:'-2.0',
+                homeRatio:74
             },{
                 time:'Sun 11/07, 8:00 AM',
                 awayName:'seven6ers',
                 awayLeftPoints:'+3.0',
-                awayRightPoints:'+3.5',
-                awayRatio:23,
+                awayRightPoints:'+4.0',
+                awayRatio:36,
                 homeName:'bulls',
                 homeLeftPoints:'-3.0',
-                homeRightPoints:'-3.5',
-                homeRatio:77
+                homeRightPoints:'-4.0',
+                homeRatio:64
             },{
                 time:'Sun 11/07, 8:30 AM',
                 awayName:'celtics',
                 awayLeftPoints:'+5.0',
-                awayRightPoints:'+4.5',
-                awayRatio:31,
+                awayRightPoints:'+3.5',
+                awayRatio:59,
                 homeName:'mavericks',
                 homeLeftPoints:'-5.0',
-                homeRightPoints:'-4.5',
-                homeRatio:69
+                homeRightPoints:'-3.5',
+                homeRatio:41
             },{
                 time:'Sun 11/07, 10:00 AM',
                 awayName:'hawks',
                 awayLeftPoints:'+5.0',
-                awayRightPoints:'+4.5',
-                awayRatio:39,
+                awayRightPoints:'+5.0',
+                awayRatio:19,
                 homeName:'suns',
                 homeLeftPoints:'-5.0',
-                homeRightPoints:'-4.5',
-                homeRatio:61
+                homeRightPoints:'-5.0',
+                homeRatio:81
             },{
                 time:'Sun 11/07, 10:30 AM',
                 awayName:'lakers',
                 awayLeftPoints:'+5.0',
-                awayRightPoints:'+3.5',
-                awayRatio:29,
+                awayRightPoints:'+5.5',
+                awayRatio:47,
                 homeName:'blazers',
                 homeLeftPoints:'-5.0',
-                homeRightPoints:'-3.5',
-                homeRatio:71
+                homeRightPoints:'-5.5',
+                homeRatio:53
             }
         ]
     }
