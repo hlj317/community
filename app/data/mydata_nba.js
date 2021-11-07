@@ -162,8 +162,8 @@ const nbaData = {
     pacers:[
         {
             'name':'布罗格登',
-            'status':'出战存疑',
-            'detail':'身体不适，每日观察',
+            'status':'大概率出战',
+            'detail':'大概率可以出战周一对阵国王的比赛',
             'important':true
         },{
             'name':'以赛亚.杰克逊',
