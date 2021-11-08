@@ -191,8 +191,8 @@ const nbaData = {
             'important':false
         },{
             'name':'伊巴卡',
-            'status':'出战存疑',
-            'detail':'伤势好转，每日观察',
+            'status':'复出',
+            'detail':'可以出战周一对阵黄蜂的比赛',
             'important':false
         },{
             'name':'科怀.伦纳德',
