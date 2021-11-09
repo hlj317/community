@@ -200,11 +200,6 @@ const nbaData = {
             'detail':'膝盖受伤，无法出战',
             'important':false
         },{
-            'name':'伊巴卡',
-            'status':'复出',
-            'detail':'可以出战周一对阵黄蜂的比赛',
-            'important':false
-        },{
             'name':'科怀.伦纳德',
             'status':'长期缺阵',
             'detail':'遭受膝盖ACL伤病，预计将缺阵整个赛季',
@@ -310,11 +305,6 @@ const nbaData = {
             'detail':'背部受伤，无法出战',
             'important':false
         },{
-            'name':'格雷森.阿伦',
-            'status':'出战存疑',
-            'detail':'腿部受伤，每日观察',
-            'important':false
-        },{
             'name':'迪文琴佐',
             'status':'缺阵',
             'detail':'腿部受伤，无法出战',
@@ -348,6 +338,11 @@ const nbaData = {
     //纽约尼克斯
     knicks:[
         {
+            'name':'诺埃尔',
+            'status':'出战存疑',
+            'detail':'右膝受伤，每日观察',
+            'important':false
+        },{
             'name':'米切尔.罗宾逊',
             'status':'缺阵',
             'detail':'腿部受伤，无法出战',
@@ -408,11 +403,6 @@ const nbaData = {
             'name':'赛布尔',
             'status':'缺阵',
             'detail':'腿部受伤，无法出战',
-            'important':false
-        },{
-            'name':'丹尼.格林',
-            'status':'出战',
-            'detail':'可以出战周二对阵尼克斯的比赛',
             'important':false
         },{
             'name':'哈里斯',
