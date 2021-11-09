@@ -375,6 +375,11 @@ const nbaData = {
     //费城76人
     seven6ers:[
         {
+            'name':'恩比德',
+            'status':'缺阵',
+            'detail':'触发健康安全协议，会缺阵数场比赛',
+            'important':true
+        },{
             'name':'以赛亚.乔',
             'status':'缺阵',
             'detail':'触发健康安全协议，会缺阵数场比赛',
