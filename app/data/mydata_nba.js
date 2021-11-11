@@ -182,8 +182,8 @@ const nbaData = {
     pacers:[
         {
             'name':'勒维尔',
-            'status':'缺阵',
-            'detail':'背部受伤，无法出战周四对阵掘金的比赛',
+            'status':'出战存疑',
+            'detail':'背部受伤，每日观察',
             'important':true
         },{
             'name':'以赛亚.杰克逊',
@@ -283,8 +283,8 @@ const nbaData = {
             'important':true
         },{
             'name':'马基夫.莫里斯',
-            'status':'缺阵',
-            'detail':'身体不适，无法出战',
+            'status':'出战存疑',
+            'detail':'身体不适，每日观察',
             'important':false
         },{
             'name':'斯特鲁斯',
