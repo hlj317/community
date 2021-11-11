@@ -186,11 +186,6 @@ const nbaData = {
             'detail':'背部受伤，无法出战周四对阵掘金的比赛',
             'important':true
         },{
-            'name':'布罗格登',
-            'status':'大概率出战',
-            'detail':'大概率可以出战周四对阵掘金的比赛',
-            'important':true
-        },{
             'name':'以赛亚.杰克逊',
             'status':'缺阵',
             'detail':'腿部受伤，无法出战',
@@ -274,22 +269,17 @@ const nbaData = {
             'important':false
         },{
             'name':'狄龙.布鲁克斯',
-            'status':'缺阵',
-            'detail':'腿部受伤，无法出战，预计还需要2周的恢复时间',
+            'status':'复出',
+            'detail':'可以出战周四对阵黄蜂的比赛',
             'important':false
         } 
     ],
     //迈阿密热火
     heat:[
         {
-            'name':'泰勒.希罗',
-            'status':'大概率出战',
-            'detail':'大概率可以出战周四对阵湖人的比赛',
-            'important':true
-        },{
-            'name':'阿德巴约',
-            'status':'大概率出战',
-            'detail':'大概率可以出战周四对阵湖人的比赛',
+            'name':'巴特勒',
+            'status':'出战存疑',
+            'detail':'脚踝扭伤，每日观察',
             'important':true
         },{
             'name':'马基夫.莫里斯',
@@ -410,6 +400,11 @@ const nbaData = {
     //费城76人
     seven6ers:[
         {
+            'name':'赛斯.库里',
+            'status':'出战存疑',
+            'detail':'腿部受伤，每日观察',
+            'important':true
+        },{
             'name':'恩比德',
             'status':'缺阵',
             'detail':'触发健康安全协议，会缺阵数场比赛',
@@ -500,6 +495,11 @@ const nbaData = {
     //多伦多猛龙
     raptors:[
         {
+            'name':'西亚卡姆',
+            'status':'大概率轮休',
+            'detail':'大概率轮休，无法出战周五对阵76人的比赛',
+            'important':false
+        },{
             'name':'渡边雄太',
             'status':'缺阵',
             'detail':'小腿受伤，无法出战',

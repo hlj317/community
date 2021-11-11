@@ -2446,5 +2446,43 @@ export const myData = [
                 homeRatio:81
             }
         ]
+    },
+
+    //11月12日
+    {
+        date: 'Fri Nov 12',
+        list: [
+            {
+                time:'Fri 11/12, 8:00 AM',
+                awayName:'raptors',
+                awayLeftPoints:'+2.0',
+                awayRightPoints:'+2.0',
+                awayRatio:33,
+                homeName:'seven6ers',
+                homeLeftPoints:'-2.0',
+                homeRightPoints:'-2.0',
+                homeRatio:67
+            },{
+                time:'Fri 11/12, 10:00 AM',
+                awayName:'pacers',
+                awayLeftPoints:'+8.5',
+                awayRightPoints:'+9.0',
+                awayRatio:38,
+                homeName:'jazz',
+                homeLeftPoints:'-8.5',
+                homeRightPoints:'-9.0',
+                homeRatio:62
+            },{
+                time:'Fri 11/12, 11:30 AM',
+                awayName:'heat',
+                awayLeftPoints:'+1.0',
+                awayRightPoints:'+2.5',
+                awayRatio:20,
+                homeName:'clippers',
+                homeLeftPoints:'-1.0',
+                homeRightPoints:'-2.5',
+                homeRatio:80
+            }
+        ]
     }
 ]
