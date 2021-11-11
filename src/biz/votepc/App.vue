@@ -15,9 +15,9 @@
     </div>
     <div class="clear"></div>
     <ul class="nav">
-        <li><a href="/injurynbapc">NBA</a></li>
-        <li><a href="/injurywnbapc">WNBA</a></li>
-        <li><a href="/injurycbapc">CBA</a></li>
+        <li><a href="/injurynbapc.html">NBA</a></li>
+        <li><a href="/injurywnbapc.html">WNBA</a></li>
+        <li><a href="/injurycbapc.html">CBA</a></li>
         <li class="vote-ratio"><a class="selected" href="#">NBA投注率</a></li>
     </ul>
     <div class="clear"></div>
