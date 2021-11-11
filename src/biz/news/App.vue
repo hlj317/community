@@ -8,9 +8,8 @@
 <style lang="less">
 @import "~src/common/less/common.less";
 .news-page{
-    font-weight: 440;
-    font-size:28 / @b;
-    line-height:45 / @b;
+    font-size:16 / @b;
+    line-height:32 / @b;
     color:#000;
 }
 </style>
