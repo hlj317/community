@@ -175,6 +175,19 @@ const isMobile = function(userAgent){
     }
 }
 
+
+const news = async function (ctx, next) {
+    const url = ctx.url,
+          num = url.substring(6,url.indexOf("."));
+
+    await ctx.render("news/news-"+num, {
+        title: "NBA伤病名单-篮彩老黑",
+        keywords: "NBA,伤病,受伤,缺席,名单,篮彩,彩票",
+        description: "24小时NBA伤病名单实时更新，伤病消息来源于各NBA俱乐部官方网站"
+    });
+    return next();
+};
+
 module.exports = {
     getCasesList,
     getProductsList,
@@ -189,5 +202,6 @@ module.exports = {
     injuryWNBAPC,
     injuryCBAPC,
     vote,
-    votePC
+    votePC,
+    news
 };

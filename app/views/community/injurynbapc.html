@@ -22,7 +22,10 @@
     </ul>
     <div class="clear"></div>
     <div class="updatetime">最近更新时间：<strong>{{include ("../layout/updatetime.html") }}</strong>（每日不定期更新，敬请关注）</div>
-
+    <ul class="news-nav">
+        {{include ("../layout/news_list.html") }}
+    </ul>
+    <div class="clear"></div>
     <table class="list" border="0" cellspacing="1" cellpadding="0">
 
         {{#each(nbaData)}}

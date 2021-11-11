@@ -22,5 +22,6 @@ module.exports = {
     "/getCasesList": community.getCasesList,
     "/getProductsList": community.getProductsList,
     "/getNideshopAd": community.getNideshopAd,
-    "/getCommentsList": community.getCommentsList
+    "/getCommentsList": community.getCommentsList,
+    "/news-:id":community.news
 };   

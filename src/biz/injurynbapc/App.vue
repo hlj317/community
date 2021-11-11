@@ -233,12 +233,34 @@
             background: #cc0000;
         }
     }
+
+    .news-nav{
+        background:#ffffff;
+        width:100%;
+        height:1px;
+        line-height:1px;
+        list-style: none;
+        padding:0;
+        overflow: hidden;
+        li{
+        float:left;
+        margin:0;
+            a{
+                display: block;
+                color:#ffffff;
+            }
+            span{
+                display: block;
+            }
+        }
+    }
+
     .updatetime{
         text-align: left;
         margin-left: 20px;
         color:#333333;
         font-size:14px;
-        margin:10px 0 10px 39px;
+        margin:10px 0 5px 39px;
     }
 
     .injury-page{

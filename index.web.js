@@ -61,6 +61,10 @@
         }else{
             ctx.state.path = path || "injurynbapc";
         }
+        //新闻页用统一的样式模板
+        if(path.indexOf("news") > -1){
+            ctx.state.path = "news";
+        }
         return next();
     });
 

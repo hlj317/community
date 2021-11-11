@@ -198,6 +198,27 @@
         top: -22 / @b;
     }
 
+    .news-nav{
+        background:#ffffff;
+        width:100%;
+        height:1 / @b;
+        line-height:1 / @b;
+        list-style: none;
+        padding:0;
+        overflow: hidden;
+        li{
+        float:left;
+        margin:0;
+            a{
+                display: block;
+                color:#ffffff;
+            }
+            span{
+                display: block;
+            }
+        }
+    }
+
     .to-link-img {
     width: 750 / @b;
     height: 200 / @b;
