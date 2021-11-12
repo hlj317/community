@@ -2456,32 +2456,32 @@ export const myData = [
                 time:'Fri 11/12, 8:00 AM',
                 awayName:'raptors',
                 awayLeftPoints:'+2.0',
-                awayRightPoints:'+2.5',
-                awayRatio:48,
+                awayRightPoints:'+4.0',
+                awayRatio:53,
                 homeName:'seven6ers',
                 homeLeftPoints:'-2.0',
-                homeRightPoints:'-2.5',
-                homeRatio:52
+                homeRightPoints:'-4.0',
+                homeRatio:47
             },{
                 time:'Fri 11/12, 10:00 AM',
                 awayName:'pacers',
                 awayLeftPoints:'+8.5',
-                awayRightPoints:'+9.5',
-                awayRatio:28,
+                awayRightPoints:'+10.5',
+                awayRatio:33,
                 homeName:'jazz',
                 homeLeftPoints:'-8.5',
-                homeRightPoints:'-9.5',
-                homeRatio:72
+                homeRightPoints:'-10.5',
+                homeRatio:67
             },{
                 time:'Fri 11/12, 11:30 AM',
                 awayName:'heat',
                 awayLeftPoints:'+1.0',
-                awayRightPoints:'+4.0',
-                awayRatio:22,
+                awayRightPoints:'+6.0',
+                awayRatio:34,
                 homeName:'clippers',
                 homeLeftPoints:'-1.0',
-                homeRightPoints:'-4.0',
-                homeRatio:78
+                homeRightPoints:'-6.0',
+                homeRatio:66
             }
         ]
     }
