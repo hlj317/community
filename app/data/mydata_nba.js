@@ -291,8 +291,8 @@ const nbaData = {
     bucks:[
         {
             'name':'字母哥',
-            'status':'大概率出战',
-            'detail':'大概率可以出战周六对阵凯尔特人的比赛',
+            'status':'缺阵',
+            'detail':'脚踝受伤，无法出战',
             'important':true
         },{
             'name':'米德尔顿',
