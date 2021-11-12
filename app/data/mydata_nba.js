@@ -416,8 +416,8 @@ const nbaData = {
             'important':false
         },{
             'name':'哈里斯',
-            'status':'缺阵',
-            'detail':'触发健康安全协议，会缺阵数场比赛',
+            'status':'复出',
+            'detail':'可以出战周五对阵猛龙的比赛',
             'important':true
         },{
             'name':'格兰特.瑞',
