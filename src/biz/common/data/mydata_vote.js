@@ -2495,11 +2495,11 @@ export const myData = [
                 time:'Sat 11/13, 8:00 AM',
                 awayName:'knicks',
                 awayLeftPoints:'-1.0',
-                awayRightPoints:'-2.0',
+                awayRightPoints:'-3.0',
                 awayRatio:73,
                 homeName:'hornets',
                 homeLeftPoints:'+1.0',
-                homeRightPoints:'+2.0',
+                homeRightPoints:'+3.0',
                 homeRatio:27
             },{
                 time:'Sat 11/13, 8:30 AM',
