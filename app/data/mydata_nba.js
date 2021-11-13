@@ -241,7 +241,7 @@ const nbaData = {
             'name':'狄龙布鲁克斯',
             'status':'出战存疑',
             'detail':'右脚踝受伤，每日观察',
-            'important':ture
+            'important':true
         } 
     ],
     //迈阿密热火
