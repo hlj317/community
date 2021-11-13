@@ -493,6 +493,11 @@ const nbaData = {
     //华盛顿奇才
     wizards:[
         {
+            'name':'比尔',
+            'status':'缺阵',
+            'detail':'悼念祖母去世，无法出战周日对阵魔术的比赛',
+            'important':true
+        },{
             'name':'贝尔坦斯',
             'status':'缺阵',
             'detail':'腿部受伤，无法出战',
