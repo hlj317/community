@@ -2653,10 +2653,10 @@ export const myData = [
                 time:'Sun 11/14, 8:30 AM',
                 awayName:'pistons',
                 awayLeftPoints:'+9.5',
-                awayRightPoints:'+9.5',
+                awayRightPoints:'+8.5',
                 awayRatio:36,
                 homeName:'raptors',
-                homeLeftPoints:'-8.5',
+                homeLeftPoints:'-9.5',
                 homeRightPoints:'-8.5',
                 homeRatio:64
             },{
