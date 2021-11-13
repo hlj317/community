@@ -382,7 +382,7 @@ const nbaData = {
         },{
             'name':'赛布尔',
             'status':'缺阵',
-            'detail':'腿部受伤，无法出战',
+            'detail':'触发健康安全协议，会缺阵数场比赛',
             'important':false
         },{
             'name':'格兰特.瑞',
@@ -499,11 +499,6 @@ const nbaData = {
             'important':true
         },{
             'name':'贝尔坦斯',
-            'status':'缺阵',
-            'detail':'腿部受伤，无法出战',
-            'important':false
-        },{
-            'name':'卡修斯.温斯顿',
             'status':'缺阵',
             'detail':'腿部受伤，无法出战',
             'important':false
