@@ -248,10 +248,10 @@ const nbaData = {
             'detail':'腿部受伤，无法出战',
             'important':false
         },{
-            'name':'亚当斯',
-            'status':'出战存疑',
-            'detail':'右脚踝受伤，每日观察',
-            'important':true
+            'name':'狄龙.布鲁克斯',
+            'status':'缺阵',
+            'detail':'右脚踝受伤，无法出战',
+            'important':false
         } 
     ],
     //迈阿密热火
