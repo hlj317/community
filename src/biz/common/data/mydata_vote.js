@@ -2603,5 +2603,84 @@ export const myData = [
                 homeRatio:55
             }
         ]
+    },
+
+    //11月14日
+    {
+        date: 'Sun Nov 14',
+        list: [
+            {
+                time:'Sun 11/14, 6:00 AM',
+                awayName:'heat',
+                awayLeftPoints:'+7.0',
+                awayRightPoints:'+7.0',
+                awayRatio:42,
+                homeName:'jazz',
+                homeLeftPoints:'-7.0',
+                homeRightPoints:'-7.0',
+                homeRatio:58
+            },{
+                time:'Sun 11/14, 8:00 AM',
+                awayName:'wizards',
+                awayLeftPoints:'-4.0',
+                awayRightPoints:'-4.0',
+                awayRatio:79,
+                homeName:'magic',
+                homeLeftPoints:'+4.0',
+                homeRightPoints:'+4.0',
+                homeRatio:21
+            },{
+                time:'Sun 11/14, 8:00 AM',
+                awayName:'grizzlies',
+                awayLeftPoints:'+7.0',
+                awayRightPoints:'+7.0',
+                awayRatio:60,
+                homeName:'pelicans',
+                homeLeftPoints:'-7.0',
+                homeRightPoints:'-7.0',
+                homeRatio:40
+            },{
+                time:'Sun 11/14, 8:00 AM',
+                awayName:'seven6ers',
+                awayLeftPoints:'+2.0',
+                awayRightPoints:'+2.0',
+                awayRatio:48,
+                homeName:'pacers',
+                homeLeftPoints:'-2.0',
+                homeRightPoints:'-2.0',
+                homeRatio:52
+            },{
+                time:'Sun 11/14, 8:30 AM',
+                awayName:'pistons',
+                awayLeftPoints:'+9.5',
+                awayRightPoints:'+9.5',
+                awayRatio:36,
+                homeName:'raptors',
+                homeLeftPoints:'-8.5',
+                homeRightPoints:'-8.5',
+                homeRatio:64
+            },{
+                time:'Sun 11/14, 9:00 AM',
+                awayName:'celtics',
+                awayLeftPoints:'-3.5',
+                awayRightPoints:'-2.5',
+                awayRatio:47,
+                homeName:'cavaliers',
+                homeLeftPoints:'+3.5',
+                homeRightPoints:'+2.5',
+                homeRatio:53
+            },{
+                time:'Sun 11/14, 11:30 AM',
+                awayName:'timberwolves',
+                awayLeftPoints:'+7.5',
+                awayRightPoints:'+6.5',
+                awayRatio:45,
+                homeName:'clippers',
+                homeLeftPoints:'-7.5',
+                homeRightPoints:'-6.5',
+                homeRatio:55
+            }
+        ]
     }
+    
 ]
