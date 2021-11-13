@@ -2634,11 +2634,11 @@ export const myData = [
                 awayName:'grizzlies',
                 awayLeftPoints:'+7.0',
                 awayRightPoints:'+2.5',
-                awayRatio:60,
+                awayRatio:85,
                 homeName:'pelicans',
                 homeLeftPoints:'-7.0',
                 homeRightPoints:'-2.5',
-                homeRatio:40
+                homeRatio:15
             },{
                 time:'Sun 11/14, 8:00 AM',
                 awayName:'seven6ers',
