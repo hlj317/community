@@ -8,9 +8,9 @@ const nbaData = {
             'important':true
         },{
             'name':'德安德鲁.亨特',
-            'status':'出战存疑',
-            'detail':'手腕受伤，每日观察',
-            'important':true
+            'status':'缺阵',
+            'detail':'手腕受伤，无法出战',
+            'important':false
         },{
             'name':'奥孔古',
             'status':'长期缺阵',
@@ -247,12 +247,7 @@ const nbaData = {
             'status':'缺阵',
             'detail':'腿部受伤，无法出战',
             'important':false
-        },{
-            'name':'狄龙布鲁克斯',
-            'status':'出战',
-            'detail':'可以出战周日对阵鹈鹕的比赛',
-            'important':true
-        } 
+        }
     ],
     //迈阿密热火
     heat:[
@@ -286,8 +281,8 @@ const nbaData = {
     bucks:[
         {
             'name':'字母哥',
-            'status':'缺阵',
-            'detail':'脚踝受伤，无法出战',
+            'status':'大概率出战',
+            'detail':'大概率可以出战周一对阵老鹰的比赛',
             'important':true
         },{
             'name':'米德尔顿',
@@ -409,6 +404,11 @@ const nbaData = {
     //菲尼克斯太阳
     suns:[
         {
+            'name':'纳达尔',
+            'status':'出战存疑',
+            'detail':'腿部受伤，每日观察',
+            'important':false
+        },{
             'name':'艾顿',
             'status':'出战存疑',
             'detail':'腿部受伤，每日观察',
@@ -428,25 +428,15 @@ const nbaData = {
             'detail':'腿部受伤，每日观察',
             'important':false
         },{
-            'name':'鲍威尔',
-            'status':'出战存疑',
-            'detail':'腿部受伤，每日观察',
-            'important':false
+            'name':'利拉德',
+            'status':'缺阵',
+            'detail':'腹肌肌腱受伤，无法出战',
+            'important':true
         }     
     ],
     //萨克拉门托国王
     kings:[
         {
-            'name':'特伦斯.戴维斯',
-            'status':'出战存疑',
-            'detail':'脚踝受伤，每日观察',
-            'important':false
-        },{
-            'name':'哈里伯顿',
-            'status':'出战存疑',
-            'detail':'背部受伤，每日观察',
-            'important':true
-        },{
             'name':'巴格利',
             'status':'出战存疑',
             'detail':'身体不适，每日观察',
