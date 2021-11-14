@@ -21,6 +21,16 @@ const nbaData = {
     //波士顿凯尔特人
     celtics:[
         {
+            'name':'约什.理查德森',
+            'status':'缺阵',
+            'detail':'身体不适，无法出战',
+            'important':false
+        },{
+            'name':'AI霍福德',
+            'status':'缺阵',
+            'detail':'身体不适，无法出战',
+            'important':true
+        },{
             'name':'杰伦.布朗',
             'status':'缺阵',
             'detail':'肌腱受伤，预计会伤停1-2周',
@@ -167,8 +177,8 @@ const nbaData = {
     pacers:[
         {
             'name':'勒维尔',
-            'status':'出战存疑',
-            'detail':'背部受伤，每日观察',
+            'status':'出战',
+            'detail':'可以出战周日对阵76人的比赛',
             'important':true
         },{
             'name':'以赛亚.杰克逊',
@@ -239,8 +249,8 @@ const nbaData = {
             'important':false
         },{
             'name':'狄龙布鲁克斯',
-            'status':'出战存疑',
-            'detail':'右脚踝受伤，每日观察',
+            'status':'出战',
+            'detail':'可以出战周日对阵鹈鹕的比赛',
             'important':true
         } 
     ],
@@ -248,8 +258,8 @@ const nbaData = {
     heat:[
         {
             'name':'巴特勒',
-            'status':'出战存疑',
-            'detail':'脚踝扭伤，每日观察',
+            'status':'缺阵',
+            'detail':'脚踝扭伤，无法出战',
             'important':true
         },{
             'name':'马基夫.莫里斯',
@@ -300,13 +310,13 @@ const nbaData = {
     pelicans:[
         {
             'name':'英格拉姆',
-            'status':'出战存疑',
-            'detail':'臀部受伤，每日观察',
+            'status':'出战',
+            'detail':'可以出战周日对阵灰熊的比赛',
             'important':true
         },{
             'name':'赫伯特.琼斯',
-            'status':'缺阵',
-            'detail':'出现脑震荡症状，无法出战',
+            'status':'出战',
+            'detail':'可以出战周日对阵灰熊的比赛',
             'important':false
         },{
             'name':'达顿.霍姆斯',
@@ -376,8 +386,8 @@ const nbaData = {
             'important':true
         },{
             'name':'以赛亚.乔',
-            'status':'缺阵',
-            'detail':'触发健康安全协议，会缺阵数场比赛',
+            'status':'出战',
+            'detail':'可以出战周日对阵步行者的比赛',
             'important':false
         },{
             'name':'赛布尔',
@@ -476,8 +486,8 @@ const nbaData = {
             'important':false
         },{
             'name':'阿丘瓦',
-            'status':'出战存疑',
-            'detail':'肩膀受伤，出战存疑',
+            'status':'缺阵',
+            'detail':'肩膀受伤，无法出战',
             'important':false
         }       
     ],
