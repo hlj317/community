@@ -45,6 +45,11 @@ const nbaData = {
     //布鲁克林篮网
     nets:[
         {
+            'name':'米尔萨普',
+            'status':'缺阵',
+            'detail':'身体不适，无法出战',
+            'important':false
+        },{
             'name':'克拉克斯顿',
             'status':'缺阵',
             'detail':'身体不适，无法出战',
@@ -147,11 +152,6 @@ const nbaData = {
             'status':'出战存疑',
             'detail':'臀部受伤，每日观察',
             'important':false
-        },{
-            'name':'格林',
-            'status':'出战存疑',
-            'detail':'腿部受伤，每日观察',
-            'important':true
         },{
             'name':'怀斯曼',
             'status':'缺阵',
