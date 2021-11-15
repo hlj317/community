@@ -2770,11 +2770,11 @@ export const myData = [
                 time:'Tue 11/16, 8:00 AM',
                 awayName:'pelicans',
                 awayLeftPoints:'+2.0',
-                awayRightPoints:'+2.0',
+                awayRightPoints:'+2.5',
                 awayRatio:18,
                 homeName:'wizards',
                 homeLeftPoints:'-2.0',
-                homeRightPoints:'-2.0',
+                homeRightPoints:'-2.5',
                 homeRatio:82
             },{
                 time:'Tue 11/16, 8:00 AM',
@@ -2820,11 +2820,11 @@ export const myData = [
                 time:'Tue 11/16, 9:00 AM',
                 awayName:'nuggets',
                 awayLeftPoints:'+4.0',
-                awayRightPoints:'+4.0',
+                awayRightPoints:'+4.5',
                 awayRatio:39,
                 homeName:'mavericks',
                 homeLeftPoints:'-4.0',
-                homeRightPoints:'-4.0',
+                homeRightPoints:'-4.5',
                 homeRatio:61
             },{
                 time:'Tue 11/16, 9:00 AM',
@@ -2840,11 +2840,11 @@ export const myData = [
                 time:'Tue 11/16, 9:00 AM',
                 awayName:'suns',
                 awayLeftPoints:'-3.0',
-                awayRightPoints:'-3.5',
+                awayRightPoints:'-4.0',
                 awayRatio:78,
                 homeName:'timberwolves',
                 homeLeftPoints:'+3.0',
-                homeRightPoints:'+3.5',
+                homeRightPoints:'+4.0',
                 homeRatio:22
             },{
                 time:'Tue 11/16, 9:00 AM',
@@ -2860,11 +2860,11 @@ export const myData = [
                 time:'Tue 11/16, 11:00 AM',
                 awayName:'raptors',
                 awayLeftPoints:'+1.0',
-                awayRightPoints:'+1.0',
+                awayRightPoints:'+1.5',
                 awayRatio:26,
                 homeName:'blazers',
                 homeLeftPoints:'-1.0',
-                homeRightPoints:'-1.0',
+                homeRightPoints:'-1.5',
                 homeRatio:74
             },{
                 time:'Tue 11/16, 11:30 AM',
