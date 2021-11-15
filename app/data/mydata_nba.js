@@ -40,6 +40,11 @@ const nbaData = {
     //布鲁克林篮网
     nets:[
         {
+            'name':'乔.哈里斯',
+            'status':'出战存疑',
+            'detail':'腿部受伤，每日观察',
+            'important':false
+        },{
             'name':'米尔萨普',
             'status':'出战存疑',
             'detail':'腿部受伤，每日观察',
@@ -214,11 +219,6 @@ const nbaData = {
     //洛杉矶湖人
     lakers:[
         {
-            'name':'塔克',
-            'status':'长期缺阵',
-            'detail':'拇指韧带撕裂，将接受手术',
-            'important':false
-        },{
             'name':'詹姆斯',
             'status':'缺阵',
             'detail':'腹股沟拉伤，预计马上复出',
