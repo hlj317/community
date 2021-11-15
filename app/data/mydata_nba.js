@@ -2,14 +2,9 @@ const nbaData = {
     //亚特兰大老鹰
     hawks:[
         {
-            'name':'博格丹',
-            'status':'出战存疑',
-            'detail':'脚踝受伤，每日观察',
-            'important':true
-        },{
             'name':'德安德鲁.亨特',
-            'status':'缺阵',
-            'detail':'手腕受伤，无法出战',
+            'status':'长期缺阵',
+            'detail':'手腕受伤，无法出战，预期缺席至少八周',
             'important':false
         },{
             'name':'奥孔古',
@@ -22,13 +17,13 @@ const nbaData = {
     celtics:[
         {
             'name':'约什.理查德森',
-            'status':'缺阵',
-            'detail':'身体不适，无法出战',
+            'status':'大概率出战',
+            'detail':'大概率可以出战周二对阵骑士的比赛',
             'important':false
         },{
             'name':'AI霍福德',
-            'status':'缺阵',
-            'detail':'身体不适，无法出战',
+            'status':'大概率出战',
+            'detail':'大概率可以出战周二对阵骑士的比赛',
             'important':true
         },{
             'name':'杰伦.布朗',
@@ -46,8 +41,8 @@ const nbaData = {
     nets:[
         {
             'name':'米尔萨普',
-            'status':'缺阵',
-            'detail':'身体不适，无法出战',
+            'status':'出战存疑',
+            'detail':'腿部受伤，每日观察',
             'important':false
         },{
             'name':'克拉克斯顿',
@@ -120,6 +115,16 @@ const nbaData = {
     //丹佛掘金
     nuggets:[
         {
+            'name':'小里弗斯',
+            'status':'出战存疑',
+            'detail':'腿部受伤，每日观察',
+            'important':false
+        },{
+            'name':'威尔.巴顿',
+            'status':'出战存疑',
+            'detail':'腿部受伤，每日观察',
+            'important':true
+        },{
             'name':'小波特',
             'status':'缺阵',
             'detail':'背部伤势，无法出战',
@@ -148,11 +153,6 @@ const nbaData = {
     //金州勇士
     warriors:[
         {
-            'name':'达米恩.李',
-            'status':'出战存疑',
-            'detail':'臀部受伤，每日观察',
-            'important':false
-        },{
             'name':'怀斯曼',
             'status':'缺阵',
             'detail':'膝盖受伤，归期未定',
@@ -176,10 +176,10 @@ const nbaData = {
     //印第安纳步行者
     pacers:[
         {
-            'name':'勒维尔',
-            'status':'出战',
-            'detail':'可以出战周日对阵76人的比赛',
-            'important':true
+            'name':'杜阿尔特',
+            'status':'出战存疑',
+            'detail':'右脚踝受伤，每日观察',
+            'important':false
         },{
             'name':'以赛亚.杰克逊',
             'status':'缺阵',
@@ -221,7 +221,7 @@ const nbaData = {
         },{
             'name':'詹姆斯',
             'status':'缺阵',
-            'detail':'腹股沟拉伤，预计缺阵至少一周',
+            'detail':'腹股沟拉伤，预计马上复出',
             'important':true
         },{
             'name':'奥斯汀.里弗斯',
@@ -253,8 +253,8 @@ const nbaData = {
     heat:[
         {
             'name':'巴特勒',
-            'status':'缺阵',
-            'detail':'脚踝扭伤，无法出战',
+            'status':'出战存疑',
+            'detail':'脚踝扭伤，每日观察',
             'important':true
         },{
             'name':'马基夫.莫里斯',
@@ -280,10 +280,10 @@ const nbaData = {
     //密尔沃基雄鹿
     bucks:[
         {
-            'name':'字母哥',
-            'status':'大概率出战',
-            'detail':'大概率可以出战周一对阵老鹰的比赛',
-            'important':true
+            'name':'乔治.希尔',
+            'status':'缺阵',
+            'detail':'背部受伤，无法出战',
+            'important':false
         },{
             'name':'米德尔顿',
             'status':'缺阵',
@@ -304,16 +304,6 @@ const nbaData = {
     //新奥尔良鹈鹕
     pelicans:[
         {
-            'name':'英格拉姆',
-            'status':'出战',
-            'detail':'可以出战周日对阵灰熊的比赛',
-            'important':true
-        },{
-            'name':'赫伯特.琼斯',
-            'status':'出战',
-            'detail':'可以出战周日对阵灰熊的比赛',
-            'important':false
-        },{
             'name':'达顿.霍姆斯',
             'status':'缺阵',
             'detail':'腿部受伤，无法出战',
@@ -375,15 +365,15 @@ const nbaData = {
     //费城76人
     seven6ers:[
         {
-            'name':'恩比德',
+            'name':'丹尼.格林',
+            'status':'出战存疑',
+            'detail':'腿部受伤，每日观察',
+            'important':false
+        },{
+            'name':'乔尔.恩比德',
             'status':'缺阵',
             'detail':'触发健康安全协议，会缺阵数场比赛',
             'important':true
-        },{
-            'name':'以赛亚.乔',
-            'status':'出战',
-            'detail':'可以出战周日对阵步行者的比赛',
-            'important':false
         },{
             'name':'赛布尔',
             'status':'缺阵',
@@ -404,14 +394,9 @@ const nbaData = {
     //菲尼克斯太阳
     suns:[
         {
-            'name':'纳达尔',
-            'status':'出战存疑',
-            'detail':'腿部受伤，每日观察',
-            'important':false
-        },{
             'name':'艾顿',
-            'status':'出战存疑',
-            'detail':'腿部受伤，每日观察',
+            'status':'缺阵',
+            'detail':'腿部受伤，无法出战',
             'important':true
         },{
             'name':'沙里奇',
@@ -429,8 +414,8 @@ const nbaData = {
             'important':false
         },{
             'name':'利拉德',
-            'status':'缺阵',
-            'detail':'腹肌肌腱受伤，无法出战',
+            'status':'出战存疑',
+            'detail':'腹肌肌腱受伤，每日观察',
             'important':true
         }     
     ],
@@ -465,19 +450,24 @@ const nbaData = {
     //多伦多猛龙
     raptors:[
         {
+            'name':'范弗利特',
+            'status':'出战存疑',
+            'detail':'腹股沟受伤，每日观察',
+            'important':true
+        },{
             'name':'渡边雄太',
             'status':'缺阵',
             'detail':'小腿受伤，无法出战',
             'important':false
         },{
-            'name':'肯.伯奇',
-            'status':'缺阵',
-            'detail':'膝盖受伤，无法出战',
+            'name':'克里斯.布歇',
+            'status':'出战存疑',
+            'detail':'背部受伤，每日观察',
             'important':false
         },{
             'name':'阿丘瓦',
-            'status':'缺阵',
-            'detail':'肩膀受伤，无法出战',
+            'status':'出战存疑',
+            'detail':'肩膀受伤，每日观察',
             'important':false
         }       
     ],
@@ -495,7 +485,7 @@ const nbaData = {
         {
             'name':'比尔',
             'status':'缺阵',
-            'detail':'悼念祖母去世，无法出战周日对阵魔术的比赛',
+            'detail':'悼念祖母去世，无法出战周二对阵鹈鹕的比赛',
             'important':true
         },{
             'name':'贝尔坦斯',
