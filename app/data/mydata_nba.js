@@ -43,11 +43,11 @@ const nbaData = {
             'name':'乔.哈里斯',
             'status':'缺阵',
             'detail':'腿部受伤，无法出战',
-            'important':false
+            'important':true
         },{
             'name':'米尔萨普',
-            'status':'出战存疑',
-            'detail':'腿部受伤，每日观察',
+            'status':'缺阵',
+            'detail':'腿部受伤，无法出战',
             'important':false
         },{
             'name':'克拉克斯顿',
@@ -163,6 +163,11 @@ const nbaData = {
     //金州勇士
     warriors:[
         {
+            'name':'加里佩顿二世',
+            'status':'出战存疑',
+            'detail':'腿部受伤，每日观察',
+            'important':false
+        },{
             'name':'怀斯曼',
             'status':'缺阵',
             'detail':'膝盖受伤，归期未定',
@@ -210,6 +215,11 @@ const nbaData = {
     //洛杉矶快船
     clippers:[
         {
+            'name':'曼恩',
+            'status':'出战存疑',
+            'detail':'腿部受伤，每日观察',
+            'important':false
+        },{
             'name':'马库斯.莫里斯',
             'status':'缺阵',
             'detail':'膝盖受伤，无法出战',
@@ -392,8 +402,8 @@ const nbaData = {
     seven6ers:[
         {
             'name':'丹尼.格林',
-            'status':'出战存疑',
-            'detail':'腿部受伤，每日观察',
+            'status':'缺阵',
+            'detail':'腿部受伤，无法出战',
             'important':false
         },{
             'name':'乔尔.恩比德',
