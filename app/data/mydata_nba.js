@@ -421,8 +421,8 @@ const nbaData = {
     suns:[
         {
             'name':'艾顿',
-            'status':'大概率出战',
-            'detail':'大概率可以出战周二对阵森林狼的比赛',
+            'status':'出战',
+            'detail':'可以出战周二对阵森林狼的比赛',
             'important':true
         },{
             'name':'沙里奇',
@@ -440,8 +440,8 @@ const nbaData = {
             'important':false
         },{
             'name':'利拉德',
-            'status':'出战存疑',
-            'detail':'腹肌肌腱受伤，每日观察',
+            'status':'出战',
+            'detail':'可以出战周二对阵猛龙的比赛',
             'important':true
         }     
     ],
@@ -477,8 +477,8 @@ const nbaData = {
     raptors:[
         {
             'name':'范弗利特',
-            'status':'出战存疑',
-            'detail':'腹股沟受伤，每日观察',
+            'status':'出战',
+            'detail':'可以出战周二对阵开拓者的比赛',
             'important':true
         },{
             'name':'渡边雄太',

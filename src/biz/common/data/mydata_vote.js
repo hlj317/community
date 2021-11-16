@@ -2860,24 +2860,63 @@ export const myData = [
                 time:'Tue 11/16, 11:00 AM',
                 awayName:'raptors',
                 awayLeftPoints:'+1.0',
-                awayRightPoints:'+2.0',
+                awayRightPoints:'+3.0',
                 awayRatio:51,
                 homeName:'blazers',
                 homeLeftPoints:'-1.0',
-                homeRightPoints:'-2.0',
+                homeRightPoints:'-3.0',
                 homeRatio:49
             },{
                 time:'Tue 11/16, 11:30 AM',
                 awayName:'bulls',
                 awayLeftPoints:'+1.0',
-                awayRightPoints:'-2.0',
+                awayRightPoints:'-1.5',
                 awayRatio:80,
                 homeName:'lakers',
                 homeLeftPoints:'-1.0',
-                homeRightPoints:'+2.0',
+                homeRightPoints:'+1.5',
                 homeRatio:20
             }
         ]
-    }
+    },
+
+
+    //11月17日
+    {
+        date: 'Wed Nov 17',
+        list: [
+            {
+                time:'Wed 11/17, 8:30 AM',
+                awayName:'warriors',
+                awayLeftPoints:'+3.5',
+                awayRightPoints:'+2.5',
+                awayRatio:75,
+                homeName:'nets',
+                homeLeftPoints:'-3.5',
+                homeRightPoints:'-2.5',
+                homeRatio:25
+            },{
+                time:'Wed 11/17, 11:00 AM',
+                awayName:'seven6ers',
+                awayLeftPoints:'+9.0',
+                awayRightPoints:'+8.5',
+                awayRatio:41,
+                homeName:'jazz',
+                homeLeftPoints:'-9.0',
+                homeRightPoints:'-8.5',
+                homeRatio:59
+            },{
+                time:'Wed 11/17, 11:30 AM',
+                awayName:'spurs',
+                awayLeftPoints:'+6.5',
+                awayRightPoints:'+6.5',
+                awayRatio:43,
+                homeName:'clippers',
+                homeLeftPoints:'-6.5',
+                homeRightPoints:'-6.5',
+                homeRatio:57
+            }
+        ]
+    },
     
 ]
