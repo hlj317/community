@@ -35,11 +35,6 @@ const nbaData = {
             'status':'缺阵',
             'detail':'肌腱受伤，预计会伤停1-2周',
             'important':true
-        },{
-            'name':'罗密欧.兰福德',
-            'status':'缺阵',
-            'detail':'腿筋受伤，预计会伤停几周',
-            'important':false
         }
     ],
     //布鲁克林篮网
@@ -69,6 +64,11 @@ const nbaData = {
     //夏洛特黄蜂
     hornets:[
         {
+            'name':'海沃德',
+            'status':'大概率出战',
+            'detail':'大概率可以出战周四对阵奇才的比赛',
+            'important':true
+        },{
             'name':'PJ.华盛顿',
             'status':'缺阵',
             'detail':'肘部受伤，预计一周后恢复',
