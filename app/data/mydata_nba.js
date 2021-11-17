@@ -336,8 +336,8 @@ const nbaData = {
             'important':false
         },{
             'name':'米德尔顿',
-            'status':'缺阵',
-            'detail':'身体不适，无法出战',
+            'status':'复出',
+            'detail':'可以出战周四对阵湖人的比赛',
             'important':true
         },{
             'name':'洛佩兹',
