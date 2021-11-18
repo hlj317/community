@@ -3035,6 +3035,75 @@ export const myData = [
                 homeRatio:33
             }
         ]
+    },
+
+
+    //11月19日
+    {
+        date: 'Fri Nov 19',
+        list: [
+            {
+                time:'Fri 11/19, 8:30 AM',
+                awayName:'wizards',
+                awayLeftPoints:'+7.0',
+                awayRightPoints:'+6.5',
+                awayRatio:42,
+                homeName:'heat',
+                homeLeftPoints:'-7.0',
+                homeRightPoints:'-6.5',
+                homeRatio:58
+            },{
+                time:'Fri 11/19, 8:30 AM',
+                awayName:'warriors',
+                awayLeftPoints:'-8.5',
+                awayRightPoints:'-8.0',
+                awayRatio:89,
+                homeName:'cavaliers',
+                homeLeftPoints:'+8.5',
+                homeRightPoints:'+8.0',
+                homeRatio:11
+            },{
+                time:'Fri 11/19, 9:00 AM',
+                awayName:'spurs',
+                awayLeftPoints:'+1.5',
+                awayRightPoints:'+2.0',
+                awayRatio:39,
+                homeName:'timberwolves',
+                homeLeftPoints:'-1.5',
+                homeRightPoints:'-2.0',
+                homeRatio:61
+            },{
+                time:'Fri 11/19, 9:00 AM',
+                awayName:'clippers',
+                awayLeftPoints:'-1.0',
+                awayRightPoints:'-1.0',
+                awayRatio:49,
+                homeName:'grizzlies',
+                homeLeftPoints:'+1.0',
+                homeRightPoints:'+1.0',
+                homeRatio:51
+            },{
+                time:'Fri 11/19, 10:00 AM',
+                awayName:'seven6ers',
+                awayLeftPoints:'+8.0',
+                awayRightPoints:'+7.5',
+                awayRatio:48,
+                homeName:'nuggets',
+                homeLeftPoints:'-8.0',
+                homeRightPoints:'-7.5',
+                homeRatio:52
+            },{
+                time:'Fri 11/19, 10:00 AM',
+                awayName:'raptors',
+                awayLeftPoints:'+9.0',
+                awayRightPoints:'+9.5',
+                awayRatio:69,
+                homeName:'jazz',
+                homeLeftPoints:'-9.0',
+                homeRightPoints:'-9.5',
+                homeRatio:31
+            }
+        ]
     }
 
 ]
