@@ -333,7 +333,7 @@ const nbaData = {
             'name':'洛佩兹',
             'status':'缺阵',
             'detail':'背部受伤，无法出战',
-            'important':ture
+            'important':true
         },{
             'name':'迪文琴佐',
             'status':'缺阵',
