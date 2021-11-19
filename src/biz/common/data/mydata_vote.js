@@ -3104,6 +3104,105 @@ export const myData = [
                 homeRatio:49
             }
         ]
+    },
+
+
+    //11月20日
+    {
+        date: 'Sat Nov 20',
+        list: [
+            {
+                time:'Sat 11/20, 8:00 AM',
+                awayName:'pacers',
+                awayLeftPoints:'+2.5',
+                awayRightPoints:'+2.5',
+                awayRatio:14,
+                homeName:'hornets',
+                homeLeftPoints:'-2.5',
+                homeRightPoints:'-2.5',
+                homeRatio:86
+            },{
+                time:'Sat 11/20, 8:00 AM',
+                awayName:'warriors',
+                awayLeftPoints:'-10.5',
+                awayRightPoints:'-8.5',
+                awayRatio:48,
+                homeName:'pistons',
+                homeLeftPoints:'+10.5',
+                homeRightPoints:'+8.5',
+                homeRatio:52
+            },{
+                time:'Sat 11/20, 8:30 AM',
+                awayName:'lakers',
+                awayLeftPoints:'+1.0',
+                awayRightPoints:'+2.5',
+                awayRatio:66,
+                homeName:'celtics',
+                homeLeftPoints:'-1.0',
+                homeRightPoints:'-2.5',
+                homeRatio:34
+            },{
+                time:'Sat 11/20, 8:30 AM',
+                awayName:'magic',
+                awayLeftPoints:'+12.5',
+                awayRightPoints:'+12.5',
+                awayRatio:55,
+                homeName:'nets',
+                homeLeftPoints:'-12.5',
+                homeRightPoints:'-12.5',
+                homeRatio:45
+            },{
+                time:'Sat 11/20, 9:00 AM',
+                awayName:'thunder',
+                awayLeftPoints:'+12.5',
+                awayRightPoints:'+13.0',
+                awayRatio:33,
+                homeName:'bucks',
+                homeLeftPoints:'-12.5',
+                homeRightPoints:'-13.0',
+                homeRatio:67
+            },{
+                time:'Sat 11/20, 9:00 AM',
+                awayName:'clippers',
+                awayLeftPoints:'-5.0',
+                awayRightPoints:'-3.5',
+                awayRatio:90,
+                homeName:'pelicans',
+                homeLeftPoints:'+5.0',
+                homeRightPoints:'+3.5',
+                homeRatio:10
+            },{
+                time:'Sat 11/20, 10:00 AM',
+                awayName:'bulls',
+                awayLeftPoints:'+5.0',
+                awayRightPoints:'+4.5',
+                awayRatio:60,
+                homeName:'nuggets',
+                homeLeftPoints:'-5.0',
+                homeRightPoints:'-4.5',
+                homeRatio:40
+            },{
+                time:'Sat 11/20, 11:00 AM',
+                awayName:'mavericks',
+                awayLeftPoints:'+8.0',
+                awayRightPoints:'+7.5',
+                awayRatio:41,
+                homeName:'suns',
+                homeLeftPoints:'-8.0',
+                homeRightPoints:'-7.5',
+                homeRatio:59
+            },{
+                time:'Sat 11/20, 11:00 AM',
+                awayName:'raptors',
+                awayLeftPoints:'+4.0',
+                awayRightPoints:'+3.5',
+                awayRatio:45,
+                homeName:'kings',
+                homeLeftPoints:'-4.0',
+                homeRightPoints:'-3.5',
+                homeRatio:55
+            }
+        ]
     }
 
 ]
