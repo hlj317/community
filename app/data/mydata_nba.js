@@ -88,8 +88,8 @@ const nbaData = {
     cavaliers:[
         {
             'name':'奥斯曼',
-            'status':'缺阵',
-            'detail':'背部受伤，无法出战',
+            'status':'出战存疑',
+            'detail':'背部受伤，每日观察',
             'important':false
         },{
             'name':'贾勒特.阿伦',
@@ -130,6 +130,11 @@ const nbaData = {
     //丹佛掘金
     nuggets:[
         {
+            'name':'约基奇',
+            'status':'出战存疑',
+            'detail':'右手腕受伤，每日观察',
+            'important':true
+        },{
             'name':'小波特',
             'status':'缺阵',
             'detail':'背部伤势，无法出战',
@@ -169,8 +174,8 @@ const nbaData = {
             'important':true
         },{
             'name':'伊戈达拉',
-            'status':'缺阵',
-            'detail':'身体不适，无法出战',
+            'status':'出战存疑',
+            'detail':'身体不适，每日观察',
             'important':false
         },{
             'name':'怀斯曼',
@@ -216,8 +221,8 @@ const nbaData = {
     clippers:[
         {
             'name':'巴图姆',
-            'status':'缺阵',
-            'detail':'跟腱受伤，无法出战',
+            'status':'出战存疑',
+            'detail':'跟腱受伤，每日观察',
             'important':false
         },{
             'name':'曼恩',
@@ -302,13 +307,13 @@ const nbaData = {
     timberwolves:[
         {
             'name':'里德',
-            'status':'缺阵',
-            'detail':'腿部受伤，无法出战',
+            'status':'出战存疑',
+            'detail':'腿部受伤，每日观察',
             'important':false
         },{
             'name':'奥科吉',
-            'status':'缺阵',
-            'detail':'背部受伤，无法出战',
+            'status':'出战存疑',
+            'detail':'背部受伤，每日观察',
             'important':false
         }
     ],
@@ -391,8 +396,8 @@ const nbaData = {
     seven6ers:[
         {
             'name':'丹尼.格林',
-            'status':'缺阵',
-            'detail':'腿部受伤，无法出战',
+            'status':'出战存疑',
+            'detail':'腿部受伤，每日观察',
             'important':false
         },{
             'name':'乔尔.恩比德',
@@ -494,8 +499,8 @@ const nbaData = {
     wizards:[
         {
             'name':'丹尼尔.加福德',
-            'status':'缺阵',
-            'detail':'拇指受伤，无法出战',
+            'status':'出战存疑',
+            'detail':'拇指受伤，每日观察',
             'important':false
         },{
             'name':'丁威迪',
