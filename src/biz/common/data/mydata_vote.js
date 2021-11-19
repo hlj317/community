@@ -3056,11 +3056,11 @@ export const myData = [
                 time:'Fri 11/19, 8:30 AM',
                 awayName:'warriors',
                 awayLeftPoints:'-8.5',
-                awayRightPoints:'-8.0',
+                awayRightPoints:'-9.5',
                 awayRatio:82,
                 homeName:'cavaliers',
                 homeLeftPoints:'+8.5',
-                homeRightPoints:'+8.0',
+                homeRightPoints:'+9.5',
                 homeRatio:18
             },{
                 time:'Fri 11/19, 9:00 AM',
@@ -3076,11 +3076,11 @@ export const myData = [
                 time:'Fri 11/19, 9:00 AM',
                 awayName:'clippers',
                 awayLeftPoints:'-1.0',
-                awayRightPoints:'-1.0',
+                awayRightPoints:'+1.0',
                 awayRatio:41,
                 homeName:'grizzlies',
                 homeLeftPoints:'+1.0',
-                homeRightPoints:'+1.0',
+                homeRightPoints:'-1.0',
                 homeRatio:59
             },{
                 time:'Fri 11/19, 10:00 AM',
@@ -3096,11 +3096,11 @@ export const myData = [
                 time:'Fri 11/19, 10:00 AM',
                 awayName:'raptors',
                 awayLeftPoints:'+9.0',
-                awayRightPoints:'+9.5',
+                awayRightPoints:'+10.5',
                 awayRatio:51,
                 homeName:'jazz',
                 homeLeftPoints:'-9.0',
-                homeRightPoints:'-9.5',
+                homeRightPoints:'-10.5',
                 homeRatio:49
             }
         ]
