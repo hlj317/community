@@ -17,8 +17,8 @@ const nbaData = {
     celtics:[
         {
             'name':'罗伯特.威廉姆斯',
-            'status':'出战存疑',
-            'detail':'膝盖受伤，每日观察',
+            'status':'缺阵',
+            'detail':'膝盖受伤，无法出战',
             'important':false
         },{
             'name':'杰伦.布朗',
@@ -203,8 +203,8 @@ const nbaData = {
     rockets:[
         {
             'name':'凯文.波特',
-            'status':'出战存疑',
-            'detail':'大腿受伤，每日观察',
+            'status':'缺阵',
+            'detail':'大腿受伤，无法出战',
             'important':true
         },{
             'name':'约翰.沃尔',
@@ -283,13 +283,13 @@ const nbaData = {
     heat:[
         {
             'name':'希罗',
-            'status':'出战存疑',
-            'detail':'手腕受伤，每日观察',
+            'status':'出战',
+            'detail':'可以出战周日对阵奇才的比赛',
             'important':true
         },{
             'name':'阿德巴约',
-            'status':'出战存疑',
-            'detail':'膝盖受伤，每日观察',
+            'status':'出战',
+            'detail':'可以出战周日对阵奇才的比赛',
             'important':true
         },{
             'name':'马基夫.莫里斯',
@@ -320,6 +320,11 @@ const nbaData = {
     //密尔沃基雄鹿
     bucks:[
         {
+            'name':'塞米.奥莱杰',
+            'status':'缺阵',
+            'detail':'腿部受伤，无法出战',
+            'important':false
+        },{
             'name':'洛佩兹',
             'status':'缺阵',
             'detail':'背部受伤，无法出战',
@@ -335,8 +340,8 @@ const nbaData = {
     pelicans:[
         {
             'name':'格拉汉姆',
-            'status':'出战存疑',
-            'detail':'腿部受伤，每日观察',
+            'status':'缺阵',
+            'detail':'腿部受伤，无法出战',
             'important':true
         },{
             'name':'达顿.霍姆斯',
@@ -354,13 +359,8 @@ const nbaData = {
     knicks:[
         {
             'name':'泰吉布森',
-            'status':'出战存疑',
-            'detail':'腿部受伤，每日观察',
-            'important':false
-        },{
-            'name':'诺埃尔',
             'status':'缺阵',
-            'detail':'右膝受伤，无法出战',
+            'detail':'腿部受伤，无法出战',
             'important':false
         }
     ],
@@ -376,6 +376,11 @@ const nbaData = {
     //奥兰多魔术
     magic:[
         {
+            'name':'科尔.安东尼',
+            'status':'缺阵',
+            'detail':'右脚踝受伤，无法出战',
+            'important':true
+        },{
             'name':'摩尔',
             'status':'缺阵',
             'detail':'腿部受伤，无法出战',
@@ -411,8 +416,8 @@ const nbaData = {
             'important':true
         },{
             'name':'赛布尔',
-            'status':'缺阵',
-            'detail':'触发健康安全协议，会缺阵数场比赛',
+            'status':'复出',
+            'detail':'可以出战周日对阵开拓者的比赛',
             'important':false
         },{
             'name':'本.西蒙斯',
@@ -499,8 +504,8 @@ const nbaData = {
     wizards:[
         {
             'name':'丹尼尔.加福德',
-            'status':'出战存疑',
-            'detail':'拇指受伤，每日观察',
+            'status':'出战',
+            'detail':'可以出战周日对阵热火的比赛',
             'important':false
         },{
             'name':'贝尔坦斯',
