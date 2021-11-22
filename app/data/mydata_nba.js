@@ -122,8 +122,8 @@ const nbaData = {
             'important':false
         },{
             'name':'东契奇',
-            'status':'出战存疑',
-            'detail':'脚踝扭伤，每日观察',
+            'status':'缺阵',
+            'detail':'脚踝扭伤，无法出战',
             'important':true
         }
     ],
@@ -136,7 +136,7 @@ const nbaData = {
             'important':false
         },{
             'name':'约基奇',
-            'status':'出战存疑',
+            'status':'出战可能性低',
             'detail':'右手腕受伤，每日观察',
             'important':true
         },{
@@ -154,9 +154,9 @@ const nbaData = {
     //底特律活塞
     pistons:[
         {
-            'name':'以赛亚.里弗斯',
+            'name':'海耶斯',
             'status':'缺阵',
-            'detail':'腿部受伤，无法出战',
+            'detail':'拇指受伤，无法出战',
             'important':false
         },{
             'name':'奥克利尼',
@@ -220,10 +220,15 @@ const nbaData = {
     //洛杉矶快船
     clippers:[
         {
-            'name':'马库斯.莫里斯',
+            'name':'巴图姆',
+            'status':'缺阵',
+            'detail':'因为健康安全协议，会缺阵数场比赛',
+            'important':true
+        },{
+            'name':'马库斯莫里斯',
             'status':'缺阵',
             'detail':'膝盖受伤，无法出战',
-            'important':false
+            'important':true
         },{
             'name':'科怀.伦纳德',
             'status':'长期缺阵',
@@ -240,8 +245,8 @@ const nbaData = {
     lakers:[
         {
             'name':'詹姆斯',
-            'status':'出战存疑',
-            'detail':'腹部受伤，每日观察',
+            'status':'出战',
+            'detail':'可以出战周一对阵活塞的比赛',
             'important':true
         },{
             'name':'奥斯汀.里弗斯',
@@ -354,20 +359,13 @@ const nbaData = {
     knicks:[
         {
             'name':'米切尔罗宾逊',
-            'status':'出战存疑',
-            'detail':'鼻梁受伤，每日观察',
+            'status':'缺阵',
+            'detail':'鼻梁受伤，无法出战',
             'important':false
-        },
-        {
-            'name':'托平',
-            'status':'出战存疑',
-            'detail':'腿部受伤，每日观察',
-            'important':false
-        },
-        {
+        },{
             'name':'泰吉布森',
-            'status':'出战存疑',
-            'detail':'腿部受伤，每日观察',
+            'status':'缺阵',
+            'detail':'腿部受伤，无法出战',
             'important':false
         }
     ],
@@ -436,9 +434,14 @@ const nbaData = {
     //菲尼克斯太阳
     suns:[
         {
-            'name':'卡明斯基',
+            'name':'纳达尔',
             'status':'缺阵',
-            'detail':'右膝酸痛，无法出战',
+            'detail':'腿部受伤，无法出战',
+            'important':false
+        },{
+            'name':'卡明斯基',
+            'status':'长期缺阵',
+            'detail':'右膝受伤，归期不明',
             'important':false
         },{
             'name':'沙里奇',

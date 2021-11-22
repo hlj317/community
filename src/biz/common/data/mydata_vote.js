@@ -3312,52 +3312,52 @@ export const myData = [
                 time:'Mon 11/22, 4:30 AM',
                 awayName:'mavericks',
                 awayLeftPoints:'+3.5',
-                awayRightPoints:'+3.0',
-                awayRatio:18,
+                awayRightPoints:'+6.0',
+                awayRatio:32,
                 homeName:'clippers',
                 homeLeftPoints:'-3.5',
-                homeRightPoints:'-3.0',
-                homeRatio:82
+                homeRightPoints:'-6.0',
+                homeRatio:68
             },{
                 time:'Mon 11/22, 7:00 AM',
                 awayName:'lakers',
                 awayLeftPoints:'-7.5',
-                awayRightPoints:'-7.0',
-                awayRatio:72,
+                awayRightPoints:'-9.0',
+                awayRatio:59,
                 homeName:'pistons',
                 homeLeftPoints:'+7.5',
-                homeRightPoints:'+7.0',
-                homeRatio:28
+                homeRightPoints:'+9.0',
+                homeRatio:41
             },{
                 time:'Mon 11/22, 9:00 AM',
                 awayName:'nuggets',
                 awayLeftPoints:'+7.5',
-                awayRightPoints:'+7.5',
-                awayRatio:30,
+                awayRightPoints:'+8.0',
+                awayRatio:44,
                 homeName:'suns',
                 homeLeftPoints:'-7.5',
-                homeRightPoints:'-7.5',
-                homeRatio:70
+                homeRightPoints:'-8.0',
+                homeRatio:56
             },{
                 time:'Mon 11/22, 9:00 AM',
                 awayName:'knicks',
                 awayLeftPoints:'+5.5',
                 awayRightPoints:'+5.5',
-                awayRatio:12,
+                awayRatio:22,
                 homeName:'bulls',
                 homeLeftPoints:'-5.5',
                 homeRightPoints:'-5.5',
-                homeRatio:88
+                homeRatio:78
             },{
                 time:'Mon 11/22, 9:30 AM',
                 awayName:'raptors',
                 awayLeftPoints:'+8.0',
                 awayRightPoints:'+9.0',
-                awayRatio:31,
+                awayRatio:29,
                 homeName:'warriors',
                 homeLeftPoints:'-8.0',
                 homeRightPoints:'-9.0',
-                homeRatio:69
+                homeRatio:71
             }
         ]
     }
