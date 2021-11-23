@@ -113,8 +113,8 @@ const nbaData = {
             'important':true
         },{
             'name':'马尔坎宁',
-            'status':'缺阵',
-            'detail':'触发健康协议，需要缺阵数场比赛',
+            'status':'复出',
+            'detail':'可以出战周二对阵篮网的比赛',
             'important':true
         }  
     ],
