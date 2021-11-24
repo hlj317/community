@@ -151,7 +151,7 @@ const nbaData = {
             'important':false
         },{
             'name':'约基奇',
-            'status':'出战可能性低',
+            'status':'出战存疑',
             'detail':'右手腕受伤，每日观察',
             'important':true
         },{
@@ -246,8 +246,8 @@ const nbaData = {
             'important':true
         },{
             'name':'马库斯莫里斯',
-            'status':'缺阵',
-            'detail':'膝盖受伤，无法出战',
+            'status':'大概率出战',
+            'detail':'大概率可以出战周三对阵独行侠的比赛',
             'important':true
         },{
             'name':'科怀.伦纳德',
