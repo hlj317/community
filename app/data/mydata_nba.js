@@ -122,8 +122,8 @@ const nbaData = {
     mavericks:[
         {
             'name':'布洛克',
-            'status':'出战存疑',
-            'detail':'身体不适，每日观察',
+            'status':'缺阵',
+            'detail':'身体不适，无法出战',
             'important':false
         },{
             'name':'尼利基纳',
@@ -132,13 +132,13 @@ const nbaData = {
             'important':false
         },{
             'name':'克勒贝尔',
-            'status':'大概率出战',
-            'detail':'大概率可以出战周三对阵快船的比赛',
+            'status':'出战',
+            'detail':'可以出战周三对阵快船的比赛',
             'important':false
         },{
             'name':'东契奇',
-            'status':'大概率出战',
-            'detail':'大概率可以出战周三对阵快船的比赛',
+            'status':'出战',
+            'detail':'可以出战周三对阵快船的比赛',
             'important':true
         }
     ],
@@ -151,8 +151,8 @@ const nbaData = {
             'important':false
         },{
             'name':'约基奇',
-            'status':'出战存疑',
-            'detail':'右手腕受伤，每日观察',
+            'status':'缺阵',
+            'detail':'右手腕受伤，无法出战',
             'important':true
         },{
             'name':'小波特',
@@ -246,8 +246,8 @@ const nbaData = {
             'important':true
         },{
             'name':'马库斯莫里斯',
-            'status':'大概率出战',
-            'detail':'大概率可以出战周三对阵独行侠的比赛',
+            'status':'出战',
+            'detail':'可以出战周三对阵独行侠的比赛',
             'important':true
         },{
             'name':'科怀.伦纳德',

@@ -3498,22 +3498,22 @@ export const myData = [
                 time:'Wed 11/24, 11:00 AM',
                 awayName:'nuggets',
                 awayLeftPoints:'+5.5',
-                awayRightPoints:'+5.0',
-                awayRatio:24,
+                awayRightPoints:'+9.5',
+                awayRatio:28,
                 homeName:'blazers',
                 homeLeftPoints:'-5.5',
-                homeRightPoints:'-5.0',
-                homeRatio:76
+                homeRightPoints:'-9.5',
+                homeRatio:72
             },{
                 time:'Wed 11/24, 11:30 AM',
                 awayName:'mavericks',
                 awayLeftPoints:'+4.5',
-                awayRightPoints:'+3.5',
-                awayRatio:36,
+                awayRightPoints:'+2.5',
+                awayRatio:44,
                 homeName:'clippers',
                 homeLeftPoints:'-4.5',
-                homeRightPoints:'-3.5',
-                homeRatio:64
+                homeRightPoints:'-2.5',
+                homeRatio:56
             }
         ]
     }
