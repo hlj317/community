@@ -2,11 +2,6 @@ const nbaData = {
     //亚特兰大老鹰
     hawks:[
         {
-            'name':'博格丹',
-            'status':'出战',
-            'detail':'可以出战周二对阵雷霆的比赛',
-            'important':true
-        },{
             'name':'德安德鲁.亨特',
             'status':'长期缺阵',
             'detail':'手腕受伤，无法出战，预期缺席至少八周',
