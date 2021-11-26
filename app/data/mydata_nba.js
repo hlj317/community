@@ -126,7 +126,7 @@ const nbaData = {
     nuggets:[
         {
             'name':'海兰德',
-            'status':'出战存疑',
+            'status':'出战可能性小',
             'detail':'脚踝受伤，每日观察',
             'important':false
         },{
