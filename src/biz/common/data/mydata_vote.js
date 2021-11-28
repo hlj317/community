@@ -3881,42 +3881,42 @@ export const myData = [
                 time:'Mon 11/29, 4:30 AM',
                 awayName:'warriors',
                 awayLeftPoints:'-2.5',
-                awayRightPoints:'-2.5',
-                awayRatio:70,
+                awayRightPoints:'-3.0',
+                awayRatio:90,
                 homeName:'clippers',
                 homeLeftPoints:'+2.5',
-                homeRightPoints:'+2.5',
-                homeRatio:30
+                homeRightPoints:'+3.0',
+                homeRatio:10
             },{
                 time:'Mon 11/29, 6:00 AM',
                 awayName:'bucks',
                 awayLeftPoints:'-3.5',
-                awayRightPoints:'-3.0',
+                awayRightPoints:'-3.5',
                 awayRatio:85,
                 homeName:'pacers',
                 homeLeftPoints:'+3.5',
-                homeRightPoints:'+3.0',
+                homeRightPoints:'+3.5',
                 homeRatio:15
             },{
                 time:'Mon 11/29, 7:00 AM',
                 awayName:'celtics',
                 awayLeftPoints:'+2.5',
-                awayRightPoints:'+2.5',
-                awayRatio:43,
+                awayRightPoints:'+1.5',
+                awayRatio:52,
                 homeName:'raptors',
                 homeLeftPoints:'-2.5',
-                homeRightPoints:'-2.5',
-                homeRatio:57
+                homeRightPoints:'-1.5',
+                homeRatio:48
             },{
                 time:'Mon 11/29, 7:00 AM',
                 awayName:'kings',
-                awayLeftPoints:'+3.0',
-                awayRightPoints:'+3.0',
-                awayRatio:55,
+                awayLeftPoints:'+1.5',
+                awayRightPoints:'+1.0',
+                awayRatio:61,
                 homeName:'grizzlies',
-                homeLeftPoints:'-3.0',
-                homeRightPoints:'-3.0',
-                homeRatio:45
+                homeLeftPoints:'-1.5',
+                homeRightPoints:'-1.0',
+                homeRatio:39
             },{
                 time:'Mon 11/29, 10:30 AM',
                 awayName:'pistons',

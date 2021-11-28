@@ -481,8 +481,8 @@ const nbaData = {
             'important':false
         },{
             'name':'阿奴诺比',
-            'status':'缺阵',
-            'detail':'臀部受伤，无法出战',
+            'status':'出战存疑',
+            'detail':'臀部受伤，每日观察',
             'important':true
         }        
     ],
