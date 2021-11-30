@@ -4038,52 +4038,52 @@ export const myData = [
                 time:'Wed 12/01, 8:30 AM',
                 awayName:'knicks',
                 awayLeftPoints:'+6.0',
-                awayRightPoints:'+6.0',
-                awayRatio:51,
+                awayRightPoints:'+6.5',
+                awayRatio:44,
                 homeName:'nets',
                 homeLeftPoints:'-6.0',
-                homeRightPoints:'-6.0',
-                homeRatio:49
+                homeRightPoints:'-6.5',
+                homeRatio:56
             },{
                 time:'Wed 12/01, 8:30 AM',
                 awayName:'grizzlies',
                 awayLeftPoints:'+4.5',
-                awayRightPoints:'+4.5',
-                awayRatio:45,
+                awayRightPoints:'+3.5',
+                awayRatio:23,
                 homeName:'raptors',
                 homeLeftPoints:'-4.5',
-                homeRightPoints:'-4.5',
-                homeRatio:55
+                homeRightPoints:'-3.5',
+                homeRatio:77
             },{
                 time:'Wed 12/01, 11:00 AM',
                 awayName:'lakers',
                 awayLeftPoints:'-4.5',
-                awayRightPoints:'-3.5',
-                awayRatio:70,
+                awayRightPoints:'-4.5',
+                awayRatio:67,
                 homeName:'kings',
                 homeLeftPoints:'+4.5',
-                homeRightPoints:'+3.5',
-                homeRatio:30
+                homeRightPoints:'+4.5',
+                homeRatio:33
             },{
                 time:'Wed 12/01, 11:00 AM',
                 awayName:'warriors',
                 awayLeftPoints:'+2.5',
                 awayRightPoints:'+2.5',
-                awayRatio:72,
+                awayRatio:75,
                 homeName:'suns',
                 homeLeftPoints:'-2.5',
                 homeRightPoints:'-2.5',
-                homeRatio:28
+                homeRatio:25
             },{
                 time:'Wed 12/01, 11:00 AM',
                 awayName:'pistons',
                 awayLeftPoints:'+9.5',
                 awayRightPoints:'+9.5',
-                awayRatio:40,
+                awayRatio:44,
                 homeName:'blazers',
                 homeLeftPoints:'-9.5',
                 homeRightPoints:'-9.5',
-                homeRatio:60
+                homeRatio:56
             }
         ]
     }
