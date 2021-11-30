@@ -240,8 +240,8 @@ const nbaData = {
             'important':true
         },{
             'name':'布拉德利',
-            'status':'出战存疑',
-            'detail':'右手受伤，每日观察',
+            'status':'缺阵',
+            'detail':'右手受伤，无法出战',
             'important':false
         },{
             'name':'纳恩',
