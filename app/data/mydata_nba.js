@@ -433,7 +433,7 @@ const nbaData = {
             'status':'出战存疑',
             'detail':'大腿拉伤，每日观察',
             'important':true
-        },{{
+        },{
             'name':'沙里奇',
             'status':'长期缺阵',
             'detail':'右膝ACL伤病，预计本赛季不会回归',
