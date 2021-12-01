@@ -4059,11 +4059,11 @@ export const myData = [
                 awayName:'lakers',
                 awayLeftPoints:'-4.5',
                 awayRightPoints:'-1.0',
-                awayRatio:63,
+                awayRatio:65,
                 homeName:'kings',
                 homeLeftPoints:'+4.5',
                 homeRightPoints:'+1.0',
-                homeRatio:37
+                homeRatio:35
             },{
                 time:'Wed 12/01, 11:00 AM',
                 awayName:'warriors',
@@ -4079,11 +4079,11 @@ export const myData = [
                 awayName:'pistons',
                 awayLeftPoints:'+9.5',
                 awayRightPoints:'+6.5',
-                awayRatio:49,
+                awayRatio:43,
                 homeName:'blazers',
                 homeLeftPoints:'-9.5',
                 homeRightPoints:'-6.5',
-                homeRatio:51
+                homeRatio:57
             }
         ]
     }

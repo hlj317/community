@@ -469,8 +469,8 @@ const nbaData = {
             'important':true
         },{
             'name':'鲍威尔',
-            'status':'出战存疑',
-            'detail':'右股四头肌挫伤，每日观察',
+            'status':'缺阵',
+            'detail':'右股四头肌挫伤，无法出战',
             'important':true
         },{
             'name':'斯内尔',
