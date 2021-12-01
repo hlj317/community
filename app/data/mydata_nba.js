@@ -484,7 +484,7 @@ const nbaData = {
         {
             'name':'哈克里斯',
             'status':'出战存疑',
-            'detail':'膝盖受伤，每日观察',
+            'detail':'膝盖受伤，无法出战',
             'important':false
         },{
             'name':'霍姆斯',
@@ -494,8 +494,13 @@ const nbaData = {
         },{
             'name':'巴恩斯',
             'status':'出战存疑',
-            'detail':'腿部受伤，每日观察',
+            'detail':'腿部受伤，无法出战',
             'important':true
+        },{
+            'name':'巴格利',
+            'status':'缺阵',
+            'detail':'身体不适，无法出战',
+            'important':false
         }
     ],
     //圣安东尼奥马刺
