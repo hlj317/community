@@ -4096,92 +4096,92 @@ export const myData = [
                 time:'Thu 12/02, 8:00 AM',
                 awayName:'timberwolves',
                 awayLeftPoints:'+3.0',
-                awayRightPoints:'+4.0',
-                awayRatio:48,
+                awayRightPoints:'+3.5',
+                awayRatio:39,
                 homeName:'wizards',
                 homeLeftPoints:'-3.0',
-                homeRightPoints:'-4.0',
-                homeRatio:52
+                homeRightPoints:'-3.5',
+                homeRatio:61
             },{
                 time:'Thu 12/02, 8:00 AM',
                 awayName:'hawks',
                 awayLeftPoints:'+1.5',
-                awayRightPoints:'+1.0',
-                awayRatio:46,
+                awayRightPoints:'+2.0',
+                awayRatio:54,
                 homeName:'pacers',
                 homeLeftPoints:'-1.5',
-                homeRightPoints:'-1.0',
-                homeRatio:54
+                homeRightPoints:'-2.0',
+                homeRatio:46
             },{
                 time:'Thu 12/02, 8:00 AM',
                 awayName:'nuggets',
                 awayLeftPoints:'-8.5',
                 awayRightPoints:'-7.5',
-                awayRatio:57,
+                awayRatio:56,
                 homeName:'magic',
                 homeLeftPoints:'+8.5',
                 homeRightPoints:'+7.5',
-                homeRatio:43
+                homeRatio:44
             },{
                 time:'Thu 12/02, 8:30 AM',
                 awayName:'seven6ers',
                 awayLeftPoints:'+2.5',
                 awayRightPoints:'+3.0',
-                awayRatio:30,
+                awayRatio:54,
                 homeName:'celtics',
                 homeLeftPoints:'-2.5',
                 homeRightPoints:'-3.0',
-                homeRatio:70
+                homeRatio:46
             },{
                 time:'Thu 12/02, 8:30 AM',
                 awayName:'cavaliers',
                 awayLeftPoints:'+7.5',
-                awayRightPoints:'+6.0',
-                awayRatio:45,
+                awayRightPoints:'+2.5',
+                awayRatio:58,
                 homeName:'heat',
                 homeLeftPoints:'-7.5',
-                homeRightPoints:'-6.0',
-                homeRatio:55
+                homeRightPoints:'-2.5',
+                homeRatio:42
             },{
                 time:'Thu 12/02, 9:00 AM',
                 awayName:'rockets',
                 awayLeftPoints:'+3.0',
-                awayRightPoints:'+2.5',
-                awayRatio:33,
+                awayRightPoints:'+2.0',
+                awayRatio:45,
                 homeName:'thunder',
                 homeLeftPoints:'-3.0',
-                homeRightPoints:'-2.5',
-                homeRatio:67
+                homeRightPoints:'-2.0',
+                homeRatio:55
             },{
                 time:'Thu 12/02, 9:00 AM',
                 awayName:'mavericks',
                 awayLeftPoints:'-3.5',
-                awayRightPoints:'-2.5',
-                awayRatio:76,
+                awayRightPoints:'-3.5',
+                awayRatio:73,
                 homeName:'pelicans',
                 homeLeftPoints:'+3.5',
-                homeRightPoints:'+2.5',
-                homeRatio:24
+                homeRightPoints:'+3.5',
+                homeRatio:27
             },{
                 time:'Thu 12/02, 9:00 AM',
                 awayName:'hornets',
                 awayLeftPoints:'+8.5',
                 awayRightPoints:'+9.0',
-                awayRatio:31,
+                awayRatio:36,
                 homeName:'bucks',
                 homeLeftPoints:'-8.5',
                 homeRightPoints:'-9.0',
-                homeRatio:69
+                homeRatio:64
             },{
                 time:'Thu 12/02, 11:30 AM',
                 awayName:'kings',
                 awayLeftPoints:'+6.5',
-                awayRightPoints:'+7.5',
-                awayRatio:33,
+                awayRightPoints:'+5.5',
+                awayRatio:39,
                 homeName:'clippers',
                 homeLeftPoints:'-6.5',
-                homeRightPoints:'-7.5',
-                homeRatio:67
+                homeRightPoints:'-5.5',
+                homeRatio:61
             }
         ]
     }
