@@ -4401,12 +4401,12 @@ export const myData = [
             },{
                 time:'Sun 12/05, 11:00 AM',
                 awayName:'celtics',
-                awayLeftPoints:'-1.0',
-                awayRightPoints:'-1.0',
+                awayLeftPoints:'-1.5',
+                awayRightPoints:'-1.5',
                 awayRatio:48,
                 homeName:'blazers',
-                homeLeftPoints:'+1.0',
-                homeRightPoints:'+1.0',
+                homeLeftPoints:'+1.5',
+                homeRightPoints:'+1.5',
                 homeRatio:52
             },{
                 time:'Sun 12/05, 11:00 AM',
