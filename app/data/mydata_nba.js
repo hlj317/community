@@ -13,8 +13,8 @@ const nbaData = {
             'important':false
         },{
             'name':'雷迪什',
-            'status':'出战存疑',
-            'detail':'手腕受伤，每日观察',
+            'status':'缺阵',
+            'detail':'手腕受伤，无法出战',
             'important':false
         }
     ],
@@ -58,6 +58,11 @@ const nbaData = {
     //芝加哥公牛
     bulls:[
         {
+            'name':'贾文特.格林',
+            'status':'缺阵',
+            'detail':'因为健康安全协议，会缺阵周日对阵篮网的比赛',
+            'important':false
+        },{
             'name':'帕特里克.威廉姆斯',
             'status':'缺阵',
             'detail':'腕部受伤，无法出战',
@@ -250,8 +255,8 @@ const nbaData = {
             'important':true
         },{
             'name':'安东尼戴维斯',
-            'status':'出战存疑',
-            'detail':'拇指受伤，每日观察',
+            'status':'大概率出战',
+            'detail':'大概率可以出战周六对阵快船的比赛',
             'important':true
         },{
             'name':'布拉德利',
@@ -460,6 +465,11 @@ const nbaData = {
     //费城76人
     seven6ers:[
         {
+            'name':'哈里斯',
+            'status':'缺阵',
+            'detail':'身体不适，无法出战',
+            'important':true
+        },{
             'name':'本.西蒙斯',
             'status':'缺阵',
             'detail':'不想上场比赛，只想白拿工资',
@@ -579,13 +589,13 @@ const nbaData = {
     wizards:[
         {
             'name':'德尼.阿夫迪亚',
-            'status':'出战存疑',
-            'detail':'身体不适，每日观察',
+            'status':'出战',
+            'detail':'可以出战周六对阵骑士的比赛',
             'important':false
         },{
             'name':'阿隆.霍乐迪',
-            'status':'出战存疑',
-            'detail':'身体不适，每日观察',
+            'status':'出战',
+            'detail':'可以出战周六对阵骑士的比赛',
             'important':false
         },{
             'name':'托马斯.布兰恩特',
