@@ -4245,7 +4245,6 @@ export const myData = [
         ]
     },
 
-
     //12月4日
     {
         date: 'Sat Dec 4',
@@ -4340,6 +4339,85 @@ export const myData = [
                 homeLeftPoints:'-6.5',
                 homeRightPoints:'-7.0',
                 homeRatio:69
+            }
+        ]
+    },
+
+
+    //12月5日
+    {
+        date: 'Sun Dec 5',
+        list: [
+            {
+                time:'Sun 12/05, 2:00 AM',
+                awayName:'nuggets',
+                awayLeftPoints:'+1.5',
+                awayRightPoints:'+1.5',
+                awayRatio:55,
+                homeName:'knicks',
+                homeLeftPoints:'-1.5',
+                homeRightPoints:'-1.5',
+                homeRatio:45
+            },{
+                time:'Sun 12/05, 9:00 AM',
+                awayName:'heat',
+                awayLeftPoints:'+5.5',
+                awayRightPoints:'+5.5',
+                awayRatio:38,
+                homeName:'bucks',
+                homeLeftPoints:'-5.5',
+                homeRightPoints:'-5.5',
+                homeRatio:62
+            },{
+                time:'Sun 12/05, 9:00 AM',
+                awayName:'bulls',
+                awayLeftPoints:'+3.0',
+                awayRightPoints:'+3.0',
+                awayRatio:43,
+                homeName:'nets',
+                homeLeftPoints:'-3.0',
+                homeRightPoints:'-3.0',
+                homeRatio:57
+            },{
+                time:'Sun 12/05, 9:30 AM',
+                awayName:'spurs',
+                awayLeftPoints:'+9.5',
+                awayRightPoints:'+9.5',
+                awayRatio:37,
+                homeName:'warriors',
+                homeLeftPoints:'-9.5',
+                homeRightPoints:'-9.5',
+                homeRatio:63
+            },{
+                time:'Sun 12/05, 9:30 AM',
+                awayName:'grizzlies',
+                awayLeftPoints:'+5.5',
+                awayRightPoints:'+5.5',
+                awayRatio:61,
+                homeName:'mavericks',
+                homeLeftPoints:'-5.5',
+                homeRightPoints:'-5.5',
+                homeRatio:39
+            },{
+                time:'Sun 12/05, 11:00 AM',
+                awayName:'celtics',
+                awayLeftPoints:'-1.0',
+                awayRightPoints:'-1.0',
+                awayRatio:48,
+                homeName:'blazers',
+                homeLeftPoints:'+1.0',
+                homeRightPoints:'+1.0',
+                homeRatio:52
+            },{
+                time:'Sun 12/05, 11:00 AM',
+                awayName:'clippers',
+                awayLeftPoints:'-1.5',
+                awayRightPoints:'-1.5',
+                awayRatio:60,
+                homeName:'kings',
+                homeLeftPoints:'+1.5',
+                homeRightPoints:'+1.5',
+                homeRatio:40
             }
         ]
     }
