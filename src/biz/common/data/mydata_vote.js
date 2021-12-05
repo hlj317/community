@@ -4352,11 +4352,11 @@ export const myData = [
                 time:'Sun 12/05, 2:00 AM',
                 awayName:'nuggets',
                 awayLeftPoints:'+1.5',
-                awayRightPoints:'+2.0',
+                awayRightPoints:'+2.5',
                 awayRatio:32,
                 homeName:'knicks',
                 homeLeftPoints:'-1.5',
-                homeRightPoints:'-2.0',
+                homeRightPoints:'-2.5',
                 homeRatio:68
             },{
                 time:'Sun 12/05, 9:00 AM',
@@ -4418,6 +4418,54 @@ export const myData = [
                 homeLeftPoints:'+1.5',
                 homeRightPoints:'+1.5',
                 homeRatio:34
+            }
+        ]
+    },
+
+    //12月6日
+    {
+        date: 'Mon Dec 6',
+        list: [
+            {
+                time:'Mon 12/06, 4:30 AM',
+                awayName:'jazz',
+                awayLeftPoints:'-5.0',
+                awayRightPoints:'-4.5',
+                awayRatio:60,
+                homeName:'cavaliers',
+                homeLeftPoints:'+5.0',
+                homeRightPoints:'+4.5',
+                homeRatio:40
+            },{
+                time:'Mon 12/06, 7:00 AM',
+                awayName:'hornets',
+                awayLeftPoints:'+7.5',
+                awayRightPoints:'+8.0',
+                awayRatio:41,
+                homeName:'hawks',
+                homeLeftPoints:'-7.5',
+                homeRightPoints:'-8.0',
+                homeRatio:59
+            },{
+                time:'Mon 12/06, 7:00 AM',
+                awayName:'wizards',
+                awayLeftPoints:'+1.5',
+                awayRightPoints:'+1.5',
+                awayRatio:47,
+                homeName:'raptors',
+                homeLeftPoints:'-1.5',
+                homeRightPoints:'-1.5',
+                homeRatio:53
+            },{
+                time:'Mon 12/06, 8:00 AM',
+                awayName:'pelicans',
+                awayLeftPoints:'-3.0',
+                awayRightPoints:'-3.0',
+                awayRatio:61,
+                homeName:'rockets',
+                homeLeftPoints:'+3.0',
+                homeRightPoints:'+3.0',
+                homeRatio:39
             }
         ]
     }

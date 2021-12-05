@@ -13,9 +13,19 @@ const nbaData = {
             'important':false
         },{
             'name':'雷迪什',
-            'status':'缺阵',
-            'detail':'手腕受伤，无法出战',
-            'important':false
+            'status':'出战存疑',
+            'detail':'身体不适，每日观察',
+            'important':true
+        },{
+            'name':'特雷杨',
+            'status':'出战存疑',
+            'detail':'四头肌受伤，每日观察',
+            'important':true
+        },{
+            'name':'赫尔特',
+            'status':'出战存疑',
+            'detail':'腿部受伤，每日观察',
+            'important':true
         }
     ],
     //波士顿凯尔特人
@@ -112,6 +122,11 @@ const nbaData = {
     //克利夫兰骑士
     cavaliers:[
         {
+            'name':'温德勒',
+            'status':'出战存疑',
+            'detail':'腿部受伤，每日观察',
+            'important':false
+        },{
             'name':'迪恩.韦德',
             'status':'缺阵',
             'detail':'腿部受伤，无法出战',
@@ -599,6 +614,11 @@ const nbaData = {
     //犹它爵士
     jazz:[
         {
+            'name':'怀特塞德',
+            'status':'出战存疑',
+            'detail':'腿部受伤，每日观察',
+            'important':false
+        },{
             'name':'伊莱贾.休斯',
             'status':'出战存疑',
             'detail':'腿部受伤，每日观察',
