@@ -423,8 +423,8 @@ const nbaData = {
     thunder:[
         {
             'name':'亚历山大',
-            'status':'缺阵',
-            'detail':'因为健康安全协议，会缺阵周五对阵灰熊的比赛',
+            'status':'大概率出战',
+            'detail':'大概率可以出战周二对阵活塞的比赛',
             'important':true
         },{
             'name':'加夫列尔.德克',
