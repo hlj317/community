@@ -127,11 +127,16 @@ const nbaData = {
             'important':false
         },{
             'name':'波尔津吉斯',
-            'status':'出战存疑',
-            'detail':'膝盖受伤，每日观察',
+            'status':'大概率出战',
+            'detail':'大概率可以出战周三对阵篮网的比赛',
             'important':true
         },{
             'name':'东契奇',
+            'status':'出战存疑',
+            'detail':'脚踝受伤，每日观察',
+            'important':true
+        },{
+            'name':'小蒂姆.哈达威',
             'status':'出战存疑',
             'detail':'腿部受伤，每日观察',
             'important':true

@@ -4576,5 +4576,43 @@ export const myData = [
                 homeRatio:35
             }
         ]
+    },
+
+    //12月8日
+    {
+        date: 'Wed Dec 8',
+        list: [
+            {
+                time:'Wed 12/08, 8:30 AM',
+                awayName:'nets',
+                awayLeftPoints:'-2.5',
+                awayRightPoints:'-2.5',
+                awayRatio:71,
+                homeName:'mavericks',
+                homeLeftPoints:'+2.5',
+                homeRightPoints:'+2.5',
+                homeRatio:29
+            },{
+                time:'Wed 12/08, 9:30 AM',
+                awayName:'knicks',
+                awayLeftPoints:'-2.5',
+                awayRightPoints:'-3.0',
+                awayRatio:68,
+                homeName:'spurs',
+                homeLeftPoints:'+2.5',
+                homeRightPoints:'+3.0',
+                homeRatio:32
+            },{
+                time:'Wed 12/08, 11:00 AM',
+                awayName:'celtics',
+                awayLeftPoints:'+2.5',
+                awayRightPoints:'+2.5',
+                awayRatio:42,
+                homeName:'lakers',
+                homeLeftPoints:'-2.5',
+                homeRightPoints:'-2.5',
+                homeRatio:58
+            }
+        ]
     }
 ]
