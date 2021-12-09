@@ -4,7 +4,7 @@ const nbaData = {
         {
             'name':'所罗门.希尔',
             'status':'赛季报销',
-            'detail':'右腿肌腱受伤，赛季报销',
+            'detail':'腿筋撕裂，赛季报销',
             'important':false
         },{
             'name':'德安德鲁.亨特',
