@@ -4762,32 +4762,32 @@ export const myData = [
                 time:'Fri 12/10, 8:00 AM',
                 awayName:'jazz',
                 awayLeftPoints:'-2.5',
-                awayRightPoints:'-2.5',
-                awayRatio:72,
+                awayRightPoints:'-3.5',
+                awayRatio:65,
                 homeName:'seven6ers',
                 homeLeftPoints:'+2.5',
-                homeRightPoints:'+2.5',
-                homeRatio:28
+                homeRightPoints:'+3.5',
+                homeRatio:35
             },{
                 time:'Fri 12/10, 9:00 AM',
                 awayName:'lakers',
                 awayLeftPoints:'-3.0',
                 awayRightPoints:'-3.0',
-                awayRatio:80,
+                awayRatio:76,
                 homeName:'grizzlies',
                 homeLeftPoints:'+3.0',
                 homeRightPoints:'+3.0',
-                homeRatio:20
+                homeRatio:24
             },{
                 time:'Fri 12/10, 9:30 AM',
                 awayName:'nuggets',
                 awayLeftPoints:'-1.5',
                 awayRightPoints:'-1.5',
-                awayRatio:52,
+                awayRatio:53,
                 homeName:'spurs',
                 homeLeftPoints:'+1.5',
                 homeRightPoints:'+1.5',
-                homeRatio:48
+                homeRatio:47
             }
         ]
     }
