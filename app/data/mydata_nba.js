@@ -428,6 +428,11 @@ const nbaData = {
     //纽约尼克斯
     knicks:[
         {
+            'name':'RJ巴雷特',
+            'status':'缺阵',
+            'detail':'因为健康安全协议，会缺阵数场比赛',
+            'important':true
+        },{
             'name':'托平',
             'status':'缺阵',
             'detail':'因为健康安全协议，会缺阵数场比赛',
