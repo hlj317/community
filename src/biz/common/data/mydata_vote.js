@@ -4900,71 +4900,71 @@ export const myData = [
                 awayName:'magic',
                 awayLeftPoints:'+8.5',
                 awayRightPoints:'+8.5',
-                awayRatio:52,
+                awayRatio:46,
                 homeName:'clippers',
                 homeLeftPoints:'-8.5',
                 homeRightPoints:'-8.5',
-                homeRatio:48
+                homeRatio:54
             },{
                 time:'Sun 12/12, 8:00 AM',
                 awayName:'jazz',
                 awayLeftPoints:'-5.0',
-                awayRightPoints:'-6.0',
+                awayRightPoints:'-7.0',
                 awayRatio:72,
                 homeName:'wizards',
                 homeLeftPoints:'+5.0',
-                homeRightPoints:'+6.0',
+                homeRightPoints:'+7.0',
                 homeRatio:28
             },{
                 time:'Sun 12/12, 9:00 AM',
                 awayName:'bulls',
                 awayLeftPoints:'+1.5',
-                awayRightPoints:'+1.0',
-                awayRatio:80,
+                awayRightPoints:'-1.5',
+                awayRatio:62,
                 homeName:'heat',
                 homeLeftPoints:'-1.5',
-                homeRightPoints:'-1.0',
-                homeRatio:20
+                homeRightPoints:'+1.5',
+                homeRatio:38
             },{
                 time:'Sun 12/12, 9:00 AM',
                 awayName:'rockets',
                 awayLeftPoints:'+8.0',
                 awayRightPoints:'+8.0',
-                awayRatio:46,
+                awayRatio:47,
                 homeName:'grizzlies',
                 homeLeftPoints:'-8.0',
                 homeRightPoints:'-8.0',
-                homeRatio:54
+                homeRatio:53
             },{
                 time:'Sun 12/12, 9:00 AM',
                 awayName:'kings',
                 awayLeftPoints:'+6.5',
                 awayRightPoints:'+6.5',
-                awayRatio:34,
+                awayRatio:29,
                 homeName:'cavaliers',
                 homeLeftPoints:'-6.5',
                 homeRightPoints:'-6.5',
-                homeRatio:66
+                homeRatio:71
             },{
                 time:'Sun 12/12, 9:30 AM',
                 awayName:'warriors',
                 awayLeftPoints:'-1.5',
-                awayRightPoints:'-3.0',
+                awayRightPoints:'-2.5',
                 awayRatio:88,
                 homeName:'seven6ers',
                 homeLeftPoints:'+1.5',
-                homeRightPoints:'+3.0',
+                homeRightPoints:'+2.5',
                 homeRatio:12
             },{
                 time:'Sun 12/12, 9:30 AM',
                 awayName:'nuggets',
                 awayLeftPoints:'-1.5',
                 awayRightPoints:'-1.0',
-                awayRatio:67,
+                awayRatio:49,
                 homeName:'spurs',
                 homeLeftPoints:'+1.5',
                 homeRightPoints:'+1.0',
-                homeRatio:33
+                homeRatio:51
             }
         ]
     }

@@ -199,8 +199,8 @@ const nbaData = {
     warriors:[
         {
             'name':'伊戈达拉',
-            'status':'缺阵',
-            'detail':'身体不适，无法出战',
+            'status':'出战存疑',
+            'detail':'膝盖受伤，每日观察',
             'important':false
         },{
             'name':'怀斯曼',
@@ -313,10 +313,10 @@ const nbaData = {
             'detail':'右膝受伤，无法出战',
             'important':false
         },{
-            'name':'凯尔.安德森',
+            'name':'贾伦.杰克逊',
             'status':'缺阵',
-            'detail':'背部受伤，无法出战',
-            'important':false
+            'detail':'膝盖酸痛，无法出战',
+            'important':true
         },{
             'name':'萨姆.梅里尔',
             'status':'缺阵',
@@ -341,6 +341,11 @@ const nbaData = {
             'status':'缺阵',
             'detail':'尾椎受伤，无法出战',
             'important':true
+        },{
+            'name':'凯莱布.马丁',
+            'status':'缺阵',
+            'detail':'因为健康安全协议，会缺阵数场比赛',
+            'important':false
         },{
             'name':'马基夫.莫里斯',
             'status':'缺阵',
@@ -537,8 +542,8 @@ const nbaData = {
     spurs:[
         {
             'name':'凯尔登.约翰逊',
-            'status':'大概率出战',
-            'detail':'大概率可以出战周日对阵掘金的比赛',
+            'status':'出战',
+            'detail':'可以出战周日对阵掘金的比赛',
             'important':true
         },{
             'name':'查克.科林斯',
@@ -587,7 +592,12 @@ const nbaData = {
             'status':'长期缺阵',
             'detail':'膝盖受伤，预计两周之后复出',
             'important':false
-        }     
+        },{
+            'name':'库兹马',
+            'status':'缺阵',
+            'detail':'因为健康安全协议，会缺阵数场比赛',
+            'important':true
+        },   
     ]   
 }
 
