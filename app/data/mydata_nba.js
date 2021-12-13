@@ -401,8 +401,8 @@ const nbaData = {
     timberwolves:[
         {
             'name':'拉塞尔',
-            'status':'出战存疑',
-            'detail':'脚踝受伤，每日观察',
+            'status':'出战',
+            'detail':'可以出战周一对阵开拓者的比赛',
             'important':true
         }
     ],
@@ -534,13 +534,13 @@ const nbaData = {
             'important':true
         },{
             'name':'利拉德',
-            'status':'出战存疑',
-            'detail':'腹部受伤，每日观察',
+            'status':'出战',
+            'detail':'可以出战周一对阵森林狼的比赛',
             'important':true
         },{
             'name':'安芬尼.西蒙斯',
-            'status':'出战存疑',
-            'detail':'脚踝受伤，每日观察',
+            'status':'出战',
+            'detail':'可以出战周一对阵森林狼的比赛',
             'important':true
         } 
     ],
