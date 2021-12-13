@@ -272,8 +272,8 @@ const nbaData = {
             'important':false
         },{
             'name':'贾斯汀.霍乐迪',
-            'status':'缺阵',
-            'detail':'因为健康安全协议，会缺阵数场比赛',
+            'status':'出战存疑',
+            'detail':'身体不适，每日观察',
             'important':true
         },{
             'name':'TJ.沃伦',
