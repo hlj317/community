@@ -170,9 +170,14 @@ const nbaData = {
             'detail':'身体不适，每日观察',
             'important':true
         },{
-            'name':'杰迈克尔.格林',
+            'name':'阿隆.戈登',
             'status':'出战存疑',
-            'detail':'脚踝受伤，每日观察',
+            'detail':'身体不适，每日观察',
+            'important':true
+        },{
+            'name':'杰迈克尔.格林',
+            'status':'缺阵',
+            'detail':'脚踝受伤，无法出战',
             'important':false
         },{
             'name':'奥斯汀.里弗斯',
@@ -343,6 +348,11 @@ const nbaData = {
             'detail':'膝盖酸痛，每日观察',
             'important':true
         },{
+            'name':'贝恩',
+            'status':'出战存疑',
+            'detail':'身体不适，每日观察',
+            'important':true
+        },{
             'name':'亚当斯',
             'status':'出战存疑',
             'detail':'脚踝受伤，每日观察',
@@ -391,6 +401,11 @@ const nbaData = {
     //密尔沃基雄鹿
     bucks:[
         {
+            'name':'乔治.希尔',
+            'status':'缺阵',
+            'detail':'脚踝受伤，无法出战',
+            'important':false
+        },{
             'name':'马修斯',
             'status':'缺阵',
             'detail':'因为健康安全协议，会缺阵数场比赛',
@@ -571,7 +586,7 @@ const nbaData = {
     raptors:[
         {
             'name':'阿丘瓦',
-            'status':'出战存疑',
+            'status':'缺阵',
             'detail':'因为健康安全协议，会缺阵数场比赛',
             'important':true
         },{

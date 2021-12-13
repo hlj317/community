@@ -5147,91 +5147,91 @@ export const myData = [
                 awayName:'warriors',
                 awayLeftPoints:'-3.5',
                 awayRightPoints:'-4.0',
-                awayRatio:78,
+                awayRatio:89,
                 homeName:'pacers',
                 homeLeftPoints:'+3.5',
                 homeRightPoints:'+4.0',
-                homeRatio:22
+                homeRatio:11
             },{
                 time:'Tue 12/14, 8:00 AM',
                 awayName:'heat',
                 awayLeftPoints:'+4.5',
-                awayRightPoints:'+5.0',
-                awayRatio:35,
+                awayRightPoints:'+5.5',
+                awayRatio:26,
                 homeName:'cavaliers',
                 homeLeftPoints:'-4.5',
-                homeRightPoints:'-5.0',
-                homeRatio:65
+                homeRightPoints:'-5.5',
+                homeRatio:74
             },{
                 time:'Tue 12/14, 8:00 AM',
                 awayName:'kings',
                 awayLeftPoints:'+4.5',
                 awayRightPoints:'+4.5',
-                awayRatio:40,
+                awayRatio:35,
                 homeName:'raptors',
                 homeLeftPoints:'-4.5',
                 homeRightPoints:'-4.5',
-                homeRatio:60
+                homeRatio:65
             },{
                 time:'Tue 12/14, 8:30 AM',
                 awayName:'bucks',
                 awayLeftPoints:'+1.5',
-                awayRightPoints:'+1.0',
-                awayRatio:81,
+                awayRightPoints:'-1.0',
+                awayRatio:77,
                 homeName:'celtics',
                 homeLeftPoints:'-1.5',
-                homeRightPoints:'-1.0',
-                homeRatio:19
+                homeRightPoints:'+1.0',
+                homeRatio:23
             },{
                 time:'Tue 12/14, 8:30 AM',
                 awayName:'rockets',
                 awayLeftPoints:'+11.5',
-                awayRightPoints:'+11.0',
-                awayRatio:55,
+                awayRightPoints:'+10.0',
+                awayRatio:53,
                 homeName:'hawks',
                 homeLeftPoints:'-11.5',
-                homeRightPoints:'-11.0',
-                homeRatio:45
+                homeRightPoints:'-10.0',
+                homeRatio:47
             },{
                 time:'Tue 12/14, 9:00 AM',
                 awayName:'seven6ers',
                 awayLeftPoints:'-2.5',
-                awayRightPoints:'-3.5',
-                awayRatio:52,
+                awayRightPoints:'-4.0',
+                awayRatio:62,
                 homeName:'grizzlies',
                 homeLeftPoints:'+2.5',
-                homeRightPoints:'+3.5',
-                homeRatio:48
+                homeRightPoints:'+4.0',
+                homeRatio:38
             },{
                 time:'Tue 12/14, 9:30 AM',
                 awayName:'hornets',
                 awayLeftPoints:'+3.5',
                 awayRightPoints:'+2.5',
-                awayRatio:57,
+                awayRatio:54,
                 homeName:'mavericks',
                 homeLeftPoints:'-3.5',
                 homeRightPoints:'-2.5',
-                homeRatio:43
+                homeRatio:46
             },{
                 time:'Tue 12/14, 10:00 AM',
                 awayName:'wizards',
                 awayLeftPoints:'+3.5',
-                awayRightPoints:'+4.5',
-                awayRatio:26,
+                awayRightPoints:'+3.5',
+                awayRatio:31,
                 homeName:'nuggets',
                 homeLeftPoints:'-3.5',
-                homeRightPoints:'-4.5',
-                homeRatio:74
+                homeRightPoints:'-3.5',
+                homeRatio:69
             },{
                 time:'Tue 12/14, 11:30 AM',
                 awayName:'suns',
                 awayLeftPoints:'-2.5',
                 awayRightPoints:'-3.0',
-                awayRatio:67,
+                awayRatio:82,
                 homeName:'clippers',
                 homeLeftPoints:'+2.5',
                 homeRightPoints:'+3.0',
-                homeRatio:33
+                homeRatio:18
             }
         ]
     }
