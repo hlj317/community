@@ -5137,8 +5137,7 @@ export const myData = [
         ]
     },
 
-
-        //12月14日
+    //12月14日
     {
         date: 'Tue Dec 14',
         list: [
@@ -5232,6 +5231,45 @@ export const myData = [
                 homeLeftPoints:'+2.5',
                 homeRightPoints:'+3.0',
                 homeRatio:18
+            }
+        ]
+    },
+
+
+    //12月15日
+    {
+        date: 'Wed Dec 15',
+        list: [
+            {
+                time:'Wed 12/15, 8:30 AM',
+                awayName:'warriors',
+                awayLeftPoints:'-3.5',
+                awayRightPoints:'-3.5',
+                awayRatio:79,
+                homeName:'knicks',
+                homeLeftPoints:'+3.5',
+                homeRightPoints:'+3.5',
+                homeRatio:21
+            },{
+                time:'Wed 12/15, 8:30 AM',
+                awayName:'raptors',
+                awayLeftPoints:'+8.5',
+                awayRightPoints:'+8.5',
+                awayRatio:38,
+                homeName:'nets',
+                homeLeftPoints:'-8.5',
+                homeRightPoints:'-8.5',
+                homeRatio:62
+            },{
+                time:'Wed 12/15, 11:00 AM',
+                awayName:'suns',
+                awayLeftPoints:'-2.5',
+                awayRightPoints:'-2.5',
+                awayRatio:56,
+                homeName:'blazers',
+                homeLeftPoints:'+2.5',
+                homeRightPoints:'+2.5',
+                homeRatio:44
             }
         ]
     }
