@@ -5244,32 +5244,32 @@ export const myData = [
                 time:'Wed 12/15, 8:30 AM',
                 awayName:'warriors',
                 awayLeftPoints:'-3.5',
-                awayRightPoints:'-3.5',
+                awayRightPoints:'-5.0',
                 awayRatio:71,
                 homeName:'knicks',
                 homeLeftPoints:'+3.5',
-                homeRightPoints:'+3.5',
+                homeRightPoints:'+5.0',
                 homeRatio:29
             },{
                 time:'Wed 12/15, 8:30 AM',
                 awayName:'raptors',
                 awayLeftPoints:'+8.5',
-                awayRightPoints:'+8.5',
-                awayRatio:25,
+                awayRightPoints:'+4.0',
+                awayRatio:62,
                 homeName:'nets',
                 homeLeftPoints:'-8.5',
-                homeRightPoints:'-8.5',
-                homeRatio:75
+                homeRightPoints:'-4.0',
+                homeRatio:38
             },{
                 time:'Wed 12/15, 11:00 AM',
                 awayName:'suns',
                 awayLeftPoints:'-2.5',
-                awayRightPoints:'-2.5',
-                awayRatio:43,
+                awayRightPoints:'-2.0',
+                awayRatio:61,
                 homeName:'blazers',
                 homeLeftPoints:'+2.5',
-                homeRightPoints:'+2.5',
-                homeRatio:57
+                homeRightPoints:'+2.0',
+                homeRatio:39
             }
         ]
     }
