@@ -89,11 +89,6 @@ const nbaData = {
             'detail':'因为健康安全协议，会缺阵数场比赛',
             'important':false
         },{
-            'name':'普拉姆利',
-            'status':'缺阵',
-            'detail':'因为健康安全协议，会缺阵数场比赛',
-            'important':true
-        },{
             'name':'拉梅洛.鲍尔',
             'status':'缺阵',
             'detail':'因为健康安全协议，会缺阵数场比赛',
@@ -268,13 +263,13 @@ const nbaData = {
     rockets:[
         {
             'name':'埃里克.戈登',
-            'status':'缺阵',
-            'detail':'腿部受伤，无法出战',
+            'status':'出战存疑',
+            'detail':'腿部受伤，每日观察',
             'important':true
         },{
             'name':'伍德',
-            'status':'缺阵',
-            'detail':'膝盖受伤，无法出战',
+            'status':'出战存疑',
+            'detail':'膝盖受伤，每日观察',
             'important':true
         },{
             'name':'丹尼尔.豪斯',
@@ -306,10 +301,10 @@ const nbaData = {
             'detail':'手腕手术，预计明年三月份后回归',
             'important':false
         },{
-            'name':'贾斯汀.霍乐迪',
+            'name':'托里.克雷格',
             'status':'出战存疑',
             'detail':'身体不适，每日观察',
-            'important':true
+            'important':false
         },{
             'name':'TJ.沃伦',
             'status':'长期缺阵',
@@ -590,16 +585,6 @@ const nbaData = {
     //费城76人
     seven6ers:[
         {
-            'name':'恩比德',
-            'status':'大概率出战',
-            'detail':'大概率可以出战周四对阵热火的比赛',
-            'important':true
-        },{
-            'name':'赛斯.库里',
-            'status':'出战存疑',
-            'detail':'肩膀受伤，每日观察',
-            'important':true
-        },{
             'name':'尼昂',
             'status':'缺阵',
             'detail':'因为健康安全协议，会缺阵数场比赛',
@@ -630,8 +615,8 @@ const nbaData = {
             'important':false
         },{
             'name':'杰伦.史密斯',
-            'status':'缺阵',
-            'detail':'身体不适，无法出战',
+            'status':'出战存疑',
+            'detail':'身体不适，每日观察',
             'important':false
         },{
             'name':'德文.布克',
@@ -737,11 +722,6 @@ const nbaData = {
             'status':'长期缺阵',
             'detail':'膝盖受伤，预计12月底复出',
             'important':false
-        },{
-            'name':'库兹马',
-            'status':'大概率出战',
-            'detail':'大概率可以出战周四对阵国王的比赛',
-            'important':true
         },{
             'name':'八村塁',
             'status':'缺阵',
