@@ -494,7 +494,7 @@ const nbaData = {
         {
             'name':'米德尔顿',
             'status':'缺阵',
-            'detail':'身体不适，无法出战',
+            'detail':'膝盖受伤，无法出战',
             'important':true
         },{
             'name':'字母哥',
@@ -620,7 +620,7 @@ const nbaData = {
             'name':'莫里茨.瓦格纳',
             'status':'缺阵',
             'detail':'因为健康安全协议，会缺阵数场比赛',
-            'important':true
+            'important':false
         },{
             'name':'班巴',
             'status':'缺阵',
