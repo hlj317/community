@@ -617,7 +617,7 @@ const nbaData = {
             'detail':'右脚踝受伤，无法出战',
             'important':true
         },{
-            'name':'小瓦格纳',
+            'name':'莫里茨.瓦格纳',
             'status':'缺阵',
             'detail':'因为健康安全协议，会缺阵数场比赛',
             'important':true
