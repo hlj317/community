@@ -5706,5 +5706,6 @@ export const myData = [
                 homeRightPoints:'-7.5',
                 homeRatio:71
             }
+        ]
     }
 ]
