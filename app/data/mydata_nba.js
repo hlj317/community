@@ -2,6 +2,11 @@ const nbaData = {
     //亚特兰大老鹰
     hawks:[
         {
+            'name':'特雷杨',
+            'status':'出战存疑',
+            'detail':'身体不适，每日观察',
+            'important':true
+        },{
             'name':'所罗门.希尔',
             'status':'赛季报销',
             'detail':'腿筋撕裂，赛季报销',
@@ -13,8 +18,8 @@ const nbaData = {
             'important':false
         },{
             'name':'博格丹',
-            'status':'缺阵',
-            'detail':'右脚踝受伤，无法出战',
+            'status':'出战存疑',
+            'detail':'右脚踝受伤，每日观察',
             'important':true
         }
     ],
@@ -63,6 +68,11 @@ const nbaData = {
             'name':'克拉克斯顿',
             'status':'出战存疑',
             'detail':'身体不适，每日观察',
+            'important':false
+        },{
+            'name':'格里芬',
+            'status':'出战存疑',
+            'detail':'膝盖受伤，每日观察',
             'important':false
         },{
             'name':'布鲁斯.布朗',
@@ -124,15 +134,10 @@ const nbaData = {
     //夏洛特黄蜂
     hornets:[
         {
-            'name':'伊斯梅尔.史密斯',
-            'status':'大概率出战',
-            'detail':'大概率可以出战周六对阵开拓者的比赛',
+            'name':'库尔博卡',
+            'status':'出战存疑',
+            'detail':'腿部受伤，每日观察',
             'important':false
-        },{
-            'name':'拉梅洛.鲍尔',
-            'status':'大概率出战',
-            'detail':'大概率可以出战周六对阵开拓者的比赛',
-            'important':true
         }
     ],
     //芝加哥公牛
@@ -148,25 +153,10 @@ const nbaData = {
             'detail':'因为健康安全协议，会缺阵数场比赛',
             'important':true
         },{
-            'name':'德罗赞',
-            'status':'缺阵',
-            'detail':'因为健康安全协议，会缺阵数场比赛',
-            'important':true
-        },{
             'name':'卡鲁索',
             'status':'缺阵',
             'detail':'腿部肌腱受伤，无法出战',
             'important':true
-        },{
-            'name':'贾文特.格林',
-            'status':'缺阵',
-            'detail':'因为健康安全协议，会缺阵数场比赛',
-            'important':false
-        },{
-            'name':'马特.托马斯',
-            'status':'缺阵',
-            'detail':'因为健康安全协议，会缺阵数场比赛',
-            'important':false
         },{
             'name':'特洛伊.布朗',
             'status':'缺阵',
@@ -192,6 +182,11 @@ const nbaData = {
     //克利夫兰骑士
     cavaliers:[
         {
+            'name':'温德勒',
+            'status':'出战存疑',
+            'detail':'腿部受伤，每日观察',
+            'important':false
+        },{
             'name':'奥克罗',
             'status':'缺阵',
             'detail':'因为健康安全协议，会缺阵数场比赛',
@@ -224,6 +219,16 @@ const nbaData = {
             'name':'考利斯坦',
             'status':'缺阵',
             'detail':'个人原因，无法出战',
+            'important':false
+        },{
+            'name':'布洛克',
+            'status':'缺阵',
+            'detail':'因为健康安全协议，会缺阵数场比赛',
+            'important':false
+        },{
+            'name':'约什.格林',
+            'status':'缺阵',
+            'detail':'因为健康安全协议，会缺阵数场比赛',
             'important':false
         }
     ],
@@ -409,11 +414,6 @@ const nbaData = {
     //洛杉矶湖人
     lakers:[
         {
-            'name':'威斯布鲁克',
-            'status':'大概率出战',
-            'detail':'大概率可以出战周六对阵森林狼的比赛',
-            'important':true
-        },{
             'name':'奥斯汀.里弗斯',
             'status':'缺阵',
             'detail':'因为健康安全协议，会缺阵数场比赛',
@@ -450,8 +450,8 @@ const nbaData = {
             'important':false
         },{
             'name':'阿里扎',
-            'status':'长期缺阵',
-            'detail':'接受了脚踝手术，预计至少将缺席8周的比赛',
+            'status':'出战存疑',
+            'detail':'脚踝受伤，每日观察',
             'important':false
         }     
     ],
@@ -459,8 +459,8 @@ const nbaData = {
     grizzlies:[
         {
             'name':'亚当斯',
-            'status':'出战存疑',
-            'detail':'腿部受伤，每日观察',
+            'status':'缺阵',
+            'detail':'小腿受伤，无法出战',
             'important':true
         },{
             'name':'宰伊尔.威廉姆斯',
@@ -488,8 +488,8 @@ const nbaData = {
     heat:[
         {
             'name':'泰勒.希罗',
-            'status':'缺阵',
-            'detail':'肱四头肌受伤，无法出战',
+            'status':'出战存疑',
+            'detail':'肱四头肌受伤，每日观察',
             'important':true
         },{
             'name':'阿德巴约',
@@ -568,6 +568,11 @@ const nbaData = {
             'name':'莱曼',
             'status':'缺阵',
             'detail':'腿部受伤，无法出战',
+            'important':false
+        },{
+            'name':'普林斯',
+            'status':'缺阵',
+            'detail':'因为健康安全协议，会缺阵数场比赛',
             'important':false
         }
     ],
@@ -697,6 +702,11 @@ const nbaData = {
         {
             'name':'马克西',
             'status':'出战存疑',
+            'detail':'四头肌受伤，每日观察',
+            'important':true
+        },{
+            'name':'恩比德',
+            'status':'出战存疑',
             'detail':'身体不适，每日观察',
             'important':true
         },{
@@ -730,8 +740,8 @@ const nbaData = {
             'important':false
         },{
             'name':'德文.布克',
-            'status':'缺阵',
-            'detail':'大腿拉伤，预计会缺阵几场比赛',
+            'status':'出战存疑',
+            'detail':'大腿拉伤，每日观察',
             'important':true
         },{
             'name':'沙里奇',
@@ -820,10 +830,10 @@ const nbaData = {
             'detail':'腿部受伤，无法出战',
             'important':false
         },{
-            'name':'阿丘瓦',
+            'name':'班顿',
             'status':'缺阵',
             'detail':'因为健康安全协议，会缺阵数场比赛',
-            'important':true
+            'important':false
         },{
             'name':'西亚卡姆',
             'status':'缺阵',
@@ -839,12 +849,7 @@ const nbaData = {
             'status':'缺阵',
             'detail':'个人原因，无法出战',
             'important':false
-        },{
-            'name':'阿奴诺比',
-            'status':'出战',
-            'detail':'可以出战周日对阵勇士的比赛',
-            'important':true
-        }        
+        }      
     ],
     //犹它爵士
     jazz:[
