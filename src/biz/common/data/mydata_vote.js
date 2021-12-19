@@ -5620,91 +5620,91 @@ export const myData = [
                 awayName:'heat',
                 awayLeftPoints:'-6.0',
                 awayRightPoints:'-7.0',
-                awayRatio:72,
+                awayRatio:86,
                 homeName:'pistons',
                 homeLeftPoints:'+6.0',
                 homeRightPoints:'+7.0',
-                homeRatio:28
+                homeRatio:14
             },{
                 time:'Mon 12/20, 7:00 AM',
                 awayName:'spurs',
                 awayLeftPoints:'-3.5',
-                awayRightPoints:'-4.5',
-                awayRatio:61,
+                awayRightPoints:'-5.0',
+                awayRatio:80,
                 homeName:'kings',
                 homeLeftPoints:'+3.5',
-                homeRightPoints:'+4.5',
-                homeRatio:39
+                homeRightPoints:'+5.0',
+                homeRatio:20
             },{
                 time:'Mon 12/20, 7:00 AM',
                 awayName:'blazers',
                 awayLeftPoints:'+4.0',
-                awayRightPoints:'+4.5',
-                awayRatio:30,
+                awayRightPoints:'+5.0',
+                awayRatio:19,
                 homeName:'grizzlies',
                 homeLeftPoints:'-4.0',
-                homeRightPoints:'-4.5',
-                homeRatio:70
+                homeRightPoints:'-5.0',
+                homeRatio:81
             },{
                 time:'Mon 12/20, 8:00 AM',
                 awayName:'pelicans',
                 awayLeftPoints:'+5.5',
-                awayRightPoints:'+6.0',
-                awayRatio:40,
+                awayRightPoints:'+5.5',
+                awayRatio:37,
                 homeName:'seven6ers',
                 homeLeftPoints:'-5.5',
-                homeRightPoints:'-6.0',
-                homeRatio:60
+                homeRightPoints:'-5.5',
+                homeRatio:63
             },{
                 time:'Mon 12/20, 8:30 AM',
                 awayName:'nuggets',
-                awayLeftPoints:'/',
-                awayRightPoints:'/',
-                awayRatio:0,
+                awayLeftPoints:'-7.5',
+                awayRightPoints:'-9.0',
+                awayRatio:89,
                 homeName:'nets',
-                homeLeftPoints:'/',
-                homeRightPoints:'/',
-                homeRatio:0
+                homeLeftPoints:'+7.5',
+                homeRightPoints:'+9.0',
+                homeRatio:11
             },{
                 time:'Mon 12/20, 8:30 AM',
                 awayName:'cavaliers',
                 awayLeftPoints:'+5.0',
-                awayRightPoints:'+3.0',
-                awayRatio:63,
+                awayRightPoints:'+2.5',
+                awayRatio:62,
                 homeName:'hawks',
                 homeLeftPoints:'-5.0',
-                homeRightPoints:'-3.0',
-                homeRatio:37
+                homeRightPoints:'-2.5',
+                homeRatio:38
             },{
                 time:'Mon 12/20, 9:00 AM',
                 awayName:'lakers',
                 awayLeftPoints:'+4.5',
-                awayRightPoints:'+4.5',
-                awayRatio:42,
+                awayRightPoints:'+5.5',
+                awayRatio:29,
                 homeName:'bulls',
                 homeLeftPoints:'-4.5',
-                homeRightPoints:'-4.5',
-                homeRatio:58
+                homeRightPoints:'-5.5',
+                homeRatio:71
             },{
                 time:'Mon 12/20, 9:00 AM',
                 awayName:'mavericks',
                 awayLeftPoints:'+3.5',
-                awayRightPoints:'+3.5',
-                awayRatio:56,
+                awayRightPoints:'+3.0',
+                awayRatio:47,
                 homeName:'timberwolves',
                 homeLeftPoints:'-3.5',
-                homeRightPoints:'-3.5',
-                homeRatio:44
+                homeRightPoints:'-3.0',
+                homeRatio:53
             },{
                 time:'Mon 12/20, 9:00 AM',
                 awayName:'hornets',
                 awayLeftPoints:'+8.0',
-                awayRightPoints:'+7.5',
-                awayRatio:29,
+                awayRightPoints:'+7.0',
+                awayRatio:64,
                 homeName:'suns',
                 homeLeftPoints:'-8.0',
-                homeRightPoints:'-7.5',
-                homeRatio:71
+                homeRightPoints:'-7.0',
+                homeRatio:36
             }
         ]
     }
