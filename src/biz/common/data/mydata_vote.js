@@ -5728,11 +5728,11 @@ export const myData = [
                 time:'Tue 12/21, 9:00 AM',
                 awayName:'thunder',
                 awayLeftPoints:'+8.5',
-                awayRightPoints:'+8.5',
+                awayRightPoints:'+9.0',
                 awayRatio:27,
                 homeName:'grizzlies',
                 homeLeftPoints:'-8.5',
-                homeRightPoints:'-8.5',
+                homeRightPoints:'-9.0',
                 homeRatio:73
             },{
                 time:'Tue 12/21, 9:00 AM',
