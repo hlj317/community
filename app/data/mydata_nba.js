@@ -408,7 +408,7 @@ const nbaData = {
             'name':'哈腾',
             'status':'缺阵',
             'detail':'脚踝受伤，无法出战',
-            'important':true
+            'important':false
         },{
             'name':'马库斯莫里斯',
             'status':'缺阵',
