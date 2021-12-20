@@ -5707,5 +5707,74 @@ export const myData = [
                 homeRatio:36
             }
         ]
+    },
+
+
+    //12月21日
+    {
+        date: 'Tue Dec 21',
+        list: [
+            {
+                time:'Tue 12/21, 8:30 AM',
+                awayName:'seven6ers',
+                awayLeftPoints:'/',
+                awayRightPoints:'/',
+                awayRatio:0,
+                homeName:'celtics',
+                homeLeftPoints:'/',
+                homeRightPoints:'/',
+                homeRatio:0
+            },{
+                time:'Tue 12/21, 9:00 AM',
+                awayName:'thunder',
+                awayLeftPoints:'+8.5',
+                awayRightPoints:'+8.5',
+                awayRatio:27,
+                homeName:'grizzlies',
+                homeLeftPoints:'-8.5',
+                homeRightPoints:'-8.5',
+                homeRatio:73
+            },{
+                time:'Tue 12/21, 9:00 AM',
+                awayName:'rockets',
+                awayLeftPoints:'+8.5',
+                awayRightPoints:'+8.5',
+                awayRatio:32,
+                homeName:'bulls',
+                homeLeftPoints:'-8.5',
+                homeRightPoints:'-8.5',
+                homeRatio:68
+            },{
+                time:'Tue 12/21, 10:00 AM',
+                awayName:'hornets',
+                awayLeftPoints:'+12.0',
+                awayRightPoints:'+11.5',
+                awayRatio:39,
+                homeName:'jazz',
+                homeLeftPoints:'-12.0',
+                homeRightPoints:'-11.5',
+                homeRatio:61
+            },{
+                time:'Tue 12/21, 11:00 AM',
+                awayName:'kings',
+                awayLeftPoints:'+14.5',
+                awayRightPoints:'+14.5',
+                awayRatio:45,
+                homeName:'warriors',
+                homeLeftPoints:'-14.5',
+                homeRightPoints:'-14.5',
+                homeRatio:55
+            },{
+                time:'Tue 12/21, 11:30 AM',
+                awayName:'spurs',
+                awayLeftPoints:'+5.5',
+                awayRightPoints:'+5.5',
+                awayRatio:57,
+                homeName:'clippers',
+                homeLeftPoints:'-5.5',
+                homeRightPoints:'-5.5',
+                homeRatio:43
+            }
+        ]
     }
 ]
