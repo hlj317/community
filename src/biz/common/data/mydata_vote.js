@@ -5807,11 +5807,11 @@ export const myData = [
                 time:'Wed 12/22, 9:00 AM',
                 awayName:'blazers',
                 awayLeftPoints:'-1.5',
-                awayRightPoints:'-1.5',
+                awayRightPoints:'-1.0',
                 awayRatio:78,
                 homeName:'pelicans',
                 homeLeftPoints:'+1.5',
-                homeRightPoints:'+1.5',
+                homeRightPoints:'+1.0',
                 homeRatio:22
             },{
                 time:'Wed 12/22, 9:30 AM',
