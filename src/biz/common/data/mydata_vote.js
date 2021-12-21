@@ -5768,12 +5768,12 @@ export const myData = [
                 time:'Tue 12/21, 11:30 AM',
                 awayName:'spurs',
                 awayLeftPoints:'+5.5',
-                awayRightPoints:'+5.0',
-                awayRatio:45,
+                awayRightPoints:'+6.0',
+                awayRatio:36,
                 homeName:'clippers',
                 homeLeftPoints:'-5.5',
-                homeRightPoints:'-5.0',
-                homeRatio:55
+                homeRightPoints:'-6.0',
+                homeRatio:64
             }
         ]
     }

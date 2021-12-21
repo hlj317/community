@@ -416,8 +416,8 @@ const nbaData = {
             'important':true
         },{
             'name':'保罗.乔治',
-            'status':'出战存疑',
-            'detail':'肘部受伤，每日观察',
+            'status':'复出',
+            'detail':'可以出战周二对阵马刺的比赛',
             'important':true
         },{
             'name':'科怀.伦纳德',
