@@ -5847,61 +5847,61 @@ export const myData = [
                 awayName:'magic',
                 awayLeftPoints:'+8.5',
                 awayRightPoints:'+8.5',
-                awayRatio:47,
+                awayRatio:56,
                 homeName:'hawks',
                 homeLeftPoints:'-8.5',
                 homeRightPoints:'-8.5',
-                homeRatio:53
+                homeRatio:44
             },{
                 time:'Thu 12/23, 8:30 AM',
                 awayName:'cavaliers',
                 awayLeftPoints:'+5.5',
                 awayRightPoints:'+5.5',
-                awayRatio:29,
+                awayRatio:35,
                 homeName:'celtics',
                 homeLeftPoints:'-5.5',
                 homeRightPoints:'-5.5',
-                homeRatio:71
+                homeRatio:65
             },{
                 time:'Thu 12/23, 9:00 AM',
                 awayName:'nuggets',
                 awayLeftPoints:'-5.5',
                 awayRightPoints:'-5.5',
-                awayRatio:73,
+                awayRatio:79,
                 homeName:'thunder',
                 homeLeftPoints:'+5.5',
                 homeRightPoints:'+5.5',
-                homeRatio:27
+                homeRatio:21
             },{
                 time:'Thu 12/23, 9:00 AM',
                 awayName:'rockets',
                 awayLeftPoints:'+9.5',
                 awayRightPoints:'+9.5',
-                awayRatio:30,
+                awayRatio:27,
                 homeName:'bucks',
                 homeLeftPoints:'-9.5',
                 homeRightPoints:'-9.5',
-                homeRatio:70
+                homeRatio:73
             },{
                 time:'Thu 12/23, 9:00 AM',
                 awayName:'raptors',
                 awayLeftPoints:'+8.5',
-                awayRightPoints:'+8.5',
-                awayRatio:16,
+                awayRightPoints:'+9.5',
+                awayRatio:14,
                 homeName:'bulls',
                 homeLeftPoints:'-8.5',
-                homeRightPoints:'-8.5',
-                homeRatio:84
+                homeRightPoints:'-9.5',
+                homeRatio:86
             },{
                 time:'Thu 12/23, 11:00 AM',
                 awayName:'clippers',
                 awayLeftPoints:'-5.5',
                 awayRightPoints:'-5.5',
-                awayRatio:45,
+                awayRatio:42,
                 homeName:'kings',
                 homeLeftPoints:'+5.5',
                 homeRightPoints:'+5.5',
-                homeRatio:55
+                homeRatio:58
             }
         ]
     }
