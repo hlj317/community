@@ -11,7 +11,7 @@ module.exports = {
     "/injurynbapc": community.injuryNBAPC,
     "/injurywnbapc": community.injuryWNBAPC,
     "/injurycbapc": community.injuryCBAPC,
-    "/createNews":community.createNews,
+    // "/createNews":community.createNews,
     "/vote": community.vote,
     "/votepc": community.votePC,
     "/pc/home": pc.home,
