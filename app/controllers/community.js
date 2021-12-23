@@ -5,8 +5,8 @@ const nideshopAdHandler = require("../models/handles/nideshopAdHandler.js");
 const nbaData = require("../data/mydata_nba.js");
 const newsTitle = require("../data/news_title.json");
 const fs = require("fs");
-const ProModel = require("../models/model/proModel.js");
-const proModel = ProModel.instance();
+// const ProModel = require("../models/model/proModel.js");
+// const proModel = ProModel.instance();
 
 const getCasesList = async function (ctx, next) {
     return await (new casesListHandler()).handler(ctx, next);
