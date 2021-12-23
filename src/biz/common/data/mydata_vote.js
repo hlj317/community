@@ -6005,11 +6005,11 @@ export const myData = [
                 time:'Fri 12/24, 11:00 AM',
                 awayName:'grizzlies',
                 awayLeftPoints:'+6.5',
-                awayRightPoints:'+6.5',
+                awayRightPoints:'+5.5',
                 awayRatio:51,
                 homeName:'warriors',
                 homeLeftPoints:'-6.5',
-                homeRightPoints:'-6.5',
+                homeRightPoints:'-5.5',
                 homeRatio:49
             },{
                 time:'Fri 12/24, 11:30 AM',

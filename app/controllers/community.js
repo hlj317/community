@@ -3,7 +3,10 @@ const productsListHandler = require("../models/handles/productsListHandler.js");
 const commentsListHandler = require("../models/handles/commentsListHandler.js");
 const nideshopAdHandler = require("../models/handles/nideshopAdHandler.js");
 const nbaData = require("../data/mydata_nba.js");
-const newsTitle = require("../data/news_title.js");
+const newsTitle = require("../data/news_title.json");
+const fs = require("fs");
+const ProModel = require("../models/model/proModel.js");
+const proModel = ProModel.instance();
 
 const getCasesList = async function (ctx, next) {
     return await (new casesListHandler()).handler(ctx, next);
@@ -176,11 +179,10 @@ const isMobile = function(userAgent){
     }
 }
 
-
+//渲染新闻页面
 const news = async function (ctx, next) {
     const url = ctx.url,
           num = url.substring(6,url.indexOf("."));
-
     await ctx.render("news/news-"+num, {
         title: newsTitle[num] + "-NBA伤病名单-篮彩老黑",
         keywords: "NBA,伤病,受伤,缺席,名单,篮彩,彩票",
@@ -188,6 +190,27 @@ const news = async function (ctx, next) {
     });
     return next();
 };
+
+//批量生成新闻页面
+const createNews = async function (ctx, next) {
+    const startPage = parseInt(ctx.request.query.startpage);
+    let result = await proModel.getNews();
+    let data = JSON.parse(fs.readFileSync("/Users/huanglijun/Desktop/demo/community/app/data/news_title.json", "utf-8"));
+    let dataNewsList = fs.readFileSync("/Users/huanglijun/Desktop/demo/community/app/views/layout/news_list.html", "utf-8");
+    for(let i = 0;i < result.length;i++){
+        fs.writeFileSync("/Users/huanglijun/Desktop/demo/community/app/views/news/news-"+(i+startPage)+".html", result[i].content);
+        data[i+startPage] = result[i].title;
+        dataNewsList += '<li><a href="/news-'+(i+startPage)+'.html">'+result[i].title+'</a></li>';
+    }
+    let str = JSON.stringify(data);
+    fs.writeFileSync("/Users/huanglijun/Desktop/demo/community/app/data/news_title.json", str);
+    fs.writeFileSync("/Users/huanglijun/Desktop/demo/community/app/views/layout/news_list.html", dataNewsList);
+    ctx.body = {
+        "message": "批量生成新闻页面成功",
+        "statesCode": 200
+    };
+    return next();
+}
 
 module.exports = {
     getCasesList,
@@ -204,5 +227,6 @@ module.exports = {
     injuryCBAPC,
     vote,
     votePC,
-    news
+    news,
+    createNews
 };

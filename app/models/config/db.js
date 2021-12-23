@@ -1,10 +1,12 @@
 let dbConf = "";
 
 const DEV = {
-    host: "172.16.3.30",
-    user: "root",
-    password: "root",
+    host: "172.16.0.17",
+    user: "beibei",
+    password: "123456",
     database: "beibei_wxmp",
+    pro_table: "pro_article",
+    pro_table_field: ["title", "content"],
     account_table: "movie_login",
     account_table_field: ["username", "password"],
     case_table: "shemore_case",
