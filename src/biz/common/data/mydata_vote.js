@@ -5912,55 +5912,115 @@ export const myData = [
         date: 'Fri Dec 24',
         list: [
             {
-                time:'Thu 12/23, 8:30 AM',
-                awayName:'magic',
+                time:'Fri 12/24, 8:00 AM',
+                awayName:'hawks',
                 awayLeftPoints:'+8.5',
-                awayRightPoints:'+7.5',
-                awayRatio:37,
-                homeName:'hawks',
+                awayRightPoints:'+9.5',
+                awayRatio:33,
+                homeName:'seven6ers',
                 homeLeftPoints:'-8.5',
-                homeRightPoints:'-7.5',
-                homeRatio:63
+                homeRightPoints:'-9.5',
+                homeRatio:67
             },{
-                time:'Thu 12/23, 8:30 AM',
-                awayName:'cavaliers',
-                awayLeftPoints:'+5.5',
+                time:'Fri 12/24, 8:00 AM',
+                awayName:'rockets',
+                awayLeftPoints:'+8.5',
+                awayRightPoints:'+8.5',
+                awayRatio:42,
+                homeName:'pacers',
+                homeLeftPoints:'-8.5',
+                homeRightPoints:'-8.5',
+                homeRatio:58
+            },{
+                time:'Fri 12/24, 8:00 AM',
+                awayName:'pelicans',
+                awayLeftPoints:'-5.5',
+                awayRightPoints:'-5.5',
+                awayRatio:69,
+                homeName:'magic',
+                homeLeftPoints:'+5.5',
+                homeRightPoints:'+5.5',
+                homeRatio:31
+            },{
+                time:'Fri 12/24, 8:30 AM',
+                awayName:'pistons',
+                awayLeftPoints:'+10.5',
+                awayRightPoints:'+11.0',
+                awayRatio:30,
+                homeName:'heat',
+                homeLeftPoints:'-10.5',
+                homeRightPoints:'-11.0',
+                homeRatio:70
+            },{
+                time:'Fri 12/24, 8:30 AM',
+                awayName:'wizards',
+                awayLeftPoints:'+1.5',
+                awayRightPoints:'+1.5',
+                awayRatio:55,
+                homeName:'knicks',
+                homeLeftPoints:'-1.5',
+                homeRightPoints:'-1.5',
+                homeRatio:45
+            },{
+                time:'Fri 12/24, 9:30 AM',
+                awayName:'bucks',
+                awayLeftPoints:'-5.5',
+                awayRightPoints:'-5.5',
+                awayRatio:57,
+                homeName:'mavericks',
+                homeLeftPoints:'+5.5',
+                homeRightPoints:'+5.5',
+                homeRatio:43
+            },{
+                time:'Fri 12/24, 10:00 AM',
+                awayName:'thunder',
+                awayLeftPoints:'+14.5',
+                awayRightPoints:'+14.5',
+                awayRatio:44,
+                homeName:'suns',
+                homeLeftPoints:'-14.5',
+                homeRightPoints:'-14.5',
+                homeRatio:56
+            },{
+                time:'Fri 12/24, 10:00 AM',
+                awayName:'hornets',
+                awayLeftPoints:'+3.5',
+                awayRightPoints:'+3.5',
+                awayRatio:29,
+                homeName:'nuggets',
+                homeLeftPoints:'-3.5',
+                homeRightPoints:'-3.5',
+                homeRatio:71
+            },{
+                time:'Fri 12/24, 10:00 AM',
+                awayName:'timberwolves',
+                awayLeftPoints:'+10.5',
+                awayRightPoints:'+10.5',
+                awayRatio:39,
+                homeName:'jazz',
+                homeLeftPoints:'-10.5',
+                homeRightPoints:'-10.5',
+                homeRatio:61
+            },{
+                time:'Fri 12/24, 11:00 AM',
+                awayName:'grizzlies',
+                awayLeftPoints:'+6.5',
                 awayRightPoints:'+6.5',
                 awayRatio:51,
-                homeName:'celtics',
-                homeLeftPoints:'-5.5',
+                homeName:'warriors',
+                homeLeftPoints:'-6.5',
                 homeRightPoints:'-6.5',
                 homeRatio:49
             },{
-                time:'Thu 12/23, 9:00 AM',
-                awayName:'nuggets',
-                awayLeftPoints:'-5.5',
-                awayRightPoints:'-6.5',
-                awayRatio:67,
-                homeName:'thunder',
-                homeLeftPoints:'+5.5',
-                homeRightPoints:'+6.5',
-                homeRatio:33
-            },{
-                time:'Thu 12/23, 9:00 AM',
-                awayName:'rockets',
-                awayLeftPoints:'+9.5',
-                awayRightPoints:'+8.5',
-                awayRatio:44,
-                homeName:'bucks',
-                homeLeftPoints:'-9.5',
-                homeRightPoints:'-8.5',
-                homeRatio:56
-            },{
-                time:'Thu 12/23, 11:00 AM',
-                awayName:'clippers',
-                awayLeftPoints:'-5.5',
-                awayRightPoints:'-4.0',
-                awayRatio:66,
-                homeName:'kings',
-                homeLeftPoints:'+5.5',
-                homeRightPoints:'+4.0',
-                homeRatio:34
+                time:'Fri 12/24, 11:30 AM',
+                awayName:'spurs',
+                awayLeftPoints:'+1.5',
+                awayRightPoints:'+1.5',
+                awayRatio:59,
+                homeName:'lakers',
+                homeLeftPoints:'-1.5',
+                homeRightPoints:'-1.5',
+                homeRatio:41
             }
         ]
     }
