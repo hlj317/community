@@ -5,7 +5,7 @@ const nideshopAdHandler = require("../models/handles/nideshopAdHandler.js");
 const nbaData = require("../data/mydata_nba.js");
 const newsTitle = require("../data/news_title.json");
 const fs = require("fs");
-// const ProModel = require("../models/model/proModel.js");
+const ProModel = require("../models/model/proModel.js");
 // const proModel = ProModel.instance();
 
 const getCasesList = async function (ctx, next) {
@@ -198,7 +198,7 @@ const createNews = async function (ctx, next) {
     let data = JSON.parse(fs.readFileSync("/Users/huanglijun/Desktop/demo/community/app/data/news_title.json", "utf-8"));
     let dataNewsList = fs.readFileSync("/Users/huanglijun/Desktop/demo/community/app/views/layout/news_list.html", "utf-8");
     for(let i = 0;i < result.length;i++){
-        fs.writeFileSync("/Users/huanglijun/Desktop/demo/community/app/views/news/news-"+(i+startPage)+".html", result[i].content);
+        fs.writeFileSync("/Users/huanglijun/Desktop/demo/community/app/views/news/news-"+(i+startPage)+".html",'{{extend ("../layout/default.html")}}{{#block ("body")}}<div>{{include ("../layout/keywords.html") }}</div><div id="news" class="news-page">'+result[i].content+'</div>{{/block}}');
         data[i+startPage] = result[i].title;
         dataNewsList += '<li><a href="/news-'+(i+startPage)+'.html">'+result[i].title+'</a></li>';
     }

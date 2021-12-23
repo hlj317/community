@@ -5935,11 +5935,11 @@ export const myData = [
                 time:'Fri 12/24, 8:00 AM',
                 awayName:'pelicans',
                 awayLeftPoints:'-5.5',
-                awayRightPoints:'-5.5',
+                awayRightPoints:'-4.5',
                 awayRatio:69,
                 homeName:'magic',
                 homeLeftPoints:'+5.5',
-                homeRightPoints:'+5.5',
+                homeRightPoints:'+4.5',
                 homeRatio:31
             },{
                 time:'Fri 12/24, 8:30 AM',
