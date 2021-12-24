@@ -6,7 +6,23 @@ const nbaData = require("../data/mydata_nba.js");
 const newsTitle = require("../data/news_title.json");
 const fs = require("fs");
 const ProModel = require("../models/model/proModel.js");
-// const proModel = ProModel.instance();
+
+//补位 当某个字段不是两位数时补0
+const fnW = function(str){
+    let num;
+    str > 10 ? num = str : num = "0"+str;
+    return num;
+} 
+
+//获取当前时间
+const getTimeNow = function(){
+    let date = new Date(),
+        year = date.getFullYear(),
+        month = date.getMonth(),
+        day = date.getDate(),
+        time = year+"-"+fnW((month+1))+"-"+fnW(day);
+    return time;
+}
 
 const getCasesList = async function (ctx, next) {
     return await (new casesListHandler()).handler(ctx, next);
@@ -197,14 +213,19 @@ const createNews = async function (ctx, next) {
     let result = await proModel.getNews();
     let data = JSON.parse(fs.readFileSync("/Users/huanglijun/Desktop/demo/community/app/data/news_title.json", "utf-8"));
     let dataNewsList = fs.readFileSync("/Users/huanglijun/Desktop/demo/community/app/views/layout/news_list.html", "utf-8");
+    let dataSitemapStr = fs.readFileSync("/Users/huanglijun/Desktop/demo/community/static/sitemap.xml", "utf-8");
+    dataSitemapStr = dataSitemapStr.substring(dataSitemapStr.indexOf("</urlset>"),0);
     for(let i = 0;i < result.length;i++){
         fs.writeFileSync("/Users/huanglijun/Desktop/demo/community/app/views/news/news-"+(i+startPage)+".html",'{{extend ("../layout/default.html")}}{{#block ("body")}}<div>{{include ("../layout/keywords.html") }}</div><div id="news" class="news-page">'+result[i].content+'</div>{{/block}}');
         data[i+startPage] = result[i].title;
         dataNewsList += '<li><a href="/news-'+(i+startPage)+'.html">'+result[i].title+'</a></li>';
+        dataSitemapStr += '<url><loc>https://www.cbdyou.com.cn/news-'+(i+startPage)+'.html></loc><priority>0.5</priority><lastmod>'+getTimeNow()+'</lastmod><changefreq>daily</changefreq></url>';
     }
+    dataSitemapStr += "</urlset>";
     let str = JSON.stringify(data);
     fs.writeFileSync("/Users/huanglijun/Desktop/demo/community/app/data/news_title.json", str);
     fs.writeFileSync("/Users/huanglijun/Desktop/demo/community/app/views/layout/news_list.html", dataNewsList);
+    fs.writeFileSync("/Users/huanglijun/Desktop/demo/community/static/sitemap.xml", dataSitemapStr);
     ctx.body = {
         "message": "批量生成新闻页面成功",
         "statesCode": 200
