@@ -6034,52 +6034,52 @@ export const myData = [
                 time:'Sun 12/26, 1:00 AM',
                 awayName:'hawks',
                 awayLeftPoints:'+1.0',
-                awayRightPoints:'+1.0',
-                awayRatio:52,
+                awayRightPoints:'+7.0',
+                awayRatio:41,
                 homeName:'knicks',
                 homeLeftPoints:'-1.0',
-                homeRightPoints:'-1.0',
-                homeRatio:48
+                homeRightPoints:'-7.0',
+                homeRatio:59
             },{
                 time:'Sun 12/26, 3:30 AM',
                 awayName:'celtics',
                 awayLeftPoints:'+6.5',
-                awayRightPoints:'+6.5',
-                awayRatio:58,
+                awayRightPoints:'+7.0',
+                awayRatio:32,
                 homeName:'bucks',
                 homeLeftPoints:'-6.5',
-                homeRightPoints:'-6.5',
-                homeRatio:42
+                homeRightPoints:'-7.0',
+                homeRatio:68
             },{
                 time:'Sun 12/26, 6:00 AM',
                 awayName:'warriors',
                 awayLeftPoints:'+3.5',
-                awayRightPoints:'+3.5',
-                awayRatio:59,
+                awayRightPoints:'+6.5',
+                awayRatio:67,
                 homeName:'suns',
                 homeLeftPoints:'-3.5',
-                homeRightPoints:'-3.5',
-                homeRatio:41
+                homeRightPoints:'-6.5',
+                homeRatio:33
             },{
                 time:'Sun 12/26, 9:00 AM',
                 awayName:'nets',
                 awayLeftPoints:'+1.0',
-                awayRightPoints:'+1.0',
-                awayRatio:46,
+                awayRightPoints:'+1.5',
+                awayRatio:54,
                 homeName:'lakers',
                 homeLeftPoints:'-1.0',
-                homeRightPoints:'-1.0',
-                homeRatio:54
+                homeRightPoints:'-1.5',
+                homeRatio:46
             },{
                 time:'Sun 12/26, 11:30 AM',
                 awayName:'mavericks',
                 awayLeftPoints:'+5.0',
-                awayRightPoints:'+5.0',
-                awayRatio:31,
+                awayRightPoints:'+12.0',
+                awayRatio:34,
                 homeName:'jazz',
                 homeLeftPoints:'-5.0',
-                homeRightPoints:'-5.0',
-                homeRatio:69
+                homeRightPoints:'-12.5',
+                homeRatio:66
             }
         ]
     },
