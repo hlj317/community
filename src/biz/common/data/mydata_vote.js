@@ -6083,5 +6083,94 @@ export const myData = [
             }
         ]
     },
+
+
+    //12月27日
+    {
+        date: 'Mon Dec 27',
+        list: [
+            {
+                time:'Mon 12/27, 4:30 AM',
+                awayName:'magic',
+                awayLeftPoints:'+8.5',
+                awayRightPoints:'+8.5',
+                awayRatio:43,
+                homeName:'heat',
+                homeLeftPoints:'-8.5',
+                homeRightPoints:'-8.5',
+                homeRatio:57
+            },{
+                time:'Mon 12/27, 7:00 AM',
+                awayName:'grizzlies',
+                awayLeftPoints:'-4.5',
+                awayRightPoints:'-4.5',
+                awayRatio:76,
+                homeName:'kings',
+                homeLeftPoints:'+4.5',
+                homeRightPoints:'+4.5',
+                homeRatio:24
+            },{
+                time:'Mon 12/27, 7:00 AM',
+                awayName:'raptors',
+                awayLeftPoints:'+6.5',
+                awayRightPoints:'+6.5',
+                awayRatio:36,
+                homeName:'cavaliers',
+                homeLeftPoints:'-6.5',
+                homeRightPoints:'-6.5',
+                homeRatio:65
+            },{
+                time:'Mon 12/27, 7:00 AM',
+                awayName:'seven6ers',
+                awayLeftPoints:'-3.5',
+                awayRightPoints:'-3.5',
+                awayRatio:52,
+                homeName:'wizards',
+                homeLeftPoints:'+3.5',
+                homeRightPoints:'+3.5',
+                homeRatio:48
+            },{
+                time:'Mon 12/27, 8:00 AM',
+                awayName:'pelicans',
+                awayLeftPoints:'-1.0',
+                awayRightPoints:'+1.5',
+                awayRatio:56,
+                homeName:'thunder',
+                homeLeftPoints:'+1.0',
+                homeRightPoints:'-1.5',
+                homeRatio:44
+            },{
+                time:'Mon 12/27, 8:00 AM',
+                awayName:'pistons',
+                awayLeftPoints:'+10.0',
+                awayRightPoints:'+9.5',
+                awayRatio:37,
+                homeName:'spurs',
+                homeLeftPoints:'-10.0',
+                homeRightPoints:'-9.5',
+                homeRatio:63
+            },{
+                time:'Mon 12/27, 9:00 AM',
+                awayName:'pacers',
+                awayLeftPoints:'+8.5',
+                awayRightPoints:'+8.5',
+                awayRatio:31,
+                homeName:'bulls',
+                homeLeftPoints:'-8.5',
+                homeRightPoints:'-8.5',
+                homeRatio:69
+            },{
+                time:'Mon 12/27, 10:00 AM',
+                awayName:'nuggets',
+                awayLeftPoints:'-3.5',
+                awayRightPoints:'-3.5',
+                awayRatio:70,
+                homeName:'clippers',
+                homeLeftPoints:'+3.5',
+                homeRightPoints:'+3.5',
+                homeRatio:30
+            }
+        ]
+    }
     
 ]

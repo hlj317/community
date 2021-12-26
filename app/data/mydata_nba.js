@@ -17,11 +17,6 @@ const nbaData = {
             'detail':'因为健康安全协议，会缺阵数场比赛',
             'important':false
         },{
-            'name':'卡佩拉',
-            'status':'缺阵',
-            'detail':'因为健康安全协议，会缺阵数场比赛',
-            'important':true
-        },{
             'name':'加里纳利',
             'status':'缺阵',
             'detail':'因为健康安全协议，会缺阵数场比赛',
@@ -435,6 +430,11 @@ const nbaData = {
             'detail':'因为健康安全协议，会缺阵数场比赛',
             'important':true
         },{
+            'name':'保罗.乔治',
+            'status':'长期缺阵',
+            'detail':'手肘撕裂，预计缺阵四周',
+            'important':true
+        },{
             'name':'肯纳德',
             'status':'缺阵',
             'detail':'因为健康安全协议，会缺阵数场比赛',
@@ -645,8 +645,8 @@ const nbaData = {
             'important':true
         },{
             'name':'瓦兰丘纳斯',
-            'status':'缺阵',
-            'detail':'身体不适，无法出战',
+            'status':'出战存疑',
+            'detail':'身体不适，每日观察',
             'important':true
         },{
             'name':'小刘易斯',
