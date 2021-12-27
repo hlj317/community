@@ -425,7 +425,7 @@ const nbaData = {
             'name':'杰伦.格林',
             'status':'出战存疑',
             'detail':'肌腱受伤，每日观察',
-            'important':false
+            'important':true
         },{
             'name':'DJ.奥古斯汀',
             'status':'缺阵',
@@ -631,6 +631,11 @@ const nbaData = {
     timberwolves:[
         {
             'name':'唐斯',
+            'status':'缺阵',
+            'detail':'因为健康安全协议，会缺阵数场比赛',
+            'important':true
+        },{
+            'name':'拉塞尔',
             'status':'缺阵',
             'detail':'因为健康安全协议，会缺阵数场比赛',
             'important':true
