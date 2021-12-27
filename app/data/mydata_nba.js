@@ -848,6 +848,11 @@ const nbaData = {
     //波特兰开拓者
     blazers:[
         {
+            'name':'利拉德',
+            'status':'出战存疑',
+            'detail':'个人原因，每日观察',
+            'important':true
+        },{
             'name':'利特尔',
             'status':'出战存疑',
             'detail':'身体不适，每日观察',
