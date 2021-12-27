@@ -6202,12 +6202,12 @@ export const myData = [
             },{
                 time:'Tue 12/28, 9:00 AM',
                 awayName:'celtics',
-                awayLeftPoints:'+8.5',
-                awayRightPoints:'+8.5',
+                awayLeftPoints:'-8.5',
+                awayRightPoints:'-8.5',
                 awayRatio:70,
                 homeName:'timberwolves',
-                homeLeftPoints:'-8.5',
-                homeRightPoints:'-8.5',
+                homeLeftPoints:'+8.5',
+                homeRightPoints:'+8.5',
                 homeRatio:30
             },{
                 time:'Tue 12/28, 9:30 AM',
