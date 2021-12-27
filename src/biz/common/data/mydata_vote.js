@@ -6204,11 +6204,11 @@ export const myData = [
                 awayName:'celtics',
                 awayLeftPoints:'-8.5',
                 awayRightPoints:'-8.5',
-                awayRatio:70,
+                awayRatio:85,
                 homeName:'timberwolves',
                 homeLeftPoints:'+8.5',
                 homeRightPoints:'+8.5',
-                homeRatio:30
+                homeRatio:15
             },{
                 time:'Tue 12/28, 9:30 AM',
                 awayName:'jazz',
