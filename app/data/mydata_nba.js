@@ -2,6 +2,11 @@ const nbaData = {
     //亚特兰大老鹰
     hawks:[
         {
+            'name':'德隆.赖特',
+            'status':'缺阵',
+            'detail':'因为健康安全协议，会缺阵数场比赛',
+            'important':false
+        },{
             'name':'科林斯',
             'status':'缺阵',
             'detail':'因为健康安全协议，会缺阵数场比赛',
@@ -33,8 +38,8 @@ const nbaData = {
             'important':false
         },{
             'name':'特雷杨',
-            'status':'缺阵',
-            'detail':'因为健康安全协议，会缺阵数场比赛',
+            'status':'复出',
+            'detail':'可以出战周二对阵公牛的比赛',
             'important':true
         },{
             'name':'所罗门.希尔',
@@ -52,8 +57,8 @@ const nbaData = {
     celtics:[
         {
             'name':'斯马特',
-            'status':'出战存疑',
-            'detail':'左臀拉伤，每日观察',
+            'status':'缺阵',
+            'detail':'左臀拉伤，无法出战',
             'important':true
         },{
             'name':'埃尔南戈麦斯',
@@ -81,12 +86,7 @@ const nbaData = {
             'detail':'因为健康安全协议，会缺阵数场比赛',
             'important':true
         },{
-            'name':'格兰特.威廉姆斯',
-            'status':'缺阵',
-            'detail':'因为健康安全协议，会缺阵数场比赛',
-            'important':false
-        },{
-            'name':'AI.霍福德',
+            'name':'塔图姆',
             'status':'缺阵',
             'detail':'因为健康安全协议，会缺阵数场比赛',
             'important':true
@@ -120,11 +120,6 @@ const nbaData = {
             'detail':'因为健康安全协议，会缺阵数场比赛',
             'important':false
         },{
-            'name':'布鲁斯.布朗',
-            'status':'缺阵',
-            'detail':'因为健康安全协议，会缺阵数场比赛',
-            'important':false
-        },{
             'name':'杜兰特',
             'status':'缺阵',
             'detail':'因为健康安全协议，会缺阵数场比赛',
@@ -134,11 +129,6 @@ const nbaData = {
             'status':'缺阵',
             'detail':'因为健康安全协议，会缺阵数场比赛',
             'important':true
-        },{
-            'name':'杰文.卡特',
-            'status':'缺阵',
-            'detail':'因为健康安全协议，会缺阵数场比赛',
-            'important':false
         },{
             'name':'乔.哈里斯',
             'status':'长期缺阵',
@@ -164,7 +154,7 @@ const nbaData = {
             'detail':'因为健康安全协议，会缺阵数场比赛',
             'important':true
         },{
-            'name':'科迪.马丁',
+            'name':'斯科特.刘易斯',
             'status':'缺阵',
             'detail':'因为健康安全协议，会缺阵数场比赛',
             'important':false
@@ -174,8 +164,8 @@ const nbaData = {
     bulls:[
         {
             'name':'小德里克.琼斯',
-            'status':'出战存疑',
-            'detail':'左小腿受伤，每日观察',
+            'status':'缺阵',
+            'detail':'左小腿受伤，无法出战',
             'important':false
         },{
             'name':'朗佐.鲍尔',
@@ -417,14 +407,14 @@ const nbaData = {
     //休斯顿火箭
     rockets:[
         {
-            'name':'小凯文.波特',
-            'status':'出战存疑',
-            'detail':'大腿受伤，每日观察',
-            'important':true
+            'name':'小肯扬.马丁',
+            'status':'缺阵',
+            'detail':'因为健康安全协议，会缺阵数场比赛',
+            'important':false
         },{
-            'name':'杰伦.格林',
-            'status':'出战存疑',
-            'detail':'肌腱受伤，每日观察',
+            'name':'泰特',
+            'status':'缺阵',
+            'detail':'因为健康安全协议，会缺阵数场比赛',
             'important':true
         },{
             'name':'DJ.奥古斯汀',
@@ -470,15 +460,20 @@ const nbaData = {
     //洛杉矶快船
     clippers:[
         {
+            'name':'巴图姆',
+            'status':'缺阵',
+            'detail':'右脚踝受伤，无法出战',
+            'important':true
+        },{
+            'name':'肯纳德',
+            'status':'缺阵',
+            'detail':'膝盖受伤，无法出战',
+            'important':true
+        },{
             'name':'哈腾',
             'status':'缺阵',
             'detail':'脚踝受伤，无法出战',
             'important':false
-        },{
-            'name':'马库斯莫里斯',
-            'status':'缺阵',
-            'detail':'因为健康安全协议，会缺阵数场比赛',
-            'important':true
         },{
             'name':'保罗.乔治',
             'status':'长期缺阵',
@@ -830,6 +825,11 @@ const nbaData = {
             'important':false
         },{
             'name':'杰.克劳德',
+            'status':'缺阵',
+            'detail':'因为健康安全协议，会缺阵数场比赛',
+            'important':true
+        },{
+            'name':'艾顿',
             'status':'缺阵',
             'detail':'因为健康安全协议，会缺阵数场比赛',
             'important':true
