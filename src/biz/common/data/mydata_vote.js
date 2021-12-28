@@ -6174,10 +6174,9 @@ export const myData = [
     },
 
 
-
     //12月28日
     {
-        date: 'Mon Dec 28',
+        date: 'Tue Dec 28',
         list: [
             {
                 time:'Tue 12/28, 8:00 AM',
@@ -6233,22 +6232,111 @@ export const myData = [
                 time:'Tue 12/28, 11:00 AM',
                 awayName:'mavericks',
                 awayLeftPoints:'+1.5',
-                awayRightPoints:'+3.0',
+                awayRightPoints:'+2.5',
                 awayRatio:56,
                 homeName:'blazers',
                 homeLeftPoints:'-1.5',
-                homeRightPoints:'-3.0',
+                homeRightPoints:'-2.5',
                 homeRatio:44
             },{
                 time:'Tue 12/28, 11:30 AM',
                 awayName:'nets',
                 awayLeftPoints:'-4.5',
-                awayRightPoints:'-4.0',
+                awayRightPoints:'-3.5',
                 awayRatio:84,
                 homeName:'clippers',
                 homeLeftPoints:'+4.5',
-                homeRightPoints:'+4.0',
+                homeRightPoints:'+3.5',
                 homeRatio:16
+            }
+        ]
+    },
+
+
+    //12月29日
+    {
+        date: 'Wed Dec 29',
+        list: [
+            {
+                time:'Wed 12/29, 8:00 AM',
+                awayName:'bucks',
+                awayLeftPoints:'-12.5',
+                awayRightPoints:'-12.5',
+                awayRatio:59,
+                homeName:'magic',
+                homeLeftPoints:'+12.5',
+                homeRightPoints:'+12.5',
+                homeRatio:41
+            },{
+                time:'Wed 12/29, 8:30 AM',
+                awayName:'wizards',
+                awayLeftPoints:'+6.5',
+                awayRightPoints:'+6.5',
+                awayRatio:30,
+                homeName:'heat',
+                homeLeftPoints:'-6.5',
+                homeRightPoints:'-6.5',
+                homeRatio:70
+            },{
+                time:'Wed 12/29, 8:30 AM',
+                awayName:'seven6ers',
+                awayLeftPoints:'-6.5',
+                awayRightPoints:'-6.5',
+                awayRatio:61,
+                homeName:'raptors',
+                homeLeftPoints:'+6.5',
+                homeRightPoints:'+6.5',
+                homeRatio:39
+            },{
+                time:'Wed 12/29, 9:00 AM',
+                awayName:'cavaliers',
+                awayLeftPoints:'-4.5',
+                awayRightPoints:'-5.5',
+                awayRatio:75,
+                homeName:'pelicans',
+                homeLeftPoints:'+4.5',
+                homeRightPoints:'+5.5',
+                homeRatio:25
+            },{
+                time:'Wed 12/29, 9:00 AM',
+                awayName:'knicks',
+                awayLeftPoints:'-3.5',
+                awayRightPoints:'-4.5',
+                awayRatio:61,
+                homeName:'timberwolves',
+                homeLeftPoints:'+3.5',
+                homeRightPoints:'+4.5',
+                homeRatio:39
+            },{
+                time:'Wed 12/29, 9:00 AM',
+                awayName:'lakers',
+                awayLeftPoints:'-4.5',
+                awayRightPoints:'-4.5',
+                awayRatio:72,
+                homeName:'rockets',
+                homeLeftPoints:'+4.5',
+                homeRightPoints:'+4.5',
+                homeRatio:28
+            },{
+                time:'Wed 12/29, 11:00 AM',
+                awayName:'nuggets',
+                awayLeftPoints:'+6.5',
+                awayRightPoints:'+7.5',
+                awayRatio:46,
+                homeName:'warriors',
+                homeLeftPoints:'-6.5',
+                homeRightPoints:'-7.5',
+                homeRatio:54
+            },{
+                time:'Wed 12/29, 11:00 AM',
+                awayName:'thunder',
+                awayLeftPoints:'+5.5',
+                awayRightPoints:'+5.5',
+                awayRatio:60,
+                homeName:'kings',
+                homeLeftPoints:'-5.5',
+                homeRightPoints:'-5.5',
+                homeRatio:40
             }
         ]
     }
