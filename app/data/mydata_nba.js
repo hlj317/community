@@ -1043,6 +1043,11 @@ const nbaData = {
             'detail':'因为健康安全协议，会缺阵数场比赛',
             'important':true
         },{
+            'name':'哈雷尔',
+            'status':'缺阵',
+            'detail':'因为健康安全协议，会缺阵数场比赛',
+            'important':true
+        },{
             'name':'内托',
             'status':'缺阵',
             'detail':'因为健康安全协议，会缺阵数场比赛',
