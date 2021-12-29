@@ -6348,92 +6348,82 @@ export const myData = [
                 time:'Thu 12/30, 8:00 AM',
                 awayName:'knicks',
                 awayLeftPoints:'-5.5',
-                awayRightPoints:'-7.5',
-                awayRatio:86,
+                awayRightPoints:'-8.5',
+                awayRatio:85,
                 homeName:'pistons',
                 homeLeftPoints:'+5.5',
-                homeRightPoints:'+7.5',
-                homeRatio:14
+                homeRightPoints:'+8.5',
+                homeRatio:15
             },{
                 time:'Thu 12/30, 8:00 AM',
                 awayName:'hornets',
                 awayLeftPoints:'+2.5',
-                awayRightPoints:'+3.0',
-                awayRatio:59,
+                awayRightPoints:'+3.5',
+                awayRatio:38,
                 homeName:'pacers',
                 homeLeftPoints:'-2.5',
-                homeRightPoints:'-3.0',
-                homeRatio:41
+                homeRightPoints:'-3.5',
+                homeRatio:62
             },{
                 time:'Thu 12/30, 8:30 AM',
                 awayName:'clippers',
                 awayLeftPoints:'-5.5',
-                awayRightPoints:'-5.5',
-                awayRatio:35,
+                awayRightPoints:'-6.0',
+                awayRatio:32,
                 homeName:'celtics',
                 homeLeftPoints:'+5.5',
-                homeRightPoints:'+5.5',
-                homeRatio:65
+                homeRightPoints:'+6.0',
+                homeRatio:68
             },{
                 time:'Thu 12/30, 9:00 AM',
                 awayName:'hawks',
                 awayLeftPoints:'+8.5',
-                awayRightPoints:'+8.0',
-                awayRatio:61,
+                awayRightPoints:'+7.5',
+                awayRatio:37,
                 homeName:'bulls',
                 homeLeftPoints:'-8.5',
-                homeRightPoints:'-8.0',
-                homeRatio:39
+                homeRightPoints:'-7.5',
+                homeRatio:63
             },{
                 time:'Thu 12/30, 9:00 AM',
                 awayName:'lakers',
                 awayLeftPoints:'+3.5',
-                awayRightPoints:'+6.0',
-                awayRatio:21,
+                awayRightPoints:'+5.5',
+                awayRatio:28,
                 homeName:'grizzlies',
                 homeLeftPoints:'-3.5',
-                homeRightPoints:'-6.0',
-                homeRatio:79
-            },{
-                time:'Thu 12/30, 9:30 AM',
-                awayName:'heat',
-                awayLeftPoints:'+3.5',
-                awayRightPoints:'+3.5',
-                awayRatio:59,
-                homeName:'spurs',
-                homeLeftPoints:'-3.5',
-                homeRightPoints:'-3.5',
-                homeRatio:41
+                homeRightPoints:'-5.5',
+                homeRatio:72
             },{
                 time:'Thu 12/30, 10:00 AM',
                 awayName:'thunder',
                 awayLeftPoints:'+15.0',
                 awayRightPoints:'+14.5',
-                awayRatio:22,
+                awayRatio:45,
                 homeName:'suns',
                 homeLeftPoints:'-15.0',
                 homeRightPoints:'-14.5',
-                homeRatio:78
+                homeRatio:55
             },{
                 time:'Thu 12/30, 11:00 AM',
                 awayName:'jazz',
                 awayLeftPoints:'-6.0',
-                awayRightPoints:'-6.5',
-                awayRatio:80,
+                awayRightPoints:'-7.5',
+                awayRatio:81,
                 homeName:'blazers',
                 homeLeftPoints:'+6.0',
-                homeRightPoints:'+6.5',
-                homeRatio:20
+                homeRightPoints:'+7.5',
+                homeRatio:19
             },{
                 time:'Thu 12/30, 11:30 AM',
                 awayName:'mavericks',
                 awayLeftPoints:'-1.5',
-                awayRightPoints:'-2.0',
-                awayRatio:66,
+                awayRightPoints:'-1.5',
+                awayRatio:63,
                 homeName:'kings',
                 homeLeftPoints:'+1.5',
-                homeRightPoints:'+2.0',
-                homeRatio:34
+                homeRightPoints:'+1.5',
+                homeRatio:37
             }
         ]
     }

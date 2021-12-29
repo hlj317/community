@@ -67,8 +67,8 @@ const nbaData = {
     celtics:[
         {
             'name':'斯马特',
-            'status':'出战存疑',
-            'detail':'左臀拉伤，每日观察',
+            'status':'缺阵',
+            'detail':'左臀拉伤，无法出战',
             'important':true
         },{
             'name':'埃尔南戈麦斯',
@@ -120,11 +120,6 @@ const nbaData = {
     //布鲁克林篮网
     nets:[
         {
-            'name':'卡姆.托马斯',
-            'status':'缺阵',
-            'detail':'因为健康安全协议，会缺阵数场比赛',
-            'important':false
-        },{
             'name':'大卫.杜克',
             'status':'缺阵',
             'detail':'因为健康安全协议，会缺阵数场比赛',
@@ -174,8 +169,8 @@ const nbaData = {
     bulls:[
         {
             'name':'小德里克.琼斯',
-            'status':'出战存疑',
-            'detail':'左小腿受伤，每日观察',
+            'status':'出战',
+            'detail':'可以出战周四对阵老鹰的比赛',
             'important':false
         },{
             'name':'伊利亚索瓦',
@@ -213,8 +208,8 @@ const nbaData = {
     cavaliers:[
         {
             'name':'卢比奥',
-            'status':'缺阵',
-            'detail':'左膝受伤，无法出战',
+            'status':'长期缺阵',
+            'detail':'左膝前叉韧带断裂，赛季报销',
             'important':true
         },{
             'name':'贾勒特.阿伦',
@@ -266,6 +261,16 @@ const nbaData = {
     //达拉斯独行侠
     mavericks:[
         {
+            'name':'博班',
+            'status':'缺阵',
+            'detail':'因为健康安全协议，会缺阵数场比赛',
+            'important':false
+        },{
+            'name':'布兰登.奈特',
+            'status':'缺阵',
+            'detail':'因为健康安全协议，会缺阵数场比赛',
+            'important':false
+        },{
             'name':'东契奇',
             'status':'缺阵',
             'detail':'因为健康安全协议，会缺阵数场比赛',
@@ -462,9 +467,14 @@ const nbaData = {
     pacers:[
         {
             'name':'布罗格登',
-            'status':'出战存疑',
-            'detail':'腿部受伤，每日观察',
+            'status':'缺阵',
+            'detail':'跟腱受伤，无法出战',
             'important':true
+        },{
+            'name':'兰姆',
+            'status':'缺阵',
+            'detail':'因为健康安全协议，会缺阵数场比赛',
+            'important':false
         },{
             'name':'TJ.麦克康奈尔',
             'status':'长期缺阵',
@@ -504,6 +514,11 @@ const nbaData = {
             'status':'缺阵',
             'detail':'因为健康安全协议，会缺阵数场比赛',
             'important':true
+        },{
+            'name':'小波士顿',
+            'status':'缺阵',
+            'detail':'因为健康安全协议，会缺阵数场比赛',
+            'important':false
         },{
             'name':'科怀.伦纳德',
             'status':'长期缺阵',
@@ -607,6 +622,11 @@ const nbaData = {
     //迈阿密热火
     heat:[
         {
+            'name':'巴特勒',
+            'status':'缺阵',
+            'detail':'脚踝受伤，无法出战',
+            'important':true
+        },{
             'name':'戴德蒙',
             'status':'缺阵',
             'detail':'膝盖受伤，至少要康复2周',
@@ -767,11 +787,6 @@ const nbaData = {
     //俄克拉荷马城雷霆
     thunder:[
         {
-            'name':'费沃斯',
-            'status':'缺阵',
-            'detail':'因为健康安全协议，会缺阵数场比赛',
-            'important':true
-        },{
             'name':'吉迪',
             'status':'缺阵',
             'detail':'因为健康安全协议，会缺阵数场比赛',
@@ -961,16 +976,6 @@ const nbaData = {
             'status':'缺阵',
             'detail':'因为健康安全协议，会缺阵数场比赛',
             'important':false
-        },{
-            'name':'米切尔',
-            'status':'缺阵',
-            'detail':'因为健康安全协议，会缺阵数场比赛',
-            'important':false
-        },{
-            'name':'莱恩',
-            'status':'缺阵',
-            'detail':'因为健康安全协议，会缺阵数场比赛',
-            'important':false
         }
     ],
     //圣安东尼奥马刺
@@ -1015,20 +1020,10 @@ const nbaData = {
             'detail':'因为健康安全协议，会缺阵数场比赛',
             'important':true
         },{
-            'name':'小特伦特',
-            'status':'出战',
-            'detail':'可以出战周三对阵76人的比赛',
-            'important':true
-        },{
             'name':'肯.伯奇',
             'status':'缺阵',
             'detail':'身体不适，无法出战',
             'important':false
-        },{
-            'name':'西亚卡姆',
-            'status':'出战',
-            'detail':'可以出战周三对阵76人的比赛',
-            'important':true
         },{
             'name':'德拉季奇',
             'status':'缺阵',
