@@ -21,7 +21,7 @@
         <li class="vote-ratio"><a href="/votepc">NBA投注率</a></li>
     </ul>
     <div class="clear"></div>
-    <div class="updatetime">最近更新时间：<strong>{{udpatetime}}</strong>（每日不定期更新，敬请关注）</div>
+    <div class="updatetime">最近更新时间：<strong>{{udpatetime}}</strong>（开赛前持续更新，敬请关注）</div>
     <table class="list" border="0" cellspacing="1" cellpadding="0">
 
         <!-----A----亚特兰大梦想------>
