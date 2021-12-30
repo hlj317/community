@@ -787,6 +787,11 @@ const nbaData = {
     //俄克拉荷马城雷霆
     thunder:[
         {
+            'name':'亚历山大',
+            'status':'缺阵',
+            'detail':'右脚踝受伤，无法出战',
+            'important':true
+        },{
             'name':'吉迪',
             'status':'缺阵',
             'detail':'因为健康安全协议，会缺阵数场比赛',
