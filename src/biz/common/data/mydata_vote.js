@@ -6437,42 +6437,42 @@ export const myData = [
                 time:'Fri 12/31, 8:00 AM',
                 awayName:'seven6ers',
                 awayLeftPoints:'+3.5',
-                awayRightPoints:'+4.5',
-                awayRatio:15,
+                awayRightPoints:'+5.0',
+                awayRatio:22,
                 homeName:'nets',
                 homeLeftPoints:'-3.5',
-                homeRightPoints:'-4.5',
-                homeRatio:85
+                homeRightPoints:'-5.0',
+                homeRatio:78
             },{
                 time:'Fri 12/31, 8:00 AM',
                 awayName:'cavaliers',
                 awayLeftPoints:'+2.5',
-                awayRightPoints:'+2.5',
-                awayRatio:42,
+                awayRightPoints:'+3.5',
+                awayRatio:51,
                 homeName:'wizards',
                 homeLeftPoints:'-2.5',
-                homeRightPoints:'-2.5',
-                homeRatio:58
+                homeRightPoints:'-3.5',
+                homeRatio:49
             },{
                 time:'Fri 12/31, 8:00 AM',
                 awayName:'bucks',
                 awayLeftPoints:'-12.5',
-                awayRightPoints:'-12.5',
-                awayRatio:75,
+                awayRightPoints:'-14.0',
+                awayRatio:80,
                 homeName:'magic',
                 homeLeftPoints:'+12.5',
-                homeRightPoints:'+12.5',
-                homeRatio:25
+                homeRightPoints:'+14.0',
+                homeRatio:20
             },{
                 time:'Fri 12/31, 10:30 AM',
                 awayName:'warriors',
                 awayLeftPoints:'-4.5',
-                awayRightPoints:'-4.5',
-                awayRatio:66,
+                awayRightPoints:'-4.0',
+                awayRatio:88,
                 homeName:'nuggets',
                 homeLeftPoints:'+4.5',
-                homeRightPoints:'+4.5',
-                homeRatio:34
+                homeRightPoints:'+4.0',
+                homeRatio:12
             }
         ]
     }

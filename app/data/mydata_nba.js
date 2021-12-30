@@ -405,7 +405,7 @@ const nbaData = {
         },{
             'name':'乔丹.普尔',
             'status':'出战存疑',
-            'detail':'新冠转阴性，每日观察',
+            'detail':'新冠转阴性，大概率可以出战周五对阵掘金的比赛',
             'important':true
         },{
             'name':'怀斯曼',
@@ -806,6 +806,11 @@ const nbaData = {
     //奥兰多魔术
     magic:[
         {
+            'name':'罗宾.洛佩兹',
+            'status':'缺阵',
+            'detail':'因为健康安全协议，会缺阵数场比赛',
+            'important':true
+        },{
             'name':'科尔.安东尼',
             'status':'缺阵',
             'detail':'脚踝受伤，无法出战',
@@ -871,8 +876,8 @@ const nbaData = {
             'important':false
         },{
             'name':'米尔顿',
-            'status':'缺阵',
-            'detail':'身体不适，无法出战',
+            'status':'出战存疑',
+            'detail':'新冠转阴性，每日观察',
             'important':false
         },{
             'name':'德拉蒙德',
@@ -1059,13 +1064,13 @@ const nbaData = {
             'important':false
         },{
             'name':'波普',
-            'status':'缺阵',
-            'detail':'因为健康安全协议，会缺阵数场比赛',
+            'status':'出战存疑',
+            'detail':'新冠转阴性，每日观察',
             'important':true
         },{
             'name':'比尔',
-            'status':'缺阵',
-            'detail':'因为健康安全协议，会缺阵数场比赛',
+            'status':'出战存疑',
+            'detail':'新冠转阴性，每日观察',
             'important':true
         },{
             'name':'哈雷尔',
