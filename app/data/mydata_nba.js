@@ -142,7 +142,7 @@ const nbaData = {
         },{
             'name':'凯里.欧文',
             'status':'缺阵',
-            'detail':'因为健康安全协议，会缺阵数场比赛',
+            'detail':'身体恢复中，预计一周之后复出',
             'important':true
         }
     ],
@@ -213,13 +213,13 @@ const nbaData = {
             'important':true
         },{
             'name':'贾勒特.阿伦',
-            'status':'缺阵',
-            'detail':'因为健康安全协议，会缺阵数场比赛',
+            'status':'出战存疑',
+            'detail':'新冠刚转阴性，明日出战概率小',
             'important':true
         },{
             'name':'斯蒂文斯',
-            'status':'缺阵',
-            'detail':'因为健康安全协议，会缺阵数场比赛',
+            'status':'出战存疑',
+            'detail':'新冠刚转阴性，每日观察',
             'important':false
         },{
             'name':'ED.戴维斯',
@@ -228,8 +228,8 @@ const nbaData = {
             'important':false
         },{
             'name':'温德勒',
-            'status':'缺阵',
-            'detail':'因为健康安全协议，会缺阵数场比赛',
+            'status':'出战存疑',
+            'detail':'新冠刚转阴性，每日观察',
             'important':false
         },{
             'name':'奥斯曼',
@@ -240,16 +240,6 @@ const nbaData = {
             'name':'加兰',
             'status':'缺阵',
             'detail':'因为健康安全协议，会缺阵数场比赛',
-            'important':true
-        },{
-            'name':'奥克罗',
-            'status':'出战',
-            'detail':'可以出战周三对阵鹈鹕的比赛',
-            'important':true
-        },{
-            'name':'莫布利',
-            'status':'大概率出战',
-            'detail':'大概率可以出战周三对阵鹈鹕的比赛',
             'important':true
         },{
             'name':'塞克斯顿',
@@ -408,24 +398,19 @@ const nbaData = {
             'detail':'因为健康安全协议，会缺阵数场比赛',
             'important':true
         },{
-            'name':'穆迪',
-            'status':'缺阵',
-            'detail':'因为健康安全协议，会缺阵数场比赛',
-            'important':false
-        },{
             'name':'达米恩.李',
             'status':'缺阵',
             'detail':'因为健康安全协议，会缺阵数场比赛',
             'important':false
         },{
             'name':'乔丹.普尔',
-            'status':'缺阵',
-            'detail':'因为健康安全协议，会缺阵数场比赛',
+            'status':'出战存疑',
+            'detail':'新冠转阴性，每日观察',
             'important':true
         },{
             'name':'怀斯曼',
             'status':'缺阵',
-            'detail':'膝盖受伤，归期未定',
+            'detail':'因为健康安全协议，会缺阵数场比赛',
             'important':false
         },{
             'name':'克莱.汤普森',
