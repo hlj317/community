@@ -6438,41 +6438,31 @@ export const myData = [
                 awayName:'seven6ers',
                 awayLeftPoints:'+3.5',
                 awayRightPoints:'+5.0',
-                awayRatio:22,
+                awayRatio:28,
                 homeName:'nets',
                 homeLeftPoints:'-3.5',
                 homeRightPoints:'-5.0',
-                homeRatio:78
+                homeRatio:72
             },{
                 time:'Fri 12/31, 8:00 AM',
                 awayName:'cavaliers',
                 awayLeftPoints:'+2.5',
-                awayRightPoints:'+3.5',
-                awayRatio:51,
+                awayRightPoints:'+4.5',
+                awayRatio:49,
                 homeName:'wizards',
                 homeLeftPoints:'-2.5',
-                homeRightPoints:'-3.5',
-                homeRatio:49
+                homeRightPoints:'-4.5',
+                homeRatio:51
             },{
                 time:'Fri 12/31, 8:00 AM',
                 awayName:'bucks',
                 awayLeftPoints:'-12.5',
                 awayRightPoints:'-14.0',
-                awayRatio:80,
+                awayRatio:74,
                 homeName:'magic',
                 homeLeftPoints:'+12.5',
                 homeRightPoints:'+14.0',
-                homeRatio:20
-            },{
-                time:'Fri 12/31, 10:30 AM',
-                awayName:'warriors',
-                awayLeftPoints:'-4.5',
-                awayRightPoints:'-4.0',
-                awayRatio:88,
-                homeName:'nuggets',
-                homeLeftPoints:'+4.5',
-                homeRightPoints:'+4.0',
-                homeRatio:12
+                homeRatio:26
             }
         ]
     }

@@ -120,11 +120,6 @@ const nbaData = {
     //布鲁克林篮网
     nets:[
         {
-            'name':'大卫.杜克',
-            'status':'缺阵',
-            'detail':'因为健康安全协议，会缺阵数场比赛',
-            'important':false
-        },{
             'name':'夏普',
             'status':'缺阵',
             'detail':'因为健康安全协议，会缺阵数场比赛',
@@ -214,23 +209,8 @@ const nbaData = {
         },{
             'name':'贾勒特.阿伦',
             'status':'出战存疑',
-            'detail':'新冠刚转阴性，明日出战概率小',
+            'detail':'新冠刚转阴性，无法出战周五对阵奇才的比赛',
             'important':true
-        },{
-            'name':'斯蒂文斯',
-            'status':'出战存疑',
-            'detail':'新冠刚转阴性，每日观察',
-            'important':false
-        },{
-            'name':'ED.戴维斯',
-            'status':'缺阵',
-            'detail':'因为健康安全协议，会缺阵数场比赛',
-            'important':false
-        },{
-            'name':'温德勒',
-            'status':'出战存疑',
-            'detail':'新冠刚转阴性，每日观察',
-            'important':false
         },{
             'name':'奥斯曼',
             'status':'缺阵',
@@ -656,6 +636,11 @@ const nbaData = {
     //密尔沃基雄鹿
     bucks:[
         {
+            'name':'塞米.奥杰莱',
+            'status':'缺阵',
+            'detail':'身体不适，无法出战',
+            'important':true
+        },{
             'name':'洛佩兹',
             'status':'长期缺阵',
             'detail':'背部手术，归期未定',
@@ -806,6 +791,11 @@ const nbaData = {
     //奥兰多魔术
     magic:[
         {
+            'name':'特伦斯.罗斯',
+            'status':'缺阵',
+            'detail':'腿部受伤，无法出战',
+            'important':false
+        },{
             'name':'罗宾.洛佩兹',
             'status':'缺阵',
             'detail':'因为健康安全协议，会缺阵数场比赛',
@@ -876,13 +866,13 @@ const nbaData = {
             'important':false
         },{
             'name':'米尔顿',
-            'status':'出战存疑',
-            'detail':'新冠转阴性，每日观察',
+            'status':'出战',
+            'detail':'可以出战周五对阵篮网的比赛',
             'important':false
         },{
             'name':'德拉蒙德',
-            'status':'缺阵',
-            'detail':'因为健康安全协议，会缺阵数场比赛',
+            'status':'出战',
+            'detail':'可以出战周五对阵篮网的比赛',
             'important':false
         },{
             'name':'本.西蒙斯',
@@ -1053,6 +1043,16 @@ const nbaData = {
     //华盛顿奇才
     wizards:[
         {
+            'name':'贝尔坦斯',
+            'status':'缺阵',
+            'detail':'因为健康安全协议，会缺阵数场比赛',
+            'important':false
+        },{
+            'name':'丁威迪',
+            'status':'缺阵',
+            'detail':'因为健康安全协议，会缺阵数场比赛',
+            'important':true
+        },{
             'name':'托马斯.布兰恩特',
             'status':'缺阵',
             'detail':'膝盖受伤，预计12月底复出',
@@ -1064,13 +1064,13 @@ const nbaData = {
             'important':false
         },{
             'name':'波普',
-            'status':'出战存疑',
-            'detail':'新冠转阴性，每日观察',
+            'status':'出战',
+            'detail':'可以出战周五对阵骑士的比赛',
             'important':true
         },{
             'name':'比尔',
-            'status':'出战存疑',
-            'detail':'新冠转阴性，每日观察',
+            'status':'出战',
+            'detail':'可以出战周五对阵骑士的比赛',
             'important':true
         },{
             'name':'哈雷尔',
