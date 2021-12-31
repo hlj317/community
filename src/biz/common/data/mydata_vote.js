@@ -4032,7 +4032,7 @@ export const myData = [
 
     //12月1日
     {
-        date: 'Wed Dec 1',
+        date: 'Wed Dec 01',
         list: [
             {
                 time:'Wed 12/01, 8:30 AM',
@@ -4090,7 +4090,7 @@ export const myData = [
 
     //12月2日
     {
-        date: 'Thu Dec 2',
+        date: 'Thu Dec 02',
         list: [
             {
                 time:'Thu 12/02, 8:00 AM',
@@ -4189,7 +4189,7 @@ export const myData = [
 
     //12月3日
     {
-        date: 'Fri Dec 3',
+        date: 'Fri Dec 03',
         list: [
             {
                 time:'Fri 12/03, 8:30 AM',
@@ -4247,7 +4247,7 @@ export const myData = [
 
     //12月4日
     {
-        date: 'Sat Dec 4',
+        date: 'Sat Dec 04',
         list: [
             {
                 time:'Sat 12/04, 8:00 AM',
@@ -4346,7 +4346,7 @@ export const myData = [
 
     //12月5日
     {
-        date: 'Sun Dec 5',
+        date: 'Sun Dec 05',
         list: [
             {
                 time:'Sun 12/05, 2:00 AM',
@@ -4424,7 +4424,7 @@ export const myData = [
 
     //12月6日
     {
-        date: 'Mon Dec 6',
+        date: 'Mon Dec 06',
         list: [
             {
                 time:'Mon 12/06, 4:30 AM',
@@ -4472,7 +4472,7 @@ export const myData = [
 
     //12月7日
     {
-        date: 'Tue Dec 7',
+        date: 'Tue Dec 07',
         list: [
             {
                 time:'Tue 12/07, 8:00 AM',
@@ -4580,7 +4580,7 @@ export const myData = [
 
     //12月8日
     {
-        date: 'Wed Dec 8',
+        date: 'Wed Dec 08',
         list: [
             {
                 time:'Wed 12/08, 8:30 AM',
@@ -4618,7 +4618,7 @@ export const myData = [
 
     //12月9日
     {
-        date: 'Thu Dec 9',
+        date: 'Thu Dec 09',
         list: [
             {
                 time:'Thu 12/09, 8:00 AM',
@@ -6463,6 +6463,115 @@ export const myData = [
                 homeLeftPoints:'+12.5',
                 homeRightPoints:'+14.0',
                 homeRatio:26
+            }
+        ]
+    },
+
+
+    //1月1日
+    {
+        date: 'Sat Jan 01',
+        list: [
+            {
+                time:'Sat 1/01, 2:00 AM',
+                awayName:'suns',
+                awayLeftPoints:'-3.0',
+                awayRightPoints:'-3.0',
+                awayRatio:76,
+                homeName:'celtics',
+                homeLeftPoints:'+3.0',
+                homeRightPoints:'+3.0',
+                homeRatio:24
+            },{
+                time:'Sat 1/01, 4:00 AM',
+                awayName:'bulls',
+                awayLeftPoints:'-2.5',
+                awayRightPoints:'-2.5',
+                awayRatio:85,
+                homeName:'pacers',
+                homeLeftPoints:'+2.5',
+                homeRightPoints:'+2.5',
+                homeRatio:15
+            },{
+                time:'Sat 1/01, 7:00 AM',
+                awayName:'mavericks',
+                awayLeftPoints:'+1.0',
+                awayRightPoints:'+1.0',
+                awayRatio:46,
+                homeName:'kings',
+                homeLeftPoints:'-1.0',
+                homeRightPoints:'-1.0',
+                homeRatio:54
+            },{
+                time:'Sat 1/01, 8:00 AM',
+                awayName:'heat',
+                awayLeftPoints:'-4.5',
+                awayRightPoints:'-4.5',
+                awayRatio:77,
+                homeName:'rockets',
+                homeLeftPoints:'+4.5',
+                homeRightPoints:'+4.5',
+                homeRatio:23
+            },{
+                time:'Sat 1/01, 8:30 AM',
+                awayName:'hawks',
+                awayLeftPoints:'+1.5',
+                awayRightPoints:'+1.5',
+                awayRatio:41,
+                homeName:'cavaliers',
+                homeLeftPoints:'-1.5',
+                homeRightPoints:'-1.5',
+                homeRatio:59
+            },{
+                time:'Sat 1/01, 8:30 AM',
+                awayName:'clippers',
+                awayLeftPoints:'+4.0',
+                awayRightPoints:'+4.0',
+                awayRatio:52,
+                homeName:'raptors',
+                homeLeftPoints:'-4.0',
+                homeRightPoints:'-4.0',
+                homeRatio:48
+            },{
+                time:'Sat 1/01, 9:00 AM',
+                awayName:'knicks',
+                awayLeftPoints:'-6.5',
+                awayRightPoints:'-6.5',
+                awayRatio:56,
+                homeName:'thunder',
+                homeLeftPoints:'+6.5',
+                homeRightPoints:'+6.5',
+                homeRatio:44
+            },{
+                time:'Sat 1/01, 9:00 AM',
+                awayName:'spurs',
+                awayLeftPoints:'+4.5',
+                awayRightPoints:'+4.5',
+                awayRatio:30,
+                homeName:'grizzlies',
+                homeLeftPoints:'-4.5',
+                homeRightPoints:'-4.5',
+                homeRatio:70
+            },{
+                time:'Sat 1/01, 10:00 AM',
+                awayName:'timberwolves',
+                awayLeftPoints:'+10.5',
+                awayRightPoints:'+10.5',
+                awayRatio:27,
+                homeName:'jazz',
+                homeLeftPoints:'-10.5',
+                homeRightPoints:'-10.5',
+                homeRatio:73
+            },{
+                time:'Sat 1/01, 11:30 AM',
+                awayName:'blazers',
+                awayLeftPoints:'+5.5',
+                awayRightPoints:'+5.5',
+                awayRatio:37,
+                homeName:'lakers',
+                homeLeftPoints:'-5.5',
+                homeRightPoints:'-5.5',
+                homeRatio:63
             }
         ]
     }

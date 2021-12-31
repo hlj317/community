@@ -6,7 +6,7 @@ const nbaData = require("../data/mydata_nba.js");
 const newsTitle = require("../data/news_title.json");
 const fs = require("fs");
 const ProModel = require("../models/model/proModel.js");
-// const proModel = ProModel.instance();
+const proModel = ProModel.instance();
 
 //补位 当某个字段不是两位数时补0
 const fnW = function(str){
