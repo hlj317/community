@@ -6574,6 +6574,75 @@ export const myData = [
                 homeRatio:60
             }
         ]
+    },
+
+
+    //1月2日
+    {
+        date: 'Mon Jan 02',
+        list: [
+            {
+                time:'Sun 1/02, 7:30 AM',
+                awayName:'pelicans',
+                awayLeftPoints:'+11.0',
+                awayRightPoints:'+11.0',
+                awayRatio:30,
+                homeName:'bucks',
+                homeLeftPoints:'-11.0',
+                homeRightPoints:'-11.0',
+                homeRatio:70
+            },{
+                time:'Sun 1/02, 8:00 AM',
+                awayName:'spurs',
+                awayLeftPoints:'-4.5',
+                awayRightPoints:'-7.0',
+                awayRatio:77,
+                homeName:'pistons',
+                homeLeftPoints:'+4.5',
+                homeRightPoints:'+7.0',
+                homeRatio:23
+            },{
+                time:'Sun 1/02, 8:00 AM',
+                awayName:'bulls',
+                awayLeftPoints:'-2.5',
+                awayRightPoints:'-2.5',
+                awayRatio:79,
+                homeName:'wizards',
+                homeLeftPoints:'+2.5',
+                homeRightPoints:'+2.5',
+                homeRatio:21
+            },{
+                time:'Sun 1/02, 8:30 AM',
+                awayName:'clippers',
+                awayLeftPoints:'+11.0',
+                awayRightPoints:'+11.5',
+                awayRatio:23,
+                homeName:'nets',
+                homeLeftPoints:'-11.0',
+                homeRightPoints:'-11.5',
+                homeRatio:77
+            },{
+                time:'Sun 1/02, 9:00 AM',
+                awayName:'nuggets',
+                awayLeftPoints:'-6.0',
+                awayRightPoints:'-6.5',
+                awayRatio:69,
+                homeName:'rockets',
+                homeLeftPoints:'+6.0',
+                homeRightPoints:'+6.5',
+                homeRatio:31
+            },{
+                time:'Sun 1/02, 10:00 AM',
+                awayName:'warriors',
+                awayLeftPoints:'+4.5',
+                awayRightPoints:'+5.5',
+                awayRatio:57,
+                homeName:'jazz',
+                homeLeftPoints:'-4.5',
+                homeRightPoints:'-5.5',
+                homeRatio:43
+            }
+        ]
     }
     
 ]
