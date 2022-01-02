@@ -123,6 +123,11 @@ const nbaData = {
     //芝加哥公牛
     bulls:[
         {
+            'name':'贾文特.格林',
+            'status':'缺阵',
+            'detail':'因为健康安全协议，会缺阵数场比赛',
+            'important':false
+        },{
             'name':'伊利亚索瓦',
             'status':'缺阵',
             'detail':'因为健康安全协议，会缺阵数场比赛',
@@ -235,11 +240,6 @@ const nbaData = {
     //丹佛掘金
     nuggets:[
         {
-            'name':'阿隆.戈登',
-            'status':'出战存疑',
-            'detail':'肌腱受伤，每日观察',
-            'important':true
-        },{
             'name':'奥斯汀.里弗斯',
             'status':'出战存疑',
             'detail':'拇指受伤，每日观察',
@@ -342,6 +342,11 @@ const nbaData = {
     //休斯顿火箭
     rockets:[
         {
+            'name':'埃里克.戈登',
+            'status':'缺阵',
+            'detail':'腹股沟受伤，无法出战',
+            'important':true
+        },{
             'name':'DJ.奥古斯汀',
             'status':'缺阵',
             'detail':'因为健康安全协议，会缺阵数场比赛',
@@ -395,6 +400,11 @@ const nbaData = {
     //洛杉矶快船
     clippers:[
         {
+            'name':'肯纳德',
+            'status':'缺阵',
+            'detail':'因为健康安全协议，会缺阵数场比赛',
+            'important':true
+        },{
             'name':'祖巴茨',
             'status':'缺阵',
             'detail':'因为健康安全协议，会缺阵数场比赛',
@@ -586,9 +596,14 @@ const nbaData = {
     //密尔沃基雄鹿
     bucks:[
         {
+            'name':'迪文琴佐',
+            'status':'缺阵',
+            'detail':'左脚踝受伤，无法出战',
+            'important':true
+        },{
             'name':'米德尔顿',
             'status':'缺阵',
-            'detail':'身体不适，无法出战',
+            'detail':'个人原因，无法出战',
             'important':true
         },{
             'name':'塞米.奥杰莱',
@@ -901,6 +916,16 @@ const nbaData = {
     //圣安东尼奥马刺
     spurs:[
         {
+            'name':'迪奥普',
+            'status':'缺阵',
+            'detail':'因为健康安全协议，会缺阵数场比赛',
+            'important':false
+        },{
+            'name':'麦克戴莫特',
+            'status':'缺阵',
+            'detail':'因为健康安全协议，会缺阵数场比赛',
+            'important':false
+        },{
             'name':'默里',
             'status':'缺阵',
             'detail':'因为健康安全协议，会缺阵数场比赛',
