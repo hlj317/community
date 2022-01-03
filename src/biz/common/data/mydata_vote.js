@@ -6719,7 +6719,7 @@ export const myData = [
                 homeName:'lakers',
                 homeLeftPoints:'-7.5',
                 homeRightPoints:'-8.0',
-                homeRatio:8851
+                homeRatio:51
             }
         ]
     }
