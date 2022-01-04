@@ -6831,6 +6831,64 @@ export const myData = [
                 homeRatio:57
             }
         ]
+    },
+
+    //1月5日
+    {
+        date: 'Wed Jan 05',
+        list: [
+            {
+                time:'Wed 1/05, 8:00 AM',
+                awayName:'grizzlies',
+                awayLeftPoints:'+2.5',
+                awayRightPoints:'+3.5',
+                awayRatio:72,
+                homeName:'cavaliers',
+                homeLeftPoints:'-2.5',
+                homeRightPoints:'-3.5',
+                homeRatio:28
+            },{
+                time:'Wed 1/05, 8:00 AM',
+                awayName:'spurs',
+                awayLeftPoints:'+5.5',
+                awayRightPoints:'+5.5',
+                awayRatio:40,
+                homeName:'raptors',
+                homeLeftPoints:'-5.5',
+                homeRightPoints:'-5.5',
+                homeRatio:60
+            },{
+                time:'Wed 1/05, 8:30 AM',
+                awayName:'pacers',
+                awayLeftPoints:'+1.5',
+                awayRightPoints:'+1.5',
+                awayRatio:46,
+                homeName:'knicks',
+                homeLeftPoints:'-1.5',
+                homeRightPoints:'-1.5',
+                homeRatio:54
+            },{
+                time:'Wed 1/05, 9:00 AM',
+                awayName:'suns',
+                awayLeftPoints:'-6.5',
+                awayRightPoints:'-7.5',
+                awayRatio:79,
+                homeName:'pelicans',
+                homeLeftPoints:'+6.5',
+                homeRightPoints:'+7.5',
+                homeRatio:21
+            },{
+                time:'Wed 1/05, 11:30 AM',
+                awayName:'kings',
+                awayLeftPoints:'+7.5',
+                awayRightPoints:'+7.5',
+                awayRatio:55,
+                homeName:'lakers',
+                homeLeftPoints:'-7.5',
+                homeRightPoints:'-7.5',
+                homeRatio:45
+            }
+        ]
     }
     
 ]
