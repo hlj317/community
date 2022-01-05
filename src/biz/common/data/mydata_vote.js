@@ -6889,6 +6889,125 @@ export const myData = [
                 homeRatio:43
             }
         ]
+    },
+
+
+    //1月6日
+    {
+        date: 'Thu Jan 06',
+        list: [
+            {
+                time:'Thu 1/06, 8:00 AM',
+                awayName:'pistons',
+                awayLeftPoints:'+9.5',
+                awayRightPoints:'+9.5',
+                awayRatio:62,
+                homeName:'hornets',
+                homeLeftPoints:'-9.5',
+                homeRightPoints:'-9.5',
+                homeRatio:38
+            },{
+                time:'Thu 1/06, 8:00 AM',
+                awayName:'seven6ers',
+                awayLeftPoints:'+7.5',
+                awayRightPoints:'+7.5',
+                awayRatio:70,
+                homeName:'magic',
+                homeLeftPoints:'-7.5',
+                homeRightPoints:'-7.5',
+                homeRatio:30
+            },{
+                time:'Thu 1/06, 8:00 AM',
+                awayName:'rockets',
+                awayLeftPoints:'+6.5',
+                awayRightPoints:'+7.0',
+                awayRatio:31,
+                homeName:'wizards',
+                homeLeftPoints:'-6.5',
+                homeRightPoints:'-7.0',
+                homeRatio:69
+            },{
+                time:'Thu 1/06, 8:30 AM',
+                awayName:'warriors',
+                awayLeftPoints:'-4.5',
+                awayRightPoints:'-5.5',
+                awayRatio:72,
+                homeName:'mavericks',
+                homeLeftPoints:'+4.5',
+                homeRightPoints:'+5.5',
+                homeRatio:28
+            },{
+                time:'Thu 1/06, 8:30 AM',
+                awayName:'nets',
+                awayLeftPoints:'+5.5',
+                awayRightPoints:'+7.5',
+                awayRatio:85,
+                homeName:'pacers',
+                homeLeftPoints:'-5.5',
+                homeRightPoints:'-7.5',
+                homeRatio:15
+            },{
+                time:'Thu 1/06, 8:30 AM',
+                awayName:'spurs',
+                awayLeftPoints:'+7.5',
+                awayRightPoints:'+7.5',
+                awayRatio:33,
+                homeName:'celtics',
+                homeLeftPoints:'-7.5',
+                homeRightPoints:'-7.5',
+                homeRatio:67
+            },{
+                time:'Thu 1/06, 9:00 AM',
+                awayName:'thunder',
+                awayLeftPoints:'+7.5',
+                awayRightPoints:'+7.5',
+                awayRatio:45,
+                homeName:'timberwolves',
+                homeLeftPoints:'-7.5',
+                homeRightPoints:'-7.5',
+                homeRatio:55
+            },{
+                time:'Thu 1/06, 9:00 AM',
+                awayName:'raptors',
+                awayLeftPoints:'+8.5',
+                awayRightPoints:'+7.5',
+                awayRatio:42,
+                homeName:'bucks',
+                homeLeftPoints:'-8.5',
+                homeRightPoints:'-7.5',
+                homeRatio:58
+            },{
+                time:'Thu 1/06, 11:00 AM',
+                awayName:'heat',
+                awayLeftPoints:'+1.0',
+                awayRightPoints:'+1.0',
+                awayRatio:68,
+                homeName:'blazers',
+                homeLeftPoints:'-1.0',
+                homeRightPoints:'-1.0',
+                homeRatio:32
+            },{
+                time:'Thu 1/06, 11:00 AM',
+                awayName:'hawks',
+                awayLeftPoints:'+1.0',
+                awayRightPoints:'+1.0',
+                awayRatio:59,
+                homeName:'kings',
+                homeLeftPoints:'-1.0',
+                homeRightPoints:'-1.0',
+                homeRatio:41
+            },{
+                time:'Thu 1/06, 11:00 AM',
+                awayName:'jazz',
+                awayLeftPoints:'+4.5',
+                awayRightPoints:'+5.0',
+                awayRatio:62,
+                homeName:'nuggets',
+                homeLeftPoints:'-4.5',
+                homeRightPoints:'-5.0',
+                homeRatio:38
+            }
+        ]
     }
     
 ]
