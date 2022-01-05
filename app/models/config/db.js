@@ -1,8 +1,8 @@
 let dbConf = "";
 
 const DEV = {
-    host: "172.16.0.17",
-    user: "beibei",
+    host: "127.0.0.1",
+    user: "root",
     password: "123456",
     database: "beibei_wxmp",
     pro_table: "pro_article",
