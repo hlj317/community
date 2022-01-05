@@ -6841,52 +6841,52 @@ export const myData = [
                 time:'Wed 1/05, 8:00 AM',
                 awayName:'grizzlies',
                 awayLeftPoints:'+2.5',
-                awayRightPoints:'+2.5',
-                awayRatio:63,
+                awayRightPoints:'+3.5',
+                awayRatio:53,
                 homeName:'cavaliers',
                 homeLeftPoints:'-2.5',
-                homeRightPoints:'-2.5',
-                homeRatio:37
+                homeRightPoints:'-3.5',
+                homeRatio:47
             },{
                 time:'Wed 1/05, 8:00 AM',
                 awayName:'spurs',
                 awayLeftPoints:'+5.5',
-                awayRightPoints:'+5.5',
-                awayRatio:38,
+                awayRightPoints:'+6.5',
+                awayRatio:24,
                 homeName:'raptors',
                 homeLeftPoints:'-5.5',
-                homeRightPoints:'-5.5',
-                homeRatio:62
+                homeRightPoints:'-6.5',
+                homeRatio:76
             },{
                 time:'Wed 1/05, 8:30 AM',
                 awayName:'pacers',
                 awayLeftPoints:'+1.5',
-                awayRightPoints:'+1.5',
-                awayRatio:51,
+                awayRightPoints:'+3.5',
+                awayRatio:33,
                 homeName:'knicks',
                 homeLeftPoints:'-1.5',
-                homeRightPoints:'-1.5',
-                homeRatio:49
+                homeRightPoints:'-3.5',
+                homeRatio:67
             },{
                 time:'Wed 1/05, 9:00 AM',
                 awayName:'suns',
                 awayLeftPoints:'-6.5',
-                awayRightPoints:'-7.0',
-                awayRatio:82,
+                awayRightPoints:'-6.5',
+                awayRatio:61,
                 homeName:'pelicans',
                 homeLeftPoints:'+6.5',
-                homeRightPoints:'+7.0',
-                homeRatio:18
+                homeRightPoints:'+6.5',
+                homeRatio:39
             },{
                 time:'Wed 1/05, 11:30 AM',
                 awayName:'kings',
                 awayLeftPoints:'+7.5',
-                awayRightPoints:'+7.5',
-                awayRatio:61,
+                awayRightPoints:'+6.5',
+                awayRatio:57,
                 homeName:'lakers',
                 homeLeftPoints:'-7.5',
-                homeRightPoints:'-7.5',
-                homeRatio:39
+                homeRightPoints:'-6.5',
+                homeRatio:43
             }
         ]
     }
