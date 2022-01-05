@@ -6909,12 +6909,12 @@ export const myData = [
             },{
                 time:'Thu 1/06, 8:00 AM',
                 awayName:'seven6ers',
-                awayLeftPoints:'+7.5',
-                awayRightPoints:'+7.5',
+                awayLeftPoints:'-7.5',
+                awayRightPoints:'-7.5',
                 awayRatio:70,
                 homeName:'magic',
-                homeLeftPoints:'-7.5',
-                homeRightPoints:'-7.5',
+                homeLeftPoints:'+7.5',
+                homeRightPoints:'+7.5',
                 homeRatio:30
             },{
                 time:'Thu 1/06, 8:00 AM',
