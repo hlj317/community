@@ -139,6 +139,13 @@
             margin:5px 10px 0 12px;
         }
     }
+
+    .text-game{
+        font-size:18px;
+        color:#cc0000;
+        font-weight: bold;
+    }
+
     .scan{
         color:#cc0000;
         font-weight: bold;

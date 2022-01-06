@@ -452,11 +452,6 @@ const nbaData = {
             'detail':'脚踝受伤，无法出战',
             'important':true
         },{
-            'name':'邓肯.罗宾逊',
-            'status':'缺阵',
-            'detail':'因为健康安全协议，会缺阵数场比赛',
-            'important':true
-        },{
             'name':'马库斯.加勒特',
             'status':'缺阵',
             'detail':'因为健康安全协议，会缺阵数场比赛',

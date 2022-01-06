@@ -191,6 +191,12 @@
         font-weight: bold;
     }
 
+    .text-game{
+        font-size:18px;
+        color:#cc0000;
+        font-weight: bold;
+    }
+
     .text-notice{
         font-size:18px;
         color:#666666;

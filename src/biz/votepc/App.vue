@@ -6,7 +6,7 @@
             <img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/common/portait.png"/>
         </div>
         <div class="portait-text">
-            <div class="text-name">请关注微信公众号：<strong>[篮彩老黑]</strong><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/common/arrow.png" /><span class="scan">可扫一扫右侧二维码</span></div>
+            <div class="text-name"><span class="text-game">获取篮彩教学视频</span>请关注微信公众号：<strong>[篮彩老黑]</strong><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/common/arrow.png" /><span class="scan">可扫一扫右侧二维码</span></div>
             <div class="text-notice">NBA/WNBA/CBA伤病名单实时更新、NBA篮彩投注率实时更新</div>
         </div>
         <div class="portait-qrcode">
@@ -255,6 +255,13 @@
         margin:5px 10px 0 12px;
     }
 }
+
+.text-game{
+    font-size:18px;
+    color:#cc0000;
+    font-weight: bold;
+}
+
 .scan{
     color:#cc0000;
     font-weight: bold;

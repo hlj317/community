@@ -130,6 +130,11 @@
         color:#666666;
     }
 
+    .text-game{
+        font-size:28 / @b;
+        color:#cc0000;
+    }
+
     .text-notice{
         font-size:18 / @b;
         color:#999999
