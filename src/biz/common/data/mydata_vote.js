@@ -7026,7 +7026,7 @@ export const myData = [
                 homeRatio:42
             },{
                 time:'Fri 1/07, 9:00 AM',
-                awayName:'warriros',
+                awayName:'warriors',
                 awayLeftPoints:'-5.5',
                 awayRightPoints:'-5.5',
                 awayRatio:78,
