@@ -253,6 +253,11 @@ const nbaData = {
     //金州勇士
     warriors:[
         {
+            'name':'库里',
+            'status':'缺阵',
+            'detail':'腿部挫伤，无法出战',
+            'important':true
+        },{
             'name':'奥托.波特',
             'status':'缺阵',
             'detail':'腿部受伤，无法出战',

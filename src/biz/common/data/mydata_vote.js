@@ -7017,22 +7017,22 @@ export const myData = [
             {
                 time:'Fri 1/07, 8:30 AM',
                 awayName:'celtics',
-                awayLeftPoints:'+1.0',
-                awayRightPoints:'+1.0',
+                awayLeftPoints:'-1.0',
+                awayRightPoints:'-1.0',
                 awayRatio:58,
                 homeName:'knicks',
-                homeLeftPoints:'-1.0',
-                homeRightPoints:'-1.0',
+                homeLeftPoints:'+1.0',
+                homeRightPoints:'+1.0',
                 homeRatio:42
             },{
                 time:'Fri 1/07, 9:00 AM',
                 awayName:'warriors',
                 awayLeftPoints:'-5.5',
-                awayRightPoints:'-5.5',
+                awayRightPoints:'-3.5',
                 awayRatio:78,
                 homeName:'pelicans',
                 homeLeftPoints:'+5.5',
-                homeRightPoints:'+5.5',
+                homeRightPoints:'+3.5',
                 homeRatio:22
             },{
                 time:'Fri 1/07, 9:00 AM',
@@ -7048,11 +7048,11 @@ export const myData = [
                 time:'Fri 1/07, 11:00 AM',
                 awayName:'clippers',
                 awayLeftPoints:'+12.0',
-                awayRightPoints:'+12.0',
+                awayRightPoints:'+11.5',
                 awayRatio:41,
                 homeName:'suns',
                 homeLeftPoints:'-12.0',
-                homeRightPoints:'-12.0',
+                homeRightPoints:'-11.5',
                 homeRatio:59
             }
         ]
