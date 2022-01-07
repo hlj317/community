@@ -214,17 +214,12 @@ const nbaData = {
             'detail':'身体不适，无法出战',
             'important':false
         },{
-            'name':'斯图尔特',
-            'status':'缺阵',
-            'detail':'因为健康安全协议，会缺阵数场比赛',
-            'important':true
-        },{
             'name':'格兰特',
             'status':'长期缺阵',
             'detail':'右手拇指受伤，归期未定',
             'important':true
         },{
-            'name':'斯特林.布朗',
+            'name':'以赛亚.里弗斯',
             'status':'缺阵',
             'detail':'腿部受伤，无法出战',
             'important':false
@@ -236,7 +231,7 @@ const nbaData = {
         },{
             'name':'弗兰克.杰克逊',
             'status':'缺阵',
-            'detail':'脚踝受伤，预计休息7-10天',
+            'detail':'因为健康安全协议，会缺阵数场比赛',
             'important':false
         },{
             'name':'奥利尼克',
@@ -253,15 +248,15 @@ const nbaData = {
             'detail':'腿部挫伤，无法出战',
             'important':true
         },{
-            'name':'奥托.波特',
+            'name':'安德森',
             'status':'缺阵',
-            'detail':'腿部受伤，无法出战',
+            'detail':'左脚踝受伤，无法出战',
             'important':false
         },{
-            'name':'伊戈达拉',
+            'name':'格林',
             'status':'缺阵',
-            'detail':'腿部受伤，无法出战',
-            'important':false
+            'detail':'左臀受伤，无法出战',
+            'important':true
         },{
             'name':'怀斯曼',
             'status':'缺阵',
@@ -351,8 +346,8 @@ const nbaData = {
     clippers:[
         {
             'name':'巴图姆',
-            'status':'出战存疑',
-            'detail':'脚踝受伤，每日观察',
+            'status':'出战',
+            'detail':'可以出战周五对阵太阳的比赛',
             'important':true
         },{
             'name':'肯纳德',
@@ -376,8 +371,8 @@ const nbaData = {
             'important':true
         },{
             'name':'小波士顿',
-            'status':'大概率出战',
-            'detail':'大概率可以出战周五对阵太阳的比赛',
+            'status':'缺阵',
+            'detail':'身体不适，无法出战',
             'important':false
         },{
             'name':'科怀.伦纳德',
@@ -510,6 +505,11 @@ const nbaData = {
             'status':'缺阵',
             'detail':'因为健康安全协议，会缺阵数场比赛',
             'important':false
+        },{
+            'name':'朱.霍乐迪',
+            'status':'缺阵',
+            'detail':'因为健康安全协议，会缺阵数场比赛',
+            'important':true
         },{
             'name':'迪文琴佐',
             'status':'缺阵',
