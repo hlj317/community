@@ -326,7 +326,7 @@
         width:560 / @b;
         line-height: 35 / @b;
     }
-    a.bottm-link{
+    a.bottom-link{
         color:#ffffff;
     }
     .bottom-qrcode{
