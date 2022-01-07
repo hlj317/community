@@ -317,6 +317,9 @@
         margin:0;
         line-height: 35px;
     }
+    a.bottm-link{
+        color:#ffffff;
+    }
     .bottom-qrcode{
         float:left;
         margin:0 0 0 40px;
