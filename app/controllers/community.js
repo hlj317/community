@@ -215,18 +215,21 @@ const createNews = async function (ctx, next) {
     let data = JSON.parse(fs.readFileSync("/Users/huanglijun/Desktop/demo/community/app/data/news_title.json", "utf-8"));
     let dataNewsList = fs.readFileSync("/Users/huanglijun/Desktop/demo/community/app/views/layout/news_list.html", "utf-8");
     let dataSitemapStr = fs.readFileSync("/Users/huanglijun/Desktop/demo/community/static/sitemap.xml", "utf-8");
+    let dataPushUrlStr = fs.readFileSync("/Users/huanglijun/Desktop/demo/community/static/urls.txt", "utf-8");
     dataSitemapStr = dataSitemapStr.substring(dataSitemapStr.indexOf("</urlset>"),0);
     for(let i = 0;i < result.length;i++){
         fs.writeFileSync("/Users/huanglijun/Desktop/demo/community/app/views/news/news-"+(i+startPage)+".html",'{{extend ("../layout/default.html")}}{{#block ("body")}}<div>{{include ("../layout/keywords.html") }}</div><div id="news" class="news-page">'+result[i].content+'</div>{{/block}}');
         data[i+startPage] = result[i].title;
         dataNewsList += '<li><a href="/news-'+(i+startPage)+'.html">'+result[i].title+'</a></li>';
         dataSitemapStr += '<url><loc>https://www.cbdyou.com.cn/news-'+(i+startPage)+'.html></loc><priority>0.5</priority><lastmod>'+getTimeNow()+'</lastmod><changefreq>daily</changefreq></url>';
+        dataPushUrlStr += 'https://www.cbdyou.com.cn/news-'+(i+startPage)+'.html';
     }
     dataSitemapStr += "</urlset>";
     let str = JSON.stringify(data);
     fs.writeFileSync("/Users/huanglijun/Desktop/demo/community/app/data/news_title.json", str);
     fs.writeFileSync("/Users/huanglijun/Desktop/demo/community/app/views/layout/news_list.html", dataNewsList);
     fs.writeFileSync("/Users/huanglijun/Desktop/demo/community/static/sitemap.xml", dataSitemapStr);
+    fs.writeFileSync("/Users/huanglijun/Desktop/demo/community/static/urls.txt", dataPushUrlStr);
     ctx.body = {
         "message": "批量生成新闻页面成功",
         "statesCode": 200
