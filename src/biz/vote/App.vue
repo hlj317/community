@@ -66,7 +66,7 @@
         <div class="bottom-text">
             本网站服务由[篮彩老黑]独家提供<br/>
             <span>版权所有ICP证：</span>
-            <a href="https://beian.miit.gov.cn/" target="_blank">浙ICP备17001885号-5</a><br/>
+            <a href="https://beian.miit.gov.cn/" target="_blank" class="bottom-link">浙ICP备17001885号-5</a><br/>
             Copyright © 2022 cbdyou.com.cn 保留一切权利
         </div>
         <div class="bottom-qrcode"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/common/lancai_qrcode_plus.jpg" /></div>
@@ -561,6 +561,9 @@ img{
     margin:20 / @b 0 0 30 / @b;
     width:560 / @b;
     line-height: 35 / @b;
+}
+a.bottm-link{
+    color:#ffffff;
 }
 .bottom-qrcode{
     float:right;
