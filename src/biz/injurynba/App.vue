@@ -362,7 +362,7 @@
     }
     .bottom-text{
         float:left;
-        margin:40 / @b 0 0 30 / @b;
+        margin:20 / @b 0 0 30 / @b;
         width:560 / @b;
         line-height: 35 / @b;
     }
