@@ -586,7 +586,7 @@ const nbaData = {
     ],
     //俄克拉荷马城雷霆
     thunder:[
-        {{
+        {
             'name':'以赛亚.罗比',
             'status':'缺阵',
             'detail':'因为健康安全协议，会缺阵数场比赛',
