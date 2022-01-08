@@ -222,7 +222,7 @@ const createNews = async function (ctx, next) {
         data[i+startPage] = result[i].title;
         dataNewsList += '<li><a href="/news-'+(i+startPage)+'.html">'+result[i].title+'</a></li>';
         dataSitemapStr += '<url><loc>https://www.cbdyou.com.cn/news-'+(i+startPage)+'.html></loc><priority>0.5</priority><lastmod>'+getTimeNow()+'</lastmod><changefreq>daily</changefreq></url>';
-        dataPushUrlStr += 'https://www.cbdyou.com.cn/news-'+(i+startPage)+'.html';
+        dataPushUrlStr += '\nhttps://www.cbdyou.com.cn/news-'+(i+startPage)+'.html';
     }
     dataSitemapStr += "</urlset>";
     let str = JSON.stringify(data);
