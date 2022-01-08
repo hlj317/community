@@ -7155,6 +7155,74 @@ export const myData = [
                 homeRatio:75
             }
         ]
+    },
+
+    //1月9日
+    {
+        date: 'Sun Jan 09',
+        list: [
+            {
+                time:'Sun 1/09, 4:30 AM',
+                awayName:'grizzlies',
+                awayLeftPoints:'-1.0',
+                awayRightPoints:'-2.0',
+                awayRatio:26,
+                homeName:'clippers',
+                homeLeftPoints:'+1.0',
+                homeRightPoints:'+2.0',
+                homeRatio:74
+            },{
+                time:'Sun 1/09, 8:00 AM',
+                awayName:'magic',
+                awayLeftPoints:'+2.5',
+                awayRightPoints:'+2.5',
+                awayRatio:44,
+                homeName:'pistons',
+                homeLeftPoints:'-2.5',
+                homeRightPoints:'-2.5',
+                homeRatio:56
+            },{
+                time:'Sun 1/09, 8:00 AM',
+                awayName:'jazz',
+                awayLeftPoints:'-4.0',
+                awayRightPoints:'-3.5',
+                awayRatio:30,
+                homeName:'pacers',
+                homeLeftPoints:'+4.0',
+                homeRightPoints:'+3.5',
+                homeRatio:70
+            },{
+                time:'Sun 1/09, 8:00 AM',
+                awayName:'bucks',
+                awayLeftPoints:'+1.5',
+                awayRightPoints:'+1.0',
+                awayRatio:74,
+                homeName:'hornets',
+                homeLeftPoints:'-1.5',
+                homeRightPoints:'-1.0',
+                homeRatio:26
+            },{
+                time:'Sun 1/09, 8:30 AM',
+                awayName:'knicks',
+                awayLeftPoints:'+7.0',
+                awayRightPoints:'+7.0',
+                awayRatio:32,
+                homeName:'celtics',
+                homeLeftPoints:'-7.0',
+                homeRightPoints:'-7.0',
+                homeRatio:68
+            },{
+                time:'Sun 1/09, 10:00 AM',
+                awayName:'heat',
+                awayLeftPoints:'+8.5',
+                awayRightPoints:'+8.5',
+                awayRatio:65,
+                homeName:'suns',
+                homeLeftPoints:'-8.5',
+                homeRightPoints:'-8.5',
+                homeRatio:35
+            }
+        ]
     }
     
 ]
