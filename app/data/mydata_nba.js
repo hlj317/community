@@ -699,12 +699,7 @@ const nbaData = {
     //犹它爵士
     jazz:[
         {
-            'name':'阿祖比亚克',
-            'status':'缺阵',
-            'detail':'脚踝受伤，无法出战',
-            'important':false
-        },{
-            'name':'怀特塞德',
+            'name':'马利克.菲茨',
             'status':'缺阵',
             'detail':'腿部受伤，无法出战',
             'important':false
