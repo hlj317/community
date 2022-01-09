@@ -7166,61 +7166,61 @@ export const myData = [
                 awayName:'grizzlies',
                 awayLeftPoints:'-1.0',
                 awayRightPoints:'-2.5',
-                awayRatio:81,
+                awayRatio:80,
                 homeName:'clippers',
                 homeLeftPoints:'+1.0',
                 homeRightPoints:'+2.5',
-                homeRatio:19
+                homeRatio:20
             },{
                 time:'Sun 1/09, 8:00 AM',
                 awayName:'magic',
                 awayLeftPoints:'+2.5',
-                awayRightPoints:'+2.5',
-                awayRatio:51,
+                awayRightPoints:'+1.5',
+                awayRatio:49,
                 homeName:'pistons',
                 homeLeftPoints:'-2.5',
-                homeRightPoints:'-2.5',
-                homeRatio:49
+                homeRightPoints:'-1.5',
+                homeRatio:51
             },{
                 time:'Sun 1/09, 8:00 AM',
                 awayName:'jazz',
                 awayLeftPoints:'-4.0',
-                awayRightPoints:'-3.0',
-                awayRatio:74,
+                awayRightPoints:'-4.5',
+                awayRatio:66,
                 homeName:'pacers',
                 homeLeftPoints:'+4.0',
-                homeRightPoints:'+3.0',
-                homeRatio:26
+                homeRightPoints:'+4.5',
+                homeRatio:34
             },{
                 time:'Sun 1/09, 8:00 AM',
                 awayName:'bucks',
                 awayLeftPoints:'+1.5',
                 awayRightPoints:'+1.5',
-                awayRatio:30,
+                awayRatio:48,
                 homeName:'hornets',
                 homeLeftPoints:'-1.5',
                 homeRightPoints:'-1.5',
-                homeRatio:70
+                homeRatio:52
             },{
                 time:'Sun 1/09, 8:30 AM',
                 awayName:'knicks',
                 awayLeftPoints:'+7.0',
-                awayRightPoints:'+7.0',
-                awayRatio:38,
+                awayRightPoints:'+8.0',
+                awayRatio:44,
                 homeName:'celtics',
                 homeLeftPoints:'-7.0',
-                homeRightPoints:'-7.0',
-                homeRatio:62
+                homeRightPoints:'-8.0',
+                homeRatio:56
             },{
                 time:'Sun 1/09, 10:00 AM',
                 awayName:'heat',
                 awayLeftPoints:'+8.5',
-                awayRightPoints:'+8.5',
-                awayRatio:43,
+                awayRightPoints:'+9.0',
+                awayRatio:40,
                 homeName:'suns',
                 homeLeftPoints:'-8.5',
-                homeRightPoints:'-8.5',
-                homeRatio:57
+                homeRightPoints:'-9.0',
+                homeRatio:60
             }
         ]
     }
