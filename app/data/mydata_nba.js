@@ -3,8 +3,8 @@ const nbaData = {
     hawks:[
         {
             'name':'卡佩拉',
-            'status':'出战存疑',
-            'detail':'脚踝受伤，周一对阵快船的比赛中出战存疑',
+            'status':'缺阵',
+            'detail':'脚踝受伤，无法出战周一对阵快船的比赛',
             'important':true
         },{
             'name':'迪昂',
