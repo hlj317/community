@@ -7331,6 +7331,75 @@ export const myData = [
                 homeRatio:59
             }
         ]
+    },
+
+
+    //1月11日
+    {
+        date: 'Tue Jan 11',
+        list: [
+            {
+                time:'Tue 1/11, 8:00 AM',
+                awayName:'jazz',
+                awayLeftPoints:'-11.0',
+                awayRightPoints:'-11.0',
+                awayRatio:55,
+                homeName:'pistons',
+                homeLeftPoints:'+11.0',
+                homeRightPoints:'+11.0',
+                homeRatio:45
+            },{
+                time:'Tue 1/11, 8:00 AM',
+                awayName:'bucks',
+                awayLeftPoints:'-1.5',
+                awayRightPoints:'-1.5',
+                awayRatio:79,
+                homeName:'hornets',
+                homeLeftPoints:'+1.5',
+                homeRightPoints:'+1.5',
+                homeRatio:21
+            },{
+                time:'Tue 1/11, 8:30 AM',
+                awayName:'spurs',
+                awayLeftPoints:'+6.5',
+                awayRightPoints:'+6.5',
+                awayRatio:70,
+                homeName:'knicks',
+                homeLeftPoints:'-6.5',
+                homeRightPoints:'-6.5',
+                homeRatio:30
+            },{
+                time:'Tue 1/11, 8:30 AM',
+                awayName:'pacers',
+                awayLeftPoints:'+6.0',
+                awayRightPoints:'+6.0',
+                awayRatio:31,
+                homeName:'celtics',
+                homeLeftPoints:'-6.0',
+                homeRightPoints:'-6.0',
+                homeRatio:69
+            },{
+                time:'Tue 1/11, 11:00 AM',
+                awayName:'cavaliers',
+                awayLeftPoints:'-3.5',
+                awayRightPoints:'-3.5',
+                awayRatio:63,
+                homeName:'kings',
+                homeLeftPoints:'+3.5',
+                homeRightPoints:'+3.5',
+                homeRatio:37
+            },{
+                time:'Tue 1/11, 11:00 AM',
+                awayName:'nets',
+                awayLeftPoints:'-6.5',
+                awayRightPoints:'-6.5',
+                awayRatio:65,
+                homeName:'blazers',
+                homeLeftPoints:'+6.5',
+                homeRightPoints:'+6.5',
+                homeRatio:35
+            }
+        ]
     }
     
 ]
