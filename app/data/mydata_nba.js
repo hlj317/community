@@ -31,10 +31,10 @@ const nbaData = {
     //波士顿凯尔特人
     celtics:[
         {
-            'name':'布罗德里克.托马斯',
-            'status':'大概率出战',
-            'detail':'大概率可以出战周二对阵步行者的比赛',
-            'important':false
+            'name':'斯马特',
+            'status':'出战存疑',
+            'detail':'腿部受伤，每日观察',
+            'important':true
         },{
             'name':'普里查德',
             'status':'缺阵',
