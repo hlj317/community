@@ -7429,53 +7429,53 @@ export const myData = [
             },{
                 time:'Wed 1/12, 8:30 AM',
                 awayName:'suns',
-                awayLeftPoints:'-4.0',
-                awayRightPoints:'-4.0',
-                awayRatio:67,
+                awayLeftPoints:'-4.5',
+                awayRightPoints:'-4.5',
+                awayRatio:71,
                 homeName:'raptors',
-                homeLeftPoints:'+4.0',
-                homeRightPoints:'+4.0',
-                homeRatio:33
+                homeLeftPoints:'+4.5',
+                homeRightPoints:'+4.5',
+                homeRatio:29
             },{
                 time:'Wed 1/12, 9:00 AM',
                 awayName:'warriors',
-                awayLeftPoints:'-1.0',
-                awayRightPoints:'-1.0',
-                awayRatio:75,
+                awayLeftPoints:'-1.5',
+                awayRightPoints:'-1.5',
+                awayRatio:79,
                 homeName:'grizzlies',
-                homeLeftPoints:'+1.0',
-                homeRightPoints:'+1.0',
-                homeRatio:25
+                homeLeftPoints:'+1.5',
+                homeRightPoints:'+1.5',
+                homeRatio:21
             },{
                 time:'Wed 1/12, 9:00 AM',
                 awayName:'timberwolves',
-                awayLeftPoints:'-4.0',
-                awayRightPoints:'-4.0',
-                awayRatio:60,
+                awayLeftPoints:'-3.5',
+                awayRightPoints:'-3.5',
+                awayRatio:70,
                 homeName:'pelicans',
-                homeLeftPoints:'+4.0',
-                homeRightPoints:'+4.0',
-                homeRatio:40
+                homeLeftPoints:'+3.5',
+                homeRightPoints:'+3.5',
+                homeRatio:30
             },{
                 time:'Wed 1/12, 9:00 AM',
                 awayName:'pistons',
-                awayLeftPoints:'+12.5',
-                awayRightPoints:'+12.5',
-                awayRatio:49,
+                awayLeftPoints:'+13.5',
+                awayRightPoints:'+13.5',
+                awayRatio:42,
                 homeName:'bulls',
-                homeLeftPoints:'-12.5',
-                homeRightPoints:'12.5',
-                homeRatio:51
+                homeLeftPoints:'-13.5',
+                homeRightPoints:'13.5',
+                homeRatio:58
             },{
                 time:'Wed 1/12, 11:30 AM',
                 awayName:'nuggets',
-                awayLeftPoints:'-2.0',
-                awayRightPoints:'-2.0',
-                awayRatio:63,
+                awayLeftPoints:'-1.5',
+                awayRightPoints:'-1.5',
+                awayRatio:69,
                 homeName:'clippers',
-                homeLeftPoints:'+2.0',
-                homeRightPoints:'2.0',
-                homeRatio:37
+                homeLeftPoints:'+1.5',
+                homeRightPoints:'+1.5',
+                homeRatio:31
             }
         ]
     }
