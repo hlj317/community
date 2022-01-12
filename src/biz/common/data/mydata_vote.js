@@ -7489,11 +7489,11 @@ export const myData = [
                 time:'Thu 1/13, 8:00 AM',
                 awayName:'magic',
                 awayLeftPoints:'+8.5',
-                awayRightPoints:'+8.0',
+                awayRightPoints:'+7.5',
                 awayRatio:58,
                 homeName:'wizards',
                 homeLeftPoints:'-8.5',
-                homeRightPoints:'-8.0',
+                homeRightPoints:'-7.5',
                 homeRatio:42
             },{
                 time:'Thu 1/13, 8:00 AM',
@@ -7539,11 +7539,11 @@ export const myData = [
                 time:'Thu 1/13, 9:30 AM',
                 awayName:'rockets',
                 awayLeftPoints:'+6.0',
-                awayRightPoints:'+6.0',
+                awayRightPoints:'+5.5',
                 awayRatio:33,
                 homeName:'spurs',
                 homeLeftPoints:'-6.0',
-                homeRightPoints:'-6.0',
+                homeRightPoints:'-5.5',
                 homeRatio:67
             },{
                 time:'Thu 1/13, 10:00 AM',
@@ -7559,11 +7559,11 @@ export const myData = [
                 time:'Thu 1/13, 11:00 AM',
                 awayName:'nets',
                 awayLeftPoints:'+1.0',
-                awayRightPoints:'+1.0',
+                awayRightPoints:'+1.5',
                 awayRatio:39,
                 homeName:'bulls',
                 homeLeftPoints:'-1.0',
-                homeRightPoints:'-1.0',
+                homeRightPoints:'-1.5',
                 homeRatio:61
             },{
                 time:'Thu 1/13, 11:00 AM',
