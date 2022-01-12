@@ -136,8 +136,8 @@ const nbaData = {
     nuggets:[
         {
             'name':'威尔.巴顿',
-            'status':'缺阵',
-            'detail':'因为健康安全协议，会缺阵数场比赛',
+            'status':'出战存疑',
+            'detail':'有可能提前解除健康安全协议，周三对阵快船的比赛出战存疑',
             'important':true
         },{
             'name':'麦格鲁德',
@@ -175,8 +175,13 @@ const nbaData = {
     pistons:[
         {
             'name':'波尔',
+            'status':'缺阵',
+            'detail':'身体不适，无法出战',
+            'important':false
+        },{
+            'name':'约瑟夫',
             'status':'出战存疑',
-            'detail':'身体不适，每日观察',
+            'detail':'膝盖受伤，每日观察',
             'important':false
         },{
             'name':'格兰特',
@@ -209,13 +214,13 @@ const nbaData = {
     warriors:[
         {
             'name':'奥托.波特',
-            'status':'出战存疑',
-            'detail':'腿部受伤，每日观察',
+            'status':'出战',
+            'detail':'可以出战周三对阵灰熊的比赛',
             'important':false
         },{
             'name':'佩顿二世',
-            'status':'出战存疑',
-            'detail':'脚踝受伤，每日观察',
+            'status':'大概率出战',
+            'detail':'大概率可以出战周三对阵灰熊的比赛',
             'important':false
         },{
             'name':'怀斯曼',
@@ -431,8 +436,8 @@ const nbaData = {
     timberwolves:[
         {
             'name':'贝弗利',
-            'status':'出战存疑',
-            'detail':'腹股沟受伤，每日观察',
+            'status':'出战',
+            'detail':'可以出战周三对阵鹈鹕的比赛',
             'important':true
         },{
             'name':'莱特',
@@ -686,13 +691,13 @@ const nbaData = {
     raptors:[
         {
             'name':'小特伦特',
-            'status':'出战存疑',
-            'detail':'脚踝受伤，每日观察',
+            'status':'缺阵',
+            'detail':'脚踝受伤，无法出战',
             'important':true
         },{
             'name':'巴恩斯',
-            'status':'出战存疑',
-            'detail':'膝盖受伤，每日观察',
+            'status':'缺阵',
+            'detail':'膝盖受伤，无法出战',
             'important':true
         },{
             'name':'德拉季奇',
@@ -738,15 +743,10 @@ const nbaData = {
     //华盛顿奇才
     wizards:[
         {
-            'name':'安东尼.吉尔',
+            'name':'比尔',
             'status':'缺阵',
             'detail':'因为健康安全协议，会缺阵数场比赛',
-            'important':false
-        },{
-            'name':'沃特斯',
-            'status':'缺阵',
-            'detail':'因为健康安全协议，会缺阵数场比赛',
-            'important':false
+            'important':true
         },{
             'name':'托马斯.布兰恩特',
             'status':'缺阵',
