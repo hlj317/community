@@ -17,10 +17,10 @@ const nbaData = {
             'detail':'腿筋撕裂，赛季报销',
             'important':false
         },{
-            'name':'德安德鲁.亨特',
+            'name':'亨特',
             'status':'出战存疑',
             'detail':'已参加球队训练，周四对阵热火的比赛中有可能复出',
-            'important':false
+            'important':true
         }
     ],
     //波士顿凯尔特人
