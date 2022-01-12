@@ -324,11 +324,6 @@ const nbaData = {
             'detail':'身体不适，每日观察',
             'important':true
         },{
-            'name':'威斯布鲁克',
-            'status':'出战存疑',
-            'detail':'身体不适，每日观察',
-            'important':true
-        },{
             'name':'安东尼.戴维斯',
             'status':'长期缺阵',
             'detail':'膝盖韧带拉伤，至少缺阵四周',
