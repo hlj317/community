@@ -349,8 +349,8 @@ const nbaData = {
     grizzlies:[
         {
             'name':'亚当斯',
-            'status':'出战存疑',
-            'detail':'新冠刚转阴性，每日观察',
+            'status':'缺阵',
+            'detail':'新冠刚转阴性，无法出战',
             'important':true
         },{
             'name':'狄龙布鲁克斯',

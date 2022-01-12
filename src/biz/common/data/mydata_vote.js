@@ -7440,11 +7440,11 @@ export const myData = [
                 time:'Wed 1/12, 9:00 AM',
                 awayName:'warriors',
                 awayLeftPoints:'-1.5',
-                awayRightPoints:'-2.0',
+                awayRightPoints:'-2.5',
                 awayRatio:69,
                 homeName:'grizzlies',
                 homeLeftPoints:'+1.5',
-                homeRightPoints:'+2.0',
+                homeRightPoints:'+2.5',
                 homeRatio:31
             },{
                 time:'Wed 1/12, 9:00 AM',
