@@ -7488,12 +7488,12 @@ export const myData = [
             {
                 time:'Thu 1/13, 8:00 AM',
                 awayName:'magic',
-                awayLeftPoints:'+9.5',
-                awayRightPoints:'+9.5',
+                awayLeftPoints:'+8.5',
+                awayRightPoints:'+8.0',
                 awayRatio:58,
                 homeName:'wizards',
-                homeLeftPoints:'-9.5',
-                homeRightPoints:'-9.5',
+                homeLeftPoints:'-8.5',
+                homeRightPoints:'-8.0',
                 homeRatio:42
             },{
                 time:'Thu 1/13, 8:00 AM',
@@ -7518,22 +7518,22 @@ export const myData = [
             },{
                 time:'Thu 1/13, 8:30 AM',
                 awayName:'mavericks',
-                awayLeftPoints:'-2.5',
-                awayRightPoints:'-2.5',
+                awayLeftPoints:'-1.5',
+                awayRightPoints:'-1.5',
                 awayRatio:75,
                 homeName:'knicks',
-                homeLeftPoints:'+2.5',
-                homeRightPoints:'+2.5',
+                homeLeftPoints:'+1.5',
+                homeRightPoints:'+1.5',
                 homeRatio:25
             },{
                 time:'Thu 1/13, 8:30 AM',
                 awayName:'heat',
-                awayLeftPoints:'+4.0',
-                awayRightPoints:'+4.0',
+                awayLeftPoints:'+4.5',
+                awayRightPoints:'+3.5',
                 awayRatio:55,
                 homeName:'hawks',
-                homeLeftPoints:'-4.0',
-                homeRightPoints:'-4.0',
+                homeLeftPoints:'-4.5',
+                homeRightPoints:'-3.5',
                 homeRatio:45
             },{
                 time:'Thu 1/13, 9:30 AM',
