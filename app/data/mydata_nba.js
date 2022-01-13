@@ -581,11 +581,6 @@ const nbaData = {
     //圣安东尼奥马刺
     spurs:[
         {
-            'name':'乔克.兰代尔',
-            'status':'出战存疑',
-            'detail':'身体不适，每日观察',
-            'important':false
-        },{
             'name':'尤班克斯',
             'status':'缺阵',
             'detail':'身体不适，无法出战',
@@ -601,17 +596,7 @@ const nbaData = {
             'detail':'因为健康安全协议，会缺阵数场比赛',
             'important':true
         },{
-            'name':'凯尔登约翰逊',
-            'status':'缺阵',
-            'detail':'因为健康安全协议，会缺阵数场比赛',
-            'important':true
-        },{
             'name':'特雷.琼斯',
-            'status':'缺阵',
-            'detail':'因为健康安全协议，会缺阵数场比赛',
-            'important':false
-        },{
-            'name':'瓦塞尔',
             'status':'缺阵',
             'detail':'因为健康安全协议，会缺阵数场比赛',
             'important':false
