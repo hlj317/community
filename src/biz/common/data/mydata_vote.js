@@ -7587,52 +7587,52 @@ export const myData = [
                 time:'Fri 1/14, 8:30 AM',
                 awayName:'warriors',
                 awayLeftPoints:'+2.5',
-                awayRightPoints:'+2.5',
-                awayRatio:45,
+                awayRightPoints:'+1.5',
+                awayRatio:48,
                 homeName:'bucks',
                 homeLeftPoints:'-2.5',
-                homeRightPoints:'-2.5',
-                homeRatio:55
+                homeRightPoints:'-1.5',
+                homeRatio:52
             },{
                 time:'Fri 1/14, 9:00 AM',
                 awayName:'timberwolves',
                 awayLeftPoints:'+4.5',
-                awayRightPoints:'+5.5',
-                awayRatio:39,
+                awayRightPoints:'+4.5',
+                awayRatio:20,
                 homeName:'grizzlies',
                 homeLeftPoints:'-4.5',
-                homeRightPoints:'-5.5',
-                homeRatio:61
+                homeRightPoints:'-4.5',
+                homeRatio:80
             },{
                 time:'Fri 1/14, 9:00 AM',
                 awayName:'clippers',
                 awayLeftPoints:'+3.0',
-                awayRightPoints:'+3.0',
-                awayRatio:58,
+                awayRightPoints:'+3.5',
+                awayRatio:53,
                 homeName:'pelicans',
                 homeLeftPoints:'-3.0',
-                homeRightPoints:'-3.0',
-                homeRatio:42
+                homeRightPoints:'-3.5',
+                homeRatio:47
             },{
                 time:'Fri 1/14, 9:30 AM',
                 awayName:'thunder',
                 awayLeftPoints:'+10.5',
-                awayRightPoints:'+9.5',
-                awayRatio:46,
+                awayRightPoints:'+7.0',
+                awayRatio:32,
                 homeName:'nets',
                 homeLeftPoints:'-10.5',
-                homeRightPoints:'-9.5',
-                homeRatio:54
+                homeRightPoints:'-7.0',
+                homeRatio:68
             },{
                 time:'Fri 1/14, 11:00 AM',
                 awayName:'blazers',
                 awayLeftPoints:'+9.5',
-                awayRightPoints:'+8.5',
-                awayRatio:60,
+                awayRightPoints:'+10.0',
+                awayRatio:51,
                 homeName:'nuggets',
                 homeLeftPoints:'-9.5',
-                homeRightPoints:'-8.5',
-                homeRatio:40
+                homeRightPoints:'-10.0',
+                homeRatio:49
             }
         ]
     }

@@ -51,8 +51,8 @@ const nbaData = {
             'important':true
         },{
             'name':'克拉克斯顿',
-            'status':'缺阵',
-            'detail':'肌腱受伤，无法出战',
+            'status':'出战存疑',
+            'detail':'肌腱受伤，每日观察',
             'important':false
         }
     ],
