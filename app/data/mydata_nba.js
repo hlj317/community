@@ -45,19 +45,14 @@ const nbaData = {
             'detail':'左脚踝手术，预计缺阵4-8周',
             'important':true
         },{
-            'name':'哈登',
-            'status':'大概率出战',
-            'detail':'左膝受伤，每日观察',
-            'important':true
-        },{
             'name':'凯里.欧文',
-            'status':'大概率出战',
-            'detail':'脚踝受伤，每日观察',
+            'status':'视主客场而定',
+            'detail':'主场缺阵，客场出战',
             'important':true
         },{
             'name':'克拉克斯顿',
-            'status':'大概率出战',
-            'detail':'肌腱受伤，每日观察',
+            'status':'缺阵',
+            'detail':'肌腱受伤，无法出战',
             'important':false
         }
     ],
