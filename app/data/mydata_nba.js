@@ -200,8 +200,8 @@ const nbaData = {
             'important':false
         },{
             'name':'弗兰克.杰克逊',
-            'status':'出战存疑',
-            'detail':'新冠刚转阴性，周六对阵猛龙的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'新冠刚转阴性，无法出战',
             'important':false
         },{
             'name':'奥利尼克',
@@ -442,6 +442,11 @@ const nbaData = {
             'status':'缺阵',
             'detail':'膝盖受伤，无法出战',
             'important':true
+        },{
+            'name':'雷迪什',
+            'status':'出战存疑',
+            'detail':'刚被交易到纽约，每日观察',
+            'important':false
         }
     ],
     //俄克拉荷马城雷霆
