@@ -7832,12 +7832,12 @@ export const myData = [
             },{
                 time:'Sun 1/16, 10:30 AM',
                 awayName:'magic',
-                awayLeftPoints:'+10.5',
-                awayRightPoints:'+10.5',
+                awayLeftPoints:'+11.0',
+                awayRightPoints:'+11.0',
                 awayRatio:60,
                 homeName:'mavericks',
-                homeLeftPoints:'-10.5',
-                homeRightPoints:'-10.5',
+                homeLeftPoints:'-11.0',
+                homeRightPoints:'-11.0',
                 homeRatio:40
             }
         ]
