@@ -229,8 +229,8 @@ const nbaData = {
             'important':false
         },{
             'name':'格林',
-            'status':'出战存疑',
-            'detail':'小腿拉伤，每日观察',
+            'status':'缺阵',
+            'detail':'小腿拉伤，无法出战周一对阵森林狼的比赛',
             'important':true
         }       
     ],
