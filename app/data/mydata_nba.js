@@ -628,7 +628,7 @@ const nbaData = {
             'status':'缺阵',
             'detail':'腿部受伤，无法出战周二对阵湖人的比赛',
             'important':false
-        }{
+        },{
             'name':'贾里德.巴特勒',
             'status':'缺阵',
             'detail':'因为健康安全协议，会缺阵数场比赛',
