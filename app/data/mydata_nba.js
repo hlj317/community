@@ -642,7 +642,7 @@ const nbaData = {
     ],
     //华盛顿奇才
     wizards:[
-        {{
+        {
             'name':'比尔',
             'status':'出战存疑',
             'detail':'新冠刚转阴性，每日观察',
