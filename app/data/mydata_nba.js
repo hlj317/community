@@ -151,8 +151,8 @@ const nbaData = {
     nuggets:[
         {
             'name':'小里弗斯',
-            'status':'出战存疑',
-            'detail':'身体不适，周一对阵爵士的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'身体不适，无法出战周一对阵爵士的比赛',
             'important':false
         },{
             'name':'杰迈克尔.格林',
@@ -219,8 +219,8 @@ const nbaData = {
             'important':true
         },{
             'name':'佩顿二世',
-            'status':'出战存疑',
-            'detail':'背部受伤，每日观察',
+            'status':'缺阵',
+            'detail':'背部受伤，无法出战',
             'important':false
         },{
             'name':'怀斯曼',
@@ -230,7 +230,7 @@ const nbaData = {
         },{
             'name':'格林',
             'status':'缺阵',
-            'detail':'小腿拉伤，无法出战周一对阵森林狼的比赛',
+            'detail':'小腿拉伤，预计缺阵至少两周',
             'important':true
         }       
     ],
@@ -530,8 +530,8 @@ const nbaData = {
     suns:[
         {
             'name':'卡梅伦.约翰逊',
-            'status':'出战存疑',
-            'detail':'左脚踝受伤，每日观察',
+            'status':'缺阵',
+            'detail':'左脚踝受伤，无法出战周一对阵活塞的比赛',
             'important':true
         },{
             'name':'纳达尔',
@@ -593,13 +593,23 @@ const nbaData = {
             'important':false
         },{
             'name':'霍姆斯',
-            'status':'出战存疑',
-            'detail':'身体不适，每日观察',
+            'status':'出战',
+            'detail':'可以出战周一对阵火箭的比赛',
             'important':true
         },{
             'name':'达米安.琼斯',
-            'status':'出战存疑',
-            'detail':'新冠刚转阴性，每日观察',
+            'status':'出战',
+            'detail':'可以出战周一对阵火箭的比赛',
+            'important':false
+        },{
+            'name':'哈里伯顿',
+            'status':'缺阵',
+            'detail':'因为健康安全协议，会缺阵数场比赛',
+            'important':true
+        },{
+            'name':'巴格利',
+            'status':'缺阵',
+            'detail':'右肩受伤，无法出战周一对阵火箭的比赛',
             'important':false
         }
     ],
@@ -674,16 +684,16 @@ const nbaData = {
             'detail':'可以出战周一对阵掘金的比赛',
             'important':false
         },{
-            'name':'阿祖布伊克',
-            'status':'缺阵',
-            'detail':'因为健康安全协议，会缺阵数场比赛',
-            'important':false
-        },{
             'name':'贾里德.巴特勒',
             'status':'缺阵',
             'detail':'因为健康安全协议，会缺阵数场比赛',
             'important':false
-        }                        
+        },{
+            'name':'伊莱贾.休斯',
+            'status':'缺阵',
+            'detail':'因为健康安全协议，会缺阵数场比赛',
+            'important':false
+        }                           
     ],
     //华盛顿奇才
     wizards:[
