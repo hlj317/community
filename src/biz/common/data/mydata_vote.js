@@ -8027,21 +8027,21 @@ export const myData = [
                 time:'Wed 1/19, 8:30 AM',
                 awayName:'timberwolves',
                 awayLeftPoints:'-1.5',
-                awayRightPoints:'-2.0',
-                awayRatio:65,
+                awayRightPoints:'-3.0',
+                awayRatio:45,
                 homeName:'knicks',
                 homeLeftPoints:'+1.5',
-                homeRightPoints:'+2.0',
-                homeRatio:35
+                homeRightPoints:'+3.0',
+                homeRatio:55
             },{
                 time:'Wed 1/19, 11:00 AM',
                 awayName:'pistons',
                 awayLeftPoints:'+14.5',
-                awayRightPoints:'+14.5',
+                awayRightPoints:'+15.0',
                 awayRatio:37,
                 homeName:'warriors',
                 homeLeftPoints:'-14.5',
-                homeRightPoints:'-14.5',
+                homeRightPoints:'-15.0',
                 homeRatio:63
             }
         ]
