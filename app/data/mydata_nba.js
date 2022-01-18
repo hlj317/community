@@ -194,9 +194,9 @@ const nbaData = {
             'detail':'腿部受伤，无法出战',
             'important':false
         },{
-            'name':'克里斯.史密斯',
-            'status':'缺阵',
-            'detail':'左膝受伤，无法出战',
+            'name':'罗德尼.麦格鲁德',
+            'status':'出战存疑',
+            'detail':'腿部受伤，每日观察',
             'important':false
         },{
             'name':'弗兰克.杰克逊',
@@ -214,13 +214,13 @@ const nbaData = {
     warriors:[
         {
             'name':'库里',
-            'status':'缺阵',
-            'detail':'手腕受伤，无法出战周一对阵森林狼的比赛',
+            'status':'出战存疑',
+            'detail':'手腕受伤，大概率无法出战周三对阵活塞的比赛',
             'important':true
         },{
             'name':'佩顿二世',
-            'status':'缺阵',
-            'detail':'背部受伤，无法出战',
+            'status':'出战存疑',
+            'detail':'背部受伤，每日观察',
             'important':false
         },{
             'name':'怀斯曼',
@@ -424,8 +424,8 @@ const nbaData = {
     knicks:[
         {
             'name':'诺埃尔',
-            'status':'缺阵',
-            'detail':'膝盖受伤，无法出战周二对阵黄蜂的比赛',
+            'status':'出战存疑',
+            'detail':'膝盖受伤，每日观察',
             'important':false
         },{
             'name':'德里克.罗斯',
@@ -435,7 +435,7 @@ const nbaData = {
         },{
             'name':'肯巴.沃克',
             'status':'出战存疑',
-            'detail':'膝盖受伤，周二对阵黄蜂的比赛出战存疑',
+            'detail':'膝盖受伤，每日观察',
             'important':true
         },{
             'name':'雷迪什',
