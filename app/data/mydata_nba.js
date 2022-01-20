@@ -141,19 +141,9 @@ const nbaData = {
     //达拉斯独行侠
     mavericks:[
         {
-            'name':'克勒贝尔',
-            'status':'大概率出战',
-            'detail':'大概率可以出战周四对阵猛龙的比赛',
-            'important':false
-        },{
-            'name':'布洛克',
-            'status':'大概率出战',
-            'detail':'大概率可以出战周四对阵猛龙的比赛',
-            'important':false
-        },{
             'name':'斯特林.布朗',
             'status':'缺阵',
-            'detail':'身体不适，无法出战周四对阵猛龙的比赛',
+            'detail':'身体不适，无法出战周五对阵太阳的比赛',
             'important':false
         }
     ],
@@ -218,9 +208,9 @@ const nbaData = {
     //金州勇士
     warriors:[
         {
-            'name':'伊戈达拉',
-            'status':'出战存疑',
-            'detail':'臀部受伤，每日观察',
+            'name':'奥托.波特',
+            'status':'轮休',
+            'detail':'身体不适，无法出战周五对阵步行者的比赛',
             'important':false
         },{
             'name':'怀斯曼',
@@ -434,8 +424,8 @@ const nbaData = {
     knicks:[
         {
             'name':'诺埃尔',
-            'status':'出战存疑',
-            'detail':'膝盖受伤，每日观察',
+            'status':'缺阵',
+            'detail':'膝盖受伤，无法出战周五对阵鹈鹕的比赛',
             'important':false
         },{
             'name':'德里克.罗斯',
@@ -525,8 +515,8 @@ const nbaData = {
     suns:[
         {
             'name':'艾顿',
-            'status':'出战存疑',
-            'detail':'右脚踝受伤，每日观察',
+            'status':'缺阵',
+            'detail':'右脚踝受伤，无法出战周五对阵独行侠的比赛',
             'important':true
         },{
             'name':'纳达尔',
@@ -548,15 +538,10 @@ const nbaData = {
     //波特兰开拓者
     blazers:[
         {
-            'name':'艾勒比',
-            'status':'大概率出战',
-            'detail':'大概率可以出战周四对阵热火的比赛',
-            'important':false
-        },{
-            'name':'丹尼.史密斯',
-            'status':'大概率出战',
-            'detail':'大概率可以出战周四对阵热火的比赛',
-            'important':false
+            'name':'利特尔',
+            'status':'缺阵',
+            'detail':'右膝受伤，无法出战',
+            'important':true
         },{
             'name':'南斯',
             'status':'缺阵',
