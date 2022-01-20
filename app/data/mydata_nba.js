@@ -247,13 +247,13 @@ const nbaData = {
     pacers:[
         {
             'name':'兰姆',
-            'status':'出战存疑',
-            'detail':'膝盖受伤，周四对阵湖人的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周四对阵湖人的比赛',
             'important':false
         },{
             'name':'布罗格登',
-            'status':'出战存疑',
-            'detail':'跟腱受伤，周四对阵湖人的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周四对阵湖人的比赛',
             'important':true
         },{
             'name':'特纳',
@@ -305,8 +305,8 @@ const nbaData = {
     lakers:[
         {
             'name':'卡梅隆.安东尼',
-            'status':'出战存疑',
-            'detail':'背部受伤，周四对阵步行者的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周四对阵步行者的比赛',
             'important':false
         },{
             'name':'安东尼戴维斯',

@@ -8156,31 +8156,70 @@ export const myData = [
                 awayName:'clippers',
                 awayLeftPoints:'+7.0',
                 awayRightPoints:'+8.5',
-                awayRatio:39,
+                awayRatio:35,
                 homeName:'nuggets',
                 homeLeftPoints:'-7.0',
                 homeRightPoints:'-8.5',
-                homeRatio:61
+                homeRatio:65
             },{
                 time:'Thu 1/20, 11:00 AM',
                 awayName:'pistons',
                 awayLeftPoints:'+5.5',
                 awayRightPoints:'+7.5',
-                awayRatio:27,
+                awayRatio:30,
                 homeName:'kings',
                 homeLeftPoints:'-5.5',
                 homeRightPoints:'-7.5',
-                homeRatio:73
+                homeRatio:70
             },{
                 time:'Thu 1/20, 11:30 AM',
                 awayName:'pacers',
                 awayLeftPoints:'+4.5',
                 awayRightPoints:'+5.0',
-                awayRatio:17,
+                awayRatio:15,
                 homeName:'lakers',
                 homeLeftPoints:'-4.5',
                 homeRightPoints:'-5.0',
-                homeRatio:83
+                homeRatio:85
+            }
+        ]
+    },
+
+
+    //1月21日
+    {
+        date: 'Fri Jan 21',
+        list: [
+            {
+                time:'Fri 1/21, 8:30 AM',
+                awayName:'pelicans',
+                awayLeftPoints:'+2.5',
+                awayRightPoints:'+2.5',
+                awayRatio:25,
+                homeName:'knicks',
+                homeLeftPoints:'-2.5',
+                homeRightPoints:'-2.5',
+                homeRatio:75
+            },{
+                time:'Fri 1/21, 8:30 AM',
+                awayName:'suns',
+                awayLeftPoints:'-1.5',
+                awayRightPoints:'-1.5',
+                awayRatio:82,
+                homeName:'mavericks',
+                homeLeftPoints:'+1.5',
+                homeRightPoints:'+1.5',
+                homeRatio:18
+            },{
+                time:'Fri 1/21, 11:00 AM',
+                awayName:'pacers',
+                awayLeftPoints:'+11.0',
+                awayRightPoints:'+11.0',
+                awayRatio:33,
+                homeName:'warriors',
+                homeLeftPoints:'-11.0',
+                homeRightPoints:'-11.0',
+                homeRatio:67
             }
         ]
     }
