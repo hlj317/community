@@ -8222,6 +8222,124 @@ export const myData = [
                 homeRatio:83
             }
         ]
+    },
+
+    //1月22日
+    {
+        date: 'Sat Jan 22',
+        list: [
+            {
+                time:'Sat 1/22, 8:00 AM',
+                awayName:'clippers',
+                awayLeftPoints:'+9.5',
+                awayRightPoints:'+9.5',
+                awayRatio:42,
+                homeName:'seven6ers',
+                homeLeftPoints:'-9.5',
+                homeRightPoints:'-9.5',
+                homeRatio:58
+            },{
+                time:'Sat 1/22, 8:00 AM',
+                awayName:'lakers',
+                awayLeftPoints:'-6.0',
+                awayRightPoints:'-6.0',
+                awayRatio:60,
+                homeName:'magic',
+                homeLeftPoints:'+6.0',
+                homeRightPoints:'+6.0',
+                homeRatio:40
+            },{
+                time:'Sat 1/22, 8:00 AM',
+                awayName:'thunder',
+                awayLeftPoints:'+9.5',
+                awayRightPoints:'+9.5',
+                awayRatio:39,
+                homeName:'hornets',
+                homeLeftPoints:'-9.5',
+                homeRightPoints:'-9.5',
+                homeRatio:61
+            },{
+                time:'Sat 1/22, 8:30 AM',
+                awayName:'blazers',
+                awayLeftPoints:'+7.5',
+                awayRightPoints:'+7.8',
+                awayRatio:65,
+                homeName:'celtics',
+                homeLeftPoints:'-7.5',
+                homeRightPoints:'-7.5',
+                homeRatio:35
+            },{
+                time:'Sat 1/22, 8:30 AM',
+                awayName:'heat',
+                awayLeftPoints:'+1.0',
+                awayRightPoints:'+1.0',
+                awayRatio:71,
+                homeName:'hawks',
+                homeLeftPoints:'-1.0',
+                homeRightPoints:'-1.0',
+                homeRatio:29
+            },{
+                time:'Sat 1/22, 9:00 AM',
+                awayName:'bulls',
+                awayLeftPoints:'+8.5',
+                awayRightPoints:'+8.5',
+                awayRatio:45,
+                homeName:'bucks',
+                homeLeftPoints:'-8.5',
+                homeRightPoints:'-8.5',
+                homeRatio:55
+            },{
+                time:'Sat 1/22, 9:00 AM',
+                awayName:'raptors',
+                awayLeftPoints:'+1.5',
+                awayRightPoints:'+1.5',
+                awayRatio:41,
+                homeName:'wizards',
+                homeLeftPoints:'-1.5',
+                homeRightPoints:'-1.5',
+                homeRatio:59
+            },{
+                time:'Sat 1/22, 9:30 AM',
+                awayName:'nets',
+                awayLeftPoints:'-2.0',
+                awayRightPoints:'-2.0',
+                awayRatio:75,
+                homeName:'spurs',
+                homeLeftPoints:'+2.0',
+                homeRightPoints:'+2.0',
+                homeRatio:25
+            },{
+                time:'Sat 1/22, 10:00 AM',
+                awayName:'pistons',
+                awayLeftPoints:'+14.0',
+                awayRightPoints:'+14.0',
+                awayRatio:44,
+                homeName:'jazz',
+                homeLeftPoints:'-14.0',
+                homeRightPoints:'-14.0',
+                homeRatio:56
+            },{
+                time:'Sat 1/22, 10:00 AM',
+                awayName:'grizzlies',
+                awayLeftPoints:'+4.0',
+                awayRightPoints:'+4.0',
+                awayRatio:57,
+                homeName:'nuggets',
+                homeLeftPoints:'-4.0',
+                homeRightPoints:'-4.0',
+                homeRatio:43
+            },{
+                time:'Sat 1/22, 11:00 AM',
+                awayName:'rockets',
+                awayLeftPoints:'+11.0',
+                awayRightPoints:'+11.0',
+                awayRatio:21,
+                homeName:'warriors',
+                homeLeftPoints:'-11.0',
+                homeRightPoints:'-11.0',
+                homeRatio:79
+            }
+        ]
     }
     
 ]
