@@ -79,13 +79,13 @@ const nbaData = {
     bulls:[
         {
             'name':'朗佐.鲍尔',
-            'status':'缺阵',
-            'detail':'膝盖受伤，无法出战周四对阵骑士的比赛',
+            'status':'长期缺阵',
+            'detail':'膝盖手术，预计缺阵6-8周',
             'important':true
         },{
             'name':'拉文',
             'status':'缺阵',
-            'detail':'膝盖肿胀，归期未定',
+            'detail':'膝盖肿胀，预计最快一周后回归球队',
             'important':true
         },{
             'name':'小琼斯',
@@ -236,14 +236,19 @@ const nbaData = {
     //印第安纳步行者
     pacers:[
         {
-            'name':'兰姆',
-            'status':'出战',
-            'detail':'可以出战周四对阵湖人的比赛',
-            'important':false
+            'name':'萨博尼斯',
+            'status':'缺阵',
+            'detail':'脚踝受伤，无法出战周五对阵勇士的比赛',
+            'important':true
+        },{
+            'name':'勒维尔',
+            'status':'出战存疑',
+            'detail':'腿部受伤，周五对阵勇士的比赛出战存疑',
+            'important':true
         },{
             'name':'布罗格登',
-            'status':'出战',
-            'detail':'可以出战周四对阵湖人的比赛',
+            'status':'出战存疑',
+            'detail':'跟腱受伤，周五对阵勇士的比赛出战存疑',
             'important':true
         },{
             'name':'特纳',
@@ -405,8 +410,8 @@ const nbaData = {
     pelicans:[
         {
             'name':'格拉汉姆',
-            'status':'出战存疑',
-            'detail':'左脚踝受伤，周五对阵尼克斯的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周五对阵尼克斯的比赛',
             'important':true
         },{
             'name':'小刘易斯',

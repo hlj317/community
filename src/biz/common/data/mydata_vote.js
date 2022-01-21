@@ -8195,31 +8195,31 @@ export const myData = [
                 awayName:'pelicans',
                 awayLeftPoints:'+2.5',
                 awayRightPoints:'+3.5',
-                awayRatio:29,
+                awayRatio:30,
                 homeName:'knicks',
                 homeLeftPoints:'-2.5',
                 homeRightPoints:'-3.5',
-                homeRatio:71
+                homeRatio:70
             },{
                 time:'Fri 1/21, 8:30 AM',
                 awayName:'suns',
                 awayLeftPoints:'-2.5',
-                awayRightPoints:'-3.0',
-                awayRatio:68,
+                awayRightPoints:'-2.5',
+                awayRatio:74,
                 homeName:'mavericks',
                 homeLeftPoints:'+2.5',
-                homeRightPoints:'+3.0',
-                homeRatio:32
+                homeRightPoints:'+2.5',
+                homeRatio:26
             },{
                 time:'Fri 1/21, 11:00 AM',
                 awayName:'pacers',
                 awayLeftPoints:'+10.5',
-                awayRightPoints:'+11.5',
-                awayRatio:36,
+                awayRightPoints:'+13.5',
+                awayRatio:17,
                 homeName:'warriors',
                 homeLeftPoints:'-10.5',
-                homeRightPoints:'-11.5',
-                homeRatio:64
+                homeRightPoints:'-13.5',
+                homeRatio:83
             }
         ]
     }
