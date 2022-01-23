@@ -128,8 +128,8 @@ const nbaData = {
     cavaliers:[
         {
             'name':'斯蒂文斯',
-            'status':'出战存疑',
-            'detail':'左膝受伤，周日对阵雷霆的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周日对阵雷霆的比赛',
             'important':false
         },{
             'name':'卢比奥',
@@ -262,8 +262,8 @@ const nbaData = {
             'important':true
         },{
             'name':'勒维尔',
-            'status':'出战存疑',
-            'detail':'腿部受伤，周日对阵太阳的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'腿部受伤，无法出战周日对阵太阳的比赛',
             'important':true
         },{
             'name':'布罗格登',
@@ -401,6 +401,16 @@ const nbaData = {
     //密尔沃基雄鹿
     bucks:[
         {
+            'name':'字母哥',
+            'status':'缺阵',
+            'detail':'膝盖受伤，无法出战周日对阵国王的比赛',
+            'important':true
+        },{
+            'name':'格雷森.阿伦',
+            'status':'缺阵',
+            'detail':'臀部受伤，无法出战周日对阵国王的比赛',
+            'important':true
+        },{
             'name':'洛佩兹',
             'status':'长期缺阵',
             'detail':'背部手术，归期未定',
@@ -593,8 +603,13 @@ const nbaData = {
     kings:[
         {
             'name':'哈里伯顿',
-            'status':'出战存疑',
-            'detail':'新冠刚转阴性，周日对阵雄鹿的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周日对阵雄鹿的比赛',
+            'important':true
+        },{
+            'name':'福克斯',
+            'status':'缺阵',
+            'detail':'脚踝受伤，无法出战周日对阵雄鹿的比赛',
             'important':true
         }
     ],

@@ -8350,32 +8350,32 @@ export const myData = [
                 time:'Sun 1/23, 8:00 AM',
                 awayName:'kings',
                 awayLeftPoints:'+9.5',
-                awayRightPoints:'+10.0',
-                awayRatio:37,
+                awayRightPoints:'+7.5',
+                awayRatio:42,
                 homeName:'bucks',
                 homeLeftPoints:'-9.5',
-                homeRightPoints:'-10.0',
-                homeRatio:63
+                homeRightPoints:'-7.5',
+                homeRatio:58
             },{
                 time:'Sun 1/23, 9:00 AM',
                 awayName:'thunder',
                 awayLeftPoints:'+12.0',
                 awayRightPoints:'+12.0',
-                awayRatio:70,
+                awayRatio:60,
                 homeName:'cavaliers',
                 homeLeftPoints:'-12.0',
                 homeRightPoints:'-12.0',
-                homeRatio:30
+                homeRatio:40
             },{
                 time:'Sun 1/23, 10:00 AM',
                 awayName:'pacers',
                 awayLeftPoints:'+11.5',
                 awayRightPoints:'+12.0',
-                awayRatio:45,
+                awayRatio:38,
                 homeName:'suns',
                 homeLeftPoints:'-11.5',
                 homeRightPoints:'-12.0',
-                homeRatio:55
+                homeRatio:62
             }
         ]
     },
