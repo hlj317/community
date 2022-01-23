@@ -8370,11 +8370,11 @@ export const myData = [
                 time:'Sun 1/23, 10:00 AM',
                 awayName:'pacers',
                 awayLeftPoints:'+11.5',
-                awayRightPoints:'+12.0',
+                awayRightPoints:'+13.0',
                 awayRatio:38,
                 homeName:'suns',
                 homeLeftPoints:'-11.5',
-                homeRightPoints:'-12.0',
+                homeRightPoints:'-13.0',
                 homeRatio:62
             }
         ]
