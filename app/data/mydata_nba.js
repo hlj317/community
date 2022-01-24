@@ -630,8 +630,8 @@ const nbaData = {
             'important':true
         },{
             'name':'戈贝尔',
-            'status':'出战存疑',
-            'detail':'左脚踝受伤，周二对阵太阳的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'小腿拉伤，无法出战周二对阵太阳的比赛',
             'important':true
         },{
             'name':'博扬',

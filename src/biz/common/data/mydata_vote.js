@@ -8506,43 +8506,43 @@ export const myData = [
             {
                 time:'Tue 1/25, 8:00 AM',
                 awayName:'knicks',
-                awayLeftPoints:'+7.5',
-                awayRightPoints:'+7.5',
-                awayRatio:40,
+                awayLeftPoints:'+7.0',
+                awayRightPoints:'+7.0',
+                awayRatio:30,
                 homeName:'cavaliers',
-                homeLeftPoints:'-7.5',
-                homeRightPoints:'-7.5',
-                homeRatio:60
+                homeLeftPoints:'-7.0',
+                homeRightPoints:'-7.0',
+                homeRatio:70
             },{
                 time:'Tue 1/25, 9:00 AM',
                 awayName:'pacers',
                 awayLeftPoints:'+1.5',
                 awayRightPoints:'+1.5',
-                awayRatio:33,
+                awayRatio:43,
                 homeName:'pelicans',
                 homeLeftPoints:'-1.5',
                 homeRightPoints:'-1.5',
-                homeRatio:67
+                homeRatio:57
             },{
                 time:'Tue 1/25, 9:00 AM',
                 awayName:'bulls',
-                awayLeftPoints:'-2.5',
-                awayRightPoints:'-2.5',
-                awayRatio:61,
+                awayLeftPoints:'-1.5',
+                awayRightPoints:'-2.0',
+                awayRatio:67,
                 homeName:'thunder',
-                homeLeftPoints:'+2.5',
-                homeRightPoints:'+2.5',
-                homeRatio:39
+                homeLeftPoints:'+1.5',
+                homeRightPoints:'+2.0',
+                homeRatio:33
             },{
                 time:'Tue 1/25, 10:00 AM',
                 awayName:'jazz',
-                awayLeftPoints:'+7.0',
-                awayRightPoints:'+7.0',
-                awayRatio:55,
+                awayLeftPoints:'+9.5',
+                awayRightPoints:'+9.5',
+                awayRatio:52,
                 homeName:'suns',
-                homeLeftPoints:'-7.0',
-                homeRightPoints:'-7.0',
-                homeRatio:45
+                homeLeftPoints:'-9.5',
+                homeRightPoints:'-9.5',
+                homeRatio:48
             }
         ]
     }
