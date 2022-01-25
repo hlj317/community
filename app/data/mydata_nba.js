@@ -109,8 +109,8 @@ const nbaData = {
             'important':false
         },{
             'name':'贾文特.格林',
-            'status':'缺阵',
-            'detail':'腿部受伤，至少休战2-4周',
+            'status':'出战',
+            'detail':'可以出战周二对阵雷霆的比赛',
             'important':false
         },{
             'name':'帕特里克.威廉姆斯',
