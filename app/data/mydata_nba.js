@@ -140,24 +140,9 @@ const nbaData = {
     //丹佛掘金
     nuggets:[
         {
-            'name':'杰迈克尔.格林',
-            'status':'缺阵',
-            'detail':'腿部受伤，无法出战周三对阵活塞的比赛',
-            'important':false
-        },{
-            'name':'马库斯.霍华德',
-            'status':'出战存疑',
-            'detail':'身体不适，周三对阵活塞的比赛出战存疑',
-            'important':false
-        },{
-            'name':'杰夫.格林',
-            'status':'出战',
-            'detail':'可以出战周三对阵活塞的比赛',
-            'important':false
-        },{
             'name':'威尔.巴顿',
-            'status':'缺阵',
-            'detail':'无法出战周三对阵活塞的比赛',
+            'status':'出战存疑',
+            'detail':'身体不适，周四对阵篮网的比赛出战存疑',
             'important':true
         },{
             'name':'钱查尔',
