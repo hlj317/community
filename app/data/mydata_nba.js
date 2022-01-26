@@ -8,7 +8,7 @@ const nbaData = {
             'important':false
         },{
             'name':'赫尔特',
-            'status':'出战存疑',
+            'status':'大概率出战',
             'detail':'背部受伤，周四对阵国王的比赛出战存疑',
             'important':true
         },{
@@ -35,6 +35,21 @@ const nbaData = {
     //布鲁克林篮网
     nets:[
         {
+            'name':'哈登',
+            'status':'出战存疑',
+            'detail':'身体不适，周四对阵掘金的比赛出战存疑',
+            'important':true
+        },{
+            'name':'克拉克斯顿',
+            'status':'轮休',
+            'detail':'身体不适，无法出战周四对阵掘金的比赛',
+            'important':true
+        },{
+            'name':'夏普',
+            'status':'缺阵',
+            'detail':'腿部受伤，无法出战周四对阵掘金的比赛',
+            'important':false
+        },{
             'name':'米尔萨普',
             'status':'缺阵',
             'detail':'已被球队DNP，即将被交易',
@@ -65,8 +80,8 @@ const nbaData = {
             'important':false
         },{
             'name':'海沃德',
-            'status':'出战存疑',
-            'detail':'腿部受伤，周四对阵步行者的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'因为健康安全协议，会缺阵数场比赛',
             'important':true
         }
     ],
@@ -103,8 +118,8 @@ const nbaData = {
     cavaliers:[
         {
             'name':'阿伦',
-            'status':'出战存疑',
-            'detail':'身体不适，周四对阵雄鹿的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周四对阵雄鹿的比赛',
             'important':true
         },{
             'name':'马尔坎宁',
@@ -172,11 +187,6 @@ const nbaData = {
             'name':'以赛亚.里弗斯',
             'status':'缺阵',
             'detail':'腿部受伤，归期未定',
-            'important':false
-        },{
-            'name':'弗兰克.杰克逊',
-            'status':'出战存疑',
-            'detail':'身体状态每日观察，周三对阵掘金的比赛出战存疑',
             'important':false
         },{
             'name':'奥利尼克',
@@ -251,8 +261,8 @@ const nbaData = {
     clippers:[
         {
             'name':'马库斯莫里斯',
-            'status':'出战存疑',
-            'detail':'身体不适，周四对阵魔术的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'个人原因，无法出战周四对阵魔术的比赛',
             'important':true
         },{
             'name':'保罗.乔治',
@@ -347,8 +357,8 @@ const nbaData = {
     bucks:[
         {
             'name':'字母哥',
-            'status':'大概率出战',
-            'detail':'大概率可以出战周四对阵骑士的比赛',
+            'status':'出战',
+            'detail':'可以出战周四对阵骑士的比赛',
             'important':true
         },{
             'name':'格雷森.阿伦',
@@ -419,8 +429,8 @@ const nbaData = {
     knicks:[
         {
             'name':'米切尔罗宾逊',
-            'status':'出战存疑',
-            'detail':'左脚踝受伤，周四对阵热火的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周四对阵热火的比赛',
             'important':true
         },{
             'name':'诺埃尔',
@@ -457,8 +467,8 @@ const nbaData = {
     magic:[
         {
             'name':'班巴',
-            'status':'出战存疑',
-            'detail':'右脚踝受伤，周四对阵快船的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周四对阵快船的比赛',
             'important':true
         },{
             'name':'RJ.汉普顿',
@@ -558,6 +568,16 @@ const nbaData = {
     //波特兰开拓者
     blazers:[
         {
+            'name':'考文顿',
+            'status':'缺阵',
+            'detail':'膝盖受伤，无法出战周四对阵独行侠的比赛',
+            'important':true
+        },{
+            'name':'利特尔',
+            'status':'缺阵',
+            'detail':'肩膀受伤，无法出战周四对阵独行侠的比赛',
+            'important':true
+        },{
             'name':'南斯',
             'status':'缺阵',
             'detail':'因为健康安全协议，会缺阵数场比赛',
@@ -578,8 +598,8 @@ const nbaData = {
     kings:[
         {
             'name':'梅图',
-            'status':'出战存疑',
-            'detail':'膝盖受伤，周四对阵老鹰的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'膝盖受伤，无法出战周四对阵老鹰的比赛',
             'important':false
         },{
             'name':'福克斯',
@@ -588,8 +608,8 @@ const nbaData = {
             'important':true
         },{
             'name':'特伦斯.戴维斯',
-            'status':'出战存疑',
-            'detail':'头部受伤，周四对阵老鹰的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'头部受伤，无法出战周四对阵老鹰的比赛',
             'important':false
         }
     ],
