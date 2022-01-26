@@ -406,8 +406,8 @@ const nbaData = {
     timberwolves:[
         {
             'name':'贝弗利',
-            'status':'出战存疑',
-            'detail':'脚踝受伤，周三对阵开拓者的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'脚踝受伤，无法出战周三对阵开拓者的比赛',
             'important':true
         },{
             'name':'莱特',
@@ -599,13 +599,13 @@ const nbaData = {
             'important':true
         },{
             'name':'利特尔',
-            'status':'大概率出战',
-            'detail':'膝盖受伤，大概率出战周三对阵森林狼的比赛',
+            'status':'出战',
+            'detail':'可以出战周三对阵森林狼的比赛',
             'important':true
         },{
             'name':'科温顿',
-            'status':'大概率出战',
-            'detail':'左手手指受伤，大概率出战周三对阵森林狼的比赛',
+            'status':'出战',
+            'detail':'可以出战周三对阵森林狼的比赛',
             'important':true
         },{
             'name':'泽勒',
