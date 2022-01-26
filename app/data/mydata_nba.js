@@ -109,7 +109,7 @@ const nbaData = {
         },{
             'name':'马尔坎宁',
             'status':'缺阵',
-            'detail':'腿部受伤，无法出战周二对阵尼克斯的比赛',
+            'detail':'腿部受伤，预计至少缺阵几周',
             'important':true
         },{
             'name':'卢比奥',
