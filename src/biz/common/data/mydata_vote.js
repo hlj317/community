@@ -8762,21 +8762,21 @@ export const myData = [
                 awayName:'lakers',
                 awayLeftPoints:'+2.0',
                 awayRightPoints:'+2.0',
-                awayRatio:53,
+                awayRatio:21,
                 homeName:'seven6ers',
                 homeLeftPoints:'-2.0',
                 homeRightPoints:'-2.0',
-                homeRatio:47
+                homeRatio:79
             },{
                 time:'Fri 1/28, 11:00 AM',
                 awayName:'timberwolves',
                 awayLeftPoints:'+5.5',
                 awayRightPoints:'+6.0',
-                awayRatio:33,
+                awayRatio:19,
                 homeName:'warriors',
                 homeLeftPoints:'-5.5',
                 homeRightPoints:'-6.0',
-                homeRatio:67
+                homeRatio:81
             }
         ]
     }
