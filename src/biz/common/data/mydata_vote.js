@@ -8779,6 +8779,125 @@ export const myData = [
                 homeRatio:69
             }
         ]
+    },
+
+
+    //1月29日
+    {
+        date: 'Sat Jan 29',
+        list: [
+            {
+                time:'Sat 1/29, 8:00 AM',
+                awayName:'pistons',
+                awayLeftPoints:'+2.5',
+                awayRightPoints:'+2.5',
+                awayRatio:47,
+                homeName:'magic',
+                homeLeftPoints:'-2.5',
+                homeRightPoints:'-2.5',
+                homeRatio:53
+            },{
+                time:'Sat 1/29, 8:30 AM',
+                awayName:'lakers',
+                awayLeftPoints:'+6.5',
+                awayRightPoints:'+6.5',
+                awayRatio:60,
+                homeName:'hornets',
+                homeLeftPoints:'-6.5',
+                homeRightPoints:'-6.5',
+                homeRatio:40
+            },{
+                time:'Sat 1/29, 8:30 AM',
+                awayName:'celitics',
+                awayLeftPoints:'+2.0',
+                awayRightPoints:'+2.0',
+                awayRatio:44,
+                homeName:'hawks',
+                homeLeftPoints:'-2.0',
+                homeRightPoints:'-2.0',
+                homeRatio:56
+            },{
+                time:'Sat 1/29, 9:00 AM',
+                awayName:'jazz',
+                awayLeftPoints:'+2.5',
+                awayRightPoints:'+3.5',
+                awayRatio:38,
+                homeName:'grizzlies',
+                homeLeftPoints:'-2.5',
+                homeRightPoints:'-3.5',
+                homeRatio:62
+            },{
+                time:'Sat 1/29, 9:00 AM',
+                awayName:'blazers',
+                awayLeftPoints:'-2.5',
+                awayRightPoints:'-2.5',
+                awayRatio:63,
+                homeName:'rockets',
+                homeLeftPoints:'+2.5',
+                homeRightPoints:'+2.5',
+                homeRatio:37
+            },{
+                time:'Sat 1/29, 9:00 AM',
+                awayName:'pacers',
+                awayLeftPoints:'+1.5',
+                awayRightPoints:'+1.5',
+                awayRatio:48,
+                homeName:'thunder',
+                homeLeftPoints:'-1.5',
+                homeRightPoints:'-1.5',
+                homeRatio:52
+            },{
+                time:'Sat 1/29, 9:00 AM',
+                awayName:'clippers',
+                awayLeftPoints:'+6.5',
+                awayRightPoints:'+6.5',
+                awayRatio:37,
+                homeName:'heat',
+                homeLeftPoints:'-6.5',
+                homeRightPoints:'-6.5',
+                homeRatio:63
+            },{
+                time:'Sat 1/29, 9:00 AM',
+                awayName:'nuggets',
+                awayLeftPoints:'-5.5',
+                awayRightPoints:'-5.5',
+                awayRatio:61,
+                homeName:'pelicans',
+                homeLeftPoints:'+5.5',
+                homeRightPoints:'+5.5',
+                homeRatio:39
+            },{
+                time:'Sat 1/29, 9:30 AM',
+                awayName:'bulls',
+                awayLeftPoints:'-1.5',
+                awayRightPoints:'-2.0',
+                awayRatio:71,
+                homeName:'spurs',
+                homeLeftPoints:'+1.5',
+                homeRightPoints:'+2.0',
+                homeRatio:29
+            },{
+                time:'Sat 1/29, 10:00 AM',
+                awayName:'timberwolves',
+                awayLeftPoints:'+9.5',
+                awayRightPoints:'+9.5',
+                awayRatio:34,
+                homeName:'suns',
+                homeLeftPoints:'-9.5',
+                homeRightPoints:'-9.5',
+                homeRatio:66
+            },{
+                time:'Sat 1/29, 11:00 AM',
+                awayName:'knicks',
+                awayLeftPoints:'+9.0',
+                awayRightPoints:'+9.0',
+                awayRatio:58,
+                homeName:'bucks',
+                homeLeftPoints:'-9.0',
+                homeRightPoints:'-9.0',
+                homeRatio:42
+            }
+        ]
     }
     
 ]
