@@ -8908,62 +8908,62 @@ export const myData = [
                 time:'Sun 1/30, 8:00 AM',
                 awayName:'celtics',
                 awayLeftPoints:'-4.5',
-                awayRightPoints:'-5.5',
-                awayRatio:84,
+                awayRightPoints:'-6.5',
+                awayRatio:73,
                 homeName:'pelicans',
                 homeLeftPoints:'+4.5',
-                homeRightPoints:'+5.5',
-                homeRatio:16
+                homeRightPoints:'+6.5',
+                homeRatio:27
             },{
                 time:'Sun 1/30, 8:00 AM',
                 awayName:'pacers',
                 awayLeftPoints:'+9.5',
                 awayRightPoints:'+10.0',
-                awayRatio:32,
+                awayRatio:36,
                 homeName:'mavericks',
                 homeLeftPoints:'-9.5',
                 homeRightPoints:'-10.0',
-                homeRatio:68
+                homeRatio:64
             },{
                 time:'Sun 1/30, 8:30 AM',
                 awayName:'kings',
                 awayLeftPoints:'+10.5',
-                awayRightPoints:'+10.5',
-                awayRatio:23,
+                awayRightPoints:'+10.0',
+                awayRatio:19,
                 homeName:'seven6ers',
                 homeLeftPoints:'-10.5',
-                homeRightPoints:'-10.5',
-                homeRatio:77
+                homeRightPoints:'-10.0',
+                homeRatio:81
             },{
                 time:'Sun 1/30, 9:00 AM',
                 awayName:'wizards',
                 awayLeftPoints:'+5.5',
-                awayRightPoints:'+5.0',
-                awayRatio:14,
+                awayRightPoints:'+5.5',
+                awayRatio:24,
                 homeName:'grizzlies',
                 homeLeftPoints:'-5.5',
-                homeRightPoints:'-5.0',
-                homeRatio:86
+                homeRightPoints:'-5.5',
+                homeRatio:76
             },{
                 time:'Sun 1/30, 9:00 AM',
                 awayName:'raptors',
                 awayLeftPoints:'+5.5',
-                awayRightPoints:'+4.5',
+                awayRightPoints:'+3.5',
                 awayRatio:33,
                 homeName:'heat',
                 homeLeftPoints:'-5.5',
-                homeRightPoints:'-4.5',
+                homeRightPoints:'-3.5',
                 homeRatio:67
             },{
                 time:'Sun 1/30, 9:30 AM',
                 awayName:'nets',
                 awayLeftPoints:'+6.5',
-                awayRightPoints:'+6.5',
-                awayRatio:30,
+                awayRightPoints:'+8.0',
+                awayRatio:47,
                 homeName:'warriors',
                 homeLeftPoints:'-6.5',
-                homeRightPoints:'-6.5',
-                homeRatio:70
+                homeRightPoints:'-8.0',
+                homeRatio:53
             }
         ]
     }

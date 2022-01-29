@@ -211,9 +211,19 @@ const nbaData = {
     //印第安纳步行者
     pacers:[
         {
-            'name':'比塔泽',
+            'name':'萨博尼斯',
             'status':'出战存疑',
-            'detail':'右脚受伤，周日对阵独行侠的比赛出战存疑',
+            'detail':'身体不适，周日对阵独行侠的比赛出战存疑',
+            'important':true
+        },{
+            'name':'杜阿尔特',
+            'status':'出战存疑',
+            'detail':'身体不适，周日对阵独行侠的比赛出战存疑',
+            'important':true
+        },{
+            'name':'比塔泽',
+            'status':'缺阵',
+            'detail':'右脚受伤，无法出战周日对阵独行侠的比赛',
             'important':false
         },{
             'name':'布罗格登',
@@ -288,6 +298,11 @@ const nbaData = {
     //孟菲斯灰熊
     grizzlies:[
         {
+            'name':'宰伊尔.威廉姆斯',
+            'status':'出战存疑',
+            'detail':'腿部受伤，周日对阵奇才的比赛出战存疑',
+            'important':false
+        },{
             'name':'凯尔.安德森',
             'status':'缺阵',
             'detail':'因为健康安全协议，会缺阵数场比赛',
@@ -390,13 +405,13 @@ const nbaData = {
             'important':true
         },{
             'name':'英格拉姆',
-            'status':'出战存疑',
-            'detail':'脚踝受伤，周日对阵凯尔特人的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'脚踝受伤，无法出战周日对阵凯尔特人的比赛',
             'important':true
         },{
             'name':'格拉汉姆',
-            'status':'出战存疑',
-            'detail':'膝盖受伤，周日对阵凯尔特人的比赛出战存疑',
+            'status':'大概率出战',
+            'detail':'大概率可以出战周日对阵凯尔特人的比赛',
             'important':true
         },{
             'name':'小刘易斯',
@@ -602,7 +617,7 @@ const nbaData = {
         {
             'name':'范弗利特',
             'status':'出战存疑',
-            'detail':'身体不适，周日对阵热火的比赛出战存疑',
+            'detail':'膝盖受伤，周日对阵热火的比赛出战存疑',
             'important':true
         },{
             'name':'肯.伯奇',
