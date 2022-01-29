@@ -40,6 +40,11 @@ const nbaData = {
             'detail':'左膝扭伤，预计缺阵4-6周',
             'important':true
         },{
+            'name':'哈登',
+            'status':'缺阵',
+            'detail':'手腕扭伤，无法出战周日对阵勇士的比赛',
+            'important':true
+        },{
             'name':'凯里.欧文',
             'status':'视主客场而定',
             'detail':'主场缺阵，客场出战',
