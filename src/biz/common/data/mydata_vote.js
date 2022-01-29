@@ -8917,12 +8917,12 @@ export const myData = [
             },{
                 time:'Sun 1/30, 8:00 AM',
                 awayName:'pacers',
-                awayLeftPoints:'+9.0',
-                awayRightPoints:'+9.0',
+                awayLeftPoints:'+9.5',
+                awayRightPoints:'+9.5',
                 awayRatio:41,
                 homeName:'mavericks',
-                homeLeftPoints:'-9.0',
-                homeRightPoints:'-9.0',
+                homeLeftPoints:'-9.5',
+                homeRightPoints:'-9.5',
                 homeRatio:59
             },{
                 time:'Sun 1/30, 8:30 AM',
