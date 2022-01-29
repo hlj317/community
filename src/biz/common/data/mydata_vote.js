@@ -8898,6 +8898,74 @@ export const myData = [
                 homeRatio:66
             }
         ]
+    },
+
+    //1月30日
+    {
+        date: 'Sun Jan 30',
+        list: [
+            {
+                time:'Sun 1/30, 8:00 AM',
+                awayName:'celtics',
+                awayLeftPoints:'-4.5',
+                awayRightPoints:'-4.5',
+                awayRatio:76,
+                homeName:'pelicans',
+                homeLeftPoints:'+4.5',
+                homeRightPoints:'+4.5',
+                homeRatio:24
+            },{
+                time:'Sun 1/30, 8:00 AM',
+                awayName:'pacers',
+                awayLeftPoints:'+9.0',
+                awayRightPoints:'+9.0',
+                awayRatio:41,
+                homeName:'mavericks',
+                homeLeftPoints:'-9.0',
+                homeRightPoints:'-9.0',
+                homeRatio:59
+            },{
+                time:'Sun 1/30, 8:30 AM',
+                awayName:'kings',
+                awayLeftPoints:'+10.5',
+                awayRightPoints:'+10.5',
+                awayRatio:37,
+                homeName:'seven6ers',
+                homeLeftPoints:'-10.5',
+                homeRightPoints:'-10.5',
+                homeRatio:63
+            },{
+                time:'Sun 1/30, 9:00 AM',
+                awayName:'wizards',
+                awayLeftPoints:'+5.5',
+                awayRightPoints:'+5.5',
+                awayRatio:30,
+                homeName:'grizzlies',
+                homeLeftPoints:'-5.5',
+                homeRightPoints:'-5.5',
+                homeRatio:70
+            },{
+                time:'Sun 1/30, 9:00 AM',
+                awayName:'raptors',
+                awayLeftPoints:'+5.5',
+                awayRightPoints:'+5.5',
+                awayRatio:34,
+                homeName:'heat',
+                homeLeftPoints:'-5.5',
+                homeRightPoints:'-5.5',
+                homeRatio:66
+            },{
+                time:'Sun 1/30, 9:30 AM',
+                awayName:'nets',
+                awayLeftPoints:'+6.5',
+                awayRightPoints:'+6.5',
+                awayRatio:52,
+                homeName:'warriors',
+                homeLeftPoints:'-6.5',
+                homeRightPoints:'-6.5',
+                homeRatio:48
+            }
+        ]
     }
     
 ]
