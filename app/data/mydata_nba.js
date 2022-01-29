@@ -400,8 +400,8 @@ const nbaData = {
     pelicans:[
         {
             'name':'瓦兰丘纳斯',
-            'status':'出战存疑',
-            'detail':'身体不适，周日对阵凯尔特人的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'身体不适，无法出战周日对阵凯尔特人的比赛',
             'important':true
         },{
             'name':'英格拉姆',
