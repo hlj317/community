@@ -2,11 +2,6 @@ const nbaData = {
     //亚特兰大老鹰
     hawks:[
         {
-            'name':'赫尔特',
-            'status':'出战存疑',
-            'detail':'腿部受伤，周一对阵湖人的比赛出战存疑',
-            'important':true
-        },{
             'name':'斯凯拉.梅斯',
             'status':'出战存疑',
             'detail':'腿部受伤，每日观察',
@@ -71,7 +66,7 @@ const nbaData = {
         },{
             'name':'乌布雷',
             'status':'出战存疑',
-            'detail':'左脚踝受伤，周日对阵快船的比赛出战存疑',
+            'detail':'左脚踝受伤，每日观察',
             'important':true
         }
     ],
@@ -140,6 +135,16 @@ const nbaData = {
     //丹佛掘金
     nuggets:[
         {
+            'name':'考辛斯',
+            'status':'缺阵',
+            'detail':'腿部受伤，无法出战周一对阵雄鹿的比赛',
+            'important':false
+        },{
+            'name':'阿隆.戈登',
+            'status':'出战存疑',
+            'detail':'身体不适，周一对阵雄鹿的比赛出战存疑',
+            'important':true
+        },{
             'name':'钱查尔',
             'status':'缺阵',
             'detail':'腿部受伤，归期未定',
@@ -175,8 +180,8 @@ const nbaData = {
             'important':false
         },{
             'name':'约什.杰克逊',
-            'status':'出战存疑',
-            'detail':'背部受伤，周一对阵骑士的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'背部受伤，无法出战周一对阵骑士的比赛',
             'important':false
         }
     ],
@@ -272,7 +277,7 @@ const nbaData = {
         {
             'name':'巴图姆',
             'status':'出战存疑',
-            'detail':'背部受伤，周六对阵黄蜂的比赛出战存疑',
+            'detail':'背部受伤，每日观察',
             'important':true
         },{
             'name':'保罗.乔治',
@@ -299,16 +304,6 @@ const nbaData = {
             'detail':'膝盖酸痛，无法出战周一对阵老鹰的比赛',
             'important':true
         },{
-            'name':'安东尼戴维斯',
-            'status':'大概率出战',
-            'detail':'手腕受伤，大概率出战周一对阵老鹰的比赛',
-            'important':true
-        },{
-            'name':'蒙克',
-            'status':'大概率出战',
-            'detail':'大概率可以出战周一对阵老鹰的比赛',
-            'important':false
-        },{
             'name':'纳恩',
             'status':'缺阵',
             'detail':'膝盖受伤，无法出战',
@@ -318,16 +313,6 @@ const nbaData = {
     //孟菲斯灰熊
     grizzlies:[
         {
-            'name':'宰伊尔.威廉姆斯',
-            'status':'出战存疑',
-            'detail':'腿部受伤，周日对阵奇才的比赛出战存疑',
-            'important':false
-        },{
-            'name':'凯尔.安德森',
-            'status':'缺阵',
-            'detail':'因为健康安全协议，会缺阵数场比赛',
-            'important':false
-        },{
             'name':'泰厄斯.琼斯',
             'status':'缺阵',
             'detail':'因为健康安全协议，会缺阵数场比赛',
@@ -372,8 +357,8 @@ const nbaData = {
     bucks:[
         {
             'name':'乔治.希尔',
-            'status':'出战存疑',
-            'detail':'腿部受伤，周一对阵掘金的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'腿部受伤，无法出战周一对阵掘金的比赛',
             'important':false
         },{
             'name':'洛佩兹',
@@ -553,11 +538,6 @@ const nbaData = {
             'detail':'左腿受伤，无法出战周一对阵公牛的比赛',
             'important':false
         },{
-            'name':'丹尼斯.史密斯',
-            'status':'出战存疑',
-            'detail':'脚踝受伤，周一对阵公牛的比赛出战存疑',
-            'important':false
-        },{
             'name':'利特尔',
             'status':'缺阵',
             'detail':'肩膀受伤，大概率赛季报销',
@@ -650,8 +630,8 @@ const nbaData = {
     jazz:[
         {
             'name':'米切尔',
-            'status':'出战存疑',
-            'detail':'遭受脑震荡，周一对阵森林狼的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'遭受脑震荡，无法出战周一对阵森林狼的比赛',
             'important':true
         },{
             'name':'福里斯特',
