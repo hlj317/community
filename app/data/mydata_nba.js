@@ -300,8 +300,8 @@ const nbaData = {
             'important':true
         },{
             'name':'安东尼戴维斯',
-            'status':'出战存疑',
-            'detail':'手腕受伤，周一对阵老鹰的比赛出战存疑',
+            'status':'大概率出战',
+            'detail':'手腕受伤，大概率出战周一对阵老鹰的比赛',
             'important':true
         },{
             'name':'蒙克',
