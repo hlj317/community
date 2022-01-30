@@ -635,8 +635,13 @@ const nbaData = {
             'important':true
         },{
             'name':'福里斯特',
-            'status':'出战存疑',
-            'detail':'脚踝受伤，周一对阵森林狼的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'脚踝受伤，无法出战周一对阵森林狼的比赛',
+            'important':false
+        },{
+            'name':'豪斯',
+            'status':'缺阵',
+            'detail':'因为健康安全协议，会缺阵数场比赛',
             'important':false
         },{
             'name':'戈贝尔',
