@@ -362,6 +362,11 @@ const nbaData = {
             'detail':'因为健康安全协议，会缺阵数场比赛',
             'important':false
         },{
+            'name':'尤尔特塞文',
+            'status':'缺阵',
+            'detail':'因为健康安全协议，会缺阵数场比赛',
+            'important':false
+        },{
             'name':'奥拉迪波',
             'status':'长期缺阵',
             'detail':'股四头肌受伤，归期未定',
