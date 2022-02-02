@@ -627,18 +627,18 @@ const nbaData = {
     spurs:[
         {
             'name':'珀尔特尔',
-            'status':'大概率出战',
-            'detail':'大概率可以出战周三对阵勇士的比赛',
+            'status':'出战',
+            'detail':'可以出战周三对阵勇士的比赛',
             'important':true
         },{
             'name':'默里',
-            'status':'大概率出战',
-            'detail':'大概率可以出战周三对阵勇士的比赛',
+            'status':'出战',
+            'detail':'可以出战周三对阵勇士的比赛',
             'important':true
         },{
             'name':'德里克.怀特',
-            'status':'大概率出战',
-            'detail':'大概率可以出战周三对阵勇士的比赛',
+            'status':'出战',
+            'detail':'可以出战周三对阵勇士的比赛',
             'important':false
         },{
             'name':'埃尔南戈麦斯',
