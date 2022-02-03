@@ -9328,62 +9328,62 @@ export const myData = [
                 time:'Fri 2/04, 8:00 AM',
                 awayName:'timberwolves',
                 awayLeftPoints:'-6.5',
-                awayRightPoints:'-6.5',
-                awayRatio:73,
+                awayRightPoints:'-7.0',
+                awayRatio:72,
                 homeName:'pistons',
                 homeLeftPoints:'+6.5',
-                homeRightPoints:'+6.5',
-                homeRatio:27
+                homeRightPoints:'+7.0',
+                homeRatio:28
             },{
                 time:'Fri 2/04, 8:30 AM',
                 awayName:'suns',
                 awayLeftPoints:'-5.5',
-                awayRightPoints:'-5.5',
-                awayRatio:67,
+                awayRightPoints:'-6.0',
+                awayRatio:86,
                 homeName:'hawks',
                 homeLeftPoints:'+5.5',
-                homeRightPoints:'+5.5',
-                homeRatio:33
+                homeRightPoints:'+6.0',
+                homeRatio:14
             },{
                 time:'Fri 2/04, 8:30 AM',
                 awayName:'bulls',
                 awayLeftPoints:'+3.0',
                 awayRightPoints:'+3.0',
-                awayRatio:57,
+                awayRatio:46,
                 homeName:'raptors',
                 homeLeftPoints:'-3.0',
                 homeRightPoints:'-3.0',
-                homeRatio:43
+                homeRatio:54
             },{
                 time:'Fri 2/04, 9:30 AM',
                 awayName:'heat',
                 awayLeftPoints:'-3.5',
-                awayRightPoints:'-3.5',
-                awayRatio:72,
+                awayRightPoints:'-4.0',
+                awayRatio:79,
                 homeName:'spurs',
                 homeLeftPoints:'+3.5',
-                homeRightPoints:'+3.5',
-                homeRatio:28
+                homeRightPoints:'+4.0',
+                homeRatio:21
             },{
                 time:'Fri 2/04, 11:00 AM',
                 awayName:'kings',
                 awayLeftPoints:'+13.0',
                 awayRightPoints:'+13.0',
-                awayRatio:38,
+                awayRatio:26,
                 homeName:'warriors',
                 homeLeftPoints:'-13.0',
                 homeRightPoints:'-13.0',
-                homeRatio:62
+                homeRatio:74
             },{
                 time:'Fri 2/04, 11:00 AM',
                 awayName:'lakers',
                 awayLeftPoints:'+2.5',
-                awayRightPoints:'+2.5',
-                awayRatio:43,
+                awayRightPoints:'+3.0',
+                awayRatio:40,
                 homeName:'clippers',
                 homeLeftPoints:'-2.5',
-                homeRightPoints:'-2.5',
-                homeRatio:57
+                homeRightPoints:'-3.0',
+                homeRatio:60
             }
         ]
     }
