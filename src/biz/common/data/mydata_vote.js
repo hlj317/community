@@ -9291,31 +9291,31 @@ export const myData = [
                 awayName:'nets',
                 awayLeftPoints:'-4.5',
                 awayRightPoints:'-4.5',
-                awayRatio:88,
+                awayRatio:90,
                 homeName:'kings',
                 homeLeftPoints:'+4.5',
                 homeRightPoints:'+4.5',
-                homeRatio:12
+                homeRatio:10
             },{
                 time:'Thu 2/03, 11:00 AM',
                 awayName:'nuggets',
                 awayLeftPoints:'+1.5',
-                awayRightPoints:'+3.5',
-                awayRatio:66,
+                awayRightPoints:'+6.5',
+                awayRatio:64,
                 homeName:'jazz',
                 homeLeftPoints:'-1.5',
-                homeRightPoints:'-3.5',
-                homeRatio:34
+                homeRightPoints:'-6.5',
+                homeRatio:36
             },{
                 time:'Thu 2/03, 11:30 AM',
                 awayName:'blazers',
                 awayLeftPoints:'+3.5',
                 awayRightPoints:'+4.0',
-                awayRatio:24,
+                awayRatio:16,
                 homeName:'lakers',
                 homeLeftPoints:'-3.5',
                 homeRightPoints:'-4.0',
-                homeRatio:76
+                homeRatio:84
             }
         ]
     }

@@ -151,18 +151,18 @@ const nbaData = {
     nuggets:[
         {
             'name':'阿隆.戈登',
-            'status':'出战存疑',
-            'detail':'大腿受伤，周四对阵爵士的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'大腿受伤，无法出战周四对阵爵士的比赛',
             'important':true
         },{
             'name':'约基奇',
-            'status':'出战存疑',
-            'detail':'脚趾受伤，周四对阵爵士的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'脚趾受伤，无法出战周四对阵爵士的比赛',
             'important':true
         },{
             'name':'考辛斯',
-            'status':'出战存疑',
-            'detail':'腿部受伤，周四对阵爵士的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'腿部受伤，无法出战周四对阵爵士的比赛',
             'important':false
         },{
             'name':'钱查尔',
@@ -615,8 +615,8 @@ const nbaData = {
     jazz:[
         {
             'name':'克拉克森',
-            'status':'出战存疑',
-            'detail':'右膝受伤，周四对阵掘金的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'右膝受伤，无法出战周四对阵掘金的比赛',
             'important':true
         },{
             'name':'怀特塞德',
