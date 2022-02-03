@@ -7,6 +7,11 @@ const nbaData = {
             'detail':'肩膀受伤，周五对阵太阳的比赛出战存疑',
             'important':true
         },{
+            'name':'路易斯.威廉姆斯',
+            'status':'缺阵',
+            'detail':'背部受伤，无法出战周五对阵太阳的比赛',
+            'important':true
+        },{
             'name':'斯凯拉.梅斯',
             'status':'出战存疑',
             'detail':'腿部受伤，每日观察',
@@ -16,11 +21,6 @@ const nbaData = {
     //波士顿凯尔特人
     celtics:[
         {        
-            'name':'施罗德',
-            'status':'出战存疑',
-            'detail':'肌腱受伤，周四对阵黄蜂的比赛出战存疑',
-            'important':false
-        },{        
             'name':'PJ.多齐尔',
             'status':'长期缺阵',
             'detail':'膝盖ACL，赛季报销',
@@ -185,8 +185,8 @@ const nbaData = {
     pistons:[
         {
             'name':'坎宁安',
-            'status':'出战存疑',
-            'detail':'臀部受伤，周五对阵森林狼的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'臀部受伤，无法出战周五对阵森林狼的比赛',
             'important':true
         },{
             'name':'以赛亚.里弗斯',
@@ -195,8 +195,8 @@ const nbaData = {
             'important':false
         },{
             'name':'约什.杰克逊',
-            'status':'出战存疑',
-            'detail':'背部受伤，周五对阵森林狼的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'背部受伤，无法出战周五对阵森林狼的比赛',
             'important':false
         }
     ],
@@ -214,8 +214,8 @@ const nbaData = {
             'important':false
         },{
             'name':'奥托.波特',
-            'status':'出战存疑',
-            'detail':'身体不适，周五对阵国王的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'身体不适，无法出战周五对阵国王的比赛',
             'important':false
         },{
             'name':'怀斯曼',
@@ -343,23 +343,23 @@ const nbaData = {
             'important':false
         },{
             'name':'洛瑞',
-            'status':'出战存疑',
-            'detail':'个人原因，周五对阵马刺的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周五对阵马刺的比赛',
             'important':true
         },{
             'name':'巴特勒',
-            'status':'出战存疑',
-            'detail':'脚趾受伤，周五对阵马刺的比赛出战存疑',
+            'status':'大概率出战',
+            'detail':'大概率可以出战周五对阵马刺的比赛',
             'important':true
         },{
             'name':'PJ.塔克',
-            'status':'出战存疑',
-            'detail':'膝盖受伤，周五对阵马刺的比赛出战存疑',
+            'status':'大概率出战',
+            'detail':'大概率可以出战周五对阵马刺的比赛',
             'important':true
         },{
             'name':'凯莱布.马丁',
-            'status':'出战存疑',
-            'detail':'左肌腱受伤，周五对阵马刺的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'左肌腱受伤，无法出战周五对阵马刺的比赛',
             'important':false
         },{
             'name':'马基夫.莫里斯',
@@ -396,18 +396,13 @@ const nbaData = {
     timberwolves:[
         {
             'name':'奥科吉',
-            'status':'出战存疑',
-            'detail':'腿部受伤，周五对阵活塞的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'腿部受伤，无法出战周五对阵活塞的比赛',
             'important':false
         },{
-            'name':'贝弗利',
-            'status':'出战存疑',
-            'detail':'脚踝受伤，周五对阵活塞的比赛出战存疑',
-            'important':true
-        },{
             'name':'拉塞尔',
-            'status':'出战存疑',
-            'detail':'左胫骨挫伤，周五对阵活塞的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'左胫骨挫伤，无法出战周五对阵活塞的比赛',
             'important':true
         },{
             'name':'莱特',
@@ -602,13 +597,13 @@ const nbaData = {
             'important':true
         },{
             'name':'默里',
-            'status':'出战存疑',
-            'detail':'手腕受伤，周五对阵热火的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'手腕受伤，无法出战周五对阵热火的比赛',
             'important':true
         },{
             'name':'麦克德莫特',
-            'status':'出战存疑',
-            'detail':'右脚踝受伤，周五对阵热火的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'右脚踝受伤，无法出战周五对阵热火的比赛',
             'important':true
         },{
             'name':'迪奥普',
@@ -626,8 +621,8 @@ const nbaData = {
     raptors:[
         {
             'name':'肯.伯奇',
-            'status':'缺阵',
-            'detail':'鼻子受伤，预计缺阵10-14天',
+            'status':'出战',
+            'detail':'可以出战周五对阵公牛的比赛',
             'important':false
         },{
             'name':'德拉季奇',
