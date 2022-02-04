@@ -9395,22 +9395,22 @@ export const myData = [
             {
                 time:'Sat 2/05, 8:00 AM',
                 awayName:'bulls',
-                awayLeftPoints:'-2.5',
-                awayRightPoints:'-2.5',
+                awayLeftPoints:'-1.5',
+                awayRightPoints:'-1.5',
                 awayRatio:75,
                 homeName:'pacers',
-                homeLeftPoints:'+2.5',
-                homeRightPoints:'+2.5',
+                homeLeftPoints:'+1.5',
+                homeRightPoints:'+1.5',
                 homeRatio:25
             },{
                 time:'Sat 2/05, 8:00 AM',
                 awayName:'celtics',
-                awayLeftPoints:'-8.0',
-                awayRightPoints:'-8.0',
+                awayLeftPoints:'-7.5',
+                awayRightPoints:'-7.5',
                 awayRatio:71,
                 homeName:'pistons',
-                homeLeftPoints:'+8.0',
-                homeRightPoints:'+8.0',
+                homeLeftPoints:'+7.5',
+                homeRightPoints:'+7.5',
                 homeRatio:29
             },{
                 time:'Sat 2/05, 8:00 AM',
@@ -9435,12 +9435,12 @@ export const myData = [
             },{
                 time:'Sat 2/05, 9:30 AM',
                 awayName:'rockets',
-                awayLeftPoints:'+3.0',
-                awayRightPoints:'+3.0',
+                awayLeftPoints:'+3.5',
+                awayRightPoints:'+3.5',
                 awayRatio:36,
                 homeName:'spurs',
-                homeLeftPoints:'-3.0',
-                homeRightPoints:'-3.0',
+                homeLeftPoints:'-3.5',
+                homeRightPoints:'-3.5',
                 homeRatio:64
             },{
                 time:'Sat 2/05, 10:00 AM',
@@ -9465,22 +9465,22 @@ export const myData = [
             },{
                 time:'Sat 2/05, 11:00 AM',
                 awayName:'seven6ers',
-                awayLeftPoints:'+1.0',
-                awayRightPoints:'+1.0',
+                awayLeftPoints:'+1.5',
+                awayRightPoints:'+1.5',
                 awayRatio:55,
                 homeName:'mavericks',
-                homeLeftPoints:'-1.0',
-                homeRightPoints:'-1.0',
+                homeLeftPoints:'-1.5',
+                homeRightPoints:'-1.5',
                 homeRatio:45
             },{
                 time:'Sat 2/05, 11:00 AM',
                 awayName:'thunder',
-                awayLeftPoints:'+7.0',
-                awayRightPoints:'+7.0',
+                awayLeftPoints:'+7.5',
+                awayRightPoints:'+7.5',
                 awayRatio:28,
                 homeName:'blazers',
-                homeLeftPoints:'-7.0',
-                homeRightPoints:'-7.0',
+                homeLeftPoints:'-7.5',
+                homeRightPoints:'-7.5',
                 homeRatio:72
             }
         ]
