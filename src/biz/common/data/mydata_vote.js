@@ -9495,51 +9495,51 @@ export const myData = [
                 awayName:'grizzlies',
                 awayLeftPoints:'-7.0',
                 awayRightPoints:'-7.0',
-                awayRatio:75,
+                awayRatio:72,
                 homeName:'magic',
                 homeLeftPoints:'+7.0',
                 homeRightPoints:'+7.0',
-                homeRatio:25
+                homeRatio:28
             },{
                 time:'Sat 2/05, 8:00 AM',
                 awayName:'suns',
                 awayLeftPoints:'-7.5',
                 awayRightPoints:'-7.5',
-                awayRatio:79,
+                awayRatio:82,
                 homeName:'wizards',
                 homeLeftPoints:'+7.5',
                 homeRightPoints:'+7.5',
-                homeRatio:21
+                homeRatio:18
             },{
                 time:'Sat 2/05, 8:00 AM',
                 awayName:'heat',
                 awayLeftPoints:'-3.5',
                 awayRightPoints:'-3.5',
-                awayRatio:66,
+                awayRatio:76,
                 homeName:'hornets',
                 homeLeftPoints:'+3.5',
                 homeRightPoints:'+3.5',
-                homeRatio:34
+                homeRatio:24
             },{
                 time:'Sat 2/05, 8:30 AM',
                 awayName:'knicks',
                 awayLeftPoints:'+2.0',
                 awayRightPoints:'+2.0',
-                awayRatio:33,
+                awayRatio:31,
                 homeName:'lakers',
                 homeLeftPoints:'-2.0',
                 homeRightPoints:'-2.0',
-                homeRatio:67
+                homeRatio:69
             },{
                 time:'Sat 2/05, 9:30 AM',
                 awayName:'bucks',
                 awayLeftPoints:'-8.5',
                 awayRightPoints:'-8.5',
-                awayRatio:55,
+                awayRatio:65,
                 homeName:'blazers',
                 homeLeftPoints:'+8.5',
                 homeRightPoints:'+8.5',
-                homeRatio:45
+                homeRatio:35
             },{
                 time:'Sat 2/05, 10:00 AM',
                 awayName:'thunder',
