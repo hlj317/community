@@ -58,9 +58,9 @@ const injuryNBA = async function (ctx, next) {
     //     ctx.redirect('/injurynba');
     // }
     await ctx.render("community/injurynba", {
-        title: "NBA伤病名单-篮彩推荐-篮彩老黑",
-        keywords: "NBA,伤病,篮彩,受伤,推荐,名单",
-        description: "24小时NBA伤病名单实时更新，每日篮彩推荐",
+        title: "NBA伤病名单-篮彩老黑",
+        keywords: "NBA,伤病,受伤,缺席,名单,篮彩,彩票",
+        description: "24小时NBA伤病名单实时更新，伤病消息来源于各NBA俱乐部官方网站",
         nbaData
     });
     return next();
@@ -70,16 +70,16 @@ const injuryNBAIndex = async function (ctx, next) {
     const ua = ctx.request.header['user-agent'];
     if(!isMobile(ua)){
         await ctx.render("community/injurynbapc", {
-            title: "NBA伤病名单-篮彩推荐-篮彩老黑",
-            keywords: "NBA,伤病,篮彩,受伤,推荐,名单",
-            description: "24小时NBA伤病名单实时更新，每日篮彩推荐",
+            title: "NBA伤病名单-篮彩老黑",
+            keywords: "NBA,伤病,受伤,缺席,名单,篮彩,彩票",
+            description: "24小时NBA伤病名单实时更新，伤病消息来源于各NBA俱乐部官方网站",
             nbaData
         });
     }else{
         await ctx.render("community/injurynba", {
-            title: "NBA伤病名单-篮彩推荐-篮彩老黑",
-            keywords: "NBA,伤病,篮彩,受伤,推荐,名单",
-            description: "24小时NBA伤病名单实时更新，每日篮彩推荐",
+            title: "NBA伤病名单-篮彩老黑",
+            keywords: "NBA,伤病,受伤,缺席,名单,篮彩,彩票",
+            description: "24小时NBA伤病名单实时更新，伤病消息来源于各NBA俱乐部官方网站",
             nbaData
         });
     }
@@ -92,9 +92,9 @@ const vote = async function (ctx, next) {
         ctx.redirect('/votepc');
     };
     await ctx.render("community/vote", {
-        title: "NBA篮彩投注率-篮彩推荐-篮彩老黑",
-        keywords: "NBA,投注率,热度,篮彩,推荐",
-        description: "NBA篮彩投注率实时更新，每日篮彩推荐"
+        title: "NBA篮彩投注率-篮彩老黑",
+        keywords: "NBA,投注率,热度,篮彩,彩票",
+        description: "NBA篮彩投注率实时更新，投注率来源于拉斯维加斯博彩官网"
     });
     return next();
 };
@@ -105,9 +105,9 @@ const votePC = async function (ctx, next) {
         ctx.redirect('/vote');
     };
     await ctx.render("community/votepc", {
-        title: "NBA篮彩投注率-篮彩推荐-篮彩老黑",
-        keywords: "NBA,投注率,热度,篮彩,推荐",
-        description: "NBA篮彩投注率实时更新，每日篮彩推荐"
+        title: "NBA篮彩投注率-篮彩老黑",
+        keywords: "NBA,投注率,热度,篮彩,彩票",
+        description: "NBA篮彩投注率实时更新，投注率来源于拉斯维加斯博彩官网"
     });
     return next();
 };
@@ -118,9 +118,9 @@ const injuryWNBA = async function (ctx, next) {
         ctx.redirect('/injurywnbapc');
     };
     await ctx.render("community/injurywnba", {
-        title: "WNBA伤病名单-篮彩推荐-篮彩老黑",
-        keywords: "WNBA,伤病,篮彩,受伤,推荐,名单",
-        description: "24小时WNBA伤病名单实时更新，每日篮彩推荐",
+        title: "WNBA伤病名单-篮彩老黑",
+        keywords: "WNBA,伤病,受伤,缺席,名单,篮彩,彩票",
+        description: "24小时WNBA伤病名单实时更新，伤病消息来源于各WNBA俱乐部官方网站",
     });
     return next();
 };
@@ -131,9 +131,9 @@ const injuryCBA = async function (ctx, next) {
         ctx.redirect('/injurycbapc');
     };
     await ctx.render("community/injurycba", {
-        title: "CBA伤病名单-篮彩推荐-篮彩老黑",
-        keywords: "CBA,伤病,篮彩,受伤,推荐,名单",
-        description: "24小时CBA伤病名单实时更新，每日篮彩推荐",
+        title: "CBA伤病名单-篮彩老黑",
+        keywords: "CBA,伤病,受伤,缺席,名单,篮彩,彩票",
+        description: "24小时CBA伤病名单实时更新，伤病消息来源于各CBA俱乐部官方网站",
     });
     return next();
 };
@@ -144,9 +144,9 @@ const injuryNBAPC = async function (ctx, next) {
         ctx.redirect('/injurynba');
     };
     await ctx.render("community/injurynbapc", {
-        title: "NBA伤病名单-篮彩推荐-篮彩老黑",
-        keywords: "NBA,伤病,篮彩,受伤,推荐,名单",
-        description: "24小时NBA伤病名单实时更新，每日篮彩推荐",
+        title: "NBA伤病名单-篮彩老黑",
+        keywords: "NBA,伤病,受伤,缺席,名单,篮彩,彩票",
+        description: "24小时NBA伤病名单实时更新，伤病消息来源于各NBA俱乐部官方网站",
         nbaData
     });
     return next();
@@ -158,9 +158,9 @@ const injuryWNBAPC = async function (ctx, next) {
         ctx.redirect('/injurywnba');
     };
     await ctx.render("community/injurywnbapc", {
-        title: "WNBA伤病名单-篮彩推荐-篮彩老黑",
-        keywords: "WNBA,伤病,篮彩,受伤,推荐,名单",
-        description: "24小时WNBA伤病名单实时更新，每日篮彩推荐",
+        title: "WNBA伤病名单-篮彩老黑",
+        keywords: "WNBA,伤病,受伤,缺席,名单,篮彩,彩票",
+        description: "24小时WNBA伤病名单实时更新，伤病消息来源于各WNBA俱乐部官方网站",
     });
     return next();
 };
@@ -171,9 +171,9 @@ const injuryCBAPC = async function (ctx, next) {
         ctx.redirect('/injurycba');
     };
     await ctx.render("community/injurycbapc", {
-        title: "CBA伤病名单-篮彩推荐-篮彩老黑",
-        keywords: "CBA,伤病,篮彩,受伤,推荐,名单",
-        description: "24小时CBA伤病名单实时更新，每日篮彩推荐",
+        title: "CBA伤病名单-篮彩老黑",
+        keywords: "CBA,伤病,受伤,缺席,名单,篮彩,彩票",
+        description: "24小时CBA伤病名单实时更新，伤病消息来源于各CBA俱乐部官方网站",
     });
     return next();
 };
@@ -201,9 +201,9 @@ const news = async function (ctx, next) {
     const url = ctx.url,
           num = url.substring(6,url.indexOf("."));
     await ctx.render("news/news-"+num, {
-        title: newsTitle[num] + "-NBA伤病名单-篮彩推荐-篮彩老黑",
-        keywords: "NBA,伤病,篮彩,受伤,推荐,名单",
-        description: newsTitle[num] + "，24小时NBA伤病名单实时更新，每日篮彩推荐"
+        title: newsTitle[num] + "-NBA伤病名单-篮彩老黑",
+        keywords: "NBA,伤病,受伤,缺席,名单,篮彩,彩票",
+        description: newsTitle[num] + "，24小时NBA伤病名单实时更新"
     });
     return next();
 };
