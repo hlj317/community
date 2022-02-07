@@ -9650,52 +9650,52 @@ export const myData = [
                 time:'Tue 2/08, 8:00 AM',
                 awayName:'raptors',
                 awayLeftPoints:'-1.5',
-                awayRightPoints:'-1.5',
-                awayRatio:61,
+                awayRightPoints:'-1.0',
+                awayRatio:72,
                 homeName:'hornets',
                 homeLeftPoints:'+1.5',
-                homeRightPoints:'+1.5',
-                homeRatio:39
+                homeRightPoints:'+1.0',
+                homeRatio:28
             },{
                 time:'Tue 2/08, 8:00 AM',
                 awayName:'heat',
                 awayLeftPoints:'-4.5',
-                awayRightPoints:'-5.5',
-                awayRatio:72,
+                awayRightPoints:'-7.0',
+                awayRatio:81,
                 homeName:'wizards',
                 homeLeftPoints:'+4.5',
-                homeRightPoints:'+5.5',
-                homeRatio:28
+                homeRightPoints:'+7.0',
+                homeRatio:19
             },{
                 time:'Tue 2/08, 9:00 AM',
                 awayName:'suns',
                 awayLeftPoints:'-5.5',
-                awayRightPoints:'-6.5',
-                awayRatio:54,
+                awayRightPoints:'-6.0',
+                awayRatio:57,
                 homeName:'bulls',
                 homeLeftPoints:'+5.5',
-                homeRightPoints:'+6.5',
-                homeRatio:46
+                homeRightPoints:'+6.0',
+                homeRatio:43
             },{
                 time:'Tue 2/08, 9:00 AM',
                 awayName:'warriors',
                 awayLeftPoints:'-11.5',
-                awayRightPoints:'-12.5',
-                awayRatio:73,
+                awayRightPoints:'-12.0',
+                awayRatio:87,
                 homeName:'thunder',
                 homeLeftPoints:'+11.5',
-                homeRightPoints:'+12.5',
-                homeRatio:27
+                homeRightPoints:'+12.0',
+                homeRatio:13
             },{
                 time:'Tue 2/08, 10:00 AM',
                 awayName:'knicks',
                 awayLeftPoints:'-6.5',
-                awayRightPoints:'-6.5',
-                awayRatio:55,
+                awayRightPoints:'-7.5',
+                awayRatio:42,
                 homeName:'jazz',
                 homeLeftPoints:'+6.5',
-                homeRightPoints:'+6.5',
-                homeRatio:45
+                homeRightPoints:'+7.5',
+                homeRatio:58
             }
         ]
     }
