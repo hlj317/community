@@ -9874,6 +9874,84 @@ export const myData = [
                 homeRatio:18
             }
         ]
+    },
+
+    //2月11日
+    {
+        date: 'Fri Feb 11',
+        list: [
+            {
+                time:'Fri 2/11, 8:00 AM',
+                awayName:'grizzlies',
+                awayLeftPoints:'-10.0',
+                awayRightPoints:'-10.5',
+                awayRatio:76,
+                homeName:'pistons',
+                homeLeftPoints:'+10.0',
+                homeRightPoints:'+10.5',
+                homeRatio:24
+            },{
+                time:'Fri 2/11, 8:30 AM',
+                awayName:'nets',
+                awayLeftPoints:'+1.0',
+                awayRightPoints:'+2.5',
+                awayRatio:21,
+                homeName:'wizards',
+                homeLeftPoints:'-1.0',
+                homeRightPoints:'-2.5',
+                homeRatio:79
+            },{
+                time:'Fri 2/11, 8:30 AM',
+                awayName:'heat',
+                awayLeftPoints:'-4.5',
+                awayRightPoints:'-4.5',
+                awayRatio:82,
+                homeName:'pelicans',
+                homeLeftPoints:'+4.5',
+                homeRightPoints:'+4.5',
+                homeRatio:18
+            },{
+                time:'Fri 2/11, 9:00 AM',
+                awayName:'raptors',
+                awayLeftPoints:'-6.0',
+                awayRightPoints:'-8.0',
+                awayRatio:77,
+                homeName:'rockets',
+                homeLeftPoints:'+6.0',
+                homeRightPoints:'+8.0',
+                homeRatio:23
+            },{
+                time:'Fri 2/11, 9:30 AM',
+                awayName:'clippers',
+                awayLeftPoints:'+6.5',
+                awayRightPoints:'+7.0',
+                awayRatio:45,
+                homeName:'mavericks',
+                homeLeftPoints:'-6.5',
+                homeRightPoints:'-7.0',
+                homeRatio:55
+            },{
+                time:'Fri 2/11, 11:00 AM',
+                awayName:'knicks',
+                awayLeftPoints:'+8.5',
+                awayRightPoints:'+8.5',
+                awayRatio:29,
+                homeName:'warriors',
+                homeLeftPoints:'-8.5',
+                homeRightPoints:'-8.5',
+                homeRatio:71
+            },{
+                time:'Fri 2/11, 11:00 AM',
+                awayName:'bucks',
+                awayLeftPoints:'+3.0',
+                awayRightPoints:'+3.0',
+                awayRatio:46,
+                homeName:'suns',
+                homeLeftPoints:'-3.0',
+                homeRightPoints:'-3.0',
+                homeRatio:54
+            }
+        ]
     }
     
 ]
