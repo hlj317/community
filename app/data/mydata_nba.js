@@ -70,13 +70,13 @@ const nbaData = {
             'important':true
         },{
             'name':'科迪.马丁',
-            'status':'出战存疑',
+            'status':'缺阵',
             'detail':'左脚踝受伤，无法出战周四对阵公牛的比赛',
             'important':false
         },{
             'name':'麦克丹尼尔斯',
-            'status':'出战存疑',
-            'detail':'脚踝受伤，周四对阵公牛的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'脚踝受伤，无法出战周四对阵公牛的比赛',
             'important':false
         }
     ],
@@ -108,8 +108,8 @@ const nbaData = {
     cavaliers:[
         {
             'name':'加兰',
-            'status':'出战存疑',
-            'detail':'背部受伤，周四对阵马刺的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周四对战马刺的比赛',
             'important':true
         },{
             'name':'马尔坎宁',
@@ -118,8 +118,8 @@ const nbaData = {
             'important':true
         },{
             'name':'勒维尔',
-            'status':'出战存疑',
-            'detail':'刚被交易到球队，周四对阵马刺的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周四对战马刺的比赛',
             'important':true
         },{
             'name':'塞克斯顿',
@@ -319,6 +319,11 @@ const nbaData = {
     //洛杉矶湖人
     lakers:[
         {
+            'name':'威斯布鲁克',
+            'status':'缺阵',
+            'detail':'背部受伤，无法出战周四对阵开拓者的比赛',
+            'important':true
+        },{
             'name':'霍华德',
             'status':'缺阵',
             'detail':'背部受伤，无法出战周四对阵开拓者的比赛',
@@ -672,13 +677,13 @@ const nbaData = {
     spurs:[
         {
             'name':'特雷.琼斯',
-            'status':'出战存疑',
-            'detail':'腿部受伤，周四对阵骑士的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'腿部受伤，无法出战周四对阵骑士的比赛',
             'important':false
         },{
             'name':'朗尼.沃克',
-            'status':'出战存疑',
-            'detail':'膝盖受伤，周四对阵骑士的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周四对阵骑士的比赛',
             'important':false
         }
     ],
@@ -695,13 +700,8 @@ const nbaData = {
     jazz:[
         {
             'name':'鲁迪.盖伊',
-            'status':'出战存疑',
-            'detail':'膝盖受伤，周四对阵勇士的比赛出战存疑',
-            'important':false
-        },{
-            'name':'英格尔斯',
-            'status':'长期缺阵',
-            'detail':'左膝ACL，赛季报销',
+            'status':'缺阵',
+            'detail':'膝盖受伤，无法出战周四对阵勇士的比赛',
             'important':false
         },{
             'name':'戈贝尔',
