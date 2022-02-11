@@ -720,8 +720,8 @@ const nbaData = {
             'important':false
         },{
             'name':'戈贝尔',
-            'status':'缺阵',
-            'detail':'小腿拉伤，归期未定',
+            'status':'大概率出战',
+            'detail':'大概率可以出战周六对阵魔术的比赛',
             'important':true
         }                 
     ],
