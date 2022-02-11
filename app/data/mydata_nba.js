@@ -40,11 +40,6 @@ const nbaData = {
             'detail':'腿肌腱受伤，周五对阵奇才的比赛出战存疑',
             'important':false
         },{
-            'name':'詹姆斯.哈登',
-            'status':'缺阵',
-            'detail':'腿肌腱受伤，无法出战周五对阵奇才的比赛',
-            'important':true
-        },{
             'name':'乔.哈里斯',
             'status':'长期缺阵',
             'detail':'左脚踝手术，预计缺阵4-8周',
@@ -241,11 +236,6 @@ const nbaData = {
     //印第安纳步行者
     pacers:[
         {
-            'name':'小萨博尼斯',
-            'status':'缺阵',
-            'detail':'被交易到国王',
-            'important':true
-        },{
             'name':'以赛亚.杰克逊',
             'status':'缺阵',
             'detail':'脚踝受伤，无法出战周三对阵老鹰的比赛',
@@ -389,11 +379,6 @@ const nbaData = {
     //新奥尔良鹈鹕
     pelicans:[
         {
-            'name':'CJ麦科勒姆',
-            'status':'出战存疑',
-            'detail':'刚被交易到鹈鹕，周五对阵热火的比赛出战存疑',
-            'important':true
-        },{
             'name':'埃尔南戈麦斯',
             'status':'缺阵',
             'detail':'腿部受伤，归期不定',
@@ -419,8 +404,8 @@ const nbaData = {
     knicks:[
         {
             'name':'RJ.巴雷特',
-            'status':'出战存疑',
-            'detail':'脚踝受伤，周五对阵勇士的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'脚踝受伤，无法出战周五对阵勇士的比赛',
             'important':true
         },{
             'name':'米切尔罗宾逊',
