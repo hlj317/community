@@ -643,11 +643,6 @@ const nbaData = {
             'detail':'被交易到鹈鹕',
             'important':false
         },{
-            'name':'麦科勒姆',
-            'status':'缺阵',
-            'detail':'被交易到鹈鹕',
-            'important':true
-        },{
             'name':'泽勒',
             'status':'缺阵',
             'detail':'腿部受伤，无法出战周二对阵魔术的比赛',
@@ -746,7 +741,7 @@ const nbaData = {
             'name':'波尔津吉斯',
             'status':'出战存疑',
             'detail':'刚被交易到奇才，每日观察',
-            'important':false
+            'important':true
         }
     ]   
 }
