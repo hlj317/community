@@ -21,18 +21,18 @@ const nbaData = {
     nets:[
         {        
             'name':'德拉蒙德',
-            'status':'出战存疑',
-            'detail':'刚被交易到篮网，每日观察',
+            'status':'缺阵',
+            'detail':'刚被交易到篮网，无法出战周日对阵热火的比赛',
             'important':false
         },{        
             'name':'赛斯.库里',
-            'status':'出战存疑',
-            'detail':'刚被交易到篮网，每日观察',
+            'status':'缺阵',
+            'detail':'刚被交易到篮网，无法出战周日对阵热火的比赛',
             'important':true
         },{        
             'name':'本.西蒙斯',
             'status':'缺阵',
-            'detail':'刚被交易到篮网，还未做出出战准备',
+            'detail':'刚被交易到篮网，还未做好出战准备',
             'important':true
         },{
             'name':'阿尔德里奇',
@@ -83,6 +83,16 @@ const nbaData = {
     //芝加哥公牛
     bulls:[
         {
+            'name':'拉文',
+            'status':'缺阵',
+            'detail':'膝盖受伤，无法出战周日对阵雷霆的比赛',
+            'important':true
+        },{
+            'name':'贾文特.格林',
+            'status':'出战存疑',
+            'detail':'右脚受伤，周日对阵雷霆的比赛出战存疑',
+            'important':false
+        },{
             'name':'卡鲁索',
             'status':'长期缺阵',
             'detail':'手腕骨折，预计缺阵4-6周',
@@ -108,8 +118,8 @@ const nbaData = {
     cavaliers:[
         {
             'name':'加兰',
-            'status':'出战存疑',
-            'detail':'背部受伤，周日对阵76人的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周日对阵76人的比赛',
             'important':true
         },{
             'name':'马尔坎宁',
@@ -127,8 +137,8 @@ const nbaData = {
     mavericks:[
         {        
             'name':'丁威迪',
-            'status':'出战存疑',
-            'detail':'刚被交易到独行侠，每日观察',
+            'status':'缺阵',
+            'detail':'刚被交易到独行侠，周日对阵快船的比赛无法出战',
             'important':false
         },{        
             'name':'贝尔坦斯',
@@ -173,12 +183,7 @@ const nbaData = {
     ],
     //底特律活塞
     pistons:[
-        {
-            'name':'坎宁安',
-            'status':'出战存疑',
-            'detail':'臀部受伤，周六对阵黄蜂的比赛出战存疑',
-            'important':true
-        },{        
+        {        
             'name':'巴格利',
             'status':'出战存疑',
             'detail':'刚被交易到活塞，每日观察',
@@ -353,8 +358,8 @@ const nbaData = {
     heat:[
         {
             'name':'凯莱布.马丁',
-            'status':'出战存疑',
-            'detail':'肌腱受伤，周日对阵篮网的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'肌腱受伤，无法出战周日对阵篮网的比赛',
             'important':false
         },{
             'name':'PJ.塔克',
@@ -439,8 +444,8 @@ const nbaData = {
             'important':true
         },{
             'name':'诺埃尔',
-            'status':'出战存疑',
-            'detail':'膝盖受伤，周日对阵开拓者的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'膝盖受伤，无法出战周日对阵开拓者的比赛',
             'important':false
         },{
             'name':'德里克.罗斯',
@@ -529,11 +534,6 @@ const nbaData = {
             'detail':'手腕受伤，至少缺阵两周',
             'important':false
         },{
-            'name':'纳达尔',
-            'status':'缺阵',
-            'detail':'膝盖受伤，无法出战',
-            'important':false
-        },{
             'name':'卡明斯基',
             'status':'长期缺阵',
             'detail':'右膝受伤，归期不明',
@@ -576,17 +576,7 @@ const nbaData = {
     ],
     //萨克拉门托国王
     kings:[
-        {        
-            'name':'迪翁琴佐',
-            'status':'出战存疑',
-            'detail':'刚被交易到国王，每日观察',
-            'important':false
-        },{        
-            'name':'约什.杰克逊',
-            'status':'缺阵',
-            'detail':'背部受伤，会缺席一些比赛',
-            'important':false
-        },{
+        {
             'name':'哈克里斯',
             'status':'出战存疑',
             'detail':'右脚踝受伤，周日对阵奇才的比赛出战存疑',
@@ -601,6 +591,11 @@ const nbaData = {
     //圣安东尼奥马刺
     spurs:[
         {
+            'name':'扎克.科林斯',
+            'status':'缺阵',
+            'detail':'腿部受伤，无法出战周日对阵鹈鹕的比赛',
+            'important':false
+        },{
             'name':'迪奥普',
             'status':'缺阵',
             'detail':'面部受伤，无法出战周日对阵鹈鹕的比赛',
@@ -626,8 +621,8 @@ const nbaData = {
     raptors:[
         {
             'name':'范弗利特',
-            'status':'出战存疑',
-            'detail':'腹股沟受伤，周日对阵掘金的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周日对阵掘金的比赛',
             'important':true
         }       
     ],
@@ -659,8 +654,8 @@ const nbaData = {
             'important':true
         },{        
             'name':'波尔津吉斯',
-            'status':'出战存疑',
-            'detail':'刚被交易到奇才，每日观察，周日对阵国王的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'无法出战周日对阵国王的比赛',
             'important':true
         }
     ]   
