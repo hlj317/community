@@ -10159,21 +10159,21 @@ export const myData = [
                 awayName:'hawks',
                 awayLeftPoints:'+6.0',
                 awayRightPoints:'+6.0',
-                awayRatio:35,
+                awayRatio:22,
                 homeName:'celtics',
                 homeLeftPoints:'-6.0',
                 homeRightPoints:'-6.0',
-                homeRatio:65
+                homeRatio:78
             },{
                 time:'Mon 2/14, 4:00 AM',
                 awayName:'timberwolves',
-                awayLeftPoints:'-6.0',
-                awayRightPoints:'-6.0',
-                awayRatio:72,
+                awayLeftPoints:'-6.5',
+                awayRightPoints:'-6.5',
+                awayRatio:69,
                 homeName:'pacers',
-                homeLeftPoints:'+6.0',
-                homeRightPoints:'+6.0',
-                homeRatio:28
+                homeLeftPoints:'+6.5',
+                homeRightPoints:'+6.5',
+                homeRatio:31
             }
         ]
     }

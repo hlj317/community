@@ -3,8 +3,8 @@ const nbaData = {
     hawks:[
         {
             'name':'科林斯',
-            'status':'出战存疑',
-            'detail':'右脚受伤，每日观察',
+            'status':'缺阵',
+            'detail':'右脚受伤，直到全明星赛后才能复出',
             'important':true
         }
     ],
@@ -242,8 +242,8 @@ const nbaData = {
             'important':false
         },{
             'name':'布罗格登',
-            'status':'缺阵',
-            'detail':'跟腱受伤，归期未定',
+            'status':'出战存疑',
+            'detail':'跟腱受伤，周一对阵步行者的比赛出战存疑',
             'important':true
         },{
             'name':'特纳',
@@ -265,12 +265,7 @@ const nbaData = {
             'status':'缺阵',
             'detail':'因为健康安全协议，会缺阵数场比赛',
             'important':false
-        },{        
-            'name':'杰伦.史密斯',
-            'status':'出战存疑',
-            'detail':'刚被交易到步行者，每日观察',
-            'important':false
-        } 
+        }
     ],
     //洛杉矶快船
     clippers:[
@@ -410,6 +405,11 @@ const nbaData = {
     //明尼苏达森林狼
     timberwolves:[
         {
+            'name':'爱德华兹',
+            'status':'出战存疑',
+            'detail':'膝盖受伤，周一对阵步行者的比赛出战存疑',
+            'important':true
+        },{
             'name':'莱特',
             'status':'出战存疑',
             'detail':'腿部受伤，每日观察',
