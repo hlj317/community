@@ -10090,11 +10090,11 @@ export const myData = [
                 time:'Sun 2/13, 8:30 AM',
                 awayName:'cavaliers',
                 awayLeftPoints:'+4.0',
-                awayRightPoints:'+2.5',
+                awayRightPoints:'+3.0',
                 awayRatio:48,
                 homeName:'seven6ers',
                 homeLeftPoints:'-4.0',
-                homeRightPoints:'-2.5',
+                homeRightPoints:'-3.0',
                 homeRatio:52
             },{
                 time:'Sun 2/13, 9:00 AM',
@@ -10146,6 +10146,34 @@ export const myData = [
                 homeLeftPoints:'-16.0',
                 homeRightPoints:'-16.5',
                 homeRatio:65
+            }
+        ]
+    },
+
+    //2月14日
+    {
+        date: 'Mon Feb 14',
+        list: [
+            {
+                time:'Mon 2/14, 3:00 AM',
+                awayName:'hawks',
+                awayLeftPoints:'+6.0',
+                awayRightPoints:'+6.0',
+                awayRatio:35,
+                homeName:'celtics',
+                homeLeftPoints:'-6.0',
+                homeRightPoints:'-6.0',
+                homeRatio:65
+            },{
+                time:'Mon 2/14, 4:00 AM',
+                awayName:'timberwolves',
+                awayLeftPoints:'-6.0',
+                awayRightPoints:'-6.0',
+                awayRatio:72,
+                homeName:'pacers',
+                homeLeftPoints:'+6.0',
+                homeRightPoints:'+6.0',
+                homeRatio:28
             }
         ]
     }
