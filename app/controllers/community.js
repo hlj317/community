@@ -11,7 +11,7 @@ const ProModel = require("../models/model/proModel.js");
 //补位 当某个字段不是两位数时补0
 const fnW = function(str){
     let num;
-    str > 10 ? num = str : num = "0"+str;
+    str >= 10 ? num = str : num = "0"+str;
     return num;
 } 
 
