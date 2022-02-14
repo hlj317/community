@@ -228,8 +228,8 @@ const nbaData = {
             'important':true
         },{
             'name':'丹尼斯.施罗德',
-            'status':'出战存疑',
-            'detail':'刚被交易到火箭，每日观察',
+            'status':'出战',
+            'detail':'可以出战周二对阵爵士的比赛',
             'important':false
         },{
             'name':'加鲁巴',
@@ -285,6 +285,11 @@ const nbaData = {
     //洛杉矶快船
     clippers:[
         {
+            'name':'卢克.肯纳德',
+            'status':'出战存疑',
+            'detail':'脚踝受伤，周二对阵勇士的比赛出战存疑',
+            'important':true
+        },{
             'name':'鲍威尔',
             'status':'长期缺阵',
             'detail':'腿部骨折，归期未定',
@@ -367,13 +372,13 @@ const nbaData = {
     bucks:[
         {
             'name':'字母哥',
-            'status':'出战存疑',
-            'detail':'身体不适，周二对阵开拓者的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'身体不适，无法出战周二对阵开拓者的比赛',
             'important':true
         },{
             'name':'伊巴卡',
-            'status':'出战存疑',
-            'detail':'刚被交易到雄鹿，每日观察',
+            'status':'出战',
+            'detail':'可以出战周二对阵开拓者的比赛',
             'important':false
         },{
             'name':'康诺顿',
@@ -452,6 +457,11 @@ const nbaData = {
     //俄克拉荷马城雷霆
     thunder:[
         {
+            'name':'多尔特',
+            'status':'缺阵',
+            'detail':'肩膀受伤，无法出战周二对阵尼克斯的比赛',
+            'important':true
+        },{
             'name':'穆斯卡拉',
             'status':'长期缺阵',
             'detail':'脚踝受伤，预计全明星后才能复出',
