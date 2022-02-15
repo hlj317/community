@@ -10275,6 +10275,85 @@ export const myData = [
                 homeRatio:23
             }
         ]
+    },
+
+    //2月16日
+    {
+        date: 'Wed Feb 16',
+        list: [
+            {
+                time:'Wed 2/16, 9:00 AM',
+                awayName:'grizzlies',
+                awayLeftPoints:'-3.5',
+                awayRightPoints:'-4.0',
+                awayRatio:82,
+                homeName:'pelicans',
+                homeLeftPoints:'+3.5',
+                homeRightPoints:'+4.0',
+                homeRatio:18
+            },{
+                time:'Wed 2/16, 8:30 AM',
+                awayName:'cavaliers',
+                awayLeftPoints:'-1.5',
+                awayRightPoints:'-1.5',
+                awayRatio:32,
+                homeName:'hawks',
+                homeLeftPoints:'+1.5',
+                homeRightPoints:'+1.5',
+                homeRatio:68
+            },{
+                time:'Wed 2/16, 8:30 AM',
+                awayName:'mavericks',
+                awayLeftPoints:'+3.0',
+                awayRightPoints:'+3.5',
+                awayRatio:49,
+                homeName:'heat',
+                homeLeftPoints:'-3.0',
+                homeRightPoints:'-3.5',
+                homeRatio:51
+            },{
+                time:'Wed 2/16, 8:30 AM',
+                awayName:'celtics',
+                awayLeftPoints:'-1.5',
+                awayRightPoints:'-1.5',
+                awayRatio:68,
+                homeName:'seven6ers',
+                homeLeftPoints:'+1.5',
+                homeRightPoints:'+1.5',
+                homeRatio:32
+            },{
+                time:'Wed 2/16, 9:00 AM',
+                awayName:'hornets',
+                awayLeftPoints:'+6.5',
+                awayRightPoints:'+6.5',
+                awayRatio:28,
+                homeName:'timberwolves',
+                homeLeftPoints:'-6.5',
+                homeRightPoints:'-6.5',
+                homeRatio:72
+            },{
+                time:'Wed 2/16, 9:00 AM',
+                awayName:'pacers',
+                awayLeftPoints:'+11.5',
+                awayRightPoints:'+12.5',
+                awayRatio:19,
+                homeName:'bucks',
+                homeLeftPoints:'-11.5',
+                homeRightPoints:'-12.5',
+                homeRatio:81
+            },{
+                time:'Wed 2/16, 11:00 AM',
+                awayName:'clippers',
+                awayLeftPoints:'+12.5',
+                awayRightPoints:'+13.0',
+                awayRatio:25,
+                homeName:'suns',
+                homeLeftPoints:'-12.5',
+                homeRightPoints:'-13.0',
+                homeRatio:75
+            }
+        ]
     }
+
 
 ]
