@@ -10472,7 +10472,66 @@ export const myData = [
                 homeRatio:35
             }
         ]
+    },
+
+    //2月18日
+    {
+        date: 'Fri Feb 18',
+        list: [
+            {
+                time:'Wed 2/16, 9:00 AM',
+                awayName:'seven6ers',
+                awayLeftPoints:'+6.0',
+                awayRightPoints:'+6.0',
+                awayRatio:38,
+                homeName:'bucks',
+                homeLeftPoints:'-6.0',
+                homeRightPoints:'-6.0',
+                homeRatio:62
+            },{
+                time:'Wed 2/16, 8:30 AM',
+                awayName:'heat',
+                awayLeftPoints:'-4.5',
+                awayRightPoints:'-4.5',
+                awayRatio:78,
+                homeName:'hornets',
+                homeLeftPoints:'+4.5',
+                homeRightPoints:'+4.5',
+                homeRatio:22
+            },{
+                time:'Wed 2/16, 8:30 AM',
+                awayName:'wizards',
+                awayLeftPoints:'+3.5',
+                awayRightPoints:'+3.5',
+                awayRatio:27,
+                homeName:'nets',
+                homeLeftPoints:'-3.5',
+                homeRightPoints:'-3.5',
+                homeRatio:73
+            },{
+                time:'Wed 2/16, 8:30 AM',
+                awayName:'mavericks',
+                awayLeftPoints:'-2.0',
+                awayRightPoints:'-2.0',
+                awayRatio:81,
+                homeName:'pelicans',
+                homeLeftPoints:'+2.0',
+                homeRightPoints:'+2.0',
+                homeRatio:19
+            },{
+                time:'Wed 2/16, 8:30 AM',
+                awayName:'rockets',
+                awayLeftPoints:'+10.0',
+                awayRightPoints:'+10.0',
+                awayRatio:42,
+                homeName:'clippers',
+                homeLeftPoints:'-10.0',
+                homeRightPoints:'-10.0',
+                homeRatio:58
+            }
+        ]
     }
+    
 
 
 ]
