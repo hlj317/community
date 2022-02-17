@@ -10483,51 +10483,51 @@ export const myData = [
                 awayName:'seven6ers',
                 awayLeftPoints:'+6.0',
                 awayRightPoints:'+6.5',
-                awayRatio:38,
+                awayRatio:21,
                 homeName:'bucks',
                 homeLeftPoints:'-6.0',
                 homeRightPoints:'-6.5',
-                homeRatio:62
+                homeRatio:79
             },{
                 time:'Wed 2/16, 8:30 AM',
                 awayName:'heat',
                 awayLeftPoints:'-4.0',
                 awayRightPoints:'-4.5',
-                awayRatio:78,
+                awayRatio:66,
                 homeName:'hornets',
                 homeLeftPoints:'+4.0',
                 homeRightPoints:'+4.5',
-                homeRatio:22
+                homeRatio:34
             },{
                 time:'Wed 2/16, 8:30 AM',
                 awayName:'wizards',
                 awayLeftPoints:'+3.5',
-                awayRightPoints:'+4.0',
-                awayRatio:27,
+                awayRightPoints:'+4.5',
+                awayRatio:48,
                 homeName:'nets',
                 homeLeftPoints:'-3.5',
-                homeRightPoints:'-4.0',
-                homeRatio:73
+                homeRightPoints:'-4.5',
+                homeRatio:52
             },{
                 time:'Wed 2/16, 8:30 AM',
                 awayName:'mavericks',
                 awayLeftPoints:'-3.0',
-                awayRightPoints:'-3.0',
-                awayRatio:81,
+                awayRightPoints:'-2.5',
+                awayRatio:54,
                 homeName:'pelicans',
                 homeLeftPoints:'+3.0',
-                homeRightPoints:'+3.0',
-                homeRatio:19
+                homeRightPoints:'+2.5',
+                homeRatio:46
             },{
                 time:'Wed 2/16, 8:30 AM',
                 awayName:'rockets',
                 awayLeftPoints:'+10.0',
-                awayRightPoints:'+10.0',
-                awayRatio:42,
+                awayRightPoints:'+11.0',
+                awayRatio:70,
                 homeName:'clippers',
                 homeLeftPoints:'-10.0',
-                homeRightPoints:'-10.0',
-                homeRatio:58
+                homeRightPoints:'-11.0',
+                homeRatio:30
             }
         ]
     }
