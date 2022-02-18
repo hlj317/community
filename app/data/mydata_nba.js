@@ -122,13 +122,13 @@ const nbaData = {
             'important':false
         },{
             'name':'特雷.伯克',
-            'status':'出战存疑',
-            'detail':'肩膀受伤，周五对阵鹈鹕的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'肩膀受伤，无法出战周五对阵鹈鹕的比赛',
             'important':false
         },{
             'name':'布洛克',
-            'status':'出战存疑',
-            'detail':'腿部受伤，周五对阵鹈鹕的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'腿部受伤，无法出战周五对阵鹈鹕的比赛',
             'important':false
         },{
             'name':'尼利基纳',
@@ -199,12 +199,12 @@ const nbaData = {
         {
             'name':'小凯文波特',
             'status':'缺阵',
-            'detail':'腿部受伤，无法出战周四对阵太阳的比赛',
+            'detail':'腿部受伤，无法出战周五对阵快船的比赛',
             'important':true
         },{
             'name':'伍德',
-            'status':'缺阵',
-            'detail':'身体不适，无法出战周四对阵太阳的比赛',
+            'status':'出战',
+            'detail':'可以出战周五对阵快船的比赛',
             'important':true
         },{
             'name':'加鲁巴',
@@ -338,8 +338,8 @@ const nbaData = {
     heat:[
         {
             'name':'哈斯勒姆',
-            'status':'出战存疑',
-            'detail':'眼睛受伤，周五对阵黄蜂的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'眼睛受伤，无法出战周五对阵黄蜂的比赛',
             'important':false
         },{
             'name':'戴德蒙',
@@ -358,8 +358,8 @@ const nbaData = {
             'important':true
         },{
             'name':'吉米.巴特勒',
-            'status':'出战存疑',
-            'detail':'右肩受伤，周五对阵黄蜂的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周五对阵黄蜂的比赛',
             'important':true
         },{
             'name':'马基夫.莫里斯',
@@ -377,8 +377,8 @@ const nbaData = {
     bucks:[
         {
             'name':'格雷森.阿伦',
-            'status':'出战存疑',
-            'detail':'臀部受伤，周五对阵76人的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'无法出战周五对阵76人的比赛',
             'important':true
         },{
             'name':'康诺顿',
@@ -644,8 +644,8 @@ const nbaData = {
     wizards:[
         {
             'name':'八村塁',
-            'status':'出战存疑',
-            'detail':'右脚踝受伤，周五对阵篮网的比赛出战存疑',
+            'status':'出战',
+            'detail':'周五可以出战对阵篮网的比赛',
             'important':false
         },{
             'name':'加福德',
