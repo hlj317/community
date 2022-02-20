@@ -6,7 +6,7 @@ const nbaData = require("../data/mydata_nba.js");
 const newsTitle = require("../data/news_title.json");
 const fs = require("fs");
 const ProModel = require("../models/model/proModel.js");
-// const proModel = ProModel.instance();
+const proModel = ProModel.instance();
 
 //补位 当某个字段不是两位数时补0
 const fnW = function(str){
@@ -220,7 +220,7 @@ const createNews = async function (ctx, next) {
     for(let i = 0;i < result.length;i++){
         fs.writeFileSync("/Users/huanglijun/Desktop/demo/community/app/views/news/news-"+(i+startPage)+".html",'{{extend ("../layout/default.html")}}{{#block ("body")}}<div>{{include ("../layout/keywords.html") }}</div><div id="news" class="news-page">'+result[i].content+'</div>{{/block}}');
         data[i+startPage] = result[i].title;
-        dataNewsList += '<li><a href="/news-'+(i+startPage)+'.html">'+result[i].title+'</a></li>';
+        dataNewsList += '<li><a href="/news-'+(i+startPage)+'.html">'+result[i].title+'，关于NBA伤病</a></li>';
         dataSitemapStr += '<url><loc>https://www.cbdyou.com.cn/news-'+(i+startPage)+'.html></loc><priority>0.5</priority><lastmod>'+getTimeNow()+'</lastmod><changefreq>daily</changefreq></url>';
         dataPushUrlStr += '\nhttps://www.cbdyou.com.cn/news-'+(i+startPage)+'.html';
     }
