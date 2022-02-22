@@ -112,6 +112,32 @@ const votePC = async function (ctx, next) {
     return next();
 };
 
+const rank = async function (ctx, next) {
+    const ua = ctx.request.header['user-agent'];
+    if(!isMobile(ua)){
+        ctx.redirect('/rankpc');
+    };
+    await ctx.render("community/rank", {
+        title: "NBA盘口红黑榜-篮彩老黑",
+        keywords: "NBA,盘口,红黑榜,篮彩,彩票",
+        description: "NBA盘口红黑榜，每周持续更新"
+    });
+    return next();
+};
+
+const rankPC = async function (ctx, next) {
+    const ua = ctx.request.header['user-agent'];
+    if(isMobile(ua)){
+        ctx.redirect('/rank');
+    };
+    await ctx.render("community/rankpc", {
+        title: "NBA盘口红黑榜-篮彩老黑",
+        keywords: "NBA,盘口,红黑榜,篮彩,彩票",
+        description: "NBA盘口红黑榜，每周持续更新"
+    });
+    return next();
+};
+
 const injuryWNBA = async function (ctx, next) {
     const ua = ctx.request.header['user-agent'];
     if(!isMobile(ua)){
@@ -252,6 +278,8 @@ module.exports = {
     injuryCBAPC,
     vote,
     votePC,
+    rank,
+    rankPC,
     news,
     createNews
 };

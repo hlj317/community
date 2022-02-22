@@ -14,6 +14,8 @@ module.exports = {
     "/createNews":community.createNews,
     "/vote": community.vote,
     "/votepc": community.votePC,
+    "/rank": community.rank,
+    "/rankpc": community.rankPC,
     "/pc/home": pc.home,
     "/movie/index": movie.index,
     "/movie/login": movie.login,
