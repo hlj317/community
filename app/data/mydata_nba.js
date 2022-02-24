@@ -98,8 +98,8 @@ const nbaData = {
     cavaliers:[
         {
             'name':'马尔坎宁',
-            'status':'缺阵',
-            'detail':'腿部受伤，预计至少缺阵几周',
+            'status':'大概率出战',
+            'detail':'大概率可以出战周五对阵活塞的比赛',
             'important':true
         },{
             'name':'勒维尔',
@@ -175,8 +175,8 @@ const nbaData = {
     pistons:[
         {        
             'name':'弗兰克.杰克逊',
-            'status':'缺阵',
-            'detail':'背部受伤，归期未定',
+            'status':'大概率出战',
+            'detail':'大概率可以出战周五对阵骑士的比赛',
             'important':false
         },{
             'name':'以赛亚.里弗斯',
