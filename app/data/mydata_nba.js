@@ -3,9 +3,14 @@ const nbaData = {
     hawks:[
         {
             'name':'亨特',
+            'status':'出战',
+            'detail':'可以出战周日对阵猛龙的比赛',
+            'important':true
+        },{
+            'name':'诺克斯',
             'status':'出战存疑',
             'detail':'身体不适，周日对阵猛龙的比赛出战存疑',
-            'important':true
+            'important':false
         },{
             'name':'科林斯',
             'status':'缺阵',
@@ -31,8 +36,8 @@ const nbaData = {
     nets:[
         {        
             'name':'德拉季奇',
-            'status':'大概率出战',
-            'detail':'大概率可以出战周日对阵雄鹿的比赛',
+            'status':'出战',
+            'detail':'可以出战周日对阵雄鹿的比赛',
             'important':false
         },{        
             'name':'本.西蒙斯',
@@ -333,8 +338,8 @@ const nbaData = {
     heat:[
         {
             'name':'戴德蒙',
-            'status':'出战存疑',
-            'detail':'背部受伤，每日观察',
+            'status':'缺阵',
+            'detail':'背部受伤，无法出战周日对阵马刺的比赛',
             'important':false
         },{
             'name':'马基夫.莫里斯',
@@ -581,25 +586,50 @@ const nbaData = {
             'detail':'腿部受伤，无法出战周日对阵热火的比赛',
             'important':false
         },{
+            'name':'默里',
+            'status':'缺阵',
+            'detail':'左膝受伤，无法出战周日对阵热火的比赛',
+            'important':true
+        },{
+            'name':'珀尔特尔',
+            'status':'缺阵',
+            'detail':'身体不适，无法出战周日对阵热火的比赛',
+            'important':true
+        },{
+            'name':'凯尔登约翰逊',
+            'status':'缺阵',
+            'detail':'身体不适，无法出战周日对阵热火的比赛',
+            'important':true
+        },{
             'name':'兰福德',
             'status':'出战存疑',
-            'detail':'膝盖酸痛，每日观察',
+            'detail':'膝盖酸痛，周日对阵热火的比赛出战存疑',
             'important':false
         },{
             'name':'普里莫',
             'status':'出战存疑',
-            'detail':'右手腕受伤，每日观察',
+            'detail':'右手腕受伤，周日对阵热火的比赛出战存疑',
             'important':false
         },{
             'name':'约什.理查德森',
             'status':'出战存疑',
-            'detail':'右肩受伤，每日观察',
+            'detail':'右肩受伤，周日对阵热火的比赛出战存疑',
             'important':false
         }
     ],
     //多伦多猛龙
     raptors:[
         {
+            'name':'西亚卡姆',
+            'status':'出战存疑',
+            'detail':'身体不适，周日对阵老鹰的比赛出战存疑',
+            'important':true
+        },{
+            'name':'范弗利特',
+            'status':'出战存疑',
+            'detail':'膝盖受伤，周日对阵老鹰的比赛出战存疑',
+            'important':true
+        },{
             'name':'阿奴诺比',
             'status':'缺阵',
             'detail':'右手指受伤，无法出战周日对阵老鹰的比赛',
