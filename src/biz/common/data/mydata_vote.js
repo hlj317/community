@@ -10707,6 +10707,84 @@ export const myData = [
                 homeRatio:67
             }
         ]
+    },
+
+    //2月27日
+    {
+        date: 'Sun Feb 27',
+        list: [
+            {
+                time:'Sun 2/27, 1:00 AM',
+                awayName:'celtics',
+                awayLeftPoints:'-10.5',
+                awayRightPoints:'-10.5',
+                awayRatio:82,
+                homeName:'pistons',
+                homeLeftPoints:'+10.5',
+                homeRightPoints:'+10.5',
+                homeRatio:18
+            },{
+                time:'Sun 2/27, 8:30 AM',
+                awayName:'raptors',
+                awayLeftPoints:'+2.0',
+                awayRightPoints:'+2.0',
+                awayRatio:48,
+                homeName:'hawks',
+                homeLeftPoints:'-2.0',
+                homeRightPoints:'-2.0',
+                homeRatio:52
+            },{
+                time:'Sun 2/27, 9:00 AM',
+                awayName:'wizards',
+                awayLeftPoints:'+6.0',
+                awayRightPoints:'+6.0',
+                awayRatio:41,
+                homeName:'cavaliers',
+                homeLeftPoints:'-6.0',
+                homeRightPoints:'-6.0',
+                homeRatio:59
+            },{
+                time:'Sun 2/27, 9:00 AM',
+                awayName:'grizzlies',
+                awayLeftPoints:'-1.0',
+                awayRightPoints:'-1.0',
+                awayRatio:49,
+                homeName:'bulls',
+                homeLeftPoints:'+1.0',
+                homeRightPoints:'+1.0',
+                homeRatio:51
+            },{
+                time:'Sun 2/27, 9:00 AM',
+                awayName:'spurs',
+                awayLeftPoints:'+7.5',
+                awayRightPoints:'+7.5',
+                awayRatio:38,
+                homeName:'heat',
+                homeLeftPoints:'-7.5',
+                homeRightPoints:'-7.5',
+                homeRatio:62
+            },{
+                time:'Sun 2/27, 9:30 AM',
+                awayName:'nets',
+                awayLeftPoints:'+9.5',
+                awayRightPoints:'+9.5',
+                awayRatio:45,
+                homeName:'bucks',
+                homeLeftPoints:'-9.5',
+                homeRightPoints:'-9.5',
+                homeRatio:55
+            },{
+                time:'Sun 2/27, 10:00 AM',
+                awayName:'kings',
+                awayLeftPoints:'+9.0',
+                awayRightPoints:'+9.0',
+                awayRatio:34,
+                homeName:'nuggets',
+                homeLeftPoints:'-9.0',
+                homeRightPoints:'-9.0',
+                homeRatio:66
+            }
+        ]
     }
 
 
