@@ -55,13 +55,18 @@ const nbaData = {
             'important':true
         },{
             'name':'麦克丹尼尔斯',
+            'status':'缺阵',
+            'detail':'脚踝受伤，无法出战周二对阵雄鹿的比赛',
+            'important':false
+        },{
+            'name':'科迪.马丁',
             'status':'出战存疑',
-            'detail':'脚踝受伤，周二对阵活塞的比赛出战存疑',
+            'detail':'背部受伤，周二对阵雄鹿的比赛出战存疑',
             'important':false
         },{
             'name':'尼克.理查德兹',
             'status':'出战存疑',
-            'detail':'身体不适，周二对阵活塞的比赛出战存疑',
+            'detail':'腿部受伤，周二对阵雄鹿的比赛出战存疑',
             'important':false
         }
     ],
@@ -221,6 +226,11 @@ const nbaData = {
             'detail':'腿部受伤，周二对阵魔术的比赛出战存疑',
             'important':false
         },{
+            'name':'布罗格登',
+            'status':'缺阵',
+            'detail':'肌腱受伤，无法出战周二对阵魔术的比赛',
+            'important':true
+        },{
             'name':'迈尔斯.特纳',
             'status':'长期缺阵',
             'detail':'左脚受伤，预计还要缺阵3-4周',
@@ -318,8 +328,8 @@ const nbaData = {
     heat:[
         {
             'name':'凯莱布.马丁',
-            'status':'出战存疑',
-            'detail':'左肌腱受伤，周二对阵公牛的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周二对阵公牛的比赛',
             'important':false
         },{
             'name':'洛瑞',
@@ -333,8 +343,8 @@ const nbaData = {
             'important':false
         },{
             'name':'奥拉迪波',
-            'status':'长期缺阵',
-            'detail':'股四头肌受伤，归期未定',
+            'status':'出战存疑',
+            'detail':'股四头肌受伤，每日观察',
             'important':false
         }        
     ],
