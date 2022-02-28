@@ -285,8 +285,8 @@ const nbaData = {
             'important':false
         },{
             'name':'詹姆斯',
-            'status':'出战存疑',
-            'detail':'膝盖酸痛，周一对阵鹈鹕的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周一对阵鹈鹕的比赛',
             'important':true
         },{
             'name':'纳恩',
