@@ -10878,7 +10878,7 @@ export const myData = [
 
     //3月1日
     {
-        date: 'Tue Mar 28',
+        date: 'Tue Mar 01',
         list: [
             {
                 time:'Tue 3/01, 8:00 AM',
@@ -10952,10 +10952,76 @@ export const myData = [
                 homeRatio:67
             }
         ]
+    },
+
+
+    //3月2日
+    {
+        date: 'Wed Mar 02',
+        list: [
+            {
+                time:'Wed 3/02, 8:30 AM',
+                awayName:'hawks',
+                awayLeftPoints:'+4.5',
+                awayRightPoints:'+4.5',
+                awayRatio:31,
+                homeName:'celtics',
+                homeLeftPoints:'-4.5',
+                homeRightPoints:'-4.5',
+                homeRatio:69
+            },{
+                time:'Wed 3/02, 9:00 AM',
+                awayName:'warriors',
+                awayLeftPoints:'-2.0',
+                awayRightPoints:'-2.0',
+                awayRatio:58,
+                homeName:'timberwolves',
+                homeLeftPoints:'+2.0',
+                homeRightPoints:'+2.0',
+                homeRatio:42
+            },{
+                time:'Wed 3/02, 8:00 AM',
+                awayName:'pistons',
+                awayLeftPoints:'+5.5',
+                awayRightPoints:'+5.5',
+                awayRatio:45,
+                homeName:'wizards',
+                homeLeftPoints:'-5.5',
+                homeRightPoints:'-5.5',
+                homeRatio:55
+            },{
+                time:'Wed 3/02, 8:30 AM',
+                awayName:'nets',
+                awayLeftPoints:'+4.0',
+                awayRightPoints:'+4.0',
+                awayRatio:61,
+                homeName:'raptors',
+                homeLeftPoints:'-4.0',
+                homeRightPoints:'-4.0',
+                homeRatio:39
+            },{
+                time:'Wed 3/02, 9:00 AM',
+                awayName:'clippers',
+                awayLeftPoints:'-6.5',
+                awayRightPoints:'-6.5',
+                awayRatio:47,
+                homeName:'rockets',
+                homeLeftPoints:'+6.5',
+                homeRightPoints:'+6.5',
+                homeRatio:53
+            },{
+                time:'Wed 3/02, 11:00 AM',
+                awayName:'mavericks',
+                awayLeftPoints:'-4.5',
+                awayRightPoints:'-4.5',
+                awayRatio:70,
+                homeName:'lakers',
+                homeLeftPoints:'+4.5',
+                homeRightPoints:'+4.5',
+                homeRatio:30
+            }
+        ]
     }
-    
-
-
 
 
 ]
