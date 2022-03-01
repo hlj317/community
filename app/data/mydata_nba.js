@@ -26,8 +26,8 @@ const nbaData = {
     nets:[
         {        
             'name':'德拉蒙德',
-            'status':'出战存疑',
-            'detail':'膝盖受伤，周三对阵猛龙的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'膝盖受伤，无法出战周三对阵猛龙的比赛',
             'important':true
         },{        
             'name':'本.西蒙斯',
@@ -170,18 +170,18 @@ const nbaData = {
     pistons:[
         {        
             'name':'弗兰克.杰克逊',
-            'status':'出战存疑',
-            'detail':'背部受伤，周三对阵奇才的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周三对阵奇才的比赛',
             'important':false
         },{        
             'name':'巴格利',
-            'status':'出战存疑',
-            'detail':'脚踝受伤，周三对阵奇才的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'脚踝受伤，无法出战周三对阵奇才的比赛',
             'important':false
         },{
             'name':'迪亚洛',
-            'status':'出战存疑',
-            'detail':'左脚踝受伤，周三对阵奇才的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周三对阵奇才的比赛',
             'important':false
         }
     ],
@@ -394,6 +394,16 @@ const nbaData = {
             'status':'出战存疑',
             'detail':'腿部受伤，每日观察',
             'important':false
+        },{
+            'name':'范德比尔特',
+            'status':'出战存疑',
+            'detail':'腿部受伤，周三对阵勇士的比赛出战存疑',
+            'important':true
+        },{
+            'name':'爱德华兹',
+            'status':'出战存疑',
+            'detail':'左髌骨伤势，周三对阵勇士的比赛出战存疑',
+            'important':true
         }
     ],
     //新奥尔良鹈鹕
@@ -596,8 +606,8 @@ const nbaData = {
     raptors:[
         {
             'name':'阿奴诺比',
-            'status':'缺阵',
-            'detail':'右手指受伤，归期未定',
+            'status':'出战存疑',
+            'detail':'右手指受伤，周三对阵篮网的比赛出战存疑',
             'important':true
         },{
             'name':'大卫.约翰逊',
@@ -606,8 +616,8 @@ const nbaData = {
             'important':false
         },{
             'name':'范弗利特',
-            'status':'出战存疑',
-            'detail':'膝盖受伤，周三对阵篮网的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'膝盖受伤，无法出战周三对阵篮网的比赛',
             'important':true
         }      
     ],
@@ -632,11 +642,6 @@ const nbaData = {
             'status':'缺阵',
             'detail':'膝盖受伤，归期未定',
             'important':true
-        },{        
-            'name':'萨托兰斯基',
-            'status':'出战存疑',
-            'detail':'与奇才刚签约，每日观察',
-            'important':false
         }
     ]   
 }

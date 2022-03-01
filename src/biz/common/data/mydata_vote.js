@@ -10964,61 +10964,61 @@ export const myData = [
                 awayName:'hawks',
                 awayLeftPoints:'+6.5',
                 awayRightPoints:'+6.5',
-                awayRatio:21,
+                awayRatio:43,
                 homeName:'celtics',
                 homeLeftPoints:'-6.5',
                 homeRightPoints:'-6.5',
-                homeRatio:79
+                homeRatio:57
             },{
                 time:'Wed 3/02, 9:00 AM',
                 awayName:'warriors',
                 awayLeftPoints:'+1.0',
-                awayRightPoints:'-1.0',
-                awayRatio:85,
+                awayRightPoints:'-3.0',
+                awayRatio:78,
                 homeName:'timberwolves',
                 homeLeftPoints:'-1.0',
-                homeRightPoints:'+1.0',
-                homeRatio:15
+                homeRightPoints:'+3.0',
+                homeRatio:22
             },{
                 time:'Wed 3/02, 8:00 AM',
                 awayName:'pistons',
                 awayLeftPoints:'+3.5',
-                awayRightPoints:'+3.5',
-                awayRatio:37,
+                awayRightPoints:'+3.0',
+                awayRatio:35,
                 homeName:'wizards',
                 homeLeftPoints:'-3.5',
-                homeRightPoints:'-3.5',
-                homeRatio:63
+                homeRightPoints:'-3.0',
+                homeRatio:65
             },{
                 time:'Wed 3/02, 8:30 AM',
                 awayName:'nets',
                 awayLeftPoints:'+8.0',
-                awayRightPoints:'+8.5',
-                awayRatio:22,
+                awayRightPoints:'+8.0',
+                awayRatio:36,
                 homeName:'raptors',
                 homeLeftPoints:'-8.0',
-                homeRightPoints:'-8.5',
-                homeRatio:78
+                homeRightPoints:'-8.0',
+                homeRatio:64
             },{
                 time:'Wed 3/02, 9:00 AM',
                 awayName:'clippers',
                 awayLeftPoints:'-7.0',
                 awayRightPoints:'-7.0',
-                awayRatio:62,
+                awayRatio:59,
                 homeName:'rockets',
                 homeLeftPoints:'+7.0',
                 homeRightPoints:'+7.0',
-                homeRatio:38
+                homeRatio:41
             },{
                 time:'Wed 3/02, 11:00 AM',
                 awayName:'mavericks',
                 awayLeftPoints:'-4.5',
-                awayRightPoints:'-5.5',
-                awayRatio:74,
+                awayRightPoints:'-5.0',
+                awayRatio:68,
                 homeName:'lakers',
                 homeLeftPoints:'+4.5',
-                homeRightPoints:'+5.5',
-                homeRatio:26
+                homeRightPoints:'+5.0',
+                homeRatio:32
             }
         ]
     }
