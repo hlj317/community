@@ -113,8 +113,8 @@ const nbaData = {
             'important':true
         },{
             'name':'加兰',
-            'status':'出战存疑',
-            'detail':'背部受伤，周四对阵黄蜂的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周四对阵黄蜂的比赛',
             'important':true
         },{
             'name':'塞克斯顿',
@@ -531,7 +531,7 @@ const nbaData = {
         },{
             'name':'德文.布克',
             'status':'缺阵',
-            'detail':'身体不适，无法出战周四对阵开拓者的比赛',
+            'detail':'因为健康安全协议，会缺阵数场比赛',
             'important':true
         }
     ],
