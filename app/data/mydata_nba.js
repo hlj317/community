@@ -645,14 +645,19 @@ const nbaData = {
             'detail':'右手指受伤，预期至少还要缺阵两周',
             'important':true
         },{
+            'name':'赛迪斯.杨',
+            'status':'缺阵',
+            'detail':'身体不适，无法出战周五对阵活塞的比赛',
+            'important':true
+        },{
             'name':'DJ.威尔逊',
             'status':'出战存疑',
             'detail':'膝盖受伤，归期未定',
             'important':false
         },{
             'name':'范弗利特',
-            'status':'出战存疑',
-            'detail':'膝盖受伤，周五对阵活塞的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'膝盖受伤，无法出战周五对阵活塞的比赛',
             'important':true
         }      
     ],
