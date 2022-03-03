@@ -3,8 +3,8 @@ const nbaData = {
     hawks:[
         {
             'name':'特雷.杨',
-            'status':'出战存疑',
-            'detail':'脚踝受伤，周五对战公牛的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周五对战公牛的比赛',
             'important':true
         },{
             'name':'奥孔古',
