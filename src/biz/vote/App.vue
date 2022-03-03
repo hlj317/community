@@ -577,7 +577,7 @@ a.bottom-link{
 </style>
 
 <script>
-import { myData } from '../common/data/mydata_vote.js';
+import { myData } from '../common/data/mydata_vote_2.js';
 import { getTeam } from '../common/js/utils.js';
 export default {
   data () {
