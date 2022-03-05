@@ -563,6 +563,11 @@ const nbaData = {
     //波特兰开拓者
     blazers:[
         {
+            'name':'哈特',
+            'status':'轮休',
+            'detail':'身体不适，无法出战周日对阵森林狼的比赛',
+            'important':true
+        },{
             'name':'温斯洛',
             'status':'出战存疑',
             'detail':'肌腱受伤，每日观察',
