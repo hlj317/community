@@ -8,8 +8,8 @@ const nbaData = {
             'important':false
         },{
             'name':'科林斯',
-            'status':'出战存疑',
-            'detail':'右脚受伤，周六对战奇才的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周六对战奇才的比赛',
             'important':true
         }
     ],
