@@ -406,29 +406,14 @@ const nbaData = {
             'important':false
         },{
             'name':'爱德华兹',
-            'status':'出战存疑',
-            'detail':'膝盖伤势，周二对阵开拓者的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'膝盖伤势，无法出战周二对阵开拓者的比赛',
             'important':true
-        },{
-            'name':'贝弗利',
-            'status':'出战存疑',
-            'detail':'右脚踝受伤，周二对阵开拓者的比赛出战存疑',
-            'important':true
-        },{
-            'name':'里德',
-            'status':'出战存疑',
-            'detail':'右肌腱受伤，周二对阵开拓者的比赛出战存疑',
-            'important':false
         },{
             'name':'拉塞尔',
-            'status':'出战存疑',
-            'detail':'肌腱受伤，周二对阵开拓者的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'肌腱受伤，无法出战周二对阵开拓者的比赛',
             'important':true
-        },{
-            'name':'普林斯',
-            'status':'出战存疑',
-            'detail':'背部受伤，周二对阵开拓者的比赛出战存疑',
-            'important':false
         }
     ],
     //新奥尔良鹈鹕
