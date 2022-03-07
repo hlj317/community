@@ -233,8 +233,8 @@ const nbaData = {
     rockets:[
         {
             'name':'施罗德',
-            'status':'出战存疑',
-            'detail':'脚踝受伤，周二对阵热火的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'脚踝受伤，无法出战周二对阵热火的比赛',
             'important':true
         },{
             'name':'埃里克.戈登',
@@ -353,13 +353,13 @@ const nbaData = {
     heat:[
         {
             'name':'凯莱布.马丁',
-            'status':'出战存疑',
-            'detail':'腿部受伤，周二对战火箭的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周二对战火箭的比赛',
             'important':false
         },{
             'name':'洛瑞',
-            'status':'出战存疑',
-            'detail':'个人原因，周二对战火箭的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周二对战火箭的比赛',
             'important':true
         },{
             'name':'马基夫.莫里斯',
@@ -368,8 +368,8 @@ const nbaData = {
             'important':false
         },{
             'name':'奥拉迪波',
-            'status':'出战存疑',
-            'detail':'膝盖受伤，周二对战火箭的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周二对战火箭的比赛',
             'important':false
         }        
     ],
