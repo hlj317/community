@@ -486,31 +486,31 @@ export const myData = [
                 time:'Mon 3/07, 2:00 AM',
                 awayName:'nets',
                 awayLeftPoints:'+3.5',
-                awayRightPoints:'+3.0',
+                awayRightPoints:'+4.5',
                 awayRatio:67,
                 homeName:'celtics',
                 homeLeftPoints:'-3.5',
-                homeRightPoints:'-3.0',
+                homeRightPoints:'-4.5',
                 homeRatio:33
             },{
                 time:'Mon 3/07, 4:30 AM',
                 awayName:'suns',
                 awayLeftPoints:'+7.0',
-                awayRightPoints:'+7.5',
+                awayRightPoints:'+9.5',
                 awayRatio:36,
                 homeName:'bucks',
                 homeLeftPoints:'-7.0',
-                homeRightPoints:'-7.5',
+                homeRightPoints:'-9.5',
                 homeRatio:64
             },{
                 time:'Mon 3/07, 7:00 AM',
                 awayName:'pacers',
                 awayLeftPoints:'+3.0',
-                awayRightPoints:'+3.0',
+                awayRightPoints:'+2.5',
                 awayRatio:38,
                 homeName:'wizards',
                 homeLeftPoints:'-3.0',
-                homeRightPoints:'-3.0',
+                homeRightPoints:'-2.5',
                 homeRatio:62
             },{
                 time:'Mon 3/07, 8:00 AM',
@@ -526,11 +526,11 @@ export const myData = [
                 time:'Mon 3/07, 8:00 AM',
                 awayName:'jazz',
                 awayLeftPoints:'-13.0',
-                awayRightPoints:'-13.0',
+                awayRightPoints:'-13.5',
                 awayRatio:60,
                 homeName:'thunder',
                 homeLeftPoints:'+13.0',
-                homeRightPoints:'+13.0',
+                homeRightPoints:'+13.5',
                 homeRatio:40
             },{
                 time:'Mon 3/07, 8:30 AM',
@@ -546,21 +546,21 @@ export const myData = [
                 time:'Mon 3/07, 9:00 AM',
                 awayName:'pelicans',
                 awayLeftPoints:'+3.0',
-                awayRightPoints:'+3.0',
+                awayRightPoints:'+4.0',
                 awayRatio:66,
                 homeName:'nuggets',
                 homeLeftPoints:'-3.0',
-                homeRightPoints:'-3.0',
+                homeRightPoints:'-4.0',
                 homeRatio:34
             },{
                 time:'Mon 3/07, 11:00 AM',
                 awayName:'knicks',
                 awayLeftPoints:'+4.0',
-                awayRightPoints:'+4.0',
+                awayRightPoints:'+5.0',
                 awayRatio:27,
                 homeName:'clippers',
                 homeLeftPoints:'-4.0',
-                homeRightPoints:'-4.0',
+                homeRightPoints:'-5.0',
                 homeRatio:73
             }
         ]
