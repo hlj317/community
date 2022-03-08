@@ -320,14 +320,9 @@ const nbaData = {
             'important':true
         },{
             'name':'詹姆斯',
-            'status':'出战存疑',
-            'detail':'膝盖酸痛，周二对阵马刺的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'膝盖酸痛，无法出战周二对阵马刺的比赛',
             'important':true
-        },{
-            'name':'塔克',
-            'status':'出战存疑',
-            'detail':'腿部受伤，周二对阵马刺的比赛出战存疑',
-            'important':false
         },{
             'name':'纳恩',
             'status':'缺阵',
@@ -710,8 +705,8 @@ const nbaData = {
     jazz:[
         {
             'name':'戈贝尔',
-            'status':'出战存疑',
-            'detail':'左小腿拉伤，周二对阵独行侠的比赛出战存疑',
+            'status':'出战',
+            'detail':'左小腿拉伤，可以出战周二对阵独行侠的比赛',
             'important':true
         }                  
     ],

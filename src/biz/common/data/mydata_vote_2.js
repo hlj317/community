@@ -584,11 +584,11 @@ export const myData = [
                 time:'Tue 3/08, 9:30 AM',
                 awayName:'jazz',
                 awayLeftPoints:'+1.5',
-                awayRightPoints:'+2.5',
+                awayRightPoints:'-1.0',
                 awayRatio:41,
                 homeName:'mavericks',
                 homeLeftPoints:'-1.5',
-                homeRightPoints:'-2.5',
+                homeRightPoints:'+1.0',
                 homeRatio:59
             },{
                 time:'Tue 3/08, 8:00 AM',
@@ -624,11 +624,11 @@ export const myData = [
                 time:'Tue 3/08, 9:30 AM',
                 awayName:'lakers',
                 awayLeftPoints:'+4.0',
-                awayRightPoints:'+2.5',
+                awayRightPoints:'+6.5',
                 awayRatio:58,
                 homeName:'spurs',
                 homeLeftPoints:'-4.0',
-                homeRightPoints:'-2.5',
+                homeRightPoints:'-6.5',
                 homeRatio:42
             },{
                 time:'Tue 3/08, 10:00 AM',
