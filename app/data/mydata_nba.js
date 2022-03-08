@@ -30,11 +30,6 @@ const nbaData = {
             'detail':'臀部受伤，无法出战周三对阵黄蜂的比赛',
             'important':true
         },{        
-            'name':'卡姆.托马斯',
-            'status':'出战存疑',
-            'detail':'背部受伤，周三对阵黄蜂的比赛出战存疑',
-            'important':false
-        },{        
             'name':'本.西蒙斯',
             'status':'缺阵',
             'detail':'刚被交易到篮网，还未做好出战准备',
@@ -103,8 +98,8 @@ const nbaData = {
             'important':true
         },{
             'name':'拉简.隆多',
-            'status':'出战存疑',
-            'detail':'脚趾受伤，周三对阵步行者的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周三对阵步行者的比赛',
             'important':false
         },{
             'name':'勒维尔',
@@ -213,11 +208,6 @@ const nbaData = {
             'detail':'臀部受伤，归期未定',
             'important':false
         },{
-            'name':'怀斯曼',
-            'status':'缺阵',
-            'detail':'膝盖受伤，归期未定',
-            'important':false
-        },{
             'name':'格林',
             'status':'缺阵',
             'detail':'小腿拉伤，预计还要缺阵3至4周',
@@ -252,13 +242,13 @@ const nbaData = {
     pacers:[
         {
             'name':'兰斯.斯蒂芬森',
-            'status':'出战存疑',
-            'detail':'腿部受伤，周三对阵骑士的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'腿部受伤，无法出战周三对阵骑士的比赛',
             'important':false
         },{
             'name':'杜阿尔特',
-            'status':'出战存疑',
-            'detail':'脚趾受伤，周三对阵骑士的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周三对阵骑士的比赛',
             'important':false
         },{
             'name':'迈尔斯.特纳',
@@ -399,6 +389,11 @@ const nbaData = {
     //新奥尔良鹈鹕
     pelicans:[
         {
+            'name':'英格拉姆',
+            'status':'出战存疑',
+            'detail':'右腿筋受伤，周三对阵灰熊的比赛出战存疑',
+            'important':true
+        },{
             'name':'南斯',
             'status':'缺阵',
             'detail':'腿部受伤，归期不定',
@@ -502,8 +497,8 @@ const nbaData = {
     magic:[
         {
             'name':'萨格斯',
-            'status':'出战存疑',
-            'detail':'脚踝伤势，周三对阵太阳的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'脚踝伤势，无法出战周三对阵太阳的比赛',
             'important':true
         },{
             'name':'艾萨克',
@@ -556,7 +551,7 @@ const nbaData = {
         },{
             'name':'卡梅伦.约翰逊',
             'status':'缺阵',
-            'detail':'身体不适，无法出战周三对阵魔术的比赛',
+            'detail':'腿部受伤，无法出战周三对阵魔术的比赛',
             'important':true
         }
     ],
