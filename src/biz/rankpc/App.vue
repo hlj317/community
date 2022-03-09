@@ -139,7 +139,7 @@
         margin-left: 20px;
         color:#333333;
         font-size:14px;
-        margin:10px 0 10px 39px;
+        margin:10px 0 5px 39px;
     }
 
     .injury-page{
