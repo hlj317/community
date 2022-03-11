@@ -358,8 +358,8 @@ const nbaData = {
     heat:[
         {
             'name':'吉米.巴特勒',
-            'status':'出战存疑',
-            'detail':'身体不适，周六对阵骑士的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周六对阵骑士的比赛',
             'important':true
         },{
             'name':'凯莱布·马丁',

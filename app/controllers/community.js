@@ -239,7 +239,9 @@ const createNews = async function (ctx, next) {
     const startPage = parseInt(ctx.request.query.startpage);
     let result = await proModel.getNews();
     let data = JSON.parse(fs.readFileSync("/Users/huanglijun/Desktop/demo/community/app/data/news_title.json", "utf-8"));
-    let dataNewsList = fs.readFileSync("/Users/huanglijun/Desktop/demo/community/app/views/layout/news_list.html", "utf-8");
+    // 每次都生成新的跳转链接
+    // let dataNewsList = fs.readFileSync("/Users/huanglijun/Desktop/demo/community/app/views/layout/news_list.html", "utf-8");
+    let dataNewsList = "";
     let dataSitemapStr = fs.readFileSync("/Users/huanglijun/Desktop/demo/community/static/sitemap.xml", "utf-8");
     let dataPushUrlStr = fs.readFileSync("/Users/huanglijun/Desktop/demo/community/static/urls.txt", "utf-8");
     dataSitemapStr = dataSitemapStr.substring(dataSitemapStr.indexOf("</urlset>"),0);
