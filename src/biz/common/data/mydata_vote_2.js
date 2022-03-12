@@ -986,5 +986,83 @@ export const myData = [
         ]
     },
 
+    //3月13日
+    {
+        date: 'Sun Mar 13',
+        list: [
+            {
+                time:'Sun 3/13, 9:00 AM',
+                awayName:'timberwolves',
+                awayLeftPoints:'+5.5',
+                awayRightPoints:'+5.5',
+                awayRatio:39,
+                homeName:'heat',
+                homeLeftPoints:'-5.5',
+                homeRightPoints:'-5.5',
+                homeRatio:61
+            },{
+                time:'Sun 3/13, 9:00 AM',
+                awayName:'pacers',
+                awayLeftPoints:'+5.5',
+                awayRightPoints:'+6.0',
+                awayRatio:33,
+                homeName:'spurs',
+                homeLeftPoints:'-5.5',
+                homeRightPoints:'-6.0',
+                homeRatio:67
+            },{
+                time:'Sun 3/13, 9:00 AM',
+                awayName:'cavaliers',
+                awayLeftPoints:'+2.5',
+                awayRightPoints:'+3.0',
+                awayRatio:28,
+                homeName:'bulls',
+                homeLeftPoints:'-2.5',
+                homeRightPoints:'-3.0',
+                homeRatio:72
+            },{
+                time:'Sun 3/13, 9:30 AM',
+                awayName:'bucks',
+                awayLeftPoints:'-1.5',
+                awayRightPoints:'-1.0',
+                awayRatio:53,
+                homeName:'warriors',
+                homeLeftPoints:'+1.5',
+                homeRightPoints:'+1.0',
+                homeRatio:47
+            },{
+                time:'Sun 3/13, 10:00 AM',
+                awayName:'raptors',
+                awayLeftPoints:'+5.5',
+                awayRightPoints:'+6.0',
+                awayRatio:42,
+                homeName:'nuggets',
+                homeLeftPoints:'-5.5',
+                homeRightPoints:'-6.0',
+                homeRatio:58
+            },{
+                time:'Sun 3/13, 10:00 AM',
+                awayName:'wizards',
+                awayLeftPoints:'-7.0',
+                awayRightPoints:'-7.0',
+                awayRatio:66,
+                homeName:'blazers',
+                homeLeftPoints:'+7.0',
+                homeRightPoints:'+7.0',
+                homeRatio:34
+            },{
+                time:'Sun 3/13, 10:00 AM',
+                awayName:'kings',
+                awayLeftPoints:'+10.0',
+                awayRightPoints:'+10.0',
+                awayRatio:37,
+                homeName:'jazz',
+                homeLeftPoints:'-10.0',
+                homeRightPoints:'-10.0',
+                homeRatio:63
+            }
+        ]
+    }
+
 
 ]
