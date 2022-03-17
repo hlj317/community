@@ -165,8 +165,8 @@ const nbaData = {
     pistons:[
         {        
             'name':'麦格鲁德',
-            'status':'出战存疑',
-            'detail':'肌腱受伤，周五对阵魔术的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周五对阵魔术的比赛',
             'important':false
         },{        
             'name':'迪亚洛',
@@ -185,8 +185,8 @@ const nbaData = {
             'important':true
         },{        
             'name':'坎宁安',
-            'status':'出战存疑',
-            'detail':'背部受伤，周五对阵魔术的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'背部受伤，无法出战周五对阵魔术的比赛',
             'important':true
         }
     ],
@@ -507,8 +507,8 @@ const nbaData = {
             'important':false
         },{
             'name':'温德勒.卡特',
-            'status':'出战存疑',
-            'detail':'左脚踝受伤，周五对阵活塞的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'左脚踝受伤，无法出战周五对阵活塞的比赛',
             'important':true
         },{
             'name':'艾萨克',

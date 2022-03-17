@@ -1435,11 +1435,11 @@ export const myData = [
                 awayName:'pistons',
                 awayLeftPoints:'+4.0',
                 awayRightPoints:'+4.0',
-                awayRatio:60,
+                awayRatio:51,
                 homeName:'magic',
                 homeLeftPoints:'-3.0',
                 homeRightPoints:'-3.0',
-                homeRatio:40
+                homeRatio:49
             }
         ]
     }
