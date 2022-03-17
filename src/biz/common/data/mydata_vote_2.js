@@ -1424,6 +1424,24 @@ export const myData = [
                 homeRatio:34
             }
         ]
+    },
+
+    //3月18日
+    {
+        date: 'Fri Mar 18',
+        list: [
+            {
+                time:'Fri 3/18, 7:00 AM',
+                awayName:'pistons',
+                awayLeftPoints:'+4.0',
+                awayRightPoints:'+4.0',
+                awayRatio:60,
+                homeName:'magic',
+                homeLeftPoints:'-3.0',
+                homeRightPoints:'-3.0',
+                homeRatio:40
+            }
+        ]
     }
 
 

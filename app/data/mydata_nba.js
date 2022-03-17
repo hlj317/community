@@ -165,18 +165,13 @@ const nbaData = {
     pistons:[
         {        
             'name':'麦格鲁德',
-            'status':'大概率出战',
-            'detail':'大概率可以出战周三对阵热火的比赛',
+            'status':'出战存疑',
+            'detail':'肌腱受伤，周五对阵魔术的比赛出战存疑',
             'important':false
         },{        
             'name':'迪亚洛',
             'status':'缺阵',
-            'detail':'左手指受伤，无法出战周三对阵热火的比赛',
-            'important':false
-        },{        
-            'name':'基里安.海耶斯',
-            'status':'大概率出战',
-            'detail':'大概率可以出战周三对阵热火的比赛',
+            'detail':'左手指受伤，无法出战周五对阵魔术的比赛',
             'important':false
         },{        
             'name':'弗兰克.杰克逊',
@@ -184,14 +179,14 @@ const nbaData = {
             'detail':'背部受伤，至少缺阵1-2周',
             'important':false
         },{        
-            'name':'坎宁安',
+            'name':'格兰特',
             'status':'缺阵',
-            'detail':'背部受伤，无法出战周三对阵热火的比赛',
+            'detail':'右膝受伤，无法出战周五对阵魔术的比赛',
             'important':true
         },{        
-            'name':'斯图尔特',
-            'status':'出战',
-            'detail':'可以出战周三对阵热火的比赛',
+            'name':'坎宁安',
+            'status':'出战存疑',
+            'detail':'背部受伤，周五对阵魔术的比赛出战存疑',
             'important':true
         }
     ],
@@ -503,17 +498,22 @@ const nbaData = {
         {
             'name':'萨格斯',
             'status':'缺阵',
-            'detail':'无法出战周三对阵篮网的比赛',
+            'detail':'脚踝受伤，无法出战周五对阵活塞的比赛',
             'important':true
         },{
-            'name':'加里.哈里斯',
+            'name':'奥基基',
             'status':'出战存疑',
-            'detail':'右膝受伤，周三对阵篮网的比赛出战存疑',
+            'detail':'左膝受伤，周五对阵活塞的比赛出战存疑',
             'important':false
+        },{
+            'name':'温德勒.卡特',
+            'status':'出战存疑',
+            'detail':'左脚踝受伤，周五对阵活塞的比赛出战存疑',
+            'important':true
         },{
             'name':'艾萨克',
             'status':'长期缺阵',
-            'detail':'左膝ACL伤病，没有回归时间',
+            'detail':'左膝ACL伤病，赛季报销',
             'important':true
         },{
             'name':'波尔',
