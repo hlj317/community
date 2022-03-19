@@ -674,8 +674,13 @@ const nbaData = {
     wizards:[
         {
             'name':'波尔津吉斯',
-            'status':'缺阵',
-            'detail':'伤病管理，无法出战周日对阵湖人的比赛',
+            'status':'大概率出战',
+            'detail':'大概率可以出战周日对阵湖人的比赛',
+            'important':true
+        },{
+            'name':'波普',
+            'status':'出战存疑',
+            'detail':'脚踝扭伤，周日对阵湖人的比赛出战存疑',
             'important':true
         },{
             'name':'比尔',
