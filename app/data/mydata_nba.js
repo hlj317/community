@@ -358,6 +358,11 @@ const nbaData = {
             'detail':'肩膀受伤，归期未定',
             'important':false
         },{
+            'name':'兰德尔',
+            'status':'缺阵',
+            'detail':'四头肌受伤，无法出战周三对阵老鹰的比赛',
+            'important':true
+        },{
             'name':'德里克.罗斯',
             'status':'长期缺阵',
             'detail':'右脚踝二次手术，预计两周之后回归球队',

@@ -1825,42 +1825,42 @@ export const myData = [
                 time:'Wed 3/23, 7:00 AM',
                 awayName:'warriors',
                 awayLeftPoints:'-8.5',
-                awayRightPoints:'-8.0',
-                awayRatio:57,
+                awayRightPoints:'-7.5',
+                awayRatio:52,
                 homeName:'magic',
                 homeLeftPoints:'+8.5',
-                homeRightPoints:'+8.0',
-                homeRatio:43
+                homeRightPoints:'+7.5',
+                homeRatio:48
             },{
                 time:'Wed 3/23, 7:30 AM',
                 awayName:'hawks',
                 awayLeftPoints:'-2.0',
-                awayRightPoints:'-1.5',
-                awayRatio:65,
+                awayRightPoints:'-3.5',
+                awayRatio:63,
                 homeName:'knicks',
                 homeLeftPoints:'+2.0',
-                homeRightPoints:'+1.5',
-                homeRatio:35
+                homeRightPoints:'+3.5',
+                homeRatio:37
             },{
                 time:'Wed 3/23, 8:00 AM',
                 awayName:'bulls',
                 awayLeftPoints:'+5.5',
-                awayRightPoints:'+6.0',
-                awayRatio:22,
+                awayRightPoints:'+8.0',
+                awayRatio:30,
                 homeName:'bucks',
                 homeLeftPoints:'-5.5',
-                homeRightPoints:'-6.0',
-                homeRatio:78
+                homeRightPoints:'-8.0',
+                homeRatio:70
             },{
                 time:'Wed 3/23, 10:00 AM',
                 awayName:'clippers',
                 awayLeftPoints:'+6.5',
                 awayRightPoints:'+6.5',
-                awayRatio:39,
+                awayRatio:42,
                 homeName:'nuggets',
                 homeLeftPoints:'-6.5',
                 homeRightPoints:'-6.5',
-                homeRatio:61
+                homeRatio:58
             }
         ]
     }
