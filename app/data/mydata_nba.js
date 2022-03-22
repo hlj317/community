@@ -68,6 +68,11 @@ const nbaData = {
     //芝加哥公牛
     bulls:[
         {
+            'name':'拉文',
+            'status':'出战',
+            'detail':'可以出战周三对阵雄鹿的比赛',
+            'important':true
+        },{
             'name':'朗佐.鲍尔',
             'status':'长期缺阵',
             'detail':'膝盖手术，预计缺阵4-6周',
