@@ -1863,6 +1863,124 @@ export const myData = [
                 homeRatio:58
             }
         ]
+    },
+
+    //3月24日
+    {
+        date: 'Thu Mar 24',
+        list: [
+            {
+                time:'Thu 3/24, 7:00 AM',
+                awayName:'kings',
+                awayLeftPoints:'+6.5',
+                awayRightPoints:'+6.0',
+                awayRatio:53,
+                homeName:'pacers',
+                homeLeftPoints:'-6.5',
+                homeRightPoints:'-6.0',
+                homeRatio:47
+            },{
+                time:'Thu 3/24, 7:00 AM',
+                awayName:'hawks',
+                awayLeftPoints:'-6.5',
+                awayRightPoints:'-5.5',
+                awayRatio:41,
+                homeName:'pistons',
+                homeLeftPoints:'+6.5',
+                homeRightPoints:'+5.5',
+                homeRatio:59
+            },{
+                time:'Thu 3/24, 7:00 AM',
+                awayName:'knicks',
+                awayLeftPoints:'+2.0',
+                awayRightPoints:'+7.0',
+                awayRatio:44,
+                homeName:'hornets',
+                homeLeftPoints:'-2.0',
+                homeRightPoints:'-7.0',
+                homeRatio:56
+            },{
+                time:'Thu 3/24, 7:30 AM',
+                awayName:'nets',
+                awayLeftPoints:'+3.5',
+                awayRightPoints:'-3.0',
+                awayRatio:63,
+                homeName:'grizzlies',
+                homeLeftPoints:'-3.5',
+                homeRightPoints:'+3.0',
+                homeRatio:37
+            },{
+                time:'Thu 3/24, 7:30 AM',
+                awayName:'warriors',
+                awayLeftPoints:'+7.5',
+                awayRightPoints:'+7.0',
+                awayRatio:38,
+                homeName:'heat',
+                homeLeftPoints:'-7.5',
+                homeRightPoints:'-7.0',
+                homeRatio:62
+            },{
+                time:'Thu 3/24, 7:30 AM',
+                awayName:'jazz',
+                awayLeftPoints:'+6.5',
+                awayRightPoints:'+5.0',
+                awayRatio:46,
+                homeName:'celtics',
+                homeLeftPoints:'-6.5',
+                homeRightPoints:'-5.0',
+                homeRatio:54
+            },{
+                time:'Thu 3/24, 8:00 AM',
+                awayName:'magic',
+                awayLeftPoints:'+1.5',
+                awayRightPoints:'-2.0',
+                awayRatio:62,
+                homeName:'thunder',
+                homeLeftPoints:'-1.5',
+                homeRightPoints:'+2.0',
+                homeRatio:38
+            },{
+                time:'Thu 3/24, 8:00 AM',
+                awayName:'suns',
+                awayLeftPoints:'+1.5',
+                awayRightPoints:'-1.5',
+                awayRatio:52,
+                homeName:'timberwolves',
+                homeLeftPoints:'-1.5',
+                homeRightPoints:'+1.5',
+                homeRatio:48
+            },{
+                time:'Thu 3/24, 8:30 AM',
+                awayName:'rockets',
+                awayLeftPoints:'+12.5',
+                awayRightPoints:'+9.5',
+                awayRatio:34,
+                homeName:'mavericks',
+                homeLeftPoints:'-12.5',
+                homeRightPoints:'-9.5',
+                homeRatio:66
+            },{
+                time:'Thu 3/24, 10:00 AM',
+                awayName:'seven6ers',
+                awayLeftPoints:'-2.0',
+                awayRightPoints:'-7.5',
+                awayRatio:64,
+                homeName:'lakers',
+                homeLeftPoints:'+2.0',
+                homeRightPoints:'+7.5',
+                homeRatio:36
+            },{
+                time:'Thu 3/24, 10:00 AM',
+                awayName:'spurs',
+                awayLeftPoints:'-1.5',
+                awayRightPoints:'-8.5',
+                awayRatio:60,
+                homeName:'blazers',
+                homeLeftPoints:'+1.5',
+                homeRightPoints:'+8.5',
+                homeRatio:40
+            }
+        ]
     }
 
 

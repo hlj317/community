@@ -116,6 +116,11 @@ const nbaData = {
             'detail':'膝盖受伤，无法出战',
             'important':false
         },{
+            'name':'东契奇',
+            'status':'缺阵',
+            'detail':'脚踝受伤，无法出战周四对阵火箭的比赛',
+            'important':true
+        },{
             'name':'西奥.平森',
             'status':'缺阵',
             'detail':'手指受伤，归期未定',
@@ -446,8 +451,13 @@ const nbaData = {
             'important':false
         },{        
             'name':'恩比德',
-            'status':'出战存疑',
-            'detail':'背部受伤，每日观察',
+            'status':'出战',
+            'detail':'预计可以出战周四对阵湖人的比赛',
+            'important':true
+        },{        
+            'name':'哈登',
+            'status':'出战',
+            'detail':'预计可以出战周四对阵湖人的比赛',
             'important':true
         }
     ],
