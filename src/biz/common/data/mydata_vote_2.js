@@ -1991,52 +1991,52 @@ export const myData = [
                 time:'Fri 3/25, 7:30 AM',
                 awayName:'cavaliers',
                 awayLeftPoints:'+3.0',
-                awayRightPoints:'+3.5',
-                awayRatio:36,
+                awayRightPoints:'+5.5',
+                awayRatio:35,
                 homeName:'raptors',
                 homeLeftPoints:'-3.0',
-                homeRightPoints:'-3.5',
-                homeRatio:64
+                homeRightPoints:'-5.5',
+                homeRatio:65
             },{
                 time:'Fri 3/25, 8:00 AM',
                 awayName:'pacers',
                 awayLeftPoints:'+12.5',
                 awayRightPoints:'+12.5',
-                awayRatio:30,
+                awayRatio:36,
                 homeName:'grizzlies',
                 homeLeftPoints:'-12.5',
                 homeRightPoints:'-12.5',
-                homeRatio:70
+                homeRatio:64
             },{
                 time:'Fri 3/25, 8:00 AM',
                 awayName:'wizards',
                 awayLeftPoints:'+12.0',
-                awayRightPoints:'+12.0',
-                awayRatio:27,
+                awayRightPoints:'+13.0',
+                awayRatio:32,
                 homeName:'bucks',
                 homeLeftPoints:'-12.0',
-                homeRightPoints:'-12.0',
-                homeRatio:73
+                homeRightPoints:'-13.0',
+                homeRatio:68
             },{
                 time:'Fri 3/25, 8:00 AM',
                 awayName:'bulls',
                 awayLeftPoints:'-1.5',
-                awayRightPoints:'-1.0',
-                awayRatio:60,
+                awayRightPoints:'+2.0',
+                awayRatio:59,
                 homeName:'pelicans',
                 homeLeftPoints:'+1.5',
-                homeRightPoints:'+1.0',
-                homeRatio:40
+                homeRightPoints:'-2.0',
+                homeRatio:41
             },{
                 time:'Fri 3/25, 9:00 AM',
                 awayName:'suns',
                 awayLeftPoints:'+3.5',
-                awayRightPoints:'+3.5',
-                awayRatio:47,
+                awayRightPoints:'+4.0',
+                awayRatio:55,
                 homeName:'nuggets',
                 homeLeftPoints:'-3.5',
-                homeRightPoints:'-3.5',
-                homeRatio:53
+                homeRightPoints:'-4.0',
+                homeRatio:45
             }
         ]
     }
