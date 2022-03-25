@@ -2039,6 +2039,84 @@ export const myData = [
                 homeRatio:45
             }
         ]
+    },
+
+    //3月26日
+    {
+        date: 'Sat Mar 26',
+        list: [
+            {
+                time:'Sat 3/26, 7:00 AM',
+                awayName:'wizards',
+                awayLeftPoints:'+2.5',
+                awayRightPoints:'+3.0',
+                awayRatio:42,
+                homeName:'pistons',
+                homeLeftPoints:'-2.5',
+                homeRightPoints:'-3.0',
+                homeRatio:58
+            },{
+                time:'Sat 3/26, 7:00 AM',
+                awayName:'jazz',
+                awayLeftPoints:'-3.5',
+                awayRightPoints:'-3.5',
+                awayRatio:61,
+                homeName:'hornets',
+                homeLeftPoints:'-3.5',
+                homeRightPoints:'-3.5',
+                homeRatio:39
+            },{
+                time:'Sat 3/26, 7:30 AM',
+                awayName:'warriors',
+                awayLeftPoints:'+2.0',
+                awayRightPoints:'+2.0',
+                awayRatio:52,
+                homeName:'hawks',
+                homeLeftPoints:'-2.0',
+                homeRightPoints:'-2.0',
+                homeRatio:48
+            },{
+                time:'Sat 3/26, 8:00 AM',
+                awayName:'mavericks',
+                awayLeftPoints:'+1.5',
+                awayRightPoints:'+1.5',
+                awayRatio:45,
+                homeName:'timberwolves',
+                homeLeftPoints:'-1.5',
+                homeRightPoints:'-1.5',
+                homeRatio:55
+            },{
+                time:'Sat 3/26, 8:00 AM',
+                awayName:'knicks',
+                awayLeftPoints:'+5.0',
+                awayRightPoints:'+5.5',
+                awayRatio:34,
+                homeName:'heat',
+                homeLeftPoints:'-5.0',
+                homeRightPoints:'-5.5',
+                homeRatio:66
+            },{
+                time:'Sat 3/26, 10:00 AM',
+                awayName:'rockets',
+                awayLeftPoints:'-3.5',
+                awayRightPoints:'-3.5',
+                awayRatio:53,
+                homeName:'blazers',
+                homeLeftPoints:'+3.5',
+                homeRightPoints:'+3.5',
+                homeRatio:47
+            },{
+                time:'Sat 3/26, 10:30 AM',
+                awayName:'seven6ers',
+                awayLeftPoints:'-5.5',
+                awayRightPoints:'-6.0',
+                awayRatio:68,
+                homeName:'clippers',
+                homeLeftPoints:'+5.5',
+                homeRightPoints:'+6.0',
+                homeRatio:32
+            }
+        ]
     }
 
 
