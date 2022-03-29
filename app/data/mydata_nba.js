@@ -296,8 +296,8 @@ const nbaData = {
             'important':true
         },{
             'name':'保罗.乔治',
-            'status':'出战存疑',
-            'detail':'手肘撕裂，周三对阵爵士的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周三对阵爵士的比赛',
             'important':true
         },{
             'name':'科怀.伦纳德',
@@ -315,8 +315,8 @@ const nbaData = {
     lakers:[
         {
             'name':'詹姆斯',
-            'status':'出战存疑',
-            'detail':'脚踝扭伤，周三对阵独行侠的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'无法出战周三对阵独行侠的比赛',
             'important':true
         },{
             'name':'安东尼戴维斯',
@@ -367,8 +367,8 @@ const nbaData = {
             'important':false
         },{
             'name':'字母哥',
-            'status':'出战存疑',
-            'detail':'膝盖受伤，周三对阵76人的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周三对阵76人的比赛',
             'important':true
         }
     ],
