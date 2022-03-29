@@ -77,6 +77,11 @@ const nbaData = {
     //克利夫兰骑士
     cavaliers:[
         {
+            'name':'莫布利',
+            'status':'缺阵',
+            'detail':'腿部受伤，归期未定',
+            'important':true
+        },{
             'name':'贾勒特.艾伦',
             'status':'缺阵',
             'detail':'手指骨折，归期未定',
@@ -109,6 +114,11 @@ const nbaData = {
             'name':'西奥.平森',
             'status':'缺阵',
             'detail':'手指受伤，归期未定',
+            'important':false
+        },{
+            'name':'斯特林.布朗',
+            'status':'缺阵',
+            'detail':'因为安全健康协议，会缺阵数场比赛',
             'important':false
         }
     ],
@@ -155,8 +165,8 @@ const nbaData = {
             'important':false
         },{        
             'name':'格兰特',
-            'status':'轮休',
-            'detail':'身体不适，无法出战周一对阵尼克斯的比赛',
+            'status':'出战存疑',
+            'detail':'身体不适，周三对阵篮网的比赛出战存疑',
             'important':true
         }
     ],
@@ -304,6 +314,11 @@ const nbaData = {
     //洛杉矶湖人
     lakers:[
         {
+            'name':'詹姆斯',
+            'status':'出战存疑',
+            'detail':'脚踝扭伤，周三对阵独行侠的比赛出战存疑',
+            'important':true
+        },{
             'name':'安东尼戴维斯',
             'status':'长期缺阵',
             'detail':'脚踝扭伤，至少缺阵一个月时间',
@@ -318,11 +333,6 @@ const nbaData = {
     //孟菲斯灰熊
     grizzlies:[
         {
-            'name':'克拉克',
-            'status':'出战存疑',
-            'detail':'腿部受伤，周二对阵勇士的比赛出战存疑',
-            'important':false
-        },{
             'name':'贾伦.杰克逊',
             'status':'出战存疑',
             'detail':'腿部受伤，周二对阵勇士的比赛出战存疑',
@@ -358,7 +368,7 @@ const nbaData = {
         },{
             'name':'字母哥',
             'status':'出战存疑',
-            'detail':'膝盖受伤，每日观察',
+            'detail':'膝盖受伤，周三对阵76人的比赛出战存疑',
             'important':true
         }
     ],
@@ -666,12 +676,12 @@ const nbaData = {
         },{
             'name':'怀特塞德',
             'status':'缺阵',
-            'detail':'腿部受伤，无法出战周一对阵独行侠的比赛',
+            'detail':'腿部受伤，无法出战周三对阵快船的比赛',
             'important':false
         },{
             'name':'戈贝尔',
-            'status':'缺阵',
-            'detail':'右脚受伤，无法出战周一对阵独行侠的比赛',
+            'status':'出战存疑',
+            'detail':'右脚受伤，周三对阵快船的比赛出战存疑',
             'important':true
         }                   
     ],
