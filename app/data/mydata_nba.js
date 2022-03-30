@@ -111,6 +111,11 @@ const nbaData = {
             'detail':'腿部手术，归期未定',
             'important':true
         },{
+            'name':'丁威迪',
+            'status':'轮休',
+            'detail':'身体不适，无法出战周四对阵骑士的比赛',
+            'important':true
+        },{
             'name':'西奥.平森',
             'status':'缺阵',
             'detail':'手指受伤，归期未定',
