@@ -2568,51 +2568,51 @@ export const myData = [
                 awayName:'seven6ers',
                 awayLeftPoints:'-9.0',
                 awayRightPoints:'-11.0',
-                awayRatio:46,
+                awayRatio:33,
                 homeName:'pistons',
                 homeLeftPoints:'+9.0',
                 homeRightPoints:'+11.0',
-                homeRatio:54
+                homeRatio:67
             },{
                 time:'Fri 4/01, 7:30 AM',
                 awayName:'bucks',
                 awayLeftPoints:'-3.0',
                 awayRightPoints:'+1.5',
-                awayRatio:56,
+                awayRatio:61,
                 homeName:'nets',
                 homeLeftPoints:'+3.0',
                 homeRightPoints:'-1.5',
-                homeRatio:44
+                homeRatio:39
             },{
                 time:'Fri 4/01, 7:30 AM',
                 awayName:'cavaliers',
                 awayLeftPoints:'+5.0',
                 awayRightPoints:'+5.0',
-                awayRatio:31,
+                awayRatio:28,
                 homeName:'hawks',
                 homeLeftPoints:'-5.0',
                 homeRightPoints:'-5.0',
-                homeRatio:69
+                homeRatio:72
             },{
                 time:'Fri 4/01, 8:00 AM',
                 awayName:'clippers',
                 awayLeftPoints:'+3.5',
                 awayRightPoints:'+3.5',
-                awayRatio:43,
+                awayRatio:49,
                 homeName:'bulls',
                 homeLeftPoints:'-3.5',
                 homeRightPoints:'-3.5',
-                homeRatio:57
+                homeRatio:51
             },{
                 time:'Fri 4/01, 10:00 AM',
                 awayName:'lakers',
                 awayLeftPoints:'+12.5',
                 awayRightPoints:'+12.5',
-                awayRatio:28,
+                awayRatio:48,
                 homeName:'jazz',
                 homeLeftPoints:'-12.5',
                 homeRightPoints:'-12.5',
-                homeRatio:72
+                homeRatio:52
             }
         ]
     }
