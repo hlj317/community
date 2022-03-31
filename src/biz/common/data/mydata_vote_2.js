@@ -2568,51 +2568,51 @@ export const myData = [
                 awayName:'seven6ers',
                 awayLeftPoints:'-9.0',
                 awayRightPoints:'-11.0',
-                awayRatio:33,
+                awayRatio:44,
                 homeName:'pistons',
                 homeLeftPoints:'+9.0',
                 homeRightPoints:'+11.0',
-                homeRatio:67
+                homeRatio:56
             },{
                 time:'Fri 4/01, 7:30 AM',
                 awayName:'bucks',
                 awayLeftPoints:'-3.0',
-                awayRightPoints:'+1.5',
-                awayRatio:61,
+                awayRightPoints:'+2.0',
+                awayRatio:57,
                 homeName:'nets',
                 homeLeftPoints:'+3.0',
-                homeRightPoints:'-1.5',
-                homeRatio:39
+                homeRightPoints:'-2.0',
+                homeRatio:43
             },{
                 time:'Fri 4/01, 7:30 AM',
                 awayName:'cavaliers',
                 awayLeftPoints:'+5.0',
                 awayRightPoints:'+5.0',
-                awayRatio:28,
+                awayRatio:34,
                 homeName:'hawks',
                 homeLeftPoints:'-5.0',
                 homeRightPoints:'-5.0',
-                homeRatio:72
+                homeRatio:66
             },{
                 time:'Fri 4/01, 8:00 AM',
                 awayName:'clippers',
                 awayLeftPoints:'+3.5',
                 awayRightPoints:'+3.5',
-                awayRatio:49,
+                awayRatio:38,
                 homeName:'bulls',
                 homeLeftPoints:'-3.5',
                 homeRightPoints:'-3.5',
-                homeRatio:51
+                homeRatio:62
             },{
                 time:'Fri 4/01, 10:00 AM',
                 awayName:'lakers',
                 awayLeftPoints:'+12.5',
-                awayRightPoints:'+12.5',
-                awayRatio:48,
+                awayRightPoints:'+14.0',
+                awayRatio:40,
                 homeName:'jazz',
                 homeLeftPoints:'-12.5',
-                homeRightPoints:'-12.5',
-                homeRatio:52
+                homeRightPoints:'-14.0',
+                homeRatio:60
             }
         ]
     }

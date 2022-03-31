@@ -2,9 +2,9 @@ const nbaData = {
     //亚特兰大老鹰
     hawks:[
         {
-            'name':'加里纳利',
+            'name':'路易斯.威廉姆斯',
             'status':'缺阵',
-            'detail':'腿部受伤，无法出战周四对阵雷霆的比赛',
+            'detail':'腿部受伤，无法出战周五对阵骑士的比赛',
             'important':true
         },{
             'name':'约翰.科林斯',
@@ -245,11 +245,6 @@ const nbaData = {
     //洛杉矶快船
     clippers:[
         {
-            'name':'科温顿',
-            'status':'出战存疑',
-            'detail':'手部受伤，周六对阵76人的比赛出战存疑',
-            'important':false
-        },{
             'name':'鲍威尔',
             'status':'长期缺阵',
             'detail':'腿部骨折，归期未定',
@@ -271,12 +266,12 @@ const nbaData = {
         {
             'name':'詹姆斯',
             'status':'缺阵',
-            'detail':'无法出战周三对阵独行侠的比赛',
+            'detail':'脚踝受伤，无法出战周五对阵爵士的比赛',
             'important':true
         },{
             'name':'安东尼戴维斯',
-            'status':'长期缺阵',
-            'detail':'脚踝扭伤，至少缺阵一个月时间',
+            'status':'出战',
+            'detail':'预计在周六对阵鹈鹕的比赛中复出',
             'important':true
         },{
             'name':'纳恩',
@@ -320,11 +315,6 @@ const nbaData = {
             'status':'长期缺阵',
             'detail':'膝盖韧带撕裂，赛季报销',
             'important':false
-        },{
-            'name':'字母哥',
-            'status':'出战',
-            'detail':'可以出战周三对阵76人的比赛',
-            'important':true
         }
     ],
     //明尼苏达森林狼
@@ -604,16 +594,6 @@ const nbaData = {
     //犹它爵士
     jazz:[
         {
-            'name':'博扬',
-            'status':'缺阵',
-            'detail':'小腿受伤，归期未定',
-            'important':true
-        },{
-            'name':'丹尼尔.豪斯',
-            'status':'缺阵',
-            'detail':'膝盖受伤，归期未定',
-            'important':false
-        },{
             'name':'阿祖布伊克',
             'status':'缺阵',
             'detail':'脚踝受伤，归期未定',
@@ -621,9 +601,14 @@ const nbaData = {
         },{
             'name':'怀特塞德',
             'status':'缺阵',
-            'detail':'腿部受伤，无法出战周三对阵快船的比赛',
+            'detail':'腿部受伤，无法出战周五对阵湖人的比赛',
             'important':false
-        }                  
+        },{
+            'name':'福瑞斯特',
+            'status':'缺阵',
+            'detail':'脚踝受伤，无法出战周五对阵湖人的比赛',
+            'important':false
+        }                   
     ],
     //华盛顿奇才
     wizards:[
