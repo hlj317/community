@@ -2952,7 +2952,7 @@ export const myData = [
                 awayLeftPoints:'+4.0',
                 awayRightPoints:'+4.0',
                 awayRatio:40,
-                homeName:'rpators',
+                homeName:'raptors',
                 homeLeftPoints:'-4.0',
                 homeRightPoints:'-4.0',
                 homeRatio:60
