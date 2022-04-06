@@ -3038,5 +3038,73 @@ export const myData = [
                 homeRatio:49
             }
         ]
+    },
+
+    //4月7日
+    {
+        date: 'Thu Mar 07',
+        list: [
+            {
+                time:'Thu 4/07, 7:00 AM',
+                awayName:'mavericks',
+                awayLeftPoints:'-9.5',
+                awayRightPoints:'-9.0',
+                awayRatio:56,
+                homeName:'pistons',
+                homeLeftPoints:'+9.5',
+                homeRightPoints:'+9.0',
+                homeRatio:44
+            },{
+                time:'Thu 4/07, 7:30 AM',
+                awayName:'nets',
+                awayLeftPoints:'-7.5',
+                awayRightPoints:'-7.0',
+                awayRatio:72,
+                homeName:'knicks',
+                homeLeftPoints:'+7.5',
+                homeRightPoints:'+7.0',
+                homeRatio:28
+            },{
+                time:'Thu 4/07, 8:00 AM',
+                awayName:'wizards',
+                awayLeftPoints:'+9.5',
+                awayRightPoints:'+10.5',
+                awayRatio:41,
+                homeName:'hawks',
+                homeLeftPoints:'-9.5',
+                homeRightPoints:'-10.5',
+                homeRatio:59
+            },{
+                time:'Thu 4/07, 8:00 AM',
+                awayName:'celtics',
+                awayLeftPoints:'-7.5',
+                awayRightPoints:'-6.5',
+                awayRatio:66,
+                homeName:'bulls',
+                homeLeftPoints:'+7.5',
+                homeRightPoints:'+6.5',
+                homeRatio:34
+            },{
+                time:'Thu 4/07, 9:00 AM',
+                awayName:'thunder',
+                awayLeftPoints:'+18.0',
+                awayRightPoints:'+17.0',
+                awayRatio:48,
+                homeName:'jazz',
+                homeLeftPoints:'-18.0',
+                homeRightPoints:'-17.0',
+                homeRatio:52
+            },{
+                time:'Thu 4/07, 10:00 AM',
+                awayName:'suns',
+                awayLeftPoints:'-3.0',
+                awayRightPoints:'-3.0',
+                awayRatio:60,
+                homeName:'clippers',
+                homeLeftPoints:'+3.0',
+                homeRightPoints:'+3.0',
+                homeRatio:40
+            }
+        ]
     }
 ]
