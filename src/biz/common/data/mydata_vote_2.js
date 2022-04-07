@@ -2561,7 +2561,7 @@ export const myData = [
 
     //4月1日
     {
-        date: 'Fri Mar 01',
+        date: 'Fri Apr 01',
         list: [
             {
                 time:'Fri 4/01, 7:00 AM',
@@ -2619,7 +2619,7 @@ export const myData = [
 
     //4月2日
     {
-        date: 'Sat Mar 02',
+        date: 'Sat Apr 02',
         list: [
             {
                 time:'Sat 4/02, 7:00 AM',
@@ -2786,7 +2786,7 @@ export const myData = [
 
     //4月4日
     {
-        date: 'Mon Mar 04',
+        date: 'Mon Apr 04',
         list: [
             {
                 time:'Mon 4/04, 1:00 AM',
@@ -2914,7 +2914,7 @@ export const myData = [
 
     //4月6日
     {
-        date: 'Wed Mar 06',
+        date: 'Wed Apr 06',
         list: [
             {
                 time:'Wed 4/06, 7:00 AM',
@@ -3042,7 +3042,7 @@ export const myData = [
 
     //4月7日
     {
-        date: 'Thu Mar 07',
+        date: 'Thu Apr 07',
         list: [
             {
                 time:'Thu 4/07, 7:00 AM',
@@ -3104,6 +3104,85 @@ export const myData = [
                 homeLeftPoints:'+3.0',
                 homeRightPoints:'-6.5',
                 homeRatio:60
+            }
+        ]
+    },
+
+
+    //4月8日
+    {
+        date: 'Fri Apr 08',
+        list: [
+            {
+                time:'Fri 4/08, 7:00 AM',
+                awayName:'magic',
+                awayLeftPoints:'+14.0',
+                awayRightPoints:'+13.5',
+                awayRatio:34,
+                homeName:'hornets',
+                homeLeftPoints:'-14.0',
+                homeRightPoints:'-13.5',
+                homeRatio:66
+            },{
+                time:'Fri 4/08, 7:30 AM',
+                awayName:'celtics',
+                awayLeftPoints:'+6.0',
+                awayRightPoints:'+6.0',
+                awayRatio:57,
+                homeName:'bucks',
+                homeLeftPoints:'-6.0',
+                homeRightPoints:'-6.0',
+                homeRatio:43
+            },{
+                time:'Fri 4/08, 7:30 AM',
+                awayName:'seven6ers',
+                awayLeftPoints:'+3.0',
+                awayRightPoints:'+1.5',
+                awayRatio:55,
+                homeName:'raptors',
+                homeLeftPoints:'-3.0',
+                homeRightPoints:'-1.5',
+                homeRatio:45
+            },{
+                time:'Fri 4/08, 8:00 AM',
+                awayName:'blazers',
+                awayLeftPoints:'+16.0',
+                awayRightPoints:'+16.5',
+                awayRatio:52,
+                homeName:'pelicans',
+                homeLeftPoints:'-16.0',
+                homeRightPoints:'-16.5',
+                homeRatio:48
+            },{
+                time:'Fri 4/08, 8:00 AM',
+                awayName:'spurs',
+                awayLeftPoints:'+8.5',
+                awayRightPoints:'+8.5',
+                awayRatio:46,
+                homeName:'timberwolves',
+                homeLeftPoints:'-8.5',
+                homeRightPoints:'-8.5',
+                homeRatio:54
+            },{
+                time:'Fri 4/08, 9:00 AM',
+                awayName:'grizzlies',
+                awayLeftPoints:'+2.5',
+                awayRightPoints:'+3.0',
+                awayRatio:60,
+                homeName:'nuggets',
+                homeLeftPoints:'-2.5',
+                homeRightPoints:'-3.0',
+                homeRatio:40
+            },{
+                time:'Fri 4/08, 10:00 AM',
+                awayName:'lakers',
+                awayLeftPoints:'+10.5',
+                awayRightPoints:'+12.5',
+                awayRatio:38,
+                homeName:'warriors',
+                homeLeftPoints:'-10.5',
+                homeRightPoints:'-12.5',
+                homeRatio:62
             }
         ]
     }
