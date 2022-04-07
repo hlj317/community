@@ -3118,71 +3118,71 @@ export const myData = [
                 awayName:'magic',
                 awayLeftPoints:'+14.0',
                 awayRightPoints:'+13.5',
-                awayRatio:34,
+                awayRatio:52,
                 homeName:'hornets',
                 homeLeftPoints:'-14.0',
                 homeRightPoints:'-13.5',
-                homeRatio:66
+                homeRatio:48
             },{
                 time:'Fri 4/08, 7:30 AM',
                 awayName:'celtics',
                 awayLeftPoints:'+6.0',
                 awayRightPoints:'+6.0',
-                awayRatio:57,
+                awayRatio:67,
                 homeName:'bucks',
                 homeLeftPoints:'-6.0',
                 homeRightPoints:'-6.0',
-                homeRatio:43
+                homeRatio:33
             },{
                 time:'Fri 4/08, 7:30 AM',
                 awayName:'seven6ers',
                 awayLeftPoints:'+3.0',
                 awayRightPoints:'+1.5',
-                awayRatio:55,
+                awayRatio:61,
                 homeName:'raptors',
                 homeLeftPoints:'-3.0',
                 homeRightPoints:'-1.5',
-                homeRatio:45
+                homeRatio:39
             },{
                 time:'Fri 4/08, 8:00 AM',
                 awayName:'blazers',
                 awayLeftPoints:'+16.0',
                 awayRightPoints:'+16.5',
-                awayRatio:52,
+                awayRatio:62,
                 homeName:'pelicans',
                 homeLeftPoints:'-16.0',
                 homeRightPoints:'-16.5',
-                homeRatio:48
+                homeRatio:38
             },{
                 time:'Fri 4/08, 8:00 AM',
                 awayName:'spurs',
                 awayLeftPoints:'+8.5',
                 awayRightPoints:'+8.5',
-                awayRatio:46,
+                awayRatio:44,
                 homeName:'timberwolves',
                 homeLeftPoints:'-8.5',
                 homeRightPoints:'-8.5',
-                homeRatio:54
+                homeRatio:56
             },{
                 time:'Fri 4/08, 9:00 AM',
                 awayName:'grizzlies',
                 awayLeftPoints:'+2.5',
                 awayRightPoints:'+3.0',
-                awayRatio:60,
+                awayRatio:41,
                 homeName:'nuggets',
                 homeLeftPoints:'-2.5',
                 homeRightPoints:'-3.0',
-                homeRatio:40
+                homeRatio:59
             },{
                 time:'Fri 4/08, 10:00 AM',
                 awayName:'lakers',
                 awayLeftPoints:'+10.5',
                 awayRightPoints:'+12.5',
-                awayRatio:38,
+                awayRatio:32,
                 homeName:'warriors',
                 homeLeftPoints:'-10.5',
                 homeRightPoints:'-12.5',
-                homeRatio:62
+                homeRatio:68
             }
         ]
     }
