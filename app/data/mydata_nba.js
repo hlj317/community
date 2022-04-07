@@ -26,6 +26,16 @@ const nbaData = {
     //波士顿凯尔特人
     celtics:[
         {        
+            'name':'塔图姆',
+            'status':'轮休',
+            'detail':'身体不适，无法出战周五对阵雄鹿的比赛',
+            'important':true
+        },{        
+            'name':'霍福德',
+            'status':'轮休',
+            'detail':'身体不适，无法出战周五对阵雄鹿的比赛',
+            'important':true
+        },{        
             'name':'罗威',
             'status':'长期缺阵',
             'detail':'膝盖韧带撕裂，赛季报销',
@@ -66,7 +76,7 @@ const nbaData = {
         },{
             'name':'海沃德',
             'status':'缺阵',
-            'detail':'腿部受伤，无法出战周三对阵热火的比赛',
+            'detail':'腿部受伤，无法出战周五对阵魔术的比赛',
             'important':true
         }
     ],
@@ -291,7 +301,17 @@ const nbaData = {
         {
             'name':'詹姆斯',
             'status':'缺阵',
-            'detail':'脚踝受伤，无法出战周三对阵对阵太阳的比赛',
+            'detail':'脚踝受伤，无法出战周五对阵对阵勇士的比赛',
+            'important':true
+        },{
+            'name':'安东尼戴维斯',
+            'status':'缺阵',
+            'detail':'腿部受伤，无法出战周五对阵对阵勇士的比赛',
+            'important':true
+        },{
+            'name':'威斯布鲁克',
+            'status':'缺阵',
+            'detail':'腿部受伤，无法出战周五对阵对阵勇士的比赛',
             'important':true
         },{
             'name':'纳恩',
@@ -304,8 +324,8 @@ const nbaData = {
     grizzlies:[
         {
             'name':'狄龙布鲁克斯',
-            'status':'缺阵',
-            'detail':'臀部受伤，无法出战周三对阵爵士的比赛',
+            'status':'出战存疑',
+            'detail':'臀部受伤，周五对阵掘金的比赛出战存疑',
             'important':true
         },{
             'name':'贾.莫兰特',
@@ -336,10 +356,10 @@ const nbaData = {
     //密尔沃基雄鹿
     bucks:[
         {
-            'name':'本布里',
-            'status':'长期缺阵',
-            'detail':'膝盖韧带撕裂，赛季报销',
-            'important':false
+            'name':'格雷森.阿伦',
+            'status':'缺阵',
+            'detail':'臀部受伤，无法出战周五对阵凯尔特人的比赛',
+            'important':true
         }
     ],
     //明尼苏达森林狼
@@ -347,8 +367,18 @@ const nbaData = {
         {
             'name':'麦克丹尼尔斯',
             'status':'出战存疑',
-            'detail':'脚踝受伤，周三对阵奇才的比赛出战存疑',
+            'detail':'脚踝受伤，周五对阵马刺的比赛出战存疑',
             'important':false
+        },{
+            'name':'拉塞尔',
+            'status':'出战存疑',
+            'detail':'腿部受伤，周五对阵马刺的比赛出战存疑',
+            'important':true
+        },{
+            'name':'贝弗利',
+            'status':'出战存疑',
+            'detail':'脚踝受伤，周五对阵马刺的比赛出战存疑',
+            'important':true
         }
     ],
     //新奥尔良鹈鹕
@@ -364,9 +394,9 @@ const nbaData = {
             'detail':'腿部受伤，归期不定',
             'important':true
         },{
-            'name':'瓦兰丘纳斯',
-            'status':'出战存疑',
-            'detail':'腿部受伤，周三对阵国王的比赛出战存疑',
+            'name':'英格拉姆',
+            'status':'缺阵',
+            'detail':'肌腱受伤，无法出战周五对阵开拓者的比赛',
             'important':true
         }      
     ],
@@ -473,12 +503,17 @@ const nbaData = {
         {
             'name':'温德勒.卡特',
             'status':'缺阵',
-            'detail':'手腕受伤，无法出战周三对阵骑士的比赛',
+            'detail':'手腕受伤，无法出战周五对阵黄蜂的比赛',
             'important':true
         },{
             'name':'科尔.安东尼',
             'status':'缺阵',
-            'detail':'脚趾受伤，无法出战周三对阵骑士的比赛',
+            'detail':'脚趾受伤，无法出战周五对阵黄蜂的比赛',
+            'important':true
+        },{
+            'name':'小瓦格纳',
+            'status':'缺阵',
+            'detail':'脚踝受伤，无法出战周五对阵黄蜂的比赛',
             'important':true
         },{
             'name':'艾萨克',
@@ -633,8 +668,13 @@ const nbaData = {
         },{
             'name':'默里',
             'status':'缺阵',
-            'detail':'身体不适，无法出战周三对阵掘金的比赛',
+            'detail':'身体不适，无法出战周五对阵森林狼的比赛',
             'important':true
+        },{
+            'name':'朗尼.沃克',
+            'status':'缺阵',
+            'detail':'背部受伤，无法出战周五对阵森林狼的比赛',
+            'important':false
         }
     ],
     //多伦多猛龙
@@ -642,7 +682,12 @@ const nbaData = {
         {
             'name':'阿奴诺比',
             'status':'缺阵',
-            'detail':'小腿受伤，无法出战周三对阵老鹰的比赛',
+            'detail':'小腿受伤，无法出战周五对阵76人的比赛',
+            'important':true
+        },{
+            'name':'范弗利特',
+            'status':'轮休',
+            'detail':'身体不适，无法出战周五对阵76人的比赛',
             'important':true
         }  
     ],
