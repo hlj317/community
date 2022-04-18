@@ -2,24 +2,14 @@ const nbaData = {
     //亚特兰大老鹰
     hawks:[
         {
-            'name':'约翰.科林斯',
-            'status':'长期缺阵',
-            'detail':'右脚足底筋膜撕裂，归期未定',
-            'important':true
-        },{
-            'name':'加里纳利',
-            'status':'出战存疑',
-            'detail':'膝盖受伤，周四对阵奇才的比赛出战存疑',
-            'important':true
-        },{
-            'name':'博格丹',
-            'status':'出战存疑',
-            'detail':'膝盖受伤，周四对阵奇才的比赛出战存疑',
+            'name':'卡佩拉',
+            'status':'缺阵',
+            'detail':'至少缺阵一周时间',
             'important':true
         },{
             'name':'路易斯.威廉姆斯',
             'status':'缺阵',
-            'detail':'背部受伤，无法出战周四对阵奇才的比赛',
+            'detail':'背部受伤，无法出战',
             'important':false
         }
     ],
@@ -126,9 +116,9 @@ const nbaData = {
             'detail':'腿部手术，归期未定',
             'important':true
         },{
-            'name':'克勒贝尔',
+            'name':'东契奇',
             'status':'缺阵',
-            'detail':'脚踝受伤，周四对阵活塞的比赛出战存疑',
+            'detail':'腿部受伤，无法出战',
             'important':true
         },{
             'name':'斯特林.布朗',
