@@ -3,6 +3,7 @@ const productsListHandler = require("../models/handles/productsListHandler.js");
 const commentsListHandler = require("../models/handles/commentsListHandler.js");
 const nideshopAdHandler = require("../models/handles/nideshopAdHandler.js");
 const nbaData = require("../data/mydata_nba.js");
+const wnbaData = require("../data/mydata_wnba.js");
 const newsTitle = require("../data/news_title.json");
 const fs = require("fs");
 const ProModel = require("../models/model/proModel.js");
@@ -147,6 +148,7 @@ const injuryWNBA = async function (ctx, next) {
         title: "WNBA伤病名单-篮彩老黑",
         keywords: "WNBA,伤病,受伤,缺席,名单,篮彩,彩票",
         description: "24小时WNBA伤病名单实时更新，伤病消息来源于各WNBA俱乐部官方网站",
+        wnbaData
     });
     return next();
 };
@@ -187,6 +189,7 @@ const injuryWNBAPC = async function (ctx, next) {
         title: "WNBA伤病名单-篮彩老黑",
         keywords: "WNBA,伤病,受伤,缺席,名单,篮彩,彩票",
         description: "24小时WNBA伤病名单实时更新，伤病消息来源于各WNBA俱乐部官方网站",
+        wnbaData
     });
     return next();
 };

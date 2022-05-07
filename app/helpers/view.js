@@ -189,6 +189,84 @@ const getTeam = (key) => {
     return nbaTeam[key];
 };
 
+const getWnbaTeam = (key) => {
+	const wnbaTeam = {
+        dream:{
+            name:'亚特兰大梦想',
+            img:'https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/wnba-logo/dream.jpeg',
+            chineseName:'[A]亚特兰大梦想',
+            enName:'Atlanta Dream'
+        },
+        sky:{
+            name:'芝加哥天空',
+            img:'https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/wnba-logo/sky.jpeg',
+            chineseName:'[C]芝加哥天空',
+            enName:'Chicago Sky'
+        },
+        sun:{
+            name:'康涅狄克太阳',
+            img:'https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/wnba-logo/sun.jpeg',
+            chineseName:'[C]康涅狄克太阳',
+            enName:'Connecticut Sun'
+        },
+        wings:{
+            name:'达拉斯飞翼',
+            img:'https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/wnba-logo/wings.jpeg',
+            chineseName:'[D]达拉斯飞翼',
+            enName:'Dallas Wings'
+        },
+        aces:{
+            name:'拉斯维加斯王牌',
+            img:'https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/wnba-logo/aces.jpeg',
+            chineseName:'[L]拉斯维加斯王牌',
+            enName:'Las Vegas Aces'
+        },
+        fever:{
+            name:'印第安纳狂热',
+            img:'https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/wnba-logo/fever.jpeg',
+            chineseName:'[I]印第安纳狂热',
+            enName:'Indiana Fever'
+        },
+        sparks:{
+            name:'洛杉矶火花',
+            img:'https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/wnba-logo/sparks.jpeg',
+            chineseName:'[L]洛杉矶火花',
+            enName:'Los Angeles Sparks'
+        },
+        lynx:{
+            name:'明尼苏达天猫',
+            img:'https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/wnba-logo/lynx.jpeg',
+            chineseName:'[M]明尼苏达天猫',
+            enName:'Minnesota Lynx'
+        },
+        liberty:{
+            name:'纽约自由人',
+            img:'https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/wnba-logo/liberty.jpeg',
+            chineseName:'[N]纽约自由人',
+            enName:'New York Liberty'
+        },
+        mercury:{
+            name:'凤凰城水星',
+            img:'https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/wnba-logo/mercury.jpeg',
+            chineseName:'[P]凤凰城水星',
+            enName:'Phoenix Mercury'
+        },
+        storm:{
+            name:'西雅图风暴',
+            img:'https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/wnba-logo/storm.jpeg',
+            chineseName:'[S]西雅图风暴',
+            enName:'Seattle Storm'
+        },
+        mystics:{
+            name:'华盛顿神秘人',
+            img:'https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/wnba-logo/mystics.jpeg',
+            chineseName:'[W]华盛顿神秘人',
+            enName:'Washington Mystics'
+        }
+    }
+    return wnbaTeam[key];
+};
+
 
 let url = function (scope, option) {
     const param = option.params[0];
@@ -235,6 +313,11 @@ exports.libsPath = libsPath;
 exports.getTeam = function(name){
     const nbaObj = getTeam(name.affix.xindex);
     return nbaObj;
+};
+
+exports.getWnbaTeam = function(name){
+    const wnbaObj = getWnbaTeam(name.affix.xindex);
+    return wnbaObj;
 };
 
 exports.getLength = function(name){
