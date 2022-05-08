@@ -204,9 +204,9 @@ const getWnbaTeam = (key) => {
             enName:'Chicago Sky'
         },
         sun:{
-            name:'康涅狄克太阳',
+            name:'康涅狄克阳光',
             img:'https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/wnba-logo/sun.jpeg',
-            chineseName:'[C]康涅狄克太阳',
+            chineseName:'[C]康涅狄克阳光',
             enName:'Connecticut Sun'
         },
         wings:{
