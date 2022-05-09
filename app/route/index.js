@@ -26,5 +26,8 @@ module.exports = {
     "/getProductsList": community.getProductsList,
     "/getNideshopAd": community.getNideshopAd,
     "/getCommentsList": community.getCommentsList,
-    "/news-:id":community.news
+    "/news-:id":community.news,
+    "/info": community.info,
+    "/infopc": community.infopc,
+    "/detail-:id": community.detail
 };   

@@ -126,6 +126,43 @@ const rank = async function (ctx, next) {
     return next();
 };
 
+const info = async function (ctx, next) {
+    const ua = ctx.request.header['user-agent'];
+    if(!isMobile(ua)){
+        ctx.redirect('/infopc');
+    };
+    await ctx.render("community/info", {
+        title: "WNBA新闻-篮彩老黑",
+        keywords: "WNBA,WNBA新闻,WNBA资讯",
+        description: "WNBA新闻资讯，每周持续更新"
+    });
+    return next();
+};
+
+const infopc = async function (ctx, next) {
+    const ua = ctx.request.header['user-agent'];
+    if(isMobile(ua)){
+        ctx.redirect('/info');
+    };
+    await ctx.render("community/infopc", {
+        title: "WNBA新闻-篮彩老黑",
+        keywords: "WNBA,WNBA新闻,WNBA资讯",
+        description: "WNBA新闻资讯，每周持续更新"
+    });
+    return next();
+};
+
+const detail = async function (ctx, next) {
+    const url = ctx.url,
+    num = url.substring(8,url.indexOf("."));
+    await ctx.render("infos/detail-"+num, {
+        title: "WNBA新闻-篮彩老黑",
+        keywords: "WNBA,WNBA新闻,WNBA资讯",
+        description: "WNBA新闻资讯，每周持续更新"
+    });
+    return next();
+};
+
 const rankPC = async function (ctx, next) {
     const ua = ctx.request.header['user-agent'];
     if(isMobile(ua)){
@@ -284,5 +321,8 @@ module.exports = {
     rank,
     rankPC,
     news,
-    createNews
+    createNews,
+    info,
+    infopc,
+    detail
 };
