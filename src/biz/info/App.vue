@@ -342,9 +342,7 @@
         width:250 / @b;
         height:142 / @b;
     }
-    .clear{
-        clear:both;
-    }
+
 }
 </style>
 
