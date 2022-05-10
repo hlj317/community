@@ -192,8 +192,8 @@ const wnbaData = {
             'important':false
         },{
             'name':'多恩',
-            'status':'出战存疑',
-            'detail':'背部不适，每日观察，上一场比赛因为伤病管理临时缺席比赛；2021赛季休战一赛季',
+            'status':'出战',
+            'detail':'可以出战周三对阵王牌的比赛；2021赛季休战一赛季',
             'important':true
         }
     ]  
