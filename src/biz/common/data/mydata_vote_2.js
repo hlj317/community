@@ -3302,21 +3302,21 @@ export const myData = [
                 awayName:'lynx',
                 awayLeftPoints:'-4.0',
                 awayRightPoints:'-4.0',
-                awayRatio:42,
+                awayRatio:46,
                 homeName:'fever',
                 homeLeftPoints:'+4.0',
                 homeRightPoints:'+4.0',
-                homeRatio:58
+                homeRatio:54
             },{
                 time:'Wed 5/11, 7:00 AM',
                 awayName:'aces',
                 awayLeftPoints:'-5.0',
                 awayRightPoints:'-5.0',
-                awayRatio:32,
+                awayRatio:56,
                 homeName:'mystics',
                 homeLeftPoints:'+5.0',
                 homeRightPoints:'+5.0',
-                homeRatio:68
+                homeRatio:44
             },{
                 time:'Wed 5/11, 7:30 AM',
                 awayName:'seven6ers',
