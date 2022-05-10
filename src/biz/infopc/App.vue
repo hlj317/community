@@ -285,7 +285,7 @@
         height:149px;
     }
     .news-list{
-        margin-top:60px;
+        margin-top:45px;
         // margin:0;
         text-align: center;
         font-size:24px;
