@@ -3,7 +3,31 @@
     <url>
         <loc>https://www.cbdyou.com.cn</loc>
         <priority>1.0</priority>
-        <lastmod>2022-05-11</lastmod>
+        <lastmod>2022-05-12</lastmod>
+        <changefreq>always</changefreq>
+    </url>
+        <url>
+        <loc>https://www.cbdyou.com.cn/injurywnba.html</loc>
+        <priority>0.5</priority>
+        <lastmod>2022-05-12</lastmod>
+        <changefreq>always</changefreq>
+    </url>
+    <url>
+        <loc>https://www.cbdyou.com.cn/injurywnbapc.html</loc>
+        <priority>0.5</priority>
+        <lastmod>2022-05-12</lastmod>
+        <changefreq>always</changefreq>
+    </url>
+        <url>
+        <loc>https://www.cbdyou.com.cn/info.html</loc>
+        <priority>1.0</priority>
+        <lastmod>2022-05-12</lastmod>
+        <changefreq>always</changefreq>
+    </url>
+    <url>
+    <loc>https://www.cbdyou.com.cn/infopc.html</loc>
+        <priority>1.0</priority>
+        <lastmod>2022-05-12</lastmod>
         <changefreq>always</changefreq>
     </url>
     <url>
@@ -19,18 +43,6 @@
         <changefreq>always</changefreq>
     </url>
     <url>
-        <loc>https://www.cbdyou.com.cn/info.html</loc>
-        <priority>1.0</priority>
-        <lastmod>2022-05-11</lastmod>
-        <changefreq>always</changefreq>
-    </url>
-    <url>
-    <loc>https://www.cbdyou.com.cn/infopc.html</loc>
-        <priority>1.0</priority>
-        <lastmod>2022-05-11</lastmod>
-        <changefreq>always</changefreq>
-    </url>
-    <url>
         <loc>https://www.cbdyou.com.cn/rank.html</loc>
         <priority>1.0</priority>
         <lastmod>2022-05-11</lastmod>
@@ -39,18 +51,6 @@
     <url>
         <loc>https://www.cbdyou.com.cn/rankpc.html</loc>
         <priority>1.0</priority>
-        <lastmod>2022-05-11</lastmod>
-        <changefreq>daily</changefreq>
-    </url>
-    <url>
-        <loc>https://www.cbdyou.com.cn/injurywnba.html</loc>
-        <priority>0.5</priority>
-        <lastmod>2022-05-11</lastmod>
-        <changefreq>daily</changefreq>
-    </url>
-    <url>
-        <loc>https://www.cbdyou.com.cn/injurywnbapc.html</loc>
-        <priority>0.5</priority>
         <lastmod>2022-05-11</lastmod>
         <changefreq>daily</changefreq>
     </url>
