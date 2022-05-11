@@ -3339,5 +3339,64 @@ export const myData = [
                 homeRatio:71
             }
         ]
+    },
+
+
+    //5月12日
+    {
+        date: 'Thu May 12',
+        list: [
+            {
+                time:'Thu 5/12, 7:00 AM',
+                awayName:'sparks',
+                awayLeftPoints:'-3.0',
+                awayRightPoints:'-5.0',
+                awayRatio:68,
+                homeName:'dream',
+                homeLeftPoints:'+3.0',
+                homeRightPoints:'+5.0',
+                homeRatio:32
+            },{
+                time:'Thu 5/12, 7:00 AM',
+                awayName:'bucks',
+                awayLeftPoints:'+5.5',
+                awayRightPoints:'+5.5',
+                awayRatio:45,
+                homeName:'celtics',
+                homeLeftPoints:'-5.5',
+                homeRightPoints:'-5.5',
+                homeRatio:55
+            },{
+                time:'Thu 5/12, 8:00 AM',
+                awayName:'liberty',
+                awayLeftPoints:'+4.0',
+                awayRightPoints:'+4.0',
+                awayRatio:40,
+                homeName:'sky',
+                homeLeftPoints:'-4.0',
+                homeRightPoints:'-4.0',
+                homeRatio:60
+            },{
+                time:'Thu 5/12, 9:30 AM',
+                awayName:'warriors',
+                awayLeftPoints:'-3.0',
+                awayRightPoints:'-4.0',
+                awayRatio:61,
+                homeName:'grizzlies',
+                homeLeftPoints:'+3.0',
+                homeRightPoints:'+4.0',
+                homeRatio:39
+            },{
+                time:'Thu 5/12, 10:00 AM',
+                awayName:'storm',
+                awayLeftPoints:'-4.0',
+                awayRightPoints:'-4.5',
+                awayRatio:77,
+                homeName:'mercury',
+                homeLeftPoints:'+4.0',
+                homeRightPoints:'+4.5',
+                homeRatio:23
+            }
+        ]
     }
 ]
