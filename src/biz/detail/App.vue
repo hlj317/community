@@ -338,6 +338,8 @@
         display: block;
         color:#333333;
         font-size:24 / @b;
+        position: relative;
+        z-index: 9999;
     }
     .detail-dot{
         margin-right:20 / @b;

@@ -316,7 +316,7 @@
         color:#333333;
     }
     .news-line-title{
-        font-size: 36 / @b;
+        font-size: 34 / @b;
         font-weight: bold;
         text-align: left;
         line-height: 45 / @b;
@@ -324,7 +324,7 @@
     }
     .news-line-label{
         text-align: left;
-        font-size:24 / @b;
+        font-size:22 / @b;
         color:#666666;
     }
     .news-line-author{
