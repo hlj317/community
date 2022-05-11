@@ -5,6 +5,7 @@ const nideshopAdHandler = require("../models/handles/nideshopAdHandler.js");
 const nbaData = require("../data/mydata_nba.js");
 const wnbaData = require("../data/mydata_wnba.js");
 const newsTitle = require("../data/news_title.json");
+const wnbaNewsTitle = require("../data/wnba_news_title.json");
 const fs = require("fs");
 const ProModel = require("../models/model/proModel.js");
 // const proModel = ProModel.instance();
@@ -156,7 +157,7 @@ const detail = async function (ctx, next) {
     const url = ctx.url;
     num = url.substring(8,url.indexOf("."));
     await ctx.render("infos/detail-"+num, {
-        title: "WNBA新闻-篮彩老黑",
+        title: wnbaNewsTitle[num] + "-WNBA新闻-篮彩老黑",
         keywords: "WNBA,WNBA新闻,WNBA资讯",
         description: "WNBA新闻资讯，每周持续更新"
     });
@@ -167,7 +168,7 @@ const detailPC = async function (ctx, next) {
     const url = ctx.url;
     num = url.substring(10,url.indexOf("."));
     await ctx.render("infos/detail-"+num, {
-        title: "WNBA新闻-篮彩老黑",
+        title: wnbaNewsTitle[num] + "-WNBA新闻-篮彩老黑",
         keywords: "WNBA,WNBA新闻,WNBA资讯",
         description: "WNBA新闻资讯，每周持续更新"
     });
