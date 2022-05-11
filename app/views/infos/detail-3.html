@@ -1,0 +1,59 @@
+{{extend ("../layout/mobile_default.html")}}
+{{#block ("body")}}
+<div id="detail" class="news-detail">
+    <div class="top-part">
+        <div class="top-menu">
+            <div class="portait-img">
+                <img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/common/portait.png"/>
+            </div>
+            <div class="portait-text">
+                <div class="text-name"><span class="text-game">每日红单推荐</span>请关注微信公众号：<strong>[篮彩老黑]</strong></div>
+                <div class="text-notice">WNBA新闻资讯、WNBA伤病名单实时更新、WNBA篮彩投注率更新</div>
+            </div>
+        </div>
+        <div class="clear"></div>
+        <ul class="nav">
+            <li><a href="/injurywnba.html">WNBA</a></li>
+            <li class="vote-ratio"><a href="/vote.html">盘口投注率</a></li>
+            <li class="vote-ratio"><a href="#">WNBA新闻</a><span class="selected"></span></li>
+            <li><a href="/injurynba.html">NBA</a></li>
+        </ul>
+    </div>
+    <div class="clear"></div>
+    <div id="detail" class="detail-page">
+        <a class="detail-return" href="/info.html"><span class="detail-dot">&lt&lt</span>WNBA新闻列表</a>
+        <div class="detail-title">[赛场速递]王牌76-89神秘人，两支不败球队的顶级较量</div>
+        <div class="detail-lable">
+            <span class="detail-author">译/老黑</span>
+            <span class="detail-time">2022-05-11 17:31</span>
+        </div>
+        <div class="detail-img"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/wnba-news/2.jpg" /></div>
+        <div class="detail-content">
+            到目前为止，WNBA只有三支两胜的球队，王牌和神秘人就是其中的两支。<br/><br/>
+            王牌队（2-0）在WNBA一年级教练贝基.哈蒙的带领下早早地引起了轰动。<br/><br/>
+            神秘人（2-0）在主场揭幕战中击败印第安纳，然后在周一客场击败天猫获胜。<br/><br/>
+            上一场比赛中没有埃琳娜·戴尔·多恩（Elena Delle Donne），她是球队在揭幕战中的头号射手，但还有其他人为神秘人做出了贡献，他们周一有五名球员上双。<br/><br/>
+            “球90%的时间都在我手中，”后卫娜塔莎·克劳德说，她在两场比赛中的得分都排在球队第二位。“我是球队的组织核心。如果我不能上篮，那么我会找到我们的空位射手。”<br/><br/>
+            由于蒂安娜.霍金斯因个人原因缺席，华盛顿只有八名球员参加周三的比赛，因此王牌队势必会尝试利用任何可能仍然存在的深度问题。<br/><br/>
+            王牌在凤凰城获胜，然后在主场击败西雅图，分别得到106分和85分。<br/><br/>
+            考虑到拉斯维加斯在2021年是联盟得分最高的球队，有7名球员的平均得分达到两位数，因此这一结果应该不足为奇。<br/><br/>
+            但哈蒙要考虑的远不止这些。<br/><br/>
+            “如果我们不反弹，我们就无法奔跑，”哈蒙说。“我们必须确保球权并完成我们的防守。”<br/><br/>
+            哈蒙多次提到她的球队可能偏小，以此作为提高篮板球的动力。这当然适用于在与西雅图的比赛中以45-30的优势在篮板上保持优势的王牌队。<br/><br/>
+            威尔逊的20分和汉比的10分19篮板的努力是亮点之一，汉比以两双的数据记录了她职业生涯的第100场比赛。<br/><br/>
+            上赛季拉斯维加斯在所有三场比赛中都击败了神秘主义者，分别以1分、3分和10分获胜。威尔逊在这些会议上场均得到14.3个篮板，而克劳德场均9.7次助攻。<br/><br/>
+            但今天主场球队神秘人大发神威，下半场后来居上，最终王牌76-89神秘人，结束了开局的两连胜。<br/><br/>
+        </div>
+    </div>
+    <div class="bottom">
+        <div class="bottom-text">
+            本网站服务由[篮彩老黑]独家提供<br/>
+            <span>版权所有ICP证：</span>
+            <a href="https://beian.miit.gov.cn/" target="_blank" class="bottom-link">浙ICP备17001885号-5</a><br/>
+            Copyright © 2022 cbdyou.com.cn 保留一切权利
+        </div>
+        <div class="bottom-qrcode"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/common/lancai_qrcode_plus.jpg" /></div>
+    </div>
+</div>
+<script type="text/javascript" src="{{libsPath('vue.min.js')}}"></script>
+{{/block}}
