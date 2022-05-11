@@ -28,6 +28,7 @@ module.exports = {
     "/getCommentsList": community.getCommentsList,
     "/news-:id":community.news,
     "/info": community.info,
-    "/infopc": community.infopc,
-    "/detail-:id": community.detail
+    "/infopc": community.infoPC,
+    "/detail-:id": community.detail,
+    "/detailpc-:id": community.detailPC
 };   

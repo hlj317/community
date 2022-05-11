@@ -139,7 +139,7 @@ const info = async function (ctx, next) {
     return next();
 };
 
-const infopc = async function (ctx, next) {
+const infoPC = async function (ctx, next) {
     const ua = ctx.request.header['user-agent'];
     if(isMobile(ua)){
         ctx.redirect('/info');
@@ -153,8 +153,19 @@ const infopc = async function (ctx, next) {
 };
 
 const detail = async function (ctx, next) {
-    const url = ctx.url,
+    const url = ctx.url;
     num = url.substring(8,url.indexOf("."));
+    await ctx.render("infos/detail-"+num, {
+        title: "WNBA新闻-篮彩老黑",
+        keywords: "WNBA,WNBA新闻,WNBA资讯",
+        description: "WNBA新闻资讯，每周持续更新"
+    });
+    return next();
+};
+
+const detailPC = async function (ctx, next) {
+    const url = ctx.url;
+    num = url.substring(10,url.indexOf("."));
     await ctx.render("infos/detail-"+num, {
         title: "WNBA新闻-篮彩老黑",
         keywords: "WNBA,WNBA新闻,WNBA资讯",
@@ -323,6 +334,7 @@ module.exports = {
     news,
     createNews,
     info,
-    infopc,
-    detail
+    infoPC,
+    detail,
+    detailPC
 };

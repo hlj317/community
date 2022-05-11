@@ -61,9 +61,15 @@
         }else{
             ctx.state.path = path || "injurywnbapc";
         }
-        //新闻页用统一的样式模板
+        //NBA新闻页用统一的样式模板
         if(path.indexOf("news") > -1){
             ctx.state.path = "news";
+        }
+        //WNBA新闻页用统一的样式模板
+        if(isMobile(ua) && path.indexOf("detail") > -1){
+            ctx.state.path = "detail";
+        }else if(path.indexOf("detail") > -1){
+            ctx.state.path = "detailpc";
         }
         return next();
     });

@@ -1,13 +1,13 @@
 <template>
-  <div id="injury"
-       class="injury-nba-page">
+  <div id="detail"
+       class="news-detail">
   </div>
 
 </template>
 
 <style lang="less">
 @import "~src/common/less/common.less";
-.injury-nba-page{
+.news-detail{
     font-weight: 440;
     /*
     公牛:#d3153b      bulls
@@ -293,6 +293,54 @@
     .bottom-qrcode img{
         width:129 / @b;
         height:149 / @b;
+    }
+    .detail-page{
+        margin:160 / @b 0 0 0;
+        font-size:24 / @b;
+        color:#333333;
+        padding:0;
+        line-height: 32 / @b;
+    }
+    .detail-title{
+        font-size:40 / @b;
+        text-align: left;
+        font-weight: bold;
+        line-height: 50 / @b;
+        margin:0 30 /@b;
+    }
+    .detail-img{
+        width:100%;
+        text-align: center;
+        margin:15 / @b 0 25 /@b 0;
+    }
+    .detail-img img{
+        width:680 / @b;
+        height:388 / @b;
+    }
+    .detail-content{
+        color:#000000;
+        font-size:28 / @b;
+        line-height: 40 / @b;
+        margin:0 30 /@b;
+    }
+    .detail-lable{
+        font-size:24 / @b;
+        color:#666666;
+        margin:10 / @b 0 0 32 / @b;
+    }
+    .detail-author{
+        margin-right:20 / @b;
+    }
+    .detail-time{
+    }
+    .detail-return{
+        margin:0 0 15/@b 30/@b;
+        display: block;
+        color:#333333;
+        font-size:24 / @b;
+    }
+    .detail-dot{
+        margin-right:20 / @b;
     }
 }
 </style>
