@@ -307,7 +307,6 @@
     }
     .news-line-title{
         font-size: 30px;
-        font-weight: bold;
         text-align: left;
         line-height: 45px;
         height:105px;
