@@ -1,0 +1,51 @@
+{{extend ("../layout/mobile_default.html")}}
+{{#block ("body")}}
+<div id="detail" class="news-detail">
+    <div class="top-part">
+        <div class="top-menu">
+            <div class="portait-img">
+                <img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/common/portait.png"/>
+            </div>
+            <div class="portait-text">
+                <div class="text-name"><span class="text-game">每日红单推荐</span>请关注微信公众号：<strong>[篮彩老黑]</strong></div>
+                <div class="text-notice">WNBA新闻资讯、WNBA伤病名单实时更新、WNBA篮彩投注率更新</div>
+            </div>
+        </div>
+        <div class="clear"></div>
+        <ul class="nav">
+            <li><a href="/injurywnba.html">WNBA</a></li>
+            <li class="vote-ratio"><a href="/vote.html">盘口投注率</a></li>
+            <li class="vote-ratio"><a href="#">WNBA新闻</a><span class="selected"></span></li>
+            <li><a href="/injurynba.html">NBA</a></li>
+        </ul>
+    </div>
+    <div class="clear"></div>
+    <div id="detail" class="detail-page">
+        <a class="detail-return" href="/info.html"><span class="detail-dot">&lt&lt</span>WNBA新闻列表</a>
+        <div class="detail-title">[赛场速递]自由人50-83天空，中国球员韩旭得到队内最高分10分</div>
+        <div class="detail-lable">
+            <span class="detail-author">译/老黑</span>
+            <span class="detail-time">2022-05-12 14:48</span>
+        </div>
+        <div class="detail-img"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/wnba-news/5.jpg" /></div>
+        <div class="detail-content">
+            芝加哥（美联社）达纳埃文斯得到15分，丽贝卡加德纳得到14分，芝加哥天空队在周三晚上以83-50击败纽约自由队。<br/><br/>
+            芝加哥在半场结束时以36-17领先，将纽约的投篮命中率控制在20%，其中包括12投1中的三分球，这是自康涅狄格州在2015年9月1日至少有12次三分球出手以来的最低命中率。<br/><br/>
+            天空在第三节以13-4的比分开场，以49-21领先28分，而纽约在第四节还剩20.2秒时乔斯林威洛比的上篮得分达到50分。<br/><br/>
+            坎迪斯·帕克（Candace Parker）得到11分，艾玛·梅斯曼（Emma Meesseman）为芝加哥（1-1）拿下10分，帕克和梅斯曼各有6个篮板和4次助攻。<br/><br/>
+            本场比赛，芝加哥三分球22投10中，埃文斯和帕克各投3分，而纽约60投20中。<br/><br/>
+            值得一提的是，自由人队的中国球员韩旭得到队内最高分10分。Natasha Howard和Betnijah Laney各得8分，Stefanie Dolson对她的老东家得6分，上场表现不俗的萨布丽娜·约内斯库只得两分。<br/><br/>
+        </div>
+    </div>
+    <div class="bottom">
+        <div class="bottom-text">
+            本网站服务由[篮彩老黑]独家提供<br/>
+            <span>版权所有ICP证：</span>
+            <a href="https://beian.miit.gov.cn/" target="_blank" class="bottom-link">浙ICP备17001885号-5</a><br/>
+            Copyright © 2022 cbdyou.com.cn 保留一切权利
+        </div>
+        <div class="bottom-qrcode"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/common/lancai_qrcode_plus.jpg" /></div>
+    </div>
+</div>
+<script type="text/javascript" src="{{libsPath('vue.min.js')}}"></script>
+{{/block}}

@@ -1,0 +1,50 @@
+{{extend ("../layout/mobile_default.html")}}
+{{#block ("body")}}
+<div id="detail" class="news-detail">
+    <div class="top-part">
+        <div class="top-menu">
+            <div class="portait-img">
+                <img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/common/portait.png"/>
+            </div>
+            <div class="portait-text">
+                <div class="text-name"><span class="text-game">每日红单推荐</span>请关注微信公众号：<strong>[篮彩老黑]</strong></div>
+                <div class="text-notice">WNBA新闻资讯、WNBA伤病名单实时更新、WNBA篮彩投注率更新</div>
+            </div>
+        </div>
+        <div class="clear"></div>
+        <ul class="nav">
+            <li><a href="/injurywnba.html">WNBA</a></li>
+            <li class="vote-ratio"><a href="/vote.html">盘口投注率</a></li>
+            <li class="vote-ratio"><a href="#">WNBA新闻</a><span class="selected"></span></li>
+            <li><a href="/injurynba.html">NBA</a></li>
+        </ul>
+    </div>
+    <div class="clear"></div>
+    <div id="detail" class="detail-page">
+        <a class="detail-return" href="/info.html"><span class="detail-dot">&lt&lt</span>WNBA新闻列表</a>
+        <div class="detail-title">[赛场速递]风暴77-97水星，风暴斯图尔特缺阵，水星主场开门红</div>
+        <div class="detail-lable">
+            <span class="detail-author">译/老黑</span>
+            <span class="detail-time">2022-05-12 18:18</span>
+        </div>
+        <div class="detail-img"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/wnba-news/7.jpg" /></div>
+        <div class="detail-content">
+            凤凰城（美联社）蒂娜·查尔斯得到22分和11个篮板，斯凯拉尔·迪金斯·史密斯得到19分和6次助攻，凤凰水星队在周三晚上以97-77击败西雅图风暴队，这是水星主场第一次取得胜利。<br/><br/>
+            由于健康和安全协议，西雅图没有明星布雷安娜·斯图尔特，而菲尼克斯则失去了在俄罗斯被拘留的中锋布兰妮·格里纳。<br/><br/>
+            在本场比赛的第三节中段，水星队的查尔斯连得七分，以54-39率队领先西雅图风暴。<br/><br/>
+            最终，水星第四节一波流，以20分的优势拿下了本场比赛的胜利。其中，水星队的陶乐西命中4个三分球，为水星拿下15分，而风暴的伯德为球队投进了4个三分球，得到14分。<br/><br/>
+            此外，风暴这边，朱厄尔·洛伊德（Jewell Loyd）独得26分拿下全场最高分。<br/><br/>
+        </div>
+    </div>
+    <div class="bottom">
+        <div class="bottom-text">
+            本网站服务由[篮彩老黑]独家提供<br/>
+            <span>版权所有ICP证：</span>
+            <a href="https://beian.miit.gov.cn/" target="_blank" class="bottom-link">浙ICP备17001885号-5</a><br/>
+            Copyright © 2022 cbdyou.com.cn 保留一切权利
+        </div>
+        <div class="bottom-qrcode"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/common/lancai_qrcode_plus.jpg" /></div>
+    </div>
+</div>
+<script type="text/javascript" src="{{libsPath('vue.min.js')}}"></script>
+{{/block}}

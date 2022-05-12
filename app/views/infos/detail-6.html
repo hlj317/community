@@ -1,0 +1,51 @@
+{{extend ("../layout/mobile_default.html")}}
+{{#block ("body")}}
+<div id="detail" class="news-detail">
+    <div class="top-part">
+        <div class="top-menu">
+            <div class="portait-img">
+                <img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/common/portait.png"/>
+            </div>
+            <div class="portait-text">
+                <div class="text-name"><span class="text-game">每日红单推荐</span>请关注微信公众号：<strong>[篮彩老黑]</strong></div>
+                <div class="text-notice">WNBA新闻资讯、WNBA伤病名单实时更新、WNBA篮彩投注率更新</div>
+            </div>
+        </div>
+        <div class="clear"></div>
+        <ul class="nav">
+            <li><a href="/injurywnba.html">WNBA</a></li>
+            <li class="vote-ratio"><a href="/vote.html">盘口投注率</a></li>
+            <li class="vote-ratio"><a href="#">WNBA新闻</a><span class="selected"></span></li>
+            <li><a href="/injurynba.html">NBA</a></li>
+        </ul>
+    </div>
+    <div class="clear"></div>
+    <div id="detail" class="detail-page">
+        <a class="detail-return" href="/info.html"><span class="detail-dot">&lt&lt</span>WNBA新闻列表</a>
+        <div class="detail-title">[赛场速递]火花75-77梦想，状元霍华德21分带领梦想险胜火花</div>
+        <div class="detail-lable">
+            <span class="detail-author">译/老黑</span>
+            <span class="detail-time">2022-05-12 18:36</span>
+        </div>
+        <div class="detail-img"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/wnba-news/6.jpg" /></div>
+        <div class="detail-content">
+            亚特兰大梦想队在周三晚上以77-75击败洛杉矶火花队。<br/><br/>
+            其中，佐治亚州大学公园 (美联社) 状元莱恩.霍华德发挥出色，得到21分，其中包括全队13个三分球中的5个，霍华德在第四节还剩3分07秒的时候底角命中三分，领先7分，但此后亚特兰大就没有再得分过了。<br/><br/>
+            霍华德被要求在比赛还剩16.3秒时进行一次进攻，因为亚特兰大已经连续三次控球失误了。<br/><br/>
+            暂停后，洛杉矶队在最后几秒本有机会，但Chiney Ogwumike在油漆区错失了一个有争议的上篮，遗憾告负。<br/><br/>
+            状元霍华德还抢下8个篮板，梅根·沃克得到11分，克里斯蒂·华莱士和夏安·帕克为亚特兰大各得10分（2-0）。<br/><br/>
+            火花队这边，Jordin Canada为洛杉矶队得到19分，Nneka Ogwumike得到17分和15个篮板，这是她职业生涯的第80次两双，Liz Cambage得到16分。<br/><br/>
+        </div>
+    </div>
+    <div class="bottom">
+        <div class="bottom-text">
+            本网站服务由[篮彩老黑]独家提供<br/>
+            <span>版权所有ICP证：</span>
+            <a href="https://beian.miit.gov.cn/" target="_blank" class="bottom-link">浙ICP备17001885号-5</a><br/>
+            Copyright © 2022 cbdyou.com.cn 保留一切权利
+        </div>
+        <div class="bottom-qrcode"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/common/lancai_qrcode_plus.jpg" /></div>
+    </div>
+</div>
+<script type="text/javascript" src="{{libsPath('vue.min.js')}}"></script>
+{{/block}}
