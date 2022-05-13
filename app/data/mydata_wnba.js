@@ -152,7 +152,7 @@ const wnbaData = {
             'name':'理查德兹',
             'status':'出战存疑',
             'detail':'腿部受伤，每日观察；2021场均数据：2.3分/1.1篮板/0.8助攻/0.5抢断',
-            'important':true
+            'important':false
         },{        
             'name':'萨巴利',
             'status':'长期缺阵',
