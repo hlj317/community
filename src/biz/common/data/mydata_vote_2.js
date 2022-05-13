@@ -3410,31 +3410,31 @@ export const myData = [
                 awayName:'wings',
                 awayLeftPoints:'+8.0',
                 awayRightPoints:'+8.0',
-                awayRatio:18,
+                awayRatio:32,
                 homeName:'mystics',
                 homeLeftPoints:'-8.0',
                 homeRightPoints:'-8.0',
-                homeRatio:82
+                homeRatio:68
             },{
                 time:'Sat 5/14, 7:30 AM',
                 awayName:'aces',
                 awayLeftPoints:'-7.0',
                 awayRightPoints:'-6.0',
-                awayRatio:61,
+                awayRatio:52,
                 homeName:'dream',
                 homeLeftPoints:'+7.0',
                 homeRightPoints:'+6.0',
-                homeRatio:39
+                homeRatio:48
             },{
                 time:'Sat 5/14, 8:00 AM',
                 awayName:'fever',
                 awayLeftPoints:'+6.0',
                 awayRightPoints:'+6.0',
-                awayRatio:32,
+                awayRatio:63,
                 homeName:'liberty',
                 homeLeftPoints:'-6.0',
                 homeRightPoints:'-6.0',
-                homeRatio:68
+                homeRatio:37
             }
         ]
     }
