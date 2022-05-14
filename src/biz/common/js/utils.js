@@ -249,9 +249,9 @@ export const getTeam = (key) => {
             enName:'Los Angeles Sparks'
         },
         lynx:{
-            name:'明尼苏达天猫',
+            name:'明尼苏达山猫',
             img:'https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/wnba-logo/lynx.jpeg',
-            chineseName:'[M]明尼苏达天猫',
+            chineseName:'[M]明尼苏达山猫',
             enName:'Minnesota Lynx'
         },
         liberty:{
