@@ -3476,5 +3476,33 @@ export const myData = [
                 homeRatio:58
             }
         ]
+    },
+
+    //5月16日
+    {
+        date: 'Mon May 16',
+        list: [
+            {
+                time:'Mon 5/16, 2:00 AM',
+                awayName:'wings',
+                awayLeftPoints:'-1.5',
+                awayRightPoints:'-1.5',
+                awayRatio:61,
+                homeName:'liberty',
+                homeLeftPoints:'+1.5',
+                homeRightPoints:'+1.5',
+                homeRatio:39
+            },{
+                time:'Mon 5/16, 3:00 AM',
+                awayName:'dream',
+                awayLeftPoints:'-1.0',
+                awayRightPoints:'-1.0',
+                awayRatio:45,
+                homeName:'fever',
+                homeLeftPoints:'+1.0',
+                homeRightPoints:'+1.0',
+                homeRatio:55
+            }
+        ]
     }
 ]
