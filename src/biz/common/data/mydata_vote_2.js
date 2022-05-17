@@ -3515,21 +3515,21 @@ export const myData = [
                 awayName:'sun',
                 awayLeftPoints:'-7.0',
                 awayRightPoints:'-7.0',
-                awayRatio:63,
+                awayRatio:75,
                 homeName:'liberty',
                 homeLeftPoints:'+7.0',
                 homeRightPoints:'+7.0',
-                homeRatio:37
+                homeRatio:25
             },{
                 time:'Wed 5/18, 7:00 AM',
                 awayName:'dream',
                 awayLeftPoints:'+1.0',
                 awayRightPoints:'-1.0',
-                awayRatio:69,
+                awayRatio:56,
                 homeName:'fever',
                 homeLeftPoints:'-1.0',
                 homeRightPoints:'+1.0',
-                homeRatio:31
+                homeRatio:44
             },{
                 time:'Wed 5/18, 8:00 AM',
                 awayName:'mystics',
