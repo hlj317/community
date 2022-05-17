@@ -3504,5 +3504,63 @@ export const myData = [
                 homeRatio:55
             }
         ]
+    },
+
+    //5月18日
+    {
+        date: 'Wed May 18',
+        list: [
+            {
+                time:'Wed 5/18, 7:00 AM',
+                awayName:'sun',
+                awayLeftPoints:'-7.0',
+                awayRightPoints:'-7.0',
+                awayRatio:63,
+                homeName:'liberty',
+                homeLeftPoints:'+7.0',
+                homeRightPoints:'+7.0',
+                homeRatio:37
+            },{
+                time:'Wed 5/18, 7:00 AM',
+                awayName:'dream',
+                awayLeftPoints:'+1.0',
+                awayRightPoints:'-1.0',
+                awayRatio:69,
+                homeName:'fever',
+                homeLeftPoints:'-1.0',
+                homeRightPoints:'+1.0',
+                homeRatio:31
+            },{
+                time:'Wed 5/18, 8:00 AM',
+                awayName:'mystics',
+                awayLeftPoints:'-1.5',
+                awayRightPoints:'-1.5',
+                awayRatio:65,
+                homeName:'wings',
+                homeLeftPoints:'+1.5',
+                homeRightPoints:'+1.5',
+                homeRatio:35
+            },{
+                time:'Wed 5/18, 10:00 AM',
+                awayName:'mercury',
+                awayLeftPoints:'+8.0',
+                awayRightPoints:'+8.0',
+                awayRatio:34,
+                homeName:'aces',
+                homeLeftPoints:'-8.0',
+                homeRightPoints:'-8.0',
+                homeRatio:66
+            },{
+                time:'Wed 5/18, 10:30 AM',
+                awayName:'lynx',
+                awayLeftPoints:'+8.5',
+                awayRightPoints:'+9.0',
+                awayRatio:41,
+                homeName:'sparks',
+                homeLeftPoints:'-8.5',
+                homeRightPoints:'-9.0',
+                homeRatio:59
+            }
+        ]
     }
 ]
