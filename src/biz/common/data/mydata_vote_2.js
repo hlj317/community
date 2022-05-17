@@ -3515,51 +3515,51 @@ export const myData = [
                 awayName:'sun',
                 awayLeftPoints:'-7.0',
                 awayRightPoints:'-7.0',
-                awayRatio:75,
+                awayRatio:78,
                 homeName:'liberty',
                 homeLeftPoints:'+7.0',
                 homeRightPoints:'+7.0',
-                homeRatio:25
+                homeRatio:22
             },{
                 time:'Wed 5/18, 7:00 AM',
                 awayName:'dream',
                 awayLeftPoints:'+1.0',
                 awayRightPoints:'-1.0',
-                awayRatio:56,
+                awayRatio:70,
                 homeName:'fever',
                 homeLeftPoints:'-1.0',
                 homeRightPoints:'+1.0',
-                homeRatio:44
+                homeRatio:30
             },{
                 time:'Wed 5/18, 8:00 AM',
                 awayName:'mystics',
                 awayLeftPoints:'-1.5',
                 awayRightPoints:'-1.5',
-                awayRatio:65,
+                awayRatio:78,
                 homeName:'wings',
                 homeLeftPoints:'+1.5',
                 homeRightPoints:'+1.5',
-                homeRatio:35
+                homeRatio:22
             },{
                 time:'Wed 5/18, 10:00 AM',
                 awayName:'mercury',
                 awayLeftPoints:'+8.0',
                 awayRightPoints:'+8.0',
-                awayRatio:34,
+                awayRatio:47,
                 homeName:'aces',
                 homeLeftPoints:'-8.0',
                 homeRightPoints:'-8.0',
-                homeRatio:66
+                homeRatio:53
             },{
                 time:'Wed 5/18, 10:30 AM',
                 awayName:'lynx',
                 awayLeftPoints:'+8.5',
                 awayRightPoints:'+9.0',
-                awayRatio:41,
+                awayRatio:80,
                 homeName:'sparks',
                 homeLeftPoints:'-8.5',
                 homeRightPoints:'-9.0',
-                homeRatio:59
+                homeRatio:20
             }
         ]
     }
