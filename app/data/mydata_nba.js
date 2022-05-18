@@ -16,19 +16,14 @@ const nbaData = {
     //波士顿凯尔特人
     celtics:[
         {        
-            'name':'塔图姆',
-            'status':'轮休',
-            'detail':'身体不适，无法出战周五对阵雄鹿的比赛',
+            'name':'斯玛特',
+            'status':'出战存疑',
+            'detail':'腿部受伤，出战存疑',
             'important':true
         },{        
-            'name':'霍福德',
-            'status':'轮休',
-            'detail':'身体不适，无法出战周五对阵雄鹿的比赛',
-            'important':true
-        },{        
-            'name':'罗威',
-            'status':'长期缺阵',
-            'detail':'膝盖韧带撕裂，赛季报销',
+            'name':'AI.霍福德',
+            'status':'缺阵',
+            'detail':'因为健康协议，会缺阵数场比赛',
             'important':true
         }
     ],
@@ -180,7 +175,7 @@ const nbaData = {
         {
             'name':'伊戈达拉',
             'status':'缺阵',
-            'detail':'腿部受伤，无法出战',
+            'detail':'背部受伤，无法出战',
             'important':false
         },{
             'name':'怀斯曼',
@@ -324,7 +319,7 @@ const nbaData = {
         {
             'name':'洛瑞',
             'status':'缺阵',
-            'detail':'腿部受伤，无法出战',
+            'detail':'腿筋拉伤，无法出战',
             'important':true
         }            
     ],

@@ -3562,5 +3562,23 @@ export const myData = [
                 homeRatio:20
             }
         ]
+    },
+
+    //5月19日
+    {
+        date: 'Thu May 19',
+        list: [
+            {
+                time:'Thu 5/19, 10:00 AM',
+                awayName:'sky',
+                awayLeftPoints:'-2.0',
+                awayRightPoints:'-2.0',
+                awayRatio:69,
+                homeName:'storm',
+                homeLeftPoints:'+2.0',
+                homeRightPoints:'+2.0',
+                homeRatio:31
+            }
+        ]
     }
 ]
