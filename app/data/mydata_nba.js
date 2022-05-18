@@ -115,16 +115,6 @@ const nbaData = {
             'status':'长期缺阵',
             'detail':'腿部手术，归期未定',
             'important':true
-        },{
-            'name':'东契奇',
-            'status':'缺阵',
-            'detail':'腿部受伤，无法出战',
-            'important':true
-        },{
-            'name':'斯特林.布朗',
-            'status':'缺阵',
-            'detail':'腿部受伤，无法出战周四对阵活塞的比赛',
-            'important':false
         }
     ],
     //丹佛掘金
@@ -188,9 +178,9 @@ const nbaData = {
     //金州勇士
     warriors:[
         {
-            'name':'奥托.波特',
-            'status':'出战存疑',
-            'detail':'腿部受伤，每日观察',
+            'name':'伊戈达拉',
+            'status':'缺阵',
+            'detail':'腿部受伤，无法出战',
             'important':false
         },{
             'name':'怀斯曼',
@@ -198,9 +188,9 @@ const nbaData = {
             'detail':'膝盖受伤，归期未定',
             'important':false
         },{
-            'name':'库里',
-            'status':'长期缺阵',
-            'detail':'左脚韧带受伤，归期未定',
+            'name':'小佩顿',
+            'status':'缺阵',
+            'detail':'腿部受伤，无法出战',
             'important':true
         }
     ],
@@ -334,14 +324,9 @@ const nbaData = {
         {
             'name':'洛瑞',
             'status':'缺阵',
-            'detail':'腿部受伤，无法出战周三对阵黄蜂的比赛',
+            'detail':'腿部受伤，无法出战',
             'important':true
-        },{
-            'name':'戴德蒙',
-            'status':'缺阵',
-            'detail':'脚踝受伤，无法出战周三对阵黄蜂的比赛',
-            'important':false
-        }             
+        }            
     ],
     //密尔沃基雄鹿
     bucks:[
