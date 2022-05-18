@@ -3571,12 +3571,12 @@ export const myData = [
             {
                 time:'Thu 5/19, 10:00 AM',
                 awayName:'sky',
-                awayLeftPoints:'-2.0',
-                awayRightPoints:'-2.0',
+                awayLeftPoints:'-3.5',
+                awayRightPoints:'+1.0',
                 awayRatio:42,
                 homeName:'storm',
-                homeLeftPoints:'+2.0',
-                homeRightPoints:'+2.0',
+                homeLeftPoints:'+3.5',
+                homeRightPoints:'-1.0',
                 homeRatio:58
             }
         ]
