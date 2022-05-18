@@ -3573,11 +3573,11 @@ export const myData = [
                 awayName:'sky',
                 awayLeftPoints:'-2.0',
                 awayRightPoints:'-2.0',
-                awayRatio:69,
+                awayRatio:42,
                 homeName:'storm',
                 homeLeftPoints:'+2.0',
                 homeRightPoints:'+2.0',
-                homeRatio:31
+                homeRatio:58
             }
         ]
     }
