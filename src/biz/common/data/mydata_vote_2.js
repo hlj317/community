@@ -3655,23 +3655,23 @@ export const myData = [
             {
                 time:'Sun 5/22, 3:00 AM',
                 awayName:'mercury',
-                awayLeftPoints:'+8.0',
+                awayLeftPoints:'+7.0',
                 awayRightPoints:'+8.0',
-                awayRatio:34,
+                awayRatio:31,
                 homeName:'aces',
-                homeLeftPoints:'-8.0',
+                homeLeftPoints:'-7.0',
                 homeRightPoints:'-8.0',
-                homeRatio:66
+                homeRatio:69
             },{
                 time:'Sun 5/22, 8:00 AM',
                 awayName:'lynx',
                 awayLeftPoints:'+5.0',
-                awayRightPoints:'+5.0',
-                awayRatio:47,
+                awayRightPoints:'+3.0',
+                awayRatio:58,
                 homeName:'wings',
                 homeLeftPoints:'-5.0',
-                homeRightPoints:'-5.0',
-                homeRatio:53
+                homeRightPoints:'-3.0',
+                homeRatio:42
             }
         ]
     }
