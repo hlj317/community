@@ -72,15 +72,15 @@ const injuryWNBAIndex = async function (ctx, next) {
     const ua = ctx.request.header['user-agent'];
     if(!isMobile(ua)){
         await ctx.render("community/injurywnbapc", {
-            title: "WNBA伤病名单-篮彩老黑",
-            keywords: "WNBA,伤病,受伤,缺席,名单,篮彩,彩票",
+            title: "WNBA伤病-WNBA伤病名单-篮彩老黑",
+            keywords: "WNBA,伤病,受伤,缺席,名单",
             description: "24小时WNBA伤病名单实时更新，伤病消息来源于各WNBA俱乐部官方网站",
             wnbaData
         });
     }else{
         await ctx.render("community/injurywnba", {
-            title: "WNBA伤病名单-篮彩老黑",
-            keywords: "WNBA,伤病,受伤,缺席,名单,篮彩,彩票",
+            title: "WNBA伤病-WNBA伤病名单-篮彩老黑",
+            keywords: "WNBA,伤病,受伤,缺席,名单",
             description: "24小时WNBA伤病名单实时更新，伤病消息来源于各WNBA俱乐部官方网站",
             wnbaData
         });
@@ -194,7 +194,7 @@ const injuryWNBA = async function (ctx, next) {
         ctx.redirect('/injurywnbapc');
     };
     await ctx.render("community/injurywnba", {
-        title: "WNBA伤病名单-篮彩老黑",
+        title: "WNBA伤病-WNBA伤病名单-篮彩老黑",
         keywords: "WNBA,伤病,受伤,缺席,名单,篮彩,彩票",
         description: "24小时WNBA伤病名单实时更新，伤病消息来源于各WNBA俱乐部官方网站",
         wnbaData
@@ -235,7 +235,7 @@ const injuryWNBAPC = async function (ctx, next) {
         ctx.redirect('/injurywnba');
     };
     await ctx.render("community/injurywnbapc", {
-        title: "WNBA伤病名单-篮彩老黑",
+        title: "WNBA伤病-WNBA伤病名单-篮彩老黑",
         keywords: "WNBA,伤病,受伤,缺席,名单,篮彩,彩票",
         description: "24小时WNBA伤病名单实时更新，伤病消息来源于各WNBA俱乐部官方网站",
         wnbaData
