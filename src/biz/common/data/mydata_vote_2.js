@@ -3702,5 +3702,23 @@ export const myData = [
                 homeRatio:55
             }
         ]
+    },
+
+    //5月24日
+    {
+        date: 'Tue May 24',
+        list: [
+            {
+                time:'Tue 5/24, 10:00 AM',
+                awayName:'sparks',
+                awayLeftPoints:'+9.0',
+                awayRightPoints:'+10.0',
+                awayRatio:44,
+                homeName:'aces',
+                homeLeftPoints:'-9.0',
+                homeRightPoints:'-10.0',
+                homeRatio:56
+            }
+        ]
     }
 ]
