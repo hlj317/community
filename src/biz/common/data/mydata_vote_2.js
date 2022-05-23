@@ -3713,11 +3713,11 @@ export const myData = [
                 awayName:'sparks',
                 awayLeftPoints:'+9.0',
                 awayRightPoints:'+10.0',
-                awayRatio:44,
+                awayRatio:42,
                 homeName:'aces',
                 homeLeftPoints:'-9.0',
                 homeRightPoints:'-10.0',
-                homeRatio:56
+                homeRatio:58
             }
         ]
     }
