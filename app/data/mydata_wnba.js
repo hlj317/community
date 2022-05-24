@@ -22,8 +22,8 @@ const wnbaData = {
             'important':true
         },{        
             'name':'李月汝',
-            'status':'缺阵',
-            'detail':'预计在6月前与天空会合；2021未参赛，无数据',
+            'status':'出战',
+            'detail':'可以出战周三对阵狂热的比赛；2021未参赛，无数据',
             'important':true
         }
     ],
@@ -31,8 +31,8 @@ const wnbaData = {
     sun:[
         {        
             'name':'邦纳',
-            'status':'出战存疑',
-            'detail':'身体不适，周三对阵飞翼的比赛出战存疑；2022场均数据：17.0分/2.0篮板/3.5助攻/2.5抢断',
+            'status':'出战',
+            'detail':'可以出战周三对阵飞翼的比赛；2022场均数据：17.0分/2.0篮板/3.5助攻/2.5抢断',
             'important':true
         },{        
             'name':'基艾拉.史密斯',
