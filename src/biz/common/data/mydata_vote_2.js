@@ -3779,12 +3779,12 @@ export const myData = [
                 time:'Thu 5/26, 10:30 AM',
                 awayName:'mercury',
                 awayLeftPoints:'-2.5',
-                awayRightPoints:'-2.5',
-                awayRatio:59,
+                awayRightPoints:'+1.0',
+                awayRatio:48,
                 homeName:'sparks',
                 homeLeftPoints:'+2.5',
-                homeRightPoints:'+2.5',
-                homeRatio:41
+                homeRightPoints:'-1.0',
+                homeRatio:52
             }
         ]
     }
