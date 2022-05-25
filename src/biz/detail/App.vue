@@ -344,6 +344,9 @@
     .detail-dot{
         margin-right:20 / @b;
     }
+    .article-title{
+        color:#cc0000;
+    }
 }
 </style>
 

@@ -332,6 +332,9 @@
     .detail-dot{
         margin-right:20px;
     }
+    .article-title{
+        color:#cc0000;
+    }
 }
 </style>
 
