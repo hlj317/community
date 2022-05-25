@@ -3732,11 +3732,11 @@ export const myData = [
                 awayName:'dream',
                 awayLeftPoints:'+8.5',
                 awayRightPoints:'+8.5',
-                awayRatio:70,
+                awayRatio:40,
                 homeName:'mystics',
                 homeLeftPoints:'-8.5',
                 homeRightPoints:'-8.5',
-                homeRatio:30
+                homeRatio:60
             },{
                 time:'Wed 5/25, 7:00 AM',
                 awayName:'wings',
