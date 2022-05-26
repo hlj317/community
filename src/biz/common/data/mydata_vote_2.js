@@ -3798,11 +3798,11 @@ export const myData = [
                 awayName:'wings',
                 awayLeftPoints:'+7.5',
                 awayRightPoints:'+7.5',
-                awayRatio:40,
+                awayRatio:37,
                 homeName:'sun',
                 homeLeftPoints:'-7.5',
                 homeRightPoints:'-7.5',
-                homeRatio:60
+                homeRatio:63
             }
         ]
     }
