@@ -3834,5 +3834,33 @@ export const myData = [
                 homeRatio:63
             }
         ]
+    },
+
+    //5月29日
+    {
+        date: 'Sun May 29',
+        list: [
+            {
+                time:'Sun 5/29, 3:00 AM',
+                awayName:'aces',
+                awayLeftPoints:'-2.5',
+                awayRightPoints:'-1.0',
+                awayRatio:57,
+                homeName:'sky',
+                homeLeftPoints:'+2.5',
+                homeRightPoints:'+1.0',
+                homeRatio:43
+            },{
+                time:'Sun 5/29, 7:00 AM',
+                awayName:'mystics',
+                awayLeftPoints:'+10.0',
+                awayRightPoints:'+9.5',
+                awayRatio:62,
+                homeName:'sun',
+                homeLeftPoints:'-10.0',
+                homeRightPoints:'-9.5',
+                homeRatio:38
+            }
+        ]
     }
 ]
