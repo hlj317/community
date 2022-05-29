@@ -29,6 +29,11 @@ const wnbaData = {
             'status':'缺阵',
             'detail':'暂时无法出战比赛；2022年新秀，无数据',
             'important':false
+        },{        
+            'name':'乔伊娜.霍姆斯',
+            'status':'缺阵',
+            'detail':'身体不适，无法出战；2022场均数据：0.3分/1.5篮板/0.5助攻/0.2抢断',
+            'important':false
         }
     ],
     //达拉斯飞翼
