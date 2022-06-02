@@ -18,12 +18,12 @@ const nbaData = {
         {        
             'name':'斯玛特',
             'status':'出战存疑',
-            'detail':'腿部受伤，出战存疑',
+            'detail':'腿部受伤，每日观察',
             'important':true
         },{        
-            'name':'AI.霍福德',
+            'name':'罗威',
             'status':'缺阵',
-            'detail':'因为健康协议，会缺阵数场比赛',
+            'detail':'腿部受伤，每日观察',
             'important':true
         }
     ],
@@ -174,8 +174,8 @@ const nbaData = {
     warriors:[
         {
             'name':'伊戈达拉',
-            'status':'缺阵',
-            'detail':'背部受伤，无法出战',
+            'status':'出战存疑',
+            'detail':'背部受伤，每日观察',
             'important':false
         },{
             'name':'怀斯曼',
@@ -184,9 +184,14 @@ const nbaData = {
             'important':false
         },{
             'name':'小佩顿',
-            'status':'缺阵',
-            'detail':'腿部受伤，无法出战',
-            'important':true
+            'status':'出战存疑',
+            'detail':'手臂受伤，每日观察',
+            'important':false
+        },{
+            'name':'奥托.波特',
+            'status':'出战存疑',
+            'detail':'腿部受伤，每日观察',
+            'important':false
         }
     ],
     //休斯顿火箭

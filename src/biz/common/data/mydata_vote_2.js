@@ -3977,5 +3977,23 @@ export const myData = [
                 homeRatio:48
             }
         ]
+    },
+
+    //6月3日
+    {
+        date: 'Fri Jun 03',
+        list: [
+            {
+                time:'Fri 6/03, 10:00 AM',
+                awayName:'sun',
+                awayLeftPoints:'+5.0',
+                awayRightPoints:'+5.0',
+                awayRatio:39,
+                homeName:'aces',
+                homeLeftPoints:'-5.0',
+                homeRightPoints:'-5.0',
+                homeRatio:61
+            }
+        ]
     }
 ]
