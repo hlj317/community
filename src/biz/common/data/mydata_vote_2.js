@@ -4024,12 +4024,12 @@ export const myData = [
             },{
                 time:'Sat 6/04, 10:00 AM',
                 awayName:'sun',
-                awayLeftPoints:'-3.5',
-                awayRightPoints:'-3.5',
+                awayLeftPoints:'-6.5',
+                awayRightPoints:'-4.5',
                 awayRatio:65,
                 homeName:'mercury',
-                homeLeftPoints:'+3.5',
-                homeRightPoints:'+3.5',
+                homeLeftPoints:'+6.5',
+                homeRightPoints:'+4.5',
                 homeRatio:35
             },{
                 time:'Sat 6/04, 10:00 AM',
