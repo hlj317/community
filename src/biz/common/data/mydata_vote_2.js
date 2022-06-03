@@ -4016,11 +4016,11 @@ export const myData = [
                 awayName:'sky',
                 awayLeftPoints:'-3.0',
                 awayRightPoints:'-3.0',
-                awayRatio:56,
+                awayRatio:71,
                 homeName:'dream',
                 homeLeftPoints:'+3.0',
                 homeRightPoints:'+3.0',
-                homeRatio:44
+                homeRatio:29
             },{
                 time:'Sat 6/04, 10:00 AM',
                 awayName:'sun',
@@ -4036,11 +4036,11 @@ export const myData = [
                 awayName:'wings',
                 awayLeftPoints:'+5.5',
                 awayRightPoints:'+5.5',
-                awayRatio:43,
+                awayRatio:69,
                 homeName:'storm',
                 homeLeftPoints:'-5.5',
                 homeRightPoints:'-5.5',
-                homeRatio:57
+                homeRatio:31
             }
         ]
     }
