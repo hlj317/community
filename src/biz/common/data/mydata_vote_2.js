@@ -4043,6 +4043,75 @@ export const myData = [
                 homeRatio:31
             }
         ]
+    },
+
+
+    //6月6日
+    {
+        date: 'Mon Jun 06',
+        list: [
+            {
+                time:'Mon 6/06, 2:00 AM',
+                awayName:'lynx',
+                awayLeftPoints:'+3.0',
+                awayRightPoints:'+3.0',
+                awayRatio:53,
+                homeName:'liberty',
+                homeLeftPoints:'-3.0',
+                homeRightPoints:'-3.0',
+                homeRatio:47
+            },{
+                time:'Mon 6/06, 3:00 AM',
+                awayName:'fever',
+                awayLeftPoints:'+7.0',
+                awayRightPoints:'+6.5',
+                awayRatio:34,
+                homeName:'dream',
+                homeLeftPoints:'-7.0',
+                homeRightPoints:'-6.5',
+                homeRatio:66
+            },{
+                time:'Mon 6/06, 6:00 AM',
+                awayName:'sun',
+                awayLeftPoints:'+1.0',
+                awayRightPoints:'+3.0',
+                awayRatio:61,
+                homeName:'storm',
+                homeLeftPoints:'-1.0',
+                homeRightPoints:'-3.0',
+                homeRatio:39
+            },{
+                time:'Mon 6/06, 6:00 AM',
+                awayName:'sparks',
+                awayLeftPoints:'-1.5',
+                awayRightPoints:'-1.5',
+                awayRatio:56,
+                homeName:'mercury',
+                homeLeftPoints:'+1.5',
+                homeRightPoints:'+1.5',
+                homeRatio:44
+            },{
+                time:'Mon 6/06, 6:00 AM',
+                awayName:'mystics',
+                awayLeftPoints:'+9.0',
+                awayRightPoints:'+8.0',
+                awayRatio:42,
+                homeName:'sky',
+                homeLeftPoints:'-9.0',
+                homeRightPoints:'-8.0',
+                homeRatio:58
+            },{
+                time:'Mon 6/06, 6:00 AM',
+                awayName:'wings',
+                awayLeftPoints:'+5.0',
+                awayRightPoints:'+6.5',
+                awayRatio:33,
+                homeName:'aces',
+                homeLeftPoints:'-5.0',
+                homeRightPoints:'-6.5',
+                homeRatio:67
+            }
+        ]
     }
 
     
