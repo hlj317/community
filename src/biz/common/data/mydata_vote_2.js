@@ -4112,6 +4112,45 @@ export const myData = [
                 homeRatio:67
             }
         ]
+    },
+
+
+    //6月8日
+    {
+        date: 'Wed Jun 08',
+        list: [
+            {
+                time:'Wed 6/08, 7:00 AM',
+                awayName:'aces',
+                awayLeftPoints:'-1.5',
+                awayRightPoints:'-1.5',
+                awayRatio:61,
+                homeName:'sky',
+                homeLeftPoints:'+1.5',
+                homeRightPoints:'+1.5',
+                homeRatio:39
+            },{
+                time:'Wed 6/08, 8:00 AM',
+                awayName:'lynx',
+                awayLeftPoints:'+2.5',
+                awayRightPoints:'+2.5',
+                awayRatio:65,
+                homeName:'liberty',
+                homeLeftPoints:'-2.5',
+                homeRightPoints:'-2.5',
+                homeRatio:35
+            },{
+                time:'Wed 6/08, 10:00 AM',
+                awayName:'dream',
+                awayLeftPoints:'+7.0',
+                awayRightPoints:'+7.0',
+                awayRatio:54,
+                homeName:'storm',
+                homeLeftPoints:'-7.0',
+                homeRightPoints:'-7.0',
+                homeRatio:46
+            }
+        ]
     }
 
     
