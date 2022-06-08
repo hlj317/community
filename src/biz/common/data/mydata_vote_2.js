@@ -4151,22 +4151,22 @@ export const myData = [
                 time:'Thu 6/09, 7:00 AM',
                 awayName:'fever',
                 awayLeftPoints:'+14.5',
-                awayRightPoints:'+14.5',
-                awayRatio:55,
+                awayRightPoints:'+15.5',
+                awayRatio:37,
                 homeName:'sun',
                 homeLeftPoints:'-14.5',
-                homeRightPoints:'-14.5',
-                homeRatio:45
+                homeRightPoints:'-15.5',
+                homeRatio:63
             },{
                 time:'Thu 6/09, 8:00 AM',
                 awayName:'sky',
                 awayLeftPoints:'+1.0',
-                awayRightPoints:'+1.0',
-                awayRatio:61,
+                awayRightPoints:'+3.5',
+                awayRatio:45,
                 homeName:'mystics',
                 homeLeftPoints:'-1.0',
-                homeRightPoints:'-1.0',
-                homeRatio:39
+                homeRightPoints:'-3.5',
+                homeRatio:55
             }
         ]
     }
