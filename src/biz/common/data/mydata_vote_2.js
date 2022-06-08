@@ -4114,7 +4114,6 @@ export const myData = [
         ]
     },
 
-
     //6月8日
     {
         date: 'Wed Jun 08',
@@ -4139,6 +4138,35 @@ export const myData = [
                 homeLeftPoints:'-6.5',
                 homeRightPoints:'-7.5',
                 homeRatio:49
+            }
+        ]
+    },
+
+
+    //6月9日
+    {
+        date: 'Thu Jun 09',
+        list: [
+            {
+                time:'Thu 6/09, 7:00 AM',
+                awayName:'fever',
+                awayLeftPoints:'+14.5',
+                awayRightPoints:'+14.5',
+                awayRatio:55,
+                homeName:'sun',
+                homeLeftPoints:'-14.5',
+                homeRightPoints:'-14.5',
+                homeRatio:45
+            },{
+                time:'Thu 6/09, 8:00 AM',
+                awayName:'sky',
+                awayLeftPoints:'+1.0',
+                awayRightPoints:'+1.0',
+                awayRatio:61,
+                homeName:'mystics',
+                homeLeftPoints:'-1.0',
+                homeRightPoints:'-1.0',
+                homeRatio:39
             }
         ]
     }
