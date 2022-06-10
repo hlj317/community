@@ -4210,12 +4210,12 @@ export const myData = [
                 time:'Sat 6/11, 8:00 AM',
                 awayName:'storm',
                 awayLeftPoints:'-2.5',
-                awayRightPoints:'-2.5',
-                awayRatio:40,
+                awayRightPoints:'-5.0',
+                awayRatio:62,
                 homeName:'wings',
                 homeLeftPoints:'+2.5',
-                homeRightPoints:'+2.5',
-                homeRatio:60
+                homeRightPoints:'+5.0',
+                homeRatio:38
             },{
                 time:'Sat 6/11, 10:00 AM',
                 awayName:'dream',
