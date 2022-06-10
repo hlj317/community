@@ -4181,31 +4181,31 @@ export const myData = [
                 awayName:'liberty',
                 awayLeftPoints:'-4.0',
                 awayRightPoints:'-4.0',
-                awayRatio:45,
+                awayRatio:52,
                 homeName:'fever',
                 homeLeftPoints:'+4.0',
                 homeRightPoints:'+4.0',
-                homeRatio:55
+                homeRatio:48
             },{
                 time:'Sat 6/11, 7:00 AM',
                 awayName:'sky',
                 awayLeftPoints:'+5.5',
                 awayRightPoints:'+5.5',
-                awayRatio:61,
+                awayRatio:57,
                 homeName:'sun',
                 homeLeftPoints:'-5.5',
                 homeRightPoints:'-5.5',
-                homeRatio:39
+                homeRatio:43
             },{
                 time:'Sat 6/11, 8:00 AM',
                 awayName:'mystics',
-                awayLeftPoints:'-7.5',
-                awayRightPoints:'-7.5',
-                awayRatio:58,
+                awayLeftPoints:'-6.5',
+                awayRightPoints:'-6.5',
+                awayRatio:64,
                 homeName:'lynx',
-                homeLeftPoints:'+7.5',
-                homeRightPoints:'+7.5',
-                homeRatio:42
+                homeLeftPoints:'+6.5',
+                homeRightPoints:'+6.5',
+                homeRatio:36
             },{
                 time:'Sat 6/11, 8:00 AM',
                 awayName:'storm',
@@ -4219,13 +4219,13 @@ export const myData = [
             },{
                 time:'Sat 6/11, 10:00 AM',
                 awayName:'dream',
-                awayLeftPoints:'+4.5',
-                awayRightPoints:'+4.5',
-                awayRatio:56,
+                awayLeftPoints:'+3.0',
+                awayRightPoints:'+3.0',
+                awayRatio:58,
                 homeName:'mercury',
-                homeLeftPoints:'-4.5',
-                homeRightPoints:'-4.5',
-                homeRatio:44
+                homeLeftPoints:'-3.0',
+                homeRightPoints:'-3.0',
+                homeRatio:42
             }
         ]
     }
