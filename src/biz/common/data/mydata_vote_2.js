@@ -4199,12 +4199,12 @@ export const myData = [
             },{
                 time:'Sat 6/11, 8:00 AM',
                 awayName:'mystics',
-                awayLeftPoints:'-6.0',
-                awayRightPoints:'-6.0',
+                awayLeftPoints:'-7.5',
+                awayRightPoints:'-7.5',
                 awayRatio:58,
                 homeName:'lynx',
-                homeLeftPoints:'+6.0',
-                homeRightPoints:'+6.0',
+                homeLeftPoints:'+7.5',
+                homeRightPoints:'+7.5',
                 homeRatio:42
             },{
                 time:'Sat 6/11, 8:00 AM',
