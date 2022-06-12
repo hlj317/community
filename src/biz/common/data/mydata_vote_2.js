@@ -4238,12 +4238,12 @@ export const myData = [
                 time:'Sun 6/12, 9:00 AM',
                 awayName:'aces',
                 awayLeftPoints:'-8.0',
-                awayRightPoints:'-7.5',
-                awayRatio:65,
+                awayRightPoints:'-6.5',
+                awayRatio:44,
                 homeName:'sparks',
                 homeLeftPoints:'+8.0',
-                homeRightPoints:'+7.5',
-                homeRatio:35
+                homeRightPoints:'+6.5',
+                homeRatio:56
             }
         ]
     },
