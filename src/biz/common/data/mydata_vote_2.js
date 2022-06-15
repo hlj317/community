@@ -4335,11 +4335,11 @@ export const myData = [
                 time:'Thu 6/16, 1:00 AM',
                 awayName:'aces',
                 awayLeftPoints:'-8.0',
-                awayRightPoints:'-8.0',
+                awayRightPoints:'-9.0',
                 awayRatio:69,
                 homeName:'wings',
                 homeLeftPoints:'+8.0',
-                homeRightPoints:'+8.0',
+                homeRightPoints:'+9.0',
                 homeRatio:31
             },{
                 time:'Thu 6/16, 7:00 AM',
