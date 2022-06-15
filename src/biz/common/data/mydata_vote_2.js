@@ -4306,22 +4306,22 @@ export const myData = [
                 time:'Wed 6/15, 7:00 AM',
                 awayName:'mercury',
                 awayLeftPoints:'+7.0',
-                awayRightPoints:'+7.0',
-                awayRatio:44,
+                awayRightPoints:'+8.5',
+                awayRatio:41,
                 homeName:'mystics',
                 homeLeftPoints:'-7.0',
-                homeRightPoints:'-7.0',
-                homeRatio:56
+                homeRightPoints:'-8.5',
+                homeRatio:59
             },{
                 time:'Wed 6/15, 9:00 AM',
                 awayName:'storm',
                 awayLeftPoints:'-6.0',
-                awayRightPoints:'-6.0',
-                awayRatio:68,
+                awayRightPoints:'-8.0',
+                awayRatio:65,
                 homeName:'lynx',
                 homeLeftPoints:'+6.0',
-                homeRightPoints:'+6.0',
-                homeRatio:32
+                homeRightPoints:'+8.0',
+                homeRatio:35
             }
         ]
     }
