@@ -4382,7 +4382,45 @@ export const myData = [
                 homeRatio:45
             }
         ]
-    }
+    },
+
+    //6月18日
+    {
+        date: 'Sat Jun 18',
+        list: [
+            {
+                time:'Sat 6/18, 7:00 AM',
+                awayName:'storm',
+                awayLeftPoints:'+8.0',
+                awayRightPoints:'+8.0',
+                awayRatio:46,
+                homeName:'sun',
+                homeLeftPoints:'-8.0',
+                homeRightPoints:'-8.0',
+                homeRatio:54
+            },{
+                time:'Sat 6/18, 8:00 AM',
+                awayName:'dream',
+                awayLeftPoints:'+9.0',
+                awayRightPoints:'+9.5',
+                awayRatio:39,
+                homeName:'sky',
+                homeLeftPoints:'-9.0',
+                homeRightPoints:'-9.5',
+                homeRatio:61
+            },{
+                time:'Sat 6/18, 8:00 AM',
+                awayName:'mercury',
+                awayLeftPoints:'-5.0',
+                awayRightPoints:'-4.0',
+                awayRatio:58,
+                homeName:'wings',
+                homeLeftPoints:'+5.0',
+                homeRightPoints:'+4.0',
+                homeRatio:42
+            }
+        ]
+    },
 
     
 ]
