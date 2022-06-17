@@ -4392,32 +4392,32 @@ export const myData = [
                 time:'Sat 6/18, 7:00 AM',
                 awayName:'storm',
                 awayLeftPoints:'+8.0',
-                awayRightPoints:'+8.0',
-                awayRatio:46,
+                awayRightPoints:'+7.5',
+                awayRatio:55,
                 homeName:'sun',
                 homeLeftPoints:'-8.0',
-                homeRightPoints:'-8.0',
-                homeRatio:54
+                homeRightPoints:'-7.5',
+                homeRatio:45
             },{
                 time:'Sat 6/18, 8:00 AM',
                 awayName:'dream',
                 awayLeftPoints:'+9.0',
-                awayRightPoints:'+9.5',
-                awayRatio:39,
+                awayRightPoints:'+7.5',
+                awayRatio:63,
                 homeName:'sky',
                 homeLeftPoints:'-9.0',
-                homeRightPoints:'-9.5',
-                homeRatio:61
+                homeRightPoints:'-7.5',
+                homeRatio:37
             },{
                 time:'Sat 6/18, 8:00 AM',
                 awayName:'mercury',
                 awayLeftPoints:'+5.0',
-                awayRightPoints:'+4.0',
-                awayRatio:58,
+                awayRightPoints:'+5.0',
+                awayRatio:46,
                 homeName:'wings',
                 homeLeftPoints:'-5.0',
-                homeRightPoints:'-4.0',
-                homeRatio:42
+                homeRightPoints:'-5.0',
+                homeRatio:54
             }
         ]
     },
