@@ -4411,12 +4411,12 @@ export const myData = [
             },{
                 time:'Sat 6/18, 8:00 AM',
                 awayName:'mercury',
-                awayLeftPoints:'-5.0',
-                awayRightPoints:'-4.0',
+                awayLeftPoints:'+5.0',
+                awayRightPoints:'+4.0',
                 awayRatio:58,
                 homeName:'wings',
-                homeLeftPoints:'+5.0',
-                homeRightPoints:'+4.0',
+                homeLeftPoints:'-5.0',
+                homeRightPoints:'-4.0',
                 homeRatio:42
             }
         ]
