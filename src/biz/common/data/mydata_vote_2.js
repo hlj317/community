@@ -4540,11 +4540,11 @@ export const myData = [
                 awayName:'liberty',
                 awayLeftPoints:'+9.5',
                 awayRightPoints:'+9.5',
-                awayRatio:39,
+                awayRatio:45,
                 homeName:'sun',
                 homeLeftPoints:'-9.5',
                 homeRightPoints:'-9.5',
-                homeRatio:61
+                homeRatio:55
             }
         ]
     }
