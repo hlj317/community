@@ -4528,6 +4528,25 @@ export const myData = [
                 homeRatio:45
             }
         ]
+    },
+
+
+    //6月23日
+    {
+        date: 'Thu Jun 23',
+        list: [
+            {
+                time:'Thu 6/23, 7:00 AM',
+                awayName:'liberty',
+                awayLeftPoints:'+9.5',
+                awayRightPoints:'+9.5',
+                awayRatio:39,
+                homeName:'sun',
+                homeLeftPoints:'-9.5',
+                homeRightPoints:'-9.5',
+                homeRatio:61
+            }
+        ]
     }
 
     
