@@ -96,7 +96,7 @@ const wnbaData = {
     lynx:[
         {
             'name':'福尔斯',
-            'status':'出战存疑',
+            'status':'大概率出战',
             'detail':'膝盖受伤，周五对阵水星的比赛出战存疑；2022场均数据：16.5分/10.3篮板/1.0助攻/1.5抢断',
             'important':true
         },{
