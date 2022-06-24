@@ -4607,11 +4607,11 @@ export const myData = [
                 awayName:'liberty',
                 awayLeftPoints:'+2.0',
                 awayRightPoints:'+1.5',
-                awayRatio:56,
+                awayRatio:59,
                 homeName:'dream',
                 homeLeftPoints:'-2.0',
                 homeRightPoints:'-1.5',
-                homeRatio:44
+                homeRatio:41
             }
         ]
     }
