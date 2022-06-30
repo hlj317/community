@@ -4789,12 +4789,12 @@ export const myData = [
                 time:'Fri 7/01, 7:00 AM',
                 awayName:'dream',
                 awayLeftPoints:'+5.0',
-                awayRightPoints:'+5.0',
-                awayRatio:41,
+                awayRightPoints:'+5.5',
+                awayRatio:43,
                 homeName:'liberty',
                 homeLeftPoints:'-5.0',
-                homeRightPoints:'-5.0',
-                homeRatio:59
+                homeRightPoints:'-5.5',
+                homeRatio:57
             }
         ]
     }
