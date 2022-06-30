@@ -4778,7 +4778,27 @@ export const myData = [
                 homeRatio:39
             }
         ]
+    },
+
+
+    //7月1日
+    {
+        date: 'Fri Jul 01',
+        list: [
+            {
+                time:'Fri 7/01, 7:00 AM',
+                awayName:'dream',
+                awayLeftPoints:'+5.0',
+                awayRightPoints:'+5.0',
+                awayRatio:41,
+                homeName:'liberty',
+                homeLeftPoints:'-5.0',
+                homeRightPoints:'-5.0',
+                homeRatio:59
+            }
+        ]
     }
+
 
     
 ]
