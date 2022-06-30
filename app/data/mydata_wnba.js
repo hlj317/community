@@ -3,7 +3,7 @@ const wnbaData = {
     dream:[
         {
             'name':'海耶斯',
-            'status':'出战',
+            'status':'赛季复出',
             'detail':'可以出战周五对阵自由人的比赛；2021场均数据：14.7分/3.2篮板/3.0助攻/1.6抢断',
             'important':true
         },{
