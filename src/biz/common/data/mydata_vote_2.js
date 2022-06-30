@@ -4761,21 +4761,21 @@ export const myData = [
                 awayName:'fever',
                 awayLeftPoints:'+7.0',
                 awayRightPoints:'+7.0',
-                awayRatio:37,
+                awayRatio:42,
                 homeName:'mercury',
                 homeLeftPoints:'-7.0',
                 homeRightPoints:'-7.0',
-                homeRatio:63
+                homeRatio:58
             },{
                 time:'Thu 6/30, 10:00 AM',
                 awayName:'aces',
                 awayLeftPoints:'+2.0',
-                awayRightPoints:'+2.0',
-                awayRatio:52,
+                awayRightPoints:'-1.0',
+                awayRatio:61,
                 homeName:'storm',
                 homeLeftPoints:'-2.0',
-                homeRightPoints:'-2.0',
-                homeRatio:48
+                homeRightPoints:'+1.0',
+                homeRatio:39
             }
         ]
     }
