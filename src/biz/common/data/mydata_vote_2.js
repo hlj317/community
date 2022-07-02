@@ -4836,8 +4836,25 @@ export const myData = [
                 homeRatio:67
             }
         ]
-    }
+    },
 
+    //7月3日
+    {
+        date: 'Sun Jul 03',
+        list: [
+            {
+                time:'Sun 7/03, 1:00 AM',
+                awayName:'mercury',
+                awayLeftPoints:'+9.5',
+                awayRightPoints:'+9.5',
+                awayRatio:39,
+                homeName:'sky',
+                homeLeftPoints:'-9.5',
+                homeRightPoints:'-9.5',
+                homeRatio:61
+            }
+        ]
+    },
 
     
 ]
