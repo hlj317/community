@@ -4780,7 +4780,6 @@ export const myData = [
         ]
     },
 
-
     //7月1日
     {
         date: 'Fri Jul 01',
@@ -4855,6 +4854,54 @@ export const myData = [
             }
         ]
     },
+
+    //7月4日
+    {
+        date: 'Mon Jul 04',
+        list: [
+            {
+                time:'Mon 7/04, 1:00 AM',
+                awayName:'mystics',
+                awayLeftPoints:'+4.5',
+                awayRightPoints:'+6.0',
+                awayRatio:41,
+                homeName:'sun',
+                homeLeftPoints:'-4.5',
+                homeRightPoints:'-6.0',
+                homeRatio:59
+            },{
+                time:'Mon 7/04, 3:00 AM',
+                awayName:'storm',
+                awayLeftPoints:'-4.5',
+                awayRightPoints:'-5.5',
+                awayRatio:55,
+                homeName:'dream',
+                homeLeftPoints:'+4.5',
+                homeRightPoints:'+5.5',
+                homeRatio:45
+            },{
+                time:'Mon 7/04, 6:00 AM',
+                awayName:'liberty',
+                awayLeftPoints:'+3.5',
+                awayRightPoints:'+3.5',
+                awayRatio:37,
+                homeName:'sparks',
+                homeLeftPoints:'-3.5',
+                homeRightPoints:'-3.5',
+                homeRatio:63
+            },{
+                time:'Mon 7/04, 7:00 AM',
+                awayName:'aces',
+                awayLeftPoints:'-5.5',
+                awayRightPoints:'-5.0',
+                awayRatio:70,
+                homeName:'lynx',
+                homeLeftPoints:'+5.5',
+                homeRightPoints:'+5.0',
+                homeRatio:30
+            }
+        ]
+    }
 
     
 ]
