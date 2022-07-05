@@ -4921,5 +4921,32 @@ export const myData = [
         ]
     },
 
+    //7月5日
+    {
+        date: 'Wed Jul 05',
+        list: [
+            {
+                time:'Wed 7/06, 7:00 AM',
+                awayName:'storm',
+                awayLeftPoints:'-9.5',
+                awayRightPoints:'-11.0',
+                awayRatio:70,
+                homeName:'fever',
+                homeLeftPoints:'+9.5',
+                homeRightPoints:'+11.0',
+                homeRatio:30
+            },{
+                time:'Wed 7/06, 8:00 AM',
+                awayName:'sun',
+                awayLeftPoints:'-5.0',
+                awayRightPoints:'-6.5',
+                awayRatio:63,
+                homeName:'wings',
+                homeLeftPoints:'+5.0',
+                homeRightPoints:'+6.5',
+                homeRatio:37
+            }
+        ]
+    },
     
 ]
