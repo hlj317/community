@@ -4987,5 +4987,43 @@ export const myData = [
             }
         ]
     },
+
+    //7月8日
+    {
+        date: 'Fri Jul 08',
+        list: [
+            {
+                time:'Fri 7/08, 7:00 AM',
+                awayName:'sky',
+                awayLeftPoints:'-9.0',
+                awayRightPoints:'-9.0',
+                awayRatio:68,
+                homeName:'fever',
+                homeLeftPoints:'+9.0',
+                homeRightPoints:'+9.0',
+                homeRatio:32
+            },{
+                time:'Fri 7/08, 10:00 AM',
+                awayName:'liberty',
+                awayLeftPoints:'-5.5',
+                awayRightPoints:'-5.0',
+                awayRatio:57,
+                homeName:'mercury',
+                homeLeftPoints:'+5.5',
+                homeRightPoints:'+5.0',
+                homeRatio:43
+            },{
+                time:'Fri 7/08, 10:30 AM',
+                awayName:'storm',
+                awayLeftPoints:'+5.0',
+                awayRightPoints:'+10.5',
+                awayRatio:61,
+                homeName:'sparks',
+                homeLeftPoints:'-5.0',
+                homeRightPoints:'-5.5',
+                homeRatio:39
+            }
+        ]
+    }
     
 ]
