@@ -5035,52 +5035,52 @@ export const myData = [
                 time:'Wed 7/13, 3:00 AM',
                 awayName:'wings',
                 awayLeftPoints:'+7.5',
-                awayRightPoints:'+7.5',
+                awayRightPoints:'+9.0',
                 awayRatio:41,
                 homeName:'storm',
                 homeLeftPoints:'-7.5',
-                homeRightPoints:'-7.5',
+                homeRightPoints:'-9.0',
                 homeRatio:59
             },{
                 time:'Wed 7/13, 7:00 AM',
                 awayName:'aces',
                 awayLeftPoints:'-7.0',
                 awayRightPoints:'-7.0',
-                awayRatio:60,
+                awayRatio:55,
                 homeName:'liberty',
                 homeLeftPoints:'+7.0',
                 homeRightPoints:'+7.0',
-                homeRatio:40
+                homeRatio:45
             },{
                 time:'Wed 7/13, 8:00 AM',
                 awayName:'mercury',
                 awayLeftPoints:'+5.5',
-                awayRightPoints:'+5.5',
-                awayRatio:35,
+                awayRightPoints:'+7.5',
+                awayRatio:58,
                 homeName:'lynx',
                 homeLeftPoints:'-5.5',
-                homeRightPoints:'-5.5',
-                homeRatio:65
+                homeRightPoints:'-7.5',
+                homeRatio:42
             },{
                 time:'Wed 7/13, 8:00 AM',
                 awayName:'dream',
                 awayLeftPoints:'+10.5',
-                awayRightPoints:'+10.5',
-                awayRatio:44,
+                awayRightPoints:'+9.0',
+                awayRatio:52,
                 homeName:'sky',
                 homeLeftPoints:'-10.5',
-                homeRightPoints:'-10.5',
-                homeRatio:56
+                homeRightPoints:'-9.0',
+                homeRatio:48
             },{
                 time:'Wed 7/13, 10:30 AM',
                 awayName:'mystics',
                 awayLeftPoints:'-2.5',
-                awayRightPoints:'-2.5',
-                awayRatio:68,
+                awayRightPoints:'-4.5',
+                awayRatio:63,
                 homeName:'sparks',
                 homeLeftPoints:'+2.5',
-                homeRightPoints:'+2.5',
-                homeRatio:32
+                homeRightPoints:'+4.5',
+                homeRatio:37
             }
         ]
     }
