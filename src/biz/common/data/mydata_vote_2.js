@@ -5083,6 +5083,25 @@ export const myData = [
                 homeRatio:37
             }
         ]
+    },
+
+
+    //7月14日
+    {
+        date: 'Thu Jul 14',
+        list: [
+            {
+                time:'Thu 7/14, 00:00 AM',
+                awayName:'sun',
+                awayLeftPoints:'-8.5',
+                awayRightPoints:'-9.5',
+                awayRatio:69,
+                homeName:'fever',
+                homeLeftPoints:'+8.5',
+                homeRightPoints:'+9.5',
+                homeRatio:31
+            }
+        ]
     }
     
 ]
