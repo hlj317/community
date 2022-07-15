@@ -5150,6 +5150,35 @@ export const myData = [
                 homeRatio:38
             }
         ]
+    },
+
+
+    //7月16日
+    {
+        date: 'Sat Jul 16',
+        list: [
+            {
+                time:'Sat 7/16, 7:00 AM',
+                awayName:'lynx',
+                awayLeftPoints:'-3.0',
+                awayRightPoints:'-3.5',
+                awayRatio:65,
+                homeName:'fever',
+                homeLeftPoints:'+3.0',
+                homeRightPoints:'+3.5',
+                homeRatio:35
+            },{
+                time:'Sat 7/16, 7:30 AM',
+                awayName:'sun',
+                awayLeftPoints:'-8.0',
+                awayRightPoints:'-8.0',
+                awayRatio:59,
+                homeName:'dream',
+                homeLeftPoints:'+7.5',
+                homeRightPoints:'+7.5',
+                homeRatio:41
+            }
+        ]
     }
     
 ]
