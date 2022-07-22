@@ -97,7 +97,7 @@ const wnbaData = {
             'important':false
         },{
             'name':'坎贝奇',
-            'status':'缺阵',
+            'status':'出战',
             'detail':'可以出战周五对阵梦想的比赛；2022场均数据：13.3分/6.5篮板/2.2助攻/0.6抢断',
             'important':true
         }
