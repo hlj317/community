@@ -60,7 +60,7 @@ const injuryNBA = async function (ctx, next) {
     //     ctx.redirect('/injurynba');
     // }
     await ctx.render("community/injurynba", {
-        title: "NBA伤病名单-篮彩老黑",
+        title: "NBA伤病名单-NBA伤病-篮彩老黑",
         keywords: "NBA,伤病,受伤,缺席,名单,篮彩,彩票",
         description: "24小时NBA伤病名单实时更新，伤病消息来源于各NBA俱乐部官方网站",
         nbaData
@@ -68,21 +68,21 @@ const injuryNBA = async function (ctx, next) {
     return next();
 };
 
-const injuryWNBAIndex = async function (ctx, next) {
+const injuryNBAIndex = async function (ctx, next) {
     const ua = ctx.request.header['user-agent'];
     if(!isMobile(ua)){
-        await ctx.render("community/injurywnbapc", {
-            title: "WNBA伤病-WNBA伤病名单-篮彩老黑",
-            keywords: "WNBA,伤病,受伤,缺席,名单",
-            description: "24小时WNBA伤病名单实时更新，伤病消息来源于各WNBA俱乐部官方网站",
-            wnbaData
+        await ctx.render("community/injurynbapc", {
+            title: "NBA伤病名单-NBA伤病-篮彩老黑",
+            keywords: "NBA,伤病,受伤,缺席,名单,篮彩,彩票",
+            description: "24小时NBA伤病名单实时更新，伤病消息来源于各NBA俱乐部官方网站",
+            nbaData
         });
     }else{
-        await ctx.render("community/injurywnba", {
-            title: "WNBA伤病-WNBA伤病名单-篮彩老黑",
-            keywords: "WNBA,伤病,受伤,缺席,名单",
-            description: "24小时WNBA伤病名单实时更新，伤病消息来源于各WNBA俱乐部官方网站",
-            wnbaData
+        await ctx.render("community/injurynba", {
+            title: "NBA伤病名单-NBA伤病-篮彩老黑",
+            keywords: "NBA,伤病,受伤,缺席,名单,篮彩,彩票",
+            description: "24小时NBA伤病名单实时更新，伤病消息来源于各NBA俱乐部官方网站",
+            nbaData
         });
     }
     return next();
@@ -221,7 +221,7 @@ const injuryNBAPC = async function (ctx, next) {
         ctx.redirect('/injurynba');
     };
     await ctx.render("community/injurynbapc", {
-        title: "NBA伤病名单-篮彩老黑",
+        title: "NBA伤病名单-NBA伤病-篮彩老黑",
         keywords: "NBA,伤病,受伤,缺席,名单,篮彩,彩票",
         description: "24小时NBA伤病名单实时更新，伤病消息来源于各NBA俱乐部官方网站",
         nbaData
@@ -322,7 +322,7 @@ module.exports = {
     getNideshopAd,
     guess,
     injuryNBA,
-    injuryWNBAIndex,
+    injuryNBAIndex,
     injuryWNBA,
     injuryCBA,
     injuryNBAPC,
