@@ -44,6 +44,7 @@ const getNideshopAd = async function (ctx, next) {
 };
 
 const guess = async function (ctx, next) {
+    console.log("####env:"+process.env.NODE_ENV);
     await ctx.render("community/guess", {
         title: "猜价格赢好礼",
     });
