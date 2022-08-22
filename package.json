@@ -6,7 +6,6 @@
     "scripts": {
         "start:dev": "pm2 startOrRestart ./config/ecosystem/ecosystem.json --only community-service-dev",
         "start:production": "pm2 startOrRestart ./config/ecosystem/ecosystem.json --only community-service-production",
-        "start:prod": "cross-env NODE_ENV=production pm2 start index.web.js",
         "restart:dev": "pm2 delete all && npm run start:dev",
         "restart:production": "pm2 delete all && npm run start:production",
         "dev": "./node_modules/.bin/webpack-dev-server --config ./bin/build/webpack.dev.conf.js --port 2001",
