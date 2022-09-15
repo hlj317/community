@@ -8,15 +8,15 @@
             </div>
             <div class="portait-text">
                 <div class="text-name"><span class="text-game">每日红单推荐</span>请关注微信公众号：<strong>[篮彩老黑]</strong></div>
-                <div class="text-notice">NBA伤病名单实时更新、篮彩投注热度更新、WNBA伤病名单实时更新</div>
+                <div class="text-notice">NBA伤病名单实时更新、篮彩投注热度更新、NBA盘口红黑榜更新</div>
             </div>
         </div>
         <div class="clear"></div>
         <ul class="nav">
             <li><a href="/injurynba.html">NBA</a></li>
             <li class="vote-ratio"><a href="#">盘口投注率</a><span class="selected"></span></li>
-            <li><a href="/injurywnba.html">WNBA</a></li>
-            <li class="vote-ratio"><a href="/info.html">WNBA新闻</a></li>
+            <li class="vote-ratio"><a href="/rank.html">盘口红黑榜</a></li>
+            <li ><a href="/injurycba.html">CBA</a></li>
         </ul>
     </div>
     <div class="clear"></div>
