@@ -17,8 +17,8 @@
     <ul class="nav">
         <li><a href="/injurynbapc.html">NBA</a></li>
         <li class="vote-ratio"><a class="selected" href="#">盘口投注率</a></li>
-        <li class="vote-ratio"><a href="/rank.html">盘口红黑榜</a></li>
-        <li><a href="/injurycba.html">CBA</a></li>
+        <li class="vote-ratio"><a href="/rankpc.html">盘口红黑榜</a></li>
+        <li><a href="/injurycbapc.html">CBA</a></li>
     </ul>
     <div class="clear"></div>
     <div class="updatetime">最近更新时间：<strong>{{udpatetime}}</strong>（在开赛前，投注率会一直变化）</div>
