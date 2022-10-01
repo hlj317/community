@@ -12,6 +12,8 @@ https://www.cbdyou.com.cn/vote.html
 https://www.cbdyou.com.cn/rank.html
 https://www.cbdyou.com.cn/info.html
 https://www.cbdyou.com.cn/infopc.html
+https://www.cbdyou.com.cn/lancai.html
+https://www.cbdyou.com.cn/lancaipc.html
 https://www.cbdyou.com.cn/detail-1.html
 https://www.cbdyou.com.cn/detail-2.html
 https://www.cbdyou.com.cn/detail-3.html
@@ -21,6 +23,7 @@ https://www.cbdyou.com.cn/detail-6.html
 https://www.cbdyou.com.cn/detail-7.html
 https://www.cbdyou.com.cn/detail-8.html
 https://www.cbdyou.com.cn/detail-9.html
+https://www.cbdyou.com.cn/detail-10.html
 https://www.cbdyou.com.cn/news-1.html
 https://www.cbdyou.com.cn/news-2.html
 https://www.cbdyou.com.cn/news-3.html

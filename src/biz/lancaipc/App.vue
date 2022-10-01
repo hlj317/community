@@ -1,139 +1,12 @@
 <template>
   <div id="injury"
-       class="injury-nbapc-page">
+       class="infopc-page">
   </div>
 </template>
 
 <style lang="less">
 @import "~src/common/less/common.less";
-/*
-骑士:#88023f      cavaliers
-公牛:#d3153b      bulls
-雄鹿:#034b1d      bucks
-开拓者:#d40f23    blazers
-76人:#0151a8     seven6ers
-凯尔特人:#01854c  celtics 
-快船:#0354ad     clippers
-灰熊:#5b76ad     grizzlies
-老鹰:#e56e85     hawks
-热火:#af1727     heat
-黄蜂:#227aa8     hornets
-爵士:#0d223d     jazz
-国王:#6e2195     kings
-尼克斯:#0341b0   knicks 
-湖人:#ff9e00     lakers
-魔术:#0373bb     magic
-独行侠:#1e5b9a   mavericks
-篮网:#000000     nets
-掘金:#bb8b0f     nuggets
-步行者:#fec810   pacers 
-鹈鹕:#b48e4d     pelicans
-活塞:#ed1248     pistons
-猛龙:#d02537     raptors
-火箭:#d31145     rockets
-马刺:#05181f     spurs
-奇才:#d3042e     wizards  
-勇士:#f4c221     warriors
-森林狼:#005083   timberwolves
-雷霆:#e64004     thunder
-太阳:#2b2370     suns
-*/
-.injury-nbapc-page{
-    .cavaliers{
-        background-color: #88023f;
-    }
-    .blazers{
-        background-color: #d40f23;
-    }
-    .seven6ers{
-        background-color: #0151a8;
-    }
-    .bulls{
-        background-color: #d3153b;
-    }
-    .bucks{
-        background-color: #034b1d;
-    }
-
-    .celtics{
-        background-color: #01854c;
-    }
-    .clippers{
-        background-color: #0354ad;
-    }
-    .grizzlies{
-        background-color: #5b76ad;
-    }
-    .hawks{
-        background-color: #e14261;
-    }
-    .heat{
-        background-color: #af1727;
-    }
-
-    .hornets{
-        background-color: #227aa8;
-    }
-    .jazz{
-        background-color: #0d223d;
-    }
-    .kings{
-        background-color: #6e2195;
-    }
-    .knicks{
-        background-color: #0341b0;
-    }
-    .lakers{
-        background-color: #ff9e00;
-    }
-
-    .magic{
-        background-color: #0373bb;
-    }
-    .mavericks{
-        background-color: #1e5b9a;
-    }
-    .nets{
-        background-color: #000000;
-    }
-    .nuggets{
-        background-color: #bb8b0f;
-    }
-    .pacers{
-        background-color: #fec810;
-    }
-
-    .pelicans{
-        background-color: #b48e4d;
-    }
-    .pistons{
-        background-color: #ed1248;
-    }
-    .raptors{
-        background-color: #d02537;
-    }
-    .rockets{
-        background-color: #d31145;
-    }
-    .spurs{
-        background-color: #05181f;
-    }
-
-    .wizards{
-        background-color: #d3042e;
-    }
-    .warriors{
-        background-color: #f4c221;
-    }
-    .timberwolves{
-        background-color: #005083;
-    }
-    .thunder{
-        background-color: #e64004;
-    }
-    .suns{
-        background-color: #2b2370;
-    }
+.infopc-page{
 
     .main-title{
         font-size:20px;
@@ -290,8 +163,12 @@
         width: 140px;
     }
     .name{
-        width: 200px;
-        color:#000000;
+        width: 210px;
+        color:#d3153b;
+    }
+    .name-low{
+        width: 210px;
+        color:#5e8610;
     }
     .status{
         width: 100px;
@@ -316,10 +193,28 @@
         vertical-align: middle;
         color:#ffffff;
     }
+    .th-title{
+        display: inline-block;
+        margin-top: 8px;
+        margin-left: 12px;
+    }
     td{
         border: 1px solid #333333;
         padding:8px;
         vertical-align: middle;
+    }
+    .td-title{
+        font-weight: bold;
+        color:#333333;
+        width:95px;
+    }
+    .win-rate{
+        color:#d3153b;
+        margin-left: 12px;
+    }
+    .win-rate-low{
+        color:#5e8610;
+        margin-left: 12px;
     }
     .none{
         text-align: center;
@@ -331,6 +226,20 @@
     .title img{
         width: 100px;
         height: 100px;
+    }
+    .rank-team-up{
+        background: #d3153b;
+        img{
+            width: 75px;
+            height: 41px;
+        }
+    }
+    .rank-team-down{
+        background: #000000;
+        img{
+            width: 75px;
+            height: 41px;
+        }
     }
     .team-name{
         padding:8px 0 8px 8px;
@@ -377,6 +286,53 @@
     .bottom-qrcode img{
         width:129px;
         height:149px;
+    }
+    .news-list{
+        margin-top:45px;
+        // margin:0;
+        text-align: center;
+        font-size:24px;
+        color:#333333;
+        padding:0;
+        list-style: none;
+        line-height: 32px;
+    }
+    .news-list-guide{
+        display: block;
+        padding-bottom: 20px;
+        border-bottom:1px solid #cccccc;
+        margin:30px 25px 0 55px;
+    }
+    .news-line-left{
+        float:left;
+        width:550px;
+        color:#333333;
+    }
+    .news-line-title{
+        font-size: 30px;
+        text-align: left;
+        line-height: 45px;
+        height:105px;
+    }
+    .news-line-label{
+        text-align: left;
+        font-size:16px;
+        color:#666666;
+    }
+    .news-line-author{
+        margin-left:2px;
+        margin-right:15px;
+    }
+    .news-line-right{
+        float:left;
+        width:260px;
+    }
+    .news-line-img{
+        margin:0;
+        padding:0;
+        border:0;
+        width:250px;
+        height:142px;
     }
 }
 </style>

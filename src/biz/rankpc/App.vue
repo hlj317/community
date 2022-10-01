@@ -97,6 +97,9 @@
         &.vote-ratio a{
             width: 150px;    
         }
+        &.lancai a{
+            width: 160px;    
+        }
     }
     .nav li a{
         display: block;

@@ -1,140 +1,20 @@
 <template>
   <div id="injury"
-       class="injury-nba-page">
+       class="info-page">
   </div>
 
 </template>
 
 <style lang="less">
 @import "~src/common/less/common.less";
-.injury-nba-page{
+.info-page{
     font-weight: 440;
     /*
-    骑士:#88023f      cavaliers
     公牛:#d3153b      bulls
-    雄鹿:#034b1d      bucks
-    开拓者:#d40f23    blazers
-    76人:#0151a8     seven6ers
-    凯尔特人:#01854c  celtics 
-    快船:#0354ad     clippers
-    灰熊:#5b76ad     grizzlies
     老鹰:#d0032a     hawks
-    热火:#af1727     heat
-    黄蜂:#227aa8     hornets
-    爵士:#0d223d     jazz
-    国王:#6e2195     kings
-    尼克斯:#0341b0   knicks 
-    湖人:#ff9e00     lakers
-    魔术:#0373bb     magic
-    独行侠:#1e5b9a   mavericks
-    篮网:#000000     nets
-    掘金:#bb8b0f     nuggets
-    步行者:#fec810   pacers 
-    鹈鹕:#b48e4d     pelicans
-    活塞:#ed1248     pistons
-    猛龙:#d02537     raptors
-    火箭:#d31145     rockets
-    马刺:#05181f     spurs
-    奇才:#d3042e     wizards  
-    勇士:#f4c221     warriors
-    森林狼:#005083   timberwolves
-    雷霆:#e64004     thunder
-    太阳:#2b2370     suns
     */
-    .cavaliers{
-        background-color: #88023f;
-    }
-    .blazers{
-        background-color: #d40f23;
-    }
-    .seven6ers{
-        background-color: #0151a8;
-    }
     .bulls{
         background-color: #d3153b;
-    }
-    .bucks{
-        background-color: #034b1d;
-    }
-
-    .celtics{
-        background-color: #01854c;
-    }
-    .clippers{
-        background-color: #0354ad;
-    }
-    .grizzlies{
-        background-color: #5b76ad;
-    }
-    .hawks{
-        background-color: #d0032a;
-    }
-    .heat{
-        background-color: #af1727;
-    }
-
-    .hornets{
-        background-color: #227aa8;
-    }
-    .jazz{
-        background-color: #0d223d;
-    }
-    .kings{
-        background-color: #6e2195;
-    }
-    .knicks{
-        background-color: #0341b0;
-    }
-    .lakers{
-        background-color: #ff9e00;
-    }
-
-    .magic{
-        background-color: #0373bb;
-    }
-    .mavericks{
-        background-color: #1e5b9a;
-    }
-    .nets{
-        background-color: #000000;
-    }
-    .nuggets{
-        background-color: #bb8b0f;
-    }
-    .pacers{
-        background-color: #fec810;
-    }
-
-    .pelicans{
-        background-color: #b48e4d;
-    }
-    .pistons{
-        background-color: #ed1248;
-    }
-    .raptors{
-        background-color: #d02537;
-    }
-    .rockets{
-        background-color: #d31145;
-    }
-    .spurs{
-        background-color: #05181f;
-    }
-
-    .wizards{
-        background-color: #d3042e;
-    }
-    .warriors{
-        background-color: #f4c221;
-    }
-    .timberwolves{
-        background-color: #005083;
-    }
-    .thunder{
-        background-color: #e64004;
-    }
-    .suns{
-        background-color: #2b2370;
     }
 
     .main-title{
@@ -246,7 +126,7 @@
         border-left-color: transparent;
         border-right-color: transparent;
         position: relative;
-        left: 50 / @b;
+        left: 61 / @b;
         top: -22 / @b;
     }
 
@@ -272,13 +152,13 @@
     }
 
     .to-link-img {
-    width: 750 / @b;
-    height: 200 / @b;
+        width: 750 / @b;
+        height: 200 / @b;
 
-    img {
-        width: 100%;
-        height: 100%;
-    }
+        img {
+            width: 100%;
+            height: 100%;
+        }
     }
     .injury-page{
         background: #ffffff;
@@ -289,6 +169,7 @@
         margin-top:5 / @b;
         border: 1 / @b solid #666666;
         border-spacing: 0;/*去掉单元格间隙*/
+        table-layout:fixed;
     }
     .team_logo{
         width: 128 / @b;
@@ -300,7 +181,11 @@
     }
     .name{
         width: 210 / @b;
-        color:#000000;
+        color:#d3153b;
+    }
+    .name-low{
+        width: 210 / @b;
+        color:#5e8610;
     }
     .status{
         width: 135 / @b;
@@ -321,14 +206,31 @@
         border: 1 / @b solid #666666;
         background: #a2cafd;
         font-weight: bold;
-        padding:8 / @b 0 8 / @b 8 / @b;
+        padding:8 / @b 0 8 / @b 15 / @b;
         vertical-align: middle;
         color:#ffffff;
     }
+    .th-title{
+        display: inline-block;
+        margin-top: 8 / @b;
+        margin-left: 12 / @b;
+    }
     td{
         border: 1 / @b solid #666666;
-        padding:8 / @b 4 / @b 8 / @b 8 / @b;
+        padding:8 / @b 4 / @b 8 / @b 15 / @b;
         vertical-align: middle;
+    }
+    .td-title{
+        font-weight: bold;
+        color:#333333;
+    }
+    .win-rate{
+        color:#d3153b;
+        margin-left: 12 / @b;
+    }
+    .win-rate-low{
+        color:#5e8610;
+        margin-left: 12 / @b;
     }
     .none{
         text-align: center;
@@ -340,6 +242,20 @@
     img{
         width: 110 / @b;
         height: 110 / @b;
+    }
+    .rank-team-up{
+        background: #d3153b;
+        img{
+            width: 99 / @b;
+            height: 54 / @b;
+        }
+    }
+    .rank-team-down{
+        background: #000000;
+        img{
+            width: 99 / @b;
+            height: 54 / @b;
+        }
     }
     .team-name{
         padding:8 / @b 0 8 / @b 8 / @b;
@@ -385,6 +301,54 @@
         width:129 / @b;
         height:149 / @b;
     }
+    .news-list{
+        margin:180 / @b 0 0 0;
+        // margin:170 / @b 0 0 0;
+        text-align: center;
+        font-size:24 / @b;
+        color:#333333;
+        padding:0;
+        list-style: none;
+        line-height: 32 / @b;
+    }
+    .news-list-guide{
+        display: block;
+        padding-bottom: 20 / @b;
+        border-bottom:1 / @b solid #cccccc;
+        margin:30 / @b 25 / @b 0 25 / @b;
+    }
+    .news-line-left{
+        float:left;
+        width:440 / @b;
+        color:#333333;
+    }
+    .news-line-title{
+        font-size: 30 / @b;
+        text-align: left;
+        line-height: 45 / @b;
+        height:110 / @b;
+    }
+    .news-line-label{
+        text-align: left;
+        font-size:22 / @b;
+        color:#666666;
+    }
+    .news-line-author{
+        margin-left:2 / @b;
+        margin-right:15 / @b;
+    }
+    .news-line-right{
+        float:right;
+        width:260 / @b;
+    }
+    .news-line-img{
+        margin:0;
+        padding:0;
+        border:0;
+        width:250 / @b;
+        height:142 / @b;
+    }
+
 }
 </style>
 

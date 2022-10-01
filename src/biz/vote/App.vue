@@ -8,15 +8,15 @@
             </div>
             <div class="portait-text">
                 <div class="text-name"><span class="text-game">每日红单推荐</span>请关注微信公众号：<strong>[篮彩老黑]</strong></div>
-                <div class="text-notice">NBA伤病名单实时更新、篮彩投注热度更新、NBA盘口红黑榜更新</div>
+                <div class="text-notice">NBA伤病名单实时更新、篮彩盘口投注率更新、篮彩经验学习</div>
             </div>
         </div>
         <div class="clear"></div>
         <ul class="nav">
             <li><a href="/injurynba.html">NBA</a></li>
             <li class="vote-ratio"><a href="#">盘口投注率</a><span class="selected"></span></li>
+            <li class="lancai"><a href="/lancai.html">篮彩经验学习</a></li>
             <li class="vote-ratio"><a href="/rank.html">盘口红黑榜</a></li>
-            <li ><a href="/injurycba.html">CBA</a></li>
         </ul>
     </div>
     <div class="clear"></div>
@@ -267,6 +267,7 @@
     line-height:60 / @b;
     list-style: none;
     padding:0;
+    font-weight: normal;
 }
 
 .nav li{
@@ -280,6 +281,13 @@
     text-align:center;
     &.vote-ratio{
         width:140 / @b;   
+    }
+    &.lancai{
+        width: 140 / @b;
+        a{
+            width:150 / @b;   
+            display:block;
+        }
     }
 }
 .nav li span{
@@ -427,7 +435,7 @@
     border-left-color: transparent;
     border-right-color: transparent;
     position: relative;
-    left: 50 / @b;
+    left: 57 / @b;
     top: -22 / @b;
 }
 

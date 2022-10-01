@@ -97,6 +97,9 @@
         &.vote-ratio a{
             width: 150px;    
         }
+        &.lancai a{
+            width: 160px;    
+        }
     }
     .nav li a{
         display: block;
@@ -106,7 +109,7 @@
         color:#cccccc;
         width: 100px;                
         height: 40px;
-        &.selected{               
+        &.checked{               
             height: 40px;
             color:#ffffff;
             background: #cc0000;

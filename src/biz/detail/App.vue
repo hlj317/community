@@ -97,6 +97,13 @@
         &.vote-ratio a{
             width:140 / @b;   
         }
+        &.lancai{
+            width: 140 / @b;
+            a{
+                width:150 / @b;   
+                display:block;
+            }
+        }
     }
     .nav li span{
         display: block;
@@ -119,7 +126,7 @@
         border-left-color: transparent;
         border-right-color: transparent;
         position: relative;
-        left: 50 / @b;
+        left: 57 / @b;
         top: -22 / @b;
     }
 

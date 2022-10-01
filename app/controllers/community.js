@@ -6,6 +6,7 @@ const nbaData = require("../data/mydata_nba.js");
 const wnbaData = require("../data/mydata_wnba.js");
 const newsTitle = require("../data/news_title.json");
 const wnbaNewsTitle = require("../data/wnba_news_title.json");
+const lancaiTitle = require("../data/lancai_title.json");
 const fs = require("fs");
 const ProModel = require("../models/model/proModel.js");
 // const proModel = ProModel.instance();
@@ -157,9 +158,9 @@ const detail = async function (ctx, next) {
     const url = ctx.url;
     num = url.substring(8,url.indexOf("."));
     await ctx.render("infos/detail-"+num, {
-        title: wnbaNewsTitle[num] + "-WNBA新闻-篮彩老黑",
-        keywords: "WNBA,WNBA新闻,WNBA资讯",
-        description: "WNBA新闻资讯，每周持续更新"
+        title: lancaiTitle[num] + "-篮彩经验学习-篮彩老黑",
+        keywords: lancaiTitle[num] + ",篮彩,篮彩经验,篮彩技巧",
+        description: lancaiTitle[num] + ",篮彩经验和篮彩技巧的分享和学习"
     });
     return next();
 };
@@ -168,9 +169,35 @@ const detailPC = async function (ctx, next) {
     const url = ctx.url;
     num = url.substring(10,url.indexOf("."));
     await ctx.render("infos/detail-"+num, {
-        title: wnbaNewsTitle[num] + "-WNBA新闻-篮彩老黑",
-        keywords: "WNBA,WNBA新闻,WNBA资讯",
-        description: "WNBA新闻资讯，每周持续更新"
+        title: lancaiTitle[num] + "-篮彩经验学习-篮彩老黑",
+        keywords: lancaiTitle[num] + ",篮彩,篮彩经验,篮彩技巧",
+        description: lancaiTitle[num] + ",篮彩经验和篮彩技巧的分享和学习"
+    });
+    return next();
+};
+
+const lancai = async function (ctx, next) {
+    const ua = ctx.request.header['user-agent'];
+    if(!isMobile(ua)){
+        ctx.redirect('/lancaipc');
+    };
+    await ctx.render("community/lancai", {
+        title: "篮彩经验学习-篮彩老黑",
+        keywords: "篮彩,篮彩经验学习,篮彩技巧分享",
+        description: "篮彩经验和篮彩技巧的分享和学习"
+    });
+    return next();
+};
+
+const lancaiPC = async function (ctx, next) {
+    const ua = ctx.request.header['user-agent'];
+    if(isMobile(ua)){
+        ctx.redirect('/lancai');
+    };
+    await ctx.render("community/lancaipc", {
+        title: "篮彩经验-篮彩老黑",
+        keywords: "篮彩,篮彩经验,篮彩技巧",
+        description: "篮彩经验和篮彩技巧的分享和学习"
     });
     return next();
 };
@@ -337,5 +364,7 @@ module.exports = {
     info,
     infoPC,
     detail,
-    detailPC
+    detailPC,
+    lancai,
+    lancaiPC
 };

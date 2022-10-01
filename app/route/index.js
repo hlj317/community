@@ -30,5 +30,7 @@ module.exports = {
     "/info": community.info,
     "/infopc": community.infoPC,
     "/detail-:id": community.detail,
-    "/detailpc-:id": community.detailPC
+    "/detailpc-:id": community.detailPC,
+    "/lancai": community.lancai,
+    "/lancaipc": community.lancaiPC
 };   
