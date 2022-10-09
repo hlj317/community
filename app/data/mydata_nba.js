@@ -215,8 +215,8 @@ const nbaData = {
             'important':true
         },{
             'name':'勒布朗.詹姆斯',
-            'status':'出战',
-            'detail':'预计出战周一对阵勇士的比赛',
+            'status':'缺阵',
+            'detail':'身体不适，无法出战周一对阵勇士的比赛',
             'important':true
         },{
             'name':'威斯布鲁克',
@@ -456,8 +456,8 @@ const nbaData = {
             'important':false
         },{
             'name':'范弗利特',
-            'status':'出战存疑',
-            'detail':'腿部受伤，周一对阵公牛的比赛出战存疑',
+            'status':'出战',
+            'detail':'腿部受伤，周一出战对阵公牛的比赛',
             'important':true
         },{
             'name':'弗林',
