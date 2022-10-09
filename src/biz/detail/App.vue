@@ -330,6 +330,14 @@
         line-height: 40 / @b;
         margin:0 30 /@b;
     }
+    .detail-content-img{
+        width:100%;
+        margin:15 / @b 0;
+    }
+    .detail-content-img img{
+        width:680 / @b;
+        height:950 / @b;
+    }
     .detail-lable{
         font-size:24 / @b;
         color:#666666;

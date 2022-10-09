@@ -316,6 +316,14 @@
         line-height: 40px;
         margin:0 30px;
     }
+    .detail-content-img{
+        width:100%;
+        margin:15px 0;
+    }
+    .detail-content-img img{
+        width:680px;
+        height:950px;
+    }
     .detail-lable{
         font-size:24px;
         color:#666666;
