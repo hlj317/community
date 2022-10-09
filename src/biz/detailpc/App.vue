@@ -318,7 +318,7 @@
     }
     .detail-content-img{
         width:100%;
-        margin:15px 0;
+        margin:25px 0 15px 0;
     }
     .detail-content-img img{
         width:680px;
