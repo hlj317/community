@@ -138,6 +138,11 @@ const nbaData = {
     //金州勇士
     warriors:[
         {
+            'name':'德拉蒙德.格林',
+            'status':'缺阵',
+            'detail':'被球队禁赛，归期未定',
+            'important':true
+        },{
             'name':'伊戈达拉',
             'status':'缺阵',
             'detail':'身体不适，无法出战',
@@ -172,12 +177,12 @@ const nbaData = {
         {
             'name':'肯纳德',
             'status':'出战存疑',
-            'detail':'脚踝受伤，每日观察',
+            'detail':'脚踝受伤，周一对阵森林狼的比赛出战存疑',
             'important':true
         },{
             'name':'马库斯.莫里斯',
-            'status':'缺阵',
-            'detail':'身体不适，预计季前赛都会缺阵',
+            'status':'出战',
+            'detail':'预计出战周一对阵森林狼的比赛',
             'important':true
         },{
             'name':'普雷斯頓',
@@ -205,10 +210,20 @@ const nbaData = {
             'important':false
         },{
             'name':'安东尼.戴维斯',
-            'status':'出战存疑',
-            'detail':'背部受伤，每日观察',
+            'status':'出战',
+            'detail':'预计出战周一对阵勇士的比赛',
             'important':true
-        }      
+        },{
+            'name':'勒布朗.詹姆斯',
+            'status':'出战',
+            'detail':'预计出战周一对阵勇士的比赛',
+            'important':true
+        },{
+            'name':'威斯布鲁克',
+            'status':'出战',
+            'detail':'预计出战周一对阵勇士的比赛',
+            'important':true
+        }          
     ],
     //孟菲斯灰熊
     grizzlies:[
@@ -262,7 +277,7 @@ const nbaData = {
         {
             'name':'帕斯卡尔',
             'status':'出战存疑',
-            'detail':'身体不适，每日观察',
+            'detail':'腿部受伤，周一对阵快船的比赛出战存疑',
             'important':false
         },{
             'name':'P.J.多齐尔',
@@ -271,8 +286,8 @@ const nbaData = {
             'important':false
         },{
             'name':'唐斯',
-            'status':'缺阵',
-            'detail':'身体不适，无法出战',
+            'status':'出战存疑',
+            'detail':'身体不适，周一对阵快船的比赛出战存疑',
             'important':true
         }
     ],
@@ -284,11 +299,31 @@ const nbaData = {
             'detail':'膝盖受伤，归期未定',
             'important':false
         },{
-            'name':'英格拉姆',
+            'name':'海斯',
             'status':'缺阵',
-            'detail':'脚趾受伤，无法出战',
+            'detail':'手肘受伤，预计缺阵两周时间',
+            'important':false
+        },{
+            'name':'英格拉姆',
+            'status':'出战存疑',
+            'detail':'脚趾受伤，周一对阵马刺的比赛出战存疑',
             'important':true
-        }      
+        },{
+            'name':'赫伯特.琼斯',
+            'status':'出战存疑',
+            'detail':'肋骨受伤，周一对阵马刺的比赛出战存疑',
+            'important':true
+        },{
+            'name':'墨菲',
+            'status':'出战存疑',
+            'detail':'右脚受伤，周一对阵马刺的比赛出战存疑',
+            'important':false
+        },{
+            'name':'CJ.麦科勒姆',
+            'status':'缺阵',
+            'detail':'脚踝受伤，无法出战周一对阵马刺的比赛',
+            'important':true
+        }        
     ],
     //纽约尼克斯
     knicks:[
@@ -318,8 +353,8 @@ const nbaData = {
             'important':true
         },{
             'name':'多尔特',
-            'status':'缺阵',
-            'detail':'脑震荡伤病，无法出战',
+            'status':'出战',
+            'detail':'预计出战周一对阵马卡比的比赛',
             'important':true
         }
     ],
@@ -393,8 +428,8 @@ const nbaData = {
     kings:[
         {
             'name':'霍姆斯',
-            'status':'缺阵',
-            'detail':'身体不适（胃病），无法出战',
+            'status':'出战存疑',
+            'detail':'身体不适（胃病），周一对阵开拓者的比赛出战存疑',
             'important':true
         }
     ],
@@ -403,12 +438,12 @@ const nbaData = {
         {
             'name':'普利莫',
             'status':'缺阵',
-            'detail':'膝盖受伤，无法出战',
+            'detail':'膝盖受伤，无法出战，预计出战最后两场季前赛',
             'important':false
         },{
             'name':'凯尔登.约翰逊',
             'status':'缺阵',
-            'detail':'肩膀受伤，无法出战',
+            'detail':'肩膀受伤，无法出战，预计出战最后两场季前赛',
             'important':true
         }
     ],
@@ -422,7 +457,7 @@ const nbaData = {
         },{
             'name':'范弗利特',
             'status':'出战存疑',
-            'detail':'腿部受伤，每日观察',
+            'detail':'腿部受伤，周一对阵公牛的比赛出战存疑',
             'important':true
         },{
             'name':'弗林',
