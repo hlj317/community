@@ -60,13 +60,13 @@ const nbaData = {
             'important':false
         },{
             'name':'海沃德',
-            'status':'缺阵',
-            'detail':'膝盖受伤，无法出战',
+            'status':'出战存疑',
+            'detail':'膝盖受伤，周二对阵奇才的比赛出战存疑',
             'important':true
         },{
             'name':'科迪.马丁',
-            'status':'缺阵',
-            'detail':'膝盖受伤，无法出战',
+            'status':'出战存疑',
+            'detail':'膝盖受伤，周二对阵奇才的比赛出战存疑',
             'important':false
         },
     ],
@@ -111,13 +111,13 @@ const nbaData = {
     nuggets:[
         {
             'name':'贾马尔.默里',
-            'status':'缺阵',
-            'detail':'小腿拉伤，无法出战',
+            'status':'出战存疑',
+            'detail':'小腿拉伤，周二对阵太阳出战存疑',
             'important':true
         },{
             'name':'约基奇',
             'status':'出战存疑',
-            'detail':'手腕受伤，每日观察',
+            'detail':'手腕受伤，周二对阵太阳出战存疑',
             'important':true
         }   
     ],
@@ -158,8 +158,13 @@ const nbaData = {
     rockets:[
         {
             'name':'贾巴里.史密斯',
-            'status':'出战存疑',
-            'detail':'腿部受伤，每日观察',
+            'status':'缺阵',
+            'detail':'脚踝受伤，无法出战周二对阵热火的比赛',
+            'important':true
+        },{
+            'name':'埃里克.戈登',
+            'status':'缺阵',
+            'detail':'大腿受伤，无法出战周二对阵热火的比赛',
             'important':true
         }
     ],
@@ -251,7 +256,12 @@ const nbaData = {
             'status':'缺阵',
             'detail':'身体不适，无法出战',
             'important':false
-        }            
+        },{
+            'name':'尤尔特塞文',
+            'status':'缺阵',
+            'detail':'脚踝受伤，无法出战周二对阵火箭的比赛',
+            'important':false
+        }          
     ],
     //密尔沃基雄鹿
     bucks:[
@@ -396,12 +406,12 @@ const nbaData = {
         {
             'name':'卡梅伦.约翰逊',
             'status':'缺阵',
-            'detail':'拇指受伤，无法出战',
+            'detail':'拇指受伤，预计缺阵剩余所有季前赛',
             'important':true
         },{
             'name':'佩恩',
             'status':'缺阵',
-            'detail':'手指受伤，无法出战',
+            'detail':'手指受伤，预计缺阵剩余所有季前赛',
             'important':false
         },{
             'name':'奥科吉',
@@ -489,8 +499,8 @@ const nbaData = {
             'important':false
         },{
             'name':'比尔',
-            'status':'缺阵',
-            'detail':'腿部受伤，无法出战',
+            'status':'出战存疑',
+            'detail':'腿部受伤，周二对阵黄蜂的比赛出战存疑',
             'important':true
         },{
             'name':'基斯珀特',
