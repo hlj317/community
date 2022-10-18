@@ -143,11 +143,6 @@ const nbaData = {
             'detail':'右肋骨受伤，周三对阵湖人的比赛出战存疑',
             'important':false
         },{
-            'name':'穆迪',
-            'status':'缺阵',
-            'detail':'小腿受伤，无法出战周三对阵湖人的比赛',
-            'important':false
-        },{
             'name':'伊戈达拉',
             'status':'缺阵',
             'detail':'身体不适，无法出战',

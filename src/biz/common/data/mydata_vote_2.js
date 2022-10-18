@@ -5353,22 +5353,22 @@ export const myData = [
                 time:'Wed 10/19, 7:30 AM',
                 awayName:'seven6ers',
                 awayLeftPoints:'+4.0',
-                awayRightPoints:'+2.5',
-                awayRatio:69,
+                awayRightPoints:'+3.0',
+                awayRatio:76,
                 homeName:'celtics',
                 homeLeftPoints:'-4.0',
-                homeRightPoints:'-2.5',
-                homeRatio:31
+                homeRightPoints:'-3.0',
+                homeRatio:24
             },{
                 time:'Wed 10/19, 10:00 AM',
                 awayName:'lakers',
                 awayLeftPoints:'+6.0',
-                awayRightPoints:'+6.0',
-                awayRatio:27,
+                awayRightPoints:'+7.5',
+                awayRatio:55,
                 homeName:'warriors',
                 homeLeftPoints:'-6.0',
-                homeRightPoints:'-6.0',
-                homeRatio:73
+                homeRightPoints:'-7.5',
+                homeRatio:45
             }
         ]
     }
