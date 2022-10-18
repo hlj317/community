@@ -144,8 +144,8 @@ const nbaData = {
             'important':false
         },{
             'name':'穆迪',
-            'status':'出战存疑',
-            'detail':'小腿受伤，周三对阵湖人的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'小腿受伤，无法出战周三对阵湖人的比赛',
             'important':false
         },{
             'name':'伊戈达拉',
@@ -210,10 +210,15 @@ const nbaData = {
             'important':false
         },{
             'name':'威斯布鲁克',
-            'status':'出战存疑',
-            'detail':'肌腱拉伤，周三对阵勇士的比赛，赛前决定是否出战',
+            'status':'出战',
+            'detail':'可以出战周三对阵勇士的比赛',
             'important':true
-        }          
+        },{
+            'name':'托马斯.布莱恩特',
+            'status':'缺阵',
+            'detail':'左肋骨受伤，无法出战周三对阵勇士的比赛',
+            'important':false
+        }            
     ],
     //孟菲斯灰熊
     grizzlies:[
