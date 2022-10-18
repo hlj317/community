@@ -138,20 +138,20 @@ const nbaData = {
     //金州勇士
     warriors:[
         {
-            'name':'德拉蒙德.格林',
-            'status':'缺阵',
-            'detail':'被球队禁赛，归期未定',
-            'important':true
+            'name':'小鲍德温',
+            'status':'出战存疑',
+            'detail':'右肋骨受伤，周三对阵湖人的比赛出战存疑',
+            'important':false
+        },{
+            'name':'穆迪',
+            'status':'出战存疑',
+            'detail':'小腿受伤，周三对阵湖人的比赛出战存疑',
+            'important':false
         },{
             'name':'伊戈达拉',
             'status':'缺阵',
             'detail':'身体不适，无法出战',
             'important':false
-        },{
-            'name':'克莱.汤普森',
-            'status':'缺阵',
-            'detail':'膝盖不适，预计季前赛不打',
-            'important':true
         }
     ],
     //休斯顿火箭
@@ -201,32 +201,17 @@ const nbaData = {
         {
             'name':'特洛伊.布朗',
             'status':'缺阵',
-            'detail':'背部受伤，无法出战',
-            'important':false
-        },{
-            'name':'托斯卡诺-安德森',
-            'status':'缺阵',
-            'detail':'小腿受伤，无法出战',
+            'detail':'背部受伤，预计还需要缺阵几周时间',
             'important':false
         },{
             'name':'施罗德',
             'status':'缺阵',
-            'detail':'身体不适，无法出战',
+            'detail':'拇指受伤，预计缺阵3-4周',
             'important':false
         },{
-            'name':'安东尼.戴维斯',
-            'status':'出战',
-            'detail':'预计出战周一对阵勇士的比赛',
-            'important':true
-        },{
-            'name':'勒布朗.詹姆斯',
-            'status':'缺阵',
-            'detail':'身体不适，无法出战周一对阵勇士的比赛',
-            'important':true
-        },{
             'name':'威斯布鲁克',
-            'status':'出战',
-            'detail':'预计出战周一对阵勇士的比赛',
+            'status':'出战存疑',
+            'detail':'肌腱拉伤，周三对阵勇士的比赛，赛前决定是否出战',
             'important':true
         }          
     ],
