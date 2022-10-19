@@ -59,13 +59,13 @@ const nbaData = {
             'important':true
         },{
             'name':'卡鲁索',
-            'status':'出战存疑',
-            'detail':'腿部受伤，周四对阵热火的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周四对阵热火的比赛',
             'important':true
         },{
             'name':'拉文',
-            'status':'出战存疑',
-            'detail':'左膝受伤，周四对阵热火的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'左膝受伤，无法出战周四对阵热火的比赛',
             'important':true
         }
     ],
@@ -87,8 +87,8 @@ const nbaData = {
     mavericks:[
         {
             'name':'贝尔坦斯',
-            'status':'出战存疑',
-            'detail':'腿部受伤，周四对阵太阳的比赛出战存疑',
+            'status':'大概率出战',
+            'detail':'腿部受伤，大概率可以出战周四对阵太阳的比赛',
             'important':false
         },{
             'name':'克勒贝尔',
@@ -157,8 +157,8 @@ const nbaData = {
     pacers:[
         {
             'name':'杰伦.史密斯',
-            'status':'出战存疑',
-            'detail':'身体不适，周四对阵奇才的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周四对阵奇才的比赛',
             'important':true
         },{
             'name':'丹尼尔.泰斯',
@@ -167,8 +167,8 @@ const nbaData = {
             'important':false
         },{
             'name':'阿隆.内史密斯',
-            'status':'出战存疑',
-            'detail':'腿部受伤，周四对阵奇才的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周四对阵奇才的比赛',
             'important':false
         }
     ],
@@ -364,8 +364,8 @@ const nbaData = {
             'important':false
         },{
             'name':'温斯洛',
-            'status':'出战存疑',
-            'detail':'身体不适，周四对阵国王的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周四对阵国王的比赛',
             'important':false
         }
     ],
@@ -373,8 +373,8 @@ const nbaData = {
     kings:[
         {
             'name':'赫尔特',
-            'status':'出战存疑',
-            'detail':'脚踝受伤，周四对阵开拓者的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周四对阵开拓者的比赛',
             'important':true
         },{
             'name':'基根.默里',
@@ -401,13 +401,13 @@ const nbaData = {
             'important':false
         },{
             'name':'克里斯.布歇',
-            'status':'出战',
-            'detail':'腿筋拉伤，周四对阵骑士的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'腿筋拉伤，无法出战周四对阵骑士的比赛',
             'important':false
         },{
             'name':'肯.伯奇',
-            'status':'出战存疑',
-            'detail':'身体不适，周四对阵骑士的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'身体不适，无法出战周四对阵骑士的比赛',
             'important':false
         },
     ],
