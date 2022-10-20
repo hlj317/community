@@ -196,7 +196,7 @@ const nbaData = {
         },{
             'name':'托马斯.布莱恩特',
             'status':'缺阵',
-            'detail':'左肋骨受伤，无法出战周三对阵勇士的比赛',
+            'detail':'左肋骨受伤，预计还需要缺阵三周时间',
             'important':false
         }            
     ],
@@ -241,14 +241,14 @@ const nbaData = {
     //密尔沃基雄鹿
     bucks:[
         {
-            'name':'马修斯',
+            'name':'康文顿',
             'status':'缺阵',
-            'detail':'脚踝受伤，无法出战',
+            'detail':'小腿受伤，预计还需要缺阵三周时间',
             'important':false
         },{
             'name':'米德尔顿',
             'status':'缺阵',
-            'detail':'腿部受伤，无法出战',
+            'detail':'手腕受伤，预计还需要缺阵几周时间',
             'important':true
         },{
             'name':'英格尔斯',
