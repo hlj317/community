@@ -5512,21 +5512,21 @@ export const myData = [
                 awayName:'bucks',
                 awayLeftPoints:'+4.0',
                 awayRightPoints:'+4.0',
-                awayRatio:58,
+                awayRatio:52,
                 homeName:'seven6ers',
                 homeLeftPoints:'-4.0',
                 homeRightPoints:'-4.0',
-                homeRatio:42
+                homeRatio:48
             },{
                 time:'Fri 10/21, 10:00 AM',
                 awayName:'clippers',
                 awayLeftPoints:'-5.5',
                 awayRightPoints:'-5.5',
-                awayRatio:83,
+                awayRatio:73,
                 homeName:'lakers',
                 homeLeftPoints:'+5.5',
                 homeRightPoints:'+5.5',
-                homeRatio:17
+                homeRatio:27
             }
         ]
     }

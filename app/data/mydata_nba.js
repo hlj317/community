@@ -198,6 +198,11 @@ const nbaData = {
             'status':'缺阵',
             'detail':'左肋骨受伤，预计还需要缺阵三周时间',
             'important':false
+        },{
+            'name':'科尔.施威德',
+            'status':'缺阵',
+            'detail':'身体不适，无法出战周五对阵快船的比赛',
+            'important':false
         }            
     ],
     //孟菲斯灰熊
