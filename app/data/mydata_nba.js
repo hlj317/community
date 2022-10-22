@@ -46,7 +46,7 @@ const nbaData = {
         {
             'name':'拉梅洛.鲍尔',
             'status':'缺阵',
-            'detail':'脚踝受伤，无法出战周四对阵马刺的比赛',
+            'detail':'脚踝受伤，预计要缺阵1-2周时间',
             'important':true
         },{
             'name':'科迪.马丁',
