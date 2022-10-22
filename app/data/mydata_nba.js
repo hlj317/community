@@ -234,8 +234,8 @@ const nbaData = {
             'important':false
         },{
             'name':'狄龙.布鲁克斯',
-            'status':'出战存疑',
-            'detail':'大腿受伤，周六对阵火箭的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'大腿受伤，无法出战周六对阵火箭的比赛',
             'important':true
         }
     ],
