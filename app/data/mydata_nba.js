@@ -186,13 +186,13 @@ const nbaData = {
             'important':false
         },{
             'name':'沃尔',
-            'status':'出战存疑',
-            'detail':'伤病管理，周一对阵太阳的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周一对阵太阳的比赛',
             'important':true
         },{
             'name':'伦纳德',
-            'status':'出战存疑',
-            'detail':'伤病管理，周一对阵太阳的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周一对阵太阳的比赛',
             'important':true
         }
     ],
@@ -321,6 +321,11 @@ const nbaData = {
             'status':'缺阵',
             'detail':'腿部受伤，无法出战',
             'important':false
+        },{
+            'name':'亚历山大',
+            'status':'缺阵',
+            'detail':'臀部受伤，周一对阵森林狼的比赛无法出战',
+            'important':true
         }
     ],
     //奥兰多魔术
