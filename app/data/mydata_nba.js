@@ -55,7 +55,7 @@ const nbaData = {
             'important':false
         },{
             'name':'罗齐尔',
-            'status':'出战存疑',
+            'status':'出战可能性非常小',
             'detail':'右脚踝受伤，周一对阵老鹰的比赛出战存疑',
             'important':true
         }
