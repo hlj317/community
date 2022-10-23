@@ -105,9 +105,9 @@ const nbaData = {
     //丹佛掘金
     nuggets:[
         {
-            'name':'贾马尔.默里',
-            'status':'出战存疑',
-            'detail':'左膝伤病管理，周日对阵雷霆的比赛出战存疑',
+            'name':'贾马尔.穆雷',
+            'status':'出战',
+            'detail':'可以出战周日对阵雷霆的比赛',
             'important':true
         } 
     ],
@@ -230,12 +230,12 @@ const nbaData = {
         },{
             'name':'扎伊尔.威廉姆斯',
             'status':'缺阵',
-            'detail':'膝盖受伤，无法出战周四对阵尼克斯的比赛',
+            'detail':'膝盖受伤，无法出战',
             'important':false
         },{
             'name':'狄龙.布鲁克斯',
-            'status':'出战存疑',
-            'detail':'大腿受伤，周日对阵独行侠的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'大腿受伤，无法出战周日对阵独行侠的比赛',
             'important':true
         }
     ],
