@@ -30,6 +30,11 @@ const nbaData = {
             'detail':'脚踝受伤，无法出战周二对阵灰熊的比赛',
             'important':true
         },{
+            'name':'马基夫.莫里斯',
+            'status':'缺阵',
+            'detail':'个人原因，无法出战周二对阵灰熊的比赛',
+            'important':false
+        },{
             'name':'T.J.沃伦',
             'status':'长期缺阵',
             'detail':'腿部受伤，归期未定',
@@ -146,6 +151,11 @@ const nbaData = {
             'status':'缺阵',
             'detail':'膝盖受伤，无法出战周二对阵爵士的比赛',
             'important':false
+        },{
+            'name':'申京',
+            'status':'缺阵',
+            'detail':'身体不适，无法出战周二对阵爵士的比赛',
+            'important':true
         }
     ],
     //印第安纳步行者
@@ -232,13 +242,18 @@ const nbaData = {
     //迈阿密热火
     heat:[
         {
+            'name':'约维奇',
+            'status':'缺阵',
+            'detail':'停赛一场，无法出战周二对阵猛龙的比赛',
+            'important':false
+        },{
             'name':'克莱布.马丁',
             'status':'缺阵',
             'detail':'停赛一场，无法出战周二对阵猛龙的比赛',
             'important':false
         },{
             'name':'奥拉迪波',
-            'status':'出战存疑',
+            'status':'缺阵',
             'detail':'腿部受伤，无法出战周二对阵猛龙的比赛',
             'important':true
         },{
@@ -272,7 +287,12 @@ const nbaData = {
         {
             'name':'凯尔.安德森',
             'status':'缺阵',
-            'detail':'背部受伤，无法出战周而对阵马刺的比赛',
+            'detail':'背部受伤，无法出战周二对阵马刺的比赛',
+            'important':false
+        },{
+            'name':'里弗斯',
+            'status':'缺阵',
+            'detail':'腿部受伤，无法出战周二对阵马刺的比赛',
             'important':false
         }
     ],
@@ -295,7 +315,7 @@ const nbaData = {
         {
             'name':'格兰姆斯',
             'status':'缺阵',
-            'detail':'腿部受伤，每日观察',
+            'detail':'腿部受伤，无法出战',
             'important':false
         }
     ],
@@ -406,13 +426,13 @@ const nbaData = {
             'important':false
         },{
             'name':'斯科蒂.巴恩斯',
-            'status':'出战可能性小',
-            'detail':'脚踝受伤，周二对阵热火的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'脚踝受伤，无法出战周二对阵热火的比赛',
             'important':true
         },{
             'name':'克里斯.布歇',
-            'status':'出战存疑',
-            'detail':'腿筋拉伤，周二对阵热火的比赛出战存疑',
+            'status':'出战',
+            'detail':'腿筋拉伤，可以出战周二对阵热火的比赛',
             'important':false
         }
     ],
