@@ -239,7 +239,7 @@ const nbaData = {
         },{
             'name':'奥拉迪波',
             'status':'出战存疑',
-            'detail':'腿部受伤，周二对阵猛龙的比赛出战存疑',
+            'detail':'腿部受伤，无法出战周二对阵猛龙的比赛',
             'important':true
         },{
             'name':'尤尔特塞文',
@@ -406,7 +406,7 @@ const nbaData = {
             'important':false
         },{
             'name':'斯科蒂.巴恩斯',
-            'status':'出战存疑',
+            'status':'出战可能性小',
             'detail':'脚踝受伤，周二对阵热火的比赛出战存疑',
             'important':true
         },{
