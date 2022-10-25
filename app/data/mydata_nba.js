@@ -348,13 +348,13 @@ const nbaData = {
             'important':false
         },{
             'name':'亚历山大',
-            'status':'出战存疑',
-            'detail':'臀部受伤，周三对阵快船的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'臀部受伤，无法出战周三对阵快船的比赛',
             'important':true
         },{
             'name':'约什.吉迪',
-            'status':'出战存疑',
-            'detail':'腿部受伤，周三对阵快船的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'腿部受伤，无法出战周三对阵快船的比赛',
             'important':true
         }
     ],
