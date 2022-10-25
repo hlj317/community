@@ -93,12 +93,12 @@ const nbaData = {
         {
             'name':'贝尔坦斯',
             'status':'缺阵',
-            'detail':'膝盖受伤，无法出战周日对阵灰熊的比赛',
+            'detail':'膝盖受伤，无法出战周三对阵鹈鹕的比赛',
             'important':false
         },{
             'name':'尼利基纳',
             'status':'缺阵',
-            'detail':'脚踝受伤，无法出战周日对阵灰熊的比赛',
+            'detail':'脚踝受伤，无法出战周三对阵鹈鹕的比赛',
             'important':false
         }
     ],
@@ -131,6 +131,11 @@ const nbaData = {
             'name':'伊戈达拉',
             'status':'长期缺阵',
             'detail':'臀部受伤，无法出战',
+            'important':false
+        },{
+            'name':'迪文琴佐',
+            'status':'缺阵',
+            'detail':'腿筋拉伤，预计要恢复一周的时间',
             'important':false
         }
     ],
@@ -180,14 +185,14 @@ const nbaData = {
             'detail':'腿部受伤，每日观察',
             'important':false
         },{
-            'name':'沃尔',
-            'status':'出战',
-            'detail':'可以出战周一对阵太阳的比赛',
+            'name':'乔治',
+            'status':'缺阵',
+            'detail':'身体不适，无法出战周三对阵雷霆的比赛',
             'important':true
         },{
-            'name':'伦纳德',
-            'status':'出战',
-            'detail':'可以出战周一对阵太阳的比赛',
+            'name':'马库斯.莫里斯',
+            'status':'缺阵',
+            'detail':'个人原因，无法出战周三对阵雷霆的比赛',
             'important':true
         }
     ],
@@ -304,11 +309,21 @@ const nbaData = {
             'detail':'膝盖受伤，归期未定',
             'important':false
         },{
-            'name':'海斯',
+            'name':'赫伯特.琼斯',
             'status':'出战存疑',
-            'detail':'手肘受伤，周一对阵爵士的比赛出战存疑',
-            'important':false
-        }      
+            'detail':'膝盖受伤，周三对阵独行侠的比赛出战存疑',
+            'important':true
+        },{
+            'name':'锡安',
+            'status':'出战存疑',
+            'detail':'臀部受伤，周三对阵独行侠的比赛出战存疑',
+            'important':true
+        },{
+            'name':'英格拉姆',
+            'status':'缺阵',
+            'detail':'脑震荡治疗，无法出战周三对阵独行侠的比赛',
+            'important':true
+        }        
     ],
     //纽约尼克斯
     knicks:[
@@ -333,8 +348,13 @@ const nbaData = {
             'important':false
         },{
             'name':'亚历山大',
-            'status':'缺阵',
-            'detail':'臀部受伤，周一对阵森林狼的比赛无法出战',
+            'status':'出战存疑',
+            'detail':'臀部受伤，周三对阵快船的比赛出战存疑',
+            'important':true
+        },{
+            'name':'约什.吉迪',
+            'status':'出战存疑',
+            'detail':'腿部受伤，周三对阵快船的比赛出战存疑',
             'important':true
         }
     ],
