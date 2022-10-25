@@ -100,6 +100,11 @@ const nbaData = {
             'status':'缺阵',
             'detail':'脚踝受伤，无法出战周三对阵鹈鹕的比赛',
             'important':false
+        },{
+            'name':'小哈达威',
+            'status':'缺阵',
+            'detail':'腿部受伤，无法出战周三对阵鹈鹕的比赛',
+            'important':false
         }
     ],
     //丹佛掘金
@@ -188,6 +193,11 @@ const nbaData = {
             'name':'乔治',
             'status':'缺阵',
             'detail':'身体不适，无法出战周三对阵雷霆的比赛',
+            'important':true
+        },{
+            'name':'伦纳德',
+            'status':'缺阵',
+            'detail':'伤病管理，无法出战周三对阵雷霆的比赛',
             'important':true
         },{
             'name':'马库斯.莫里斯',
@@ -310,13 +320,13 @@ const nbaData = {
             'important':false
         },{
             'name':'赫伯特.琼斯',
-            'status':'出战存疑',
-            'detail':'膝盖受伤，周三对阵独行侠的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'膝盖受伤，无法出战周三对阵独行侠的比赛',
             'important':true
         },{
             'name':'锡安',
-            'status':'出战存疑',
-            'detail':'臀部受伤，周三对阵独行侠的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'臀部受伤，无法出战周三对阵独行侠的比赛',
             'important':true
         },{
             'name':'英格拉姆',
@@ -348,8 +358,8 @@ const nbaData = {
             'important':false
         },{
             'name':'亚历山大',
-            'status':'缺阵',
-            'detail':'臀部受伤，无法出战周三对阵快船的比赛',
+            'status':'出战',
+            'detail':'预计可以出战周三对阵快船的比赛',
             'important':true
         },{
             'name':'约什.吉迪',
