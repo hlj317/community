@@ -476,8 +476,8 @@ const nbaData = {
             'important':false
         },{
             'name':'斯科蒂.巴恩斯',
-            'status':'出战存疑',
-            'detail':'脚踝受伤，周四对阵76人的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周四对阵76人的比赛',
             'important':true
         }
     ],
