@@ -40,6 +40,11 @@ const nbaData = {
             'detail':'大概率可以出战周五对阵独行侠的比赛',
             'important':false
         },{
+            'name':'乔.哈里斯',
+            'status':'缺阵',
+            'detail':'脚踝受伤，无法出战周五对阵独行侠的比赛',
+            'important':false
+        },{
             'name':'T.J.沃伦',
             'status':'长期缺阵',
             'detail':'腿部受伤，归期未定',
@@ -107,8 +112,8 @@ const nbaData = {
             'important':false
         },{
             'name':'小哈达威',
-            'status':'出战存疑',
-            'detail':'腿部受伤，周五对阵篮网的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周五对阵篮网的比赛',
             'important':true
         }
     ],
@@ -191,8 +196,8 @@ const nbaData = {
             'important':false
         },{
             'name':'乔治',
-            'status':'出战存疑',
-            'detail':'身体不适，周五对阵雷霆的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周五对阵雷霆的比赛',
             'important':true
         },{
             'name':'伦纳德',
