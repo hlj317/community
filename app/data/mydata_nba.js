@@ -79,8 +79,8 @@ const nbaData = {
             'important':true
         },{
             'name':'扎克.拉文',
-            'status':'出战可能性小',
-            'detail':'左膝伤病管理，周六对阵马刺的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'左膝伤病管理，无法出战周六对阵马刺的比赛',
             'important':true
         }
     ],
