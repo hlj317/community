@@ -429,6 +429,11 @@ const nbaData = {
             'status':'出战存疑',
             'detail':'左膝受伤，每日观察',
             'important':false
+        },{        
+            'name':'恩比德',
+            'status':'缺阵',
+            'detail':'膝盖受伤，无法出战周六对阵猛龙的比赛',
+            'important':true
         }
     ],
     //菲尼克斯太阳
