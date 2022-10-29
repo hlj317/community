@@ -136,13 +136,13 @@ const nbaData = {
             'important':true
         },{
             'name':'波普',
-            'status':'出战存疑',
-            'detail':'脚踝受伤，周六对阵爵士的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'脚踝受伤，无法出战周六对阵爵士的比赛',
             'important':true
         },{
             'name':'里德',
-            'status':'出战存疑',
-            'detail':'腿部受伤，周六对阵爵士的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'腿部受伤，无法出战周六对阵爵士的比赛',
             'important':false
         }
     ],
