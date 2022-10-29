@@ -115,6 +115,11 @@ const nbaData = {
             'status':'缺阵',
             'detail':'脚踝受伤，无法出战',
             'important':false
+        },{
+            'name':'麦基',
+            'status':'轮休',
+            'detail':'身体不适，无法出战周日对阵雷霆的比赛',
+            'important':false
         }
     ],
     //丹佛掘金
