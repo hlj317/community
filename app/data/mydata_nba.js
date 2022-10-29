@@ -31,8 +31,8 @@ const nbaData = {
     nets:[
         {
             'name':'塞斯.库里',
-            'status':'出战存疑',
-            'detail':'脚踝受伤，周日对阵步行者的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周日对阵步行者的比赛',
             'important':true
         },{
             'name':'乔.哈里斯',
