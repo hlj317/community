@@ -335,14 +335,19 @@ const nbaData = {
             'important':false
         },{
             'name':'赫伯特.琼斯',
-            'status':'出战存疑',
-            'detail':'膝盖受伤，周六对阵太阳的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'膝盖受伤，无法出战周六对阵太阳的比赛',
             'important':true
         },{
             'name':'锡安',
-            'status':'出战存疑',
-            'detail':'臀部受伤，周六对阵太阳的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'臀部受伤，无法出战周六对阵太阳的比赛',
             'important':true
+        },{
+            'name':'丹尼尔斯',
+            'status':'缺阵',
+            'detail':'脚踝受伤，无法出战周六对阵太阳的比赛',
+            'important':false
         },{
             'name':'英格拉姆',
             'status':'缺阵',
@@ -350,13 +355,13 @@ const nbaData = {
             'important':true
         },{
             'name':'阿尔瓦拉多',
-            'status':'出战存疑',
-            'detail':'背部受伤，周六对阵太阳的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周六对阵太阳的比赛',
             'important':true
         },{
             'name':'CJ.麦科勒姆',
-            'status':'出战存疑',
-            'detail':'腿部受伤，周六对阵太阳的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周六对阵太阳的比赛',
             'important':true
         }       
     ],
