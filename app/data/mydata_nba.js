@@ -289,13 +289,13 @@ const nbaData = {
             'important':false
         },{
             'name':'康查尔',
-            'status':'出战存疑',
-            'detail':'左肩受伤，周日对阵爵士的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周日对阵爵士的比赛',
             'important':false
         },{
             'name':'拉拉维',
-            'status':'出战存疑',
-            'detail':'身体不适，周日对阵爵士的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'身体不适，无法出战周日对阵爵士的比赛',
             'important':false
         },{
             'name':'莫兰特',
