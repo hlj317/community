@@ -299,8 +299,8 @@ const nbaData = {
             'important':false
         },{
             'name':'莫兰特',
-            'status':'大概率缺阵',
-            'detail':'身体不适，大概率无法出战周日对阵爵士的比赛',
+            'status':'缺阵',
+            'detail':'身体不适，无法出战周日对阵爵士的比赛',
             'important':true
         }
     ],
