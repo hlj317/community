@@ -22,9 +22,9 @@ const nbaData = {
             'important':true
         },{        
             'name':'布罗格登',
-            'status':'出战存疑',
-            'detail':'背部受伤，周一对阵奇才的比赛出战存疑',
-            'important':false
+            'status':'出战',
+            'detail':'可以出战周一对阵奇才的比赛',
+            'important':true
         }
     ],
     //布鲁克林篮网
@@ -159,8 +159,13 @@ const nbaData = {
             'important':false
         },{
             'name':'普尔',
-            'status':'出战存疑',
-            'detail':'脚踝受伤，周一对阵活塞的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周一对阵活塞的比赛',
+            'important':true
+        },{
+            'name':'汤普森',
+            'status':'轮休',
+            'detail':'伤病管理，无法出战周一对阵活塞的比赛',
             'important':true
         }
     ],
@@ -183,8 +188,8 @@ const nbaData = {
             'important':true
         },{
             'name':'埃里克.戈登',
-            'status':'出战存疑',
-            'detail':'身体不适，周一对阵太阳的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'身体不适，无法出战周一对阵太阳的比赛',
             'important':true
         }
     ],
@@ -255,8 +260,8 @@ const nbaData = {
             'important':false
         },{
             'name':'安德森',
-            'status':'出战存疑',
-            'detail':'身体不适，周一对阵掘金的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'身体不适，无法出战周一对阵掘金的比赛',
             'important':false
         }              
     ],
@@ -360,8 +365,8 @@ const nbaData = {
             'important':false
         },{
             'name':'赫伯特.琼斯',
-            'status':'大概率出战',
-            'detail':'膝盖受伤，周一对阵快船的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'膝盖受伤，无法出战周一对阵快船的比赛',
             'important':true
         },{
             'name':'锡安',
@@ -512,8 +517,13 @@ const nbaData = {
             'important':true
         },{
             'name':'约什.理查德森',
-            'status':'出战存疑',
-            'detail':'腿部受伤，周一对阵森林狼的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'腿部受伤，无法出战周一对阵森林狼的比赛',
+            'important':true
+        },{
+            'name':'索汉',
+            'status':'缺阵',
+            'detail':'身体不适，无法出战周一对阵森林狼的比赛',
             'important':true
         }
     ],
