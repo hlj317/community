@@ -107,8 +107,8 @@ const nbaData = {
             'important':false
         },{
             'name':'麦基',
-            'status':'轮休',
-            'detail':'身体不适，无法出战周日对阵雷霆的比赛',
+            'status':'出战',
+            'detail':'可以出战周一对阵魔术的比赛',
             'important':false
         }
     ],
