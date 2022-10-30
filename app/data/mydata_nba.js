@@ -235,7 +235,7 @@ const nbaData = {
     lakers:[
         {
             'name':'安东尼.戴维斯',
-            'status':'出战存疑',
+            'status':'大概率出战',
             'detail':'后背受伤，周一对阵掘金的比赛出战存疑',
             'important':true
         },{
@@ -360,12 +360,12 @@ const nbaData = {
             'important':false
         },{
             'name':'赫伯特.琼斯',
-            'status':'出战存疑',
+            'status':'大概率出战',
             'detail':'膝盖受伤，周一对阵快船的比赛出战存疑',
             'important':true
         },{
             'name':'锡安',
-            'status':'出战存疑',
+            'status':'大概率出战',
             'detail':'臀部受伤，周一对阵快船的比赛出战存疑',
             'important':true
         },{

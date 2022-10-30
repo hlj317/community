@@ -6321,12 +6321,12 @@ export const myData = [
             {
                 time:'Mon 10/31, 3:00 AM',
                 awayName:'pelicans',
-                awayLeftPoints:'+5.0',
-                awayRightPoints:'+5.0',
+                awayLeftPoints:'+2.5',
+                awayRightPoints:'+2.5',
                 awayRatio:39,
                 homeName:'clippers',
-                homeLeftPoints:'-5.0',
-                homeRightPoints:'-5.0',
+                homeLeftPoints:'-2.5',
+                homeRightPoints:'-2.5',
                 homeRatio:61
             },{
                 time:'Mon 10/31, 6:00 AM',
