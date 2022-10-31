@@ -121,8 +121,8 @@ const nbaData = {
             'important':false
         },{
             'name':'波普',
-            'status':'出战存疑',
-            'detail':'脚踝受伤，周一对阵湖人的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周一对阵湖人的比赛',
             'important':true
         },{
             'name':'里德',
@@ -240,8 +240,8 @@ const nbaData = {
     lakers:[
         {
             'name':'安东尼.戴维斯',
-            'status':'大概率出战',
-            'detail':'后背受伤，周一对阵掘金的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周一对阵掘金的比赛',
             'important':true
         },{
             'name':'施罗德',
@@ -346,13 +346,13 @@ const nbaData = {
     timberwolves:[
         {
             'name':'凯尔.安德森',
-            'status':'出战存疑',
-            'detail':'背部受伤，周一对阵马刺的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周一对阵马刺的比赛',
             'important':false
         },{
             'name':'麦克劳林',
-            'status':'出战存疑',
-            'detail':'脚后跟受伤，周一对阵马刺的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'脚后跟受伤，无法出战周一对阵马刺的比赛',
             'important':false
         }
     ],
