@@ -1,0 +1,93 @@
+{{extend ("../layout/mobile_default.html")}}
+{{#block ("body")}}
+<div id="detail" class="news-detail">
+    <div class="top-part">
+        <div class="top-menu">
+            <div class="portait-img">
+                <img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/common/portait.png"/>
+            </div>
+            <div class="portait-text">
+                <div class="text-name"><span class="text-game">每日红单推荐</span>请关注微信公众号：<strong>[篮彩老黑]</strong></div>
+                <div class="text-notice">篮彩经验学习、篮彩盘口投注率更新、NBA伤病名单更新</div>
+            </div>
+        </div>
+        <div class="clear"></div>
+        <ul class="nav">
+            <li><a href="injurynba">NBA</a></li>
+            <li class="vote-ratio"><a href="/vote.html">盘口投注率</a></li>
+            <li class="lancai"><a href="#" class="checked">篮彩经验学习</a><span class="selected"></span></li>
+            <li class="vote-ratio"><a href="/rank.html">盘口红黑榜</a></li>
+        </ul>
+    </div>
+    <div class="clear"></div>
+    <div id="detail" class="detail-page">
+        <a class="detail-return" href="/lancai.html"><span class="detail-dot">&lt&lt</span>篮彩经验学习列表</a>
+        <div class="detail-title">NBA篮彩中常见的专业术语你都了解吗？</div>
+        <div class="detail-lable">
+            <span class="detail-author">文/老黑</span>
+            <span class="detail-time">2022-11-01 20:58</span>
+        </div>
+        <div class="detail-img"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/wnba-news/12.jpg" /></div>
+        <div class="detail-content">
+            <strong>亚盘：</strong>篮彩中的亚盘说法取自于足球，篮彩中泛指各大知名菠菜公司开设的盘口，例如威廉、立博、365、皇冠等；<br/><br/>
+
+            <strong>上下盘：</strong>即篮彩中的让分盘口，例如马刺主场让3.5分对阵火箭，那么马刺就是上盘，火箭就是下盘；<br/><br/>
+            
+            <strong>投注率：</strong>泛指一场比赛主客场球队的投注比例，例如马刺对阵火箭，投注马刺赢盘的彩民有60%，那么马刺的投注率就是60%，这个投注率可以在各大菠菜公司中的官网上查询，也可以在[篮彩老黑]小程序中查询，但投注率只能做一个参考，因为显而易见有两个问题：① 公开能查询到的数据只是样本量数据，它并非全量数据；② 有实时性的误差存在；<br/><br/>
+            
+            <strong></strong>贴水：即赔付指数，比赛结果出来以后，彩民的盈钱和输钱的系数。例如贴水为95%，那么主客队的投注彩民如果各买100元，不管谁赢谁输，最终菠菜公司将从中赚取5元的水钱。每场比赛的贴水，各大菠菜公司略有不同，但一般的规则是热度越高的比赛，赔付率越高，最高甚至能达到95%以上，热度越低的比赛往往赔付率较低。所以我们有时候通过赔付率，也能观测出一场比赛的热度如何；<br/><br/>
+            
+            <strong>欧赔：</strong>欧赔其实是足彩中的说法，当然篮彩中也有，你可以简单理解成这就是独赢赔率。在篮彩中，有些彩民会利用欧赔转换来判定让分区间是否合理。例如马刺主让3.5对阵火箭，而欧赔只给到马刺独赢1.41的赔率，那么按照亚盘换算来说，其实会相对更看好马刺，当然这里只是举个例子，有可能换算数据没有这么精准，这里只是来说明欧赔的作用；<br/><br/>
+            
+            <strong>凯里指数：</strong>凯里指数来源于一个数学模型，这个指数能火起来是起源于研究足彩的一些专家认为凯里指数可以预测比赛结果，后来被证明是无稽之谈。凯里指数的公式计算比较复杂，我这里就不写了，主要对篮彩也没有太大用处，有兴趣的朋友可以自行去百度一下；<br/><br/>
+            
+            <strong>必发指数：</strong>必发指数 = 投注比例 * 必发价位；从专业的角度来说，一般可以通过必发指数来判断菠菜公司是否存在诱盘的行为。例如猛龙主场让2.5对阵热火，假设猛龙当时必发指数是在67%，而如果这时庄家主让升盘，那其实只是在简单地平衡一下投注盈亏而已，上下盘打出的概率基本上是五五开；<br/><br/>
+            
+            <strong></strong>离散指数：所谓离散指数，是用来衡量庄家意见统一与否的重要指标；通常情况下离散值越大，表示庄家分歧越大，结果不容易打出；离散值越小，表示庄家分歧越小，结果更容易打出。而每场比赛的离散值，是根据凯利值所衍生出来的更为深度的指数标准，大家其实不需要了解这背后是如何计算的，因为一般看离散指数，都是直接通过外网查询的，有专门的网站来实时查询每场比赛的动态离散值；<br/><br/>
+            
+            <strong>胆：</strong>这是篮彩串子中容错式投注买法的一个概念，例如你买马刺-3.5、湖人-7.5、勇士-6.5这个串子3X4，然后把马刺设成胆，只要马刺赢盘，且湖人或勇士其中一支球队赢盘，那么这个买法能保证你至少有3倍左右的奖金收益；<br/><br/>
+            
+            <strong>基本面：</strong>泛指球队当前的战绩、阵容、状态、交锋历史、体能、伤病情况等球队基本信息；<br/><br/>
+            
+            <strong>题材拉力：</strong>泛指球迷对比赛双方名气实力、近期表现、伤病情况、主客能力、媒体新闻正负面报道等因素综合判定之后产生的投注偏向；<br/><br/>
+            
+            <strong>战意：</strong>指一支球队的取胜欲望，例如连续输球后的反弹、强队爆冷输球或者大比分惨败后的反弹、恩怨球队或者基于交锋历史的复仇等，都会影响到一支球队的战意强弱与否，我个人认为这个战意因素非常重要，不夸张地说，有时直接能影响到一场比赛的赛果；<br/><br/>
+            
+            <strong>初盘：</strong>各大菠菜公司针对每场比赛，开出的第一个盘口；<br/><br/>
+            
+            <strong>临盘：</strong>一般泛指每场比赛开始前的15分钟内，各大菠菜公司针对这场比赛开出的最后一个盘口（滚球盘不算）；<br/><br/>
+            
+            <strong>变盘：</strong>字面理解意思盘口变了就是变盘；但其实篮彩中比较专业的变盘说法是，菠菜公司开始接受大量投注的时间点，对于常规的NBA比赛来说，变盘时间点是前一天北京时间的21:00-22:00，也就是说在这个区间范围内，菠菜公司接受了大量的投注量，这时的盘口变动是可以透露出较大信息量的；<br/><br/>
+            
+            <strong>实力盘：</strong>也称为合理盘，结合基本面来看，各大菠菜公司开出的让分盘口，是否符合预期，符合预期的我们称之为实力盘；<br/><br/>
+            
+            <strong>精算盘口：</strong>通过量化比赛基本面信息计算得到的让分盘口。每个彩民的量化指标都略有不同，这里举个例子，比如马刺主让3.5，但通过你自己的量化指标模型，计算出来的精算盘口是马刺主让5.5；精算盘口的作用主要是为了让你区分不同盘型的，例如下方要说的信心盘、诱盘等；<br/><br/>
+            
+            <strong>信心盘：</strong>通过菠菜公司开出的盘口与你自己量化指标计算得出的精算盘口对比，开出的盘口高了则被称之为信心盘；例如菠菜公司开出马刺主让6.5对阵火箭，而你的精算盘口马刺主让只有3.5，那么我们会认为马刺主让6.5的盘口称之为信心盘；<br/><br/>
+            
+            <strong>诱盘：</strong>刚好跟信心盘反了反，通过菠菜公司开出的盘口与你自己量化指标计算得出的精算盘口对比，开出的盘口低了则被称之为诱盘；例如菠菜公司开出马刺主让6.5对阵火箭，而你的精算盘口马刺主让高达9.5，那么我们会认为马刺主让6.5的盘口称之为诱盘；<br/><br/>
+            
+            <strong>浅盘：</strong>泛指篮彩中上盘让分指数在0.5至3.5这个区间范围内的，我们称之为浅盘（当然每个人的界定标准不一样，这里的数据范围只是举个例子）；<br/><br/>
+            
+            <strong>深盘：</strong>泛指篮彩中上盘让分指数在9.5及以上区间的，我们称之为深盘（当然每个人的界定标准不一样，这里的数据范围只是举个例子）；<br/><br/>
+            
+            <strong>小白：</strong>对于盘口一窍不通，投注全凭对基本面的了解以及自己的喜好感觉；<br/><br/>
+            
+            <strong>老鸟：</strong>精通盘口，但有时候也会被盘口所骗；我认为在篮彩中，学无止境，大家都是学生，一旦以老鸟自诩，那结果怕是比小白还要更惨；永远对篮彩的赛果抱有一颗敬畏之心吧，这也是我一直坚持的哲学。
+
+        <div class="detail-content-img">
+            <img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/wnba-news/11-1.jpg" />
+        </div>
+    </div>
+    <div class="bottom">
+        <div class="bottom-text">
+            本网站服务由[篮彩老黑]独家提供<br/>
+            <span>版权所有ICP证：</span>
+            <a href="https://beian.miit.gov.cn/" target="_blank" class="bottom-link">浙ICP备17001885号-5</a><br/>
+            Copyright © 2022 cbdyou.com.cn 保留一切权利
+        </div>
+        <div class="bottom-qrcode"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/common/lancai_qrcode_plus.jpg" /></div>
+    </div>
+</div>
+<script type="text/javascript" src="{{libsPath('vue.min.js')}}"></script>
+{{/block}}
