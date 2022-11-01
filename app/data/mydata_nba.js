@@ -31,13 +31,18 @@ const nbaData = {
             'important':false
         },{
             'name':'赛斯.库里',
-            'status':'出战存疑',
-            'detail':'脚踝受伤，周三对阵公牛的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'脚踝受伤，无法出战周三对阵公牛的比赛',
             'important':true
         },{
             'name':'本.西蒙斯',
-            'status':'出战存疑',
-            'detail':'膝盖受伤，周三对阵公牛的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'膝盖受伤，无法出战周三对阵公牛的比赛',
+            'important':true
+        },{
+            'name':'史蒂夫.纳什',
+            'status':'缺阵',
+            'detail':'已被篮网管理层解雇',
             'important':true
         }
     ],
@@ -69,8 +74,8 @@ const nbaData = {
             'important':true
         },{
             'name':'扎克.拉文',
-            'status':'出战存疑',
-            'detail':'伤病管理，周三对阵篮网的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周三对阵篮网的比赛',
             'important':true
         },{
             'name':'科比.怀特',
@@ -403,8 +408,8 @@ const nbaData = {
             'important':false
         },{
             'name':'约什.吉迪',
-            'status':'缺阵',
-            'detail':'腿部受伤，归期未定',
+            'status':'出战',
+            'detail':'可以出战周三对阵魔术的比赛',
             'important':true
         }
     ],
