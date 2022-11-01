@@ -1,0 +1,54 @@
+{{extend ("../layout/mobile_default.html")}}
+{{#block ("body")}}
+<div id="detail" class="news-detail">
+    <div class="top-part">
+        <div class="top-menu">
+            <div class="portait-img">
+                <img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/common/portait.png"/>
+            </div>
+            <div class="portait-text">
+                <div class="text-name"><span class="text-game">每日红单推荐</span>请关注微信公众号：<strong>[篮彩老黑]</strong></div>
+                <div class="text-notice">篮彩经验学习、篮彩盘口投注率更新、NBA伤病名单更新</div>
+            </div>
+        </div>
+        <div class="clear"></div>
+        <ul class="nav">
+            <li><a href="injurynba">NBA</a></li>
+            <li class="vote-ratio"><a href="/vote.html">盘口投注率</a></li>
+            <li class="lancai"><a href="#" class="checked">篮彩经验学习</a><span class="selected"></span></li>
+            <li class="vote-ratio"><a href="/rank.html">盘口红黑榜</a></li>
+        </ul>
+    </div>
+    <div class="clear"></div>
+    <div id="detail" class="detail-page">
+        <a class="detail-return" href="/lancai.html"><span class="detail-dot">&lt&lt</span>篮彩经验学习列表</a>
+        <div class="detail-title">新发现了一个博彩策略，是否成立？</div>
+        <div class="detail-lable">
+            <span class="detail-author">文/天幕 来源：知乎</span>
+            <span class="detail-time">2022-11-01 19:20</span>
+        </div>
+        <div class="detail-img"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/wnba-news/16.jpg" /></div>
+        <div class="detail-content">
+            【问】：由于博彩公司需要盈利，所以每个盘口的返还率一定小于等于1；<br/><br/>
+            方便起见，用让球盘（如让半球）进行讨论：好比某家博彩公司对比赛的盘口是2.05/1.85 返还率约等于0.9724 另一家博彩公司的盘口是1.85/2.05 返还率跟第一家公司相同；<br/><br/>
+            可以看到由于不同公司对赛果的分析略有差异，这样对于我而言，盘口就是2.05/2.05 返还率显然大于1；<br/><br/>
+            我可以买200块第一家公司的上盘和200块第二家公司的下盘 无论结果如果，我都可以得到205块；<br/><br/>
+            请问这样的博彩，策略是否成立？<br/><br/>
+            【答】：理论上是ok的，但实际操作起来却不可以。作为一个博彩近十年，从赌金百万，到几十万，到几万，到现在洗手不玩的人，给你个忠告有以下几点请听我慢慢道来：<br/><br/>
+            第一，在任何一个正规网站里，他们所使用的赌博软件，都会有一套智能分析软件，来记录你的，投式，注码，下注时间等等；<br/><br/>
+            第二，如果，你常赢连赢，那么恭喜你，你将会获得赌博公司的关注，他们将会采取人工审核的方法审你？你说为什么审核？说你洗码对冲，说你异地登陆，说你套利等等一系列的指责；<br/><br/>
+            第三，再有最重要的一点，如果你生活在大陆，是中国人，那么你最好别涉入这个圈子，先不说成为职业赌徒，这个十万分之一概率的职业，就算你赢到钱了，你能保证你就能拿到钱吗？<br/><br/>
+            别忘了，在国外有法可寻，但国内是禁止赌博的，就算不给你钱刁难你，你也只能挨着，毕竟对赌博公司来讲，我们是弱势群体，何况还有一大堆土庄，让你死都不知，最后说一句，不赌即是赢！<br/><br/>
+    </div>
+    <div class="bottom">
+        <div class="bottom-text">
+            本网站服务由[篮彩老黑]独家提供<br/>
+            <span>版权所有ICP证：</span>
+            <a href="https://beian.miit.gov.cn/" target="_blank" class="bottom-link">浙ICP备17001885号-5</a><br/>
+            Copyright © 2022 cbdyou.com.cn 保留一切权利
+        </div>
+        <div class="bottom-qrcode"><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/common/lancai_qrcode_plus.jpg" /></div>
+    </div>
+</div>
+<script type="text/javascript" src="{{libsPath('vue.min.js')}}"></script>
+{{/block}}

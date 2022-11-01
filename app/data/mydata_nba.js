@@ -79,9 +79,9 @@ const nbaData = {
             'important':true
         },{
             'name':'科比.怀特',
-            'status':'出战存疑',
-            'detail':'身体不适，周三对阵篮网的比赛出战存疑',
-            'important':false
+            'status':'缺阵',
+            'detail':'身体不适，无法出战周三对阵篮网的比赛',
+            'important':true
         },{
             'name':'德拉蒙德',
             'status':'缺阵',
