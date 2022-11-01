@@ -6478,6 +6478,55 @@ export const myData = [
                 homeRatio:19
             }
         ]
+    },
+
+
+    //11月02日
+    {
+        date: 'Wed Nov 02',
+        list: [
+            {
+                time:'Wed 11/02, 7:30 AM',
+                awayName:'warriors',
+                awayLeftPoints:'+1.0',
+                awayRightPoints:'-1.0',
+                awayRatio:40,
+                homeName:'heat',
+                homeLeftPoints:'-1.0',
+                homeRightPoints:'+1.0',
+                homeRatio:60
+            },{
+                time:'Wed 11/02, 7:30 AM',
+                awayName:'bulls',
+                awayLeftPoints:'+2.0',
+                awayRightPoints:'+2.0',
+                awayRatio:59,
+                homeName:'nets',
+                homeLeftPoints:'-2.0',
+                homeRightPoints:'-2.0',
+                homeRatio:41
+            },{
+                time:'Wed 11/02, 8:00 AM',
+                awayName:'magic',
+                awayLeftPoints:'+3.0',
+                awayRightPoints:'+3.5',
+                awayRatio:39,
+                homeName:'thunder',
+                homeLeftPoints:'-3.0',
+                homeRightPoints:'-3.5',
+                homeRatio:61
+            },{
+                time:'Wed 11/02, 10:00 AM',
+                awayName:'timberwolves',
+                awayLeftPoints:'+5.0',
+                awayRightPoints:'+5.0',
+                awayRatio:30,
+                homeName:'suns',
+                homeLeftPoints:'-5.0',
+                homeRightPoints:'-5.0',
+                homeRatio:70
+            }
+        ]
     }
     
 ]
