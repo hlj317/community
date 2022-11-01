@@ -289,13 +289,13 @@ const nbaData = {
             'important':false
         },{
             'name':'莫兰特',
-            'status':'出战存疑',
-            'detail':'身体不适，周二对阵爵士的比赛出战存疑',
+            'status':'出战',
+            'detail':'身体不适，可以出战周二对阵爵士的比赛',
             'important':true
         },{
             'name':'贝恩',
-            'status':'出战存疑',
-            'detail':'身体不适，周二对阵爵士的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'身体不适，无法出战周二对阵爵士的比赛',
             'important':true
         }
     ],
