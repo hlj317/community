@@ -108,4 +108,16 @@
         <lastmod>2022-11-01</lastmod>
         <changefreq>daily</changefreq>
     </url>
+    <url>
+        <loc>https://www.cbdyou.com.cn/detail-13.html></loc>
+        <priority>0.8</priority>
+        <lastmod>2022-11-01</lastmod>
+        <changefreq>daily</changefreq>
+    </url>
+    <url>
+        <loc>https://www.cbdyou.com.cn/detail-14.html></loc>
+        <priority>0.8</priority>
+        <lastmod>2022-11-01</lastmod>
+        <changefreq>daily</changefreq>
+    </url>
 </urlset>
