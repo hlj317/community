@@ -422,8 +422,8 @@ const nbaData = {
             'important':false
         },{
             'name':'萨格斯',
-            'status':'缺阵',
-            'detail':'脚踝受伤，归期未定',
+            'status':'出战',
+            'detail':'可以出战周三对阵雷霆的比赛',
             'important':true
         },{
             'name':'富尔茨',
