@@ -351,13 +351,13 @@ const nbaData = {
     timberwolves:[
         {
             'name':'凯尔.安德森',
-            'status':'出战存疑',
-            'detail':'背部受伤，周三对阵太阳的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周三对阵太阳的比赛',
             'important':false
         },{
             'name':'麦克劳林',
-            'status':'出战存疑',
-            'detail':'脚后跟受伤，周三对阵太阳的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周三对阵太阳的比赛',
             'important':false
         }
     ],
@@ -475,8 +475,8 @@ const nbaData = {
             'important':true
         },{
             'name':'克雷格',
-            'status':'出战存疑',
-            'detail':'腿部受伤，周三对阵森林狼的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周三对阵森林狼的比赛',
             'important':false
         }
     ],
