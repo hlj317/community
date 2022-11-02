@@ -546,11 +546,6 @@ const nbaData = {
             'detail':'膝盖受伤，无法出战周四对阵猛龙的比赛',
             'important':true
         },{
-            'name':'约什.理查德森',
-            'status':'缺阵',
-            'detail':'腿部受伤，无法出战周一对阵森林狼的比赛',
-            'important':true
-        },{
             'name':'索汉',
             'status':'出战存疑',
             'detail':'身体不适，周四对阵猛龙的比赛出战存疑',
