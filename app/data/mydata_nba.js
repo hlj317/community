@@ -250,8 +250,8 @@ const nbaData = {
     lakers:[
         {
             'name':'安东尼.戴维斯',
-            'status':'出战存疑',
-            'detail':'背部受伤，周四对阵鹈鹕的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周四对阵鹈鹕的比赛',
             'important':true
         },{
             'name':'施罗德',
@@ -509,8 +509,8 @@ const nbaData = {
             'important':true
         },{
             'name':'哈特',
-            'status':'缺阵',
-            'detail':'脑震荡治疗，周四对阵灰熊的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周四对阵灰熊的比赛',
             'important':true
         }
     ],
