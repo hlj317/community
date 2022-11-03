@@ -380,8 +380,8 @@ const nbaData = {
             'important':false
         },{
             'name':'赫伯特.琼斯',
-            'status':'出战存疑',
-            'detail':'大概率可以出战周四对阵湖人的比赛',
+            'status':'缺阵',
+            'detail':'膝盖受伤，无法出战周四对阵湖人的比赛',
             'important':true
         },{
             'name':'丹尼尔斯',
