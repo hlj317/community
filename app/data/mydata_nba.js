@@ -294,18 +294,18 @@ const nbaData = {
             'important':false
         },{
             'name':'拉拉维',
-            'status':'出战存疑',
-            'detail':'身体不适，周四对阵开拓者的比赛出战存疑',
+            'status':'出战',
+            'detail':'身体不适，可以出战周四对阵开拓者的比赛',
             'important':false
         },{
             'name':'亚当斯',
-            'status':'出战存疑',
-            'detail':'下巴受伤，周四对阵开拓者的比赛出战存疑',
+            'status':'出战',
+            'detail':'下巴受伤，可以出战周四对阵开拓者的比赛',
             'important':true
         },{
             'name':'贝恩',
-            'status':'出战存疑',
-            'detail':'身体不适，周四对阵开拓者的比赛出战存疑',
+            'status':'出战',
+            'detail':'身体不适，可以出战周四对阵开拓者的比赛',
             'important':true
         }
     ],
