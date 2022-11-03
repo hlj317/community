@@ -141,13 +141,13 @@ const nbaData = {
             'important':false
         },{
             'name':'伊斯梅尔.史密斯',
-            'status':'出战存疑',
-            'detail':'小腿受伤，周五对阵雷霆的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'小腿受伤，无法出战周五对阵雷霆的比赛',
             'important':false
         },{
             'name':'海兰德',
-            'status':'出战存疑',
-            'detail':'臀部受伤，周五对阵雷霆的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'臀部受伤，无法出战周五对阵雷霆的比赛',
             'important':true
         }
     ],
@@ -447,8 +447,8 @@ const nbaData = {
             'important':true
         },{
             'name':'特伦斯.罗斯',
-            'status':'出战存疑',
-            'detail':'膝盖受伤，周五对阵勇士的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'膝盖受伤，无法出战周五对阵勇士的比赛',
             'important':true
         }
     ],
