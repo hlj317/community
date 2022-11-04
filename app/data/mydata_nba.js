@@ -461,8 +461,8 @@ const nbaData = {
     seven6ers:[
         {        
             'name':'赛布尔',
-            'status':'出战存疑',
-            'detail':'脚踝受伤，周六对阵尼克斯的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周六对阵尼克斯的比赛',
             'important':false
         },{        
             'name':'豪斯',
@@ -471,8 +471,8 @@ const nbaData = {
             'important':false
         },{        
             'name':'恩比德',
-            'status':'大概率出战',
-            'detail':'身体不适，大概率出战周六对阵尼克斯的比赛',
+            'status':'缺阵',
+            'detail':'身体不适，无法出战周六对阵尼克斯的比赛',
             'important':true
         },{        
             'name':'哈登',
