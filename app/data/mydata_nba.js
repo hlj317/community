@@ -576,13 +576,13 @@ const nbaData = {
     raptors:[
         {
             'name':'范弗利特',
-            'status':'出战存疑',
-            'detail':'背部受伤，周六对阵独行侠的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'背部受伤，无法出战周六对阵独行侠的比赛',
             'important':true
         },{
             'name':'肯.伯奇',
-            'status':'出战存疑',
-            'detail':'右膝受伤，周六对阵独行侠的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'右膝受伤，无法出战周六对阵独行侠的比赛',
             'important':false
         }
     ],
