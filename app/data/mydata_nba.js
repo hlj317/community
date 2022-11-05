@@ -372,8 +372,8 @@ const nbaData = {
             'important':true
         },{
             'name':'字母哥',
-            'status':'出战存疑',
-            'detail':'腿部受伤，周日对阵雷霆的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'腿部受伤，无法出战周日对阵雷霆的比赛',
             'important':true
         },{
             'name':'英格尔斯',
