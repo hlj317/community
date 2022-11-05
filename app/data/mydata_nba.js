@@ -27,8 +27,8 @@ const nbaData = {
             'important':true
         },{        
             'name':'杰伦.布朗',
-            'status':'出战存疑',
-            'detail':'腿部受伤，周六对阵公牛的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周六对阵公牛的比赛',
             'important':true
         }
     ],
@@ -376,13 +376,13 @@ const nbaData = {
     timberwolves:[
         {
             'name':'戈贝尔',
-            'status':'出战存疑',
-            'detail':'身体不适，周六对阵雄鹿的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周六对阵雄鹿的比赛',
             'important':true
         },{
             'name':'爱德华兹',
-            'status':'出战存疑',
-            'detail':'身体不适，周六对阵雄鹿的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周六对阵雄鹿的比赛',
             'important':true
         }
     ],
