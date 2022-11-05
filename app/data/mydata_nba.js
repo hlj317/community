@@ -26,9 +26,9 @@ const nbaData = {
             'detail':'膝盖手术，预计缺阵2个月时间',
             'important':true
         },{        
-            'name':'杰伦.布朗',
-            'status':'出战',
-            'detail':'可以出战周六对阵公牛的比赛',
+            'name':'霍福德',
+            'status':'缺阵',
+            'detail':'背部受伤，无法出战周日对阵尼克斯的比赛',
             'important':true
         }
     ],
