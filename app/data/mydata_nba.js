@@ -94,13 +94,13 @@ const nbaData = {
             'important':true
         },{
             'name':'小德里克.琼斯',
-            'status':'出战存疑',
-            'detail':'腿部受伤，周一对阵猛龙的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周一对阵猛龙的比赛',
             'important':false
         },{
             'name':'拉文',
-            'status':'出战存疑',
-            'detail':'伤病管理，周一对阵猛龙的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'伤病管理，无法出战周一对阵猛龙的比赛',
             'important':true
         },{
             'name':'德拉蒙德',
@@ -290,14 +290,19 @@ const nbaData = {
     lakers:[
         {
             'name':'安东尼.戴维斯',
-            'status':'出战存疑',
-            'detail':'背部伤病，周一对阵骑士的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周一对阵骑士的比赛',
             'important':true
         },{
             'name':'施罗德',
             'status':'缺阵',
             'detail':'拇指受伤，预计缺阵3-4周',
             'important':false
+        },{
+            'name':'贝弗利',
+            'status':'缺阵',
+            'detail':'身体不适，无法出战周一对阵骑士的比赛',
+            'important':true
         },{
             'name':'托马斯.布莱恩特',
             'status':'缺阵',
@@ -581,8 +586,8 @@ const nbaData = {
     raptors:[
         {
             'name':'范弗利特',
-            'status':'出战存疑',
-            'detail':'背部受伤，周一对阵公牛的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周一对阵公牛的比赛',
             'important':true
         },{
             'name':'西亚卡姆',
@@ -591,19 +596,24 @@ const nbaData = {
             'important':true
         },{
             'name':'肯.伯奇',
-            'status':'出战存疑',
-            'detail':'右膝受伤，周一对阵公牛的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'右膝受伤，无法出战周一对阵公牛的比赛',
             'important':false
         }
     ],
     //犹它爵士
     jazz:[
         {
+            'name':'范泽比尔特',
+            'status':'出战存疑',
+            'detail':'腿部受伤，周一对阵快船的比赛出战存疑',
+            'important':true
+        },{
             'name':'丰泰基奥',
             'status':'出战',
             'detail':'可以出战周六对阵湖人的比赛',
             'important':false
-        }                     
+        }                      
     ],
     //华盛顿奇才
     wizards:[
