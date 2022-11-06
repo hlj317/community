@@ -90,12 +90,22 @@ const nbaData = {
         },{
             'name':'科比.怀特',
             'status':'缺阵',
-            'detail':'四头肌受伤，无法出战周六对阵凯尔特人的比赛',
+            'detail':'四头肌受伤，无法出战周一对阵猛龙的比赛',
+            'important':true
+        },{
+            'name':'小德里克.琼斯',
+            'status':'出战存疑',
+            'detail':'腿部受伤，周一对阵猛龙的比赛出战存疑',
+            'important':false
+        },{
+            'name':'拉文',
+            'status':'出战存疑',
+            'detail':'伤病管理，周一对阵猛龙的比赛出战存疑',
             'important':true
         },{
             'name':'德拉蒙德',
             'status':'缺阵',
-            'detail':'肩膀受伤，无法出战周六对阵凯尔特人的比赛',
+            'detail':'肩膀受伤，归期未定',
             'important':false
         }
     ],
@@ -113,19 +123,14 @@ const nbaData = {
             'important':false
         },{
             'name':'加兰',
-            'status':'缺阵',
-            'detail':'眼睛受伤，无法出战周六对阵活塞的比赛',
+            'status':'出战存疑',
+            'detail':'眼睛受伤，周一对阵湖人的比赛出战存疑',
             'important':true
         },{
             'name':'米切尔',
-            'status':'缺阵',
-            'detail':'左脚踝受伤，无法出战周六对阵活塞的比赛',
+            'status':'出战存疑',
+            'detail':'左脚踝受伤，周一对阵湖人的比赛出战存疑',
             'important':true
-        },{
-            'name':'内托',
-            'status':'出战',
-            'detail':'右脚踝受伤，可以出战周六对阵活塞的比赛',
-            'important':false
         }
     ],
     //达拉斯独行侠
@@ -271,17 +276,22 @@ const nbaData = {
             'important':true
         },{
             'name':'考文顿',
-            'status':'缺阵',
-            'detail':'触发联盟新冠疫情协议，无法出战',
+            'status':'出战存疑',
+            'detail':'身体不适，周一对阵爵士的比赛出战存疑',
             'important':true
+        },{
+            'name':'肯纳德',
+            'status':'缺阵',
+            'detail':'膝盖受伤，无法出战周一对阵爵士的比赛',
+            'important':false
         }
     ],
     //洛杉矶湖人
     lakers:[
         {
             'name':'安东尼.戴维斯',
-            'status':'出战',
-            'detail':'可以出战周六对阵爵士的比赛',
+            'status':'出战存疑',
+            'detail':'背部伤病，周一对阵骑士的比赛出战存疑',
             'important':true
         },{
             'name':'施罗德',
@@ -571,13 +581,18 @@ const nbaData = {
     raptors:[
         {
             'name':'范弗利特',
-            'status':'缺阵',
-            'detail':'背部受伤，无法出战周六对阵独行侠的比赛',
+            'status':'出战存疑',
+            'detail':'背部受伤，周一对阵公牛的比赛出战存疑',
+            'important':true
+        },{
+            'name':'西亚卡姆',
+            'status':'出战存疑',
+            'detail':'腹股沟受伤，周一对阵公牛的比赛出战存疑',
             'important':true
         },{
             'name':'肯.伯奇',
-            'status':'缺阵',
-            'detail':'右膝受伤，无法出战周六对阵独行侠的比赛',
+            'status':'出战存疑',
+            'detail':'右膝受伤，周一对阵公牛的比赛出战存疑',
             'important':false
         }
     ],
