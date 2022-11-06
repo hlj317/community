@@ -156,13 +156,13 @@ const nbaData = {
             'important':false
         },{
             'name':'伊斯梅尔.史密斯',
-            'status':'出战存疑',
-            'detail':'小腿受伤，周日对阵马刺的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'小腿受伤，无法出战周日对阵马刺的比赛',
             'important':false
         },{
             'name':'海兰德',
-            'status':'出战存疑',
-            'detail':'臀部受伤，周日对阵马刺的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周日对阵马刺的比赛',
             'important':true
         }
     ],
@@ -551,19 +551,14 @@ const nbaData = {
             'detail':'腿部受伤，每日观察',
             'important':false
         },{
-            'name':'罗比',
-            'status':'缺阵',
-            'detail':'脚趾受伤，无法出战周日对阵掘金的比赛',
-            'important':false
-        },{
             'name':'兰福德',
             'status':'缺阵',
             'detail':'身体不适，无法出战周日对阵掘金的比赛',
             'important':false
         },{
             'name':'扎克.科林斯',
-            'status':'出战存疑',
-            'detail':'小腿受伤，周日对阵掘金的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'小腿受伤，无法出战周日对阵掘金的比赛',
             'important':false
         },{
             'name':'布雷克.威斯利',
