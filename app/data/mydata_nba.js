@@ -586,8 +586,8 @@ const nbaData = {
             'important':true
         },{
             'name':'西亚卡姆',
-            'status':'出战存疑',
-            'detail':'腹股沟受伤，周一对阵公牛的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'腹股沟受伤，预计会缺席接下来几场比赛',
             'important':true
         },{
             'name':'肯.伯奇',
