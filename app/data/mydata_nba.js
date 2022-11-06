@@ -608,10 +608,10 @@ const nbaData = {
     //华盛顿奇才
     wizards:[
         {
-            'name':'基斯珀特',
-            'status':'出战',
-            'detail':'可以出战周六对阵76人的比赛',
-            'important':false
+            'name':'比尔',
+            'status':'缺阵',
+            'detail':'因为健康安全协议，会缺阵几场比赛',
+            'important':true
         },{
             'name':'德隆.赖特',
             'status':'长期缺阵',
