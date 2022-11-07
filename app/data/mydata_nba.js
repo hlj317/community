@@ -584,8 +584,8 @@ const nbaData = {
     wizards:[
         {
             'name':'比尔',
-            'status':'缺阵',
-            'detail':'因为健康安全协议，会缺阵几场比赛',
+            'status':'出战存疑',
+            'detail':'身体好转，周二对阵黄蜂的比赛出战存疑',
             'important':true
         },{
             'name':'德隆.赖特',
