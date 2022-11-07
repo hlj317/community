@@ -223,13 +223,13 @@ const nbaData = {
             'important':true
         },{
             'name':'杰伦.格林',
-            'status':'出战存疑',
-            'detail':'腿部受伤，周二对阵魔术的比赛的出战存疑',
+            'status':'出战',
+            'detail':'可以出战周二对阵魔术的比赛',
             'important':true
         },{
             'name':'小波特',
-            'status':'出战存疑',
-            'detail':'身体不适，周二对阵魔术的比赛的出战存疑',
+            'status':'出战',
+            'detail':'可以出战周二对阵魔术的比赛',
             'important':true
         }
     ],
