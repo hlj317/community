@@ -276,8 +276,8 @@ const nbaData = {
             'important':true
         },{
             'name':'考文顿',
-            'status':'出战存疑',
-            'detail':'身体不适，周一对阵爵士的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周一对阵爵士的比赛',
             'important':true
         },{
             'name':'肯纳德',
@@ -605,13 +605,13 @@ const nbaData = {
     jazz:[
         {
             'name':'范泽比尔特',
-            'status':'出战存疑',
-            'detail':'腿部受伤，周一对阵快船的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'腿部受伤，无法出战周一对阵快船的比赛',
             'important':true
         },{
             'name':'丰泰基奥',
-            'status':'出战',
-            'detail':'可以出战周六对阵湖人的比赛',
+            'status':'出战存疑',
+            'detail':'身体不适，每日观察',
             'important':false
         }                      
     ],
