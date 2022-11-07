@@ -819,6 +819,164 @@ export const myData = [
                 homeRatio:56
             }
         ]
+    },
+
+    //11月08日
+    {
+        date: 'Tue Nov 08',
+        list: [
+            {
+                time:'Tue 11/08, 8:00 AM',
+                awayName:'wizards',
+                awayLeftPoints:'+3.0',
+                awayRightPoints:'+2.5',
+                awayRatio:56,
+                homeName:'hornets',
+                homeLeftPoints:'-3.0',
+                homeRightPoints:'-2.5',
+                homeRatio:44
+            },{
+                time:'Tue 11/08, 8:15 AM',
+                awayName:'rockets',
+                awayLeftPoints:'+4.5',
+                awayRightPoints:'+4.5',
+                awayRatio:36,
+                homeName:'magic',
+                homeLeftPoints:'-4.5',
+                homeRightPoints:'-4.5',
+                homeRatio:64
+            },{
+                time:'Tue 11/08, 8:30 AM',
+                awayName:'thunder',
+                awayLeftPoints:'+1.5',
+                awayRightPoints:'+1.5',
+                awayRatio:58,
+                homeName:'pistons',
+                homeLeftPoints:'-1.5',
+                homeRightPoints:'-1.5',
+                homeRatio:42
+            },{
+                time:'Tue 11/08, 8:45 AM',
+                awayName:'pelicans',
+                awayLeftPoints:'-6.0',
+                awayRightPoints:'-5.0',
+                awayRatio:65,
+                homeName:'pacers',
+                homeLeftPoints:'+6.0',
+                homeRightPoints:'+5.0',
+                homeRatio:35
+            },{
+                time:'Tue 11/08, 9:00 AM',
+                awayName:'suns',
+                awayLeftPoints:'-1.5',
+                awayRightPoints:'-1.5',
+                awayRatio:64,
+                homeName:'seven6ers',
+                homeLeftPoints:'+1.5',
+                homeRightPoints:'+1.5',
+                homeRatio:36
+            },{
+                time:'Tue 11/08, 9:15 AM',
+                awayName:'bucks',
+                awayLeftPoints:'-2.0',
+                awayRightPoints:'-2.0',
+                awayRatio:67,
+                homeName:'hawks',
+                homeLeftPoints:'+2.0',
+                homeRightPoints:'+2.0',
+                homeRatio:33
+            },{
+                time:'Tue 11/08, 9:30 AM',
+                awayName:'blazers',
+                awayLeftPoints:'+7.0',
+                awayRightPoints:'+6.5',
+                awayRatio:37,
+                homeName:'heat',
+                homeLeftPoints:'-7.0',
+                homeRightPoints:'-6.5',
+                homeRatio:63
+            },{
+                time:'Tue 11/08, 9:45 AM',
+                awayName:'raptors',
+                awayLeftPoints:'+4.0',
+                awayRightPoints:'+4.0',
+                awayRatio:53,
+                homeName:'bulls',
+                homeLeftPoints:'-4.0',
+                homeRightPoints:'-4.0',
+                homeRatio:47
+            },{
+                time:'Tue 11/08, 10:00 AM',
+                awayName:'celtics',
+                awayLeftPoints:'-4.0',
+                awayRightPoints:'-4.0',
+                awayRatio:56,
+                homeName:'grizzlies',
+                homeLeftPoints:'+4.0',
+                homeRightPoints:'+4.0',
+                homeRatio:44
+            },{
+                time:'Tue 11/08, 10:15 AM',
+                awayName:'knicks',
+                awayLeftPoints:'+4.5',
+                awayRightPoints:'+4.5',
+                awayRatio:40,
+                homeName:'timberwolves',
+                homeLeftPoints:'-4.5',
+                homeRightPoints:'-4.5',
+                homeRatio:60
+            },{
+                time:'Tue 11/08, 10:30 AM',
+                awayName:'nuggets',
+                awayLeftPoints:'-7.5',
+                awayRightPoints:'-7.5',
+                awayRatio:75,
+                homeName:'spurs',
+                homeLeftPoints:'+7.5',
+                homeRightPoints:'+7.5',
+                homeRatio:25
+            },{
+                time:'Tue 11/08, 10:45 AM',
+                awayName:'nets',
+                awayLeftPoints:'+6.5',
+                awayRightPoints:'+6.5',
+                awayRatio:42,
+                homeName:'mavericks',
+                homeLeftPoints:'-6.5',
+                homeRightPoints:'-6.5',
+                homeRatio:58
+            },{
+                time:'Tue 11/08, 11:00 AM',
+                awayName:'kings',
+                awayLeftPoints:'+7.5',
+                awayRightPoints:'+7.5',
+                awayRatio:30,
+                homeName:'warriors',
+                homeLeftPoints:'-7.5',
+                homeRightPoints:'-7.5',
+                homeRatio:70
+            },{
+                time:'Tue 11/08, 11:15 AM',
+                awayName:'lakers',
+                awayLeftPoints:'+3.0',
+                awayRightPoints:'+3.0',
+                awayRatio:34,
+                homeName:'jazz',
+                homeLeftPoints:'-3.0',
+                homeRightPoints:'-3.0',
+                homeRatio:66
+            },{
+                time:'Tue 11/08, 11:30 AM',
+                awayName:'cavaliers',
+                awayLeftPoints:'-1.0',
+                awayRightPoints:'-1.0',
+                awayRatio:61,
+                homeName:'clippers',
+                homeLeftPoints:'+1.0',
+                homeRightPoints:'+1.0',
+                homeRatio:39
+            }
+        ]
     }
 
     
