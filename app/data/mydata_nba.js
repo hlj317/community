@@ -539,8 +539,8 @@ const nbaData = {
             'important':true
         },{
             'name':'安芬尼.西蒙斯',
-            'status':'出战存疑',
-            'detail':'左脚受伤，周二对阵热火的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周二对阵热火的比赛',
             'important':true
         }
     ],
