@@ -89,8 +89,8 @@ const nbaData = {
             'important':true
         },{
             'name':'拉文',
-            'status':'出战存疑',
-            'detail':'伤病管理，周二对阵猛龙的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周二对阵猛龙的比赛',
             'important':true
         },{
             'name':'德拉蒙德',
@@ -334,8 +334,8 @@ const nbaData = {
             'important':false
         },{
             'name':'史蒂夫.亚当斯',
-            'status':'出战存疑',
-            'detail':'脚踝受伤，周二对阵凯尔特人的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'脚踝受伤，无法出战周二对阵凯尔特人的比赛',
             'important':true
         }
     ],
