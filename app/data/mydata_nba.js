@@ -8,8 +8,8 @@ const nbaData = {
             'important':true
         },{
             'name':'特雷杨',
-            'status':'出战存疑',
-            'detail':'小腿受伤，周四对阵爵士的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周四对阵爵士的比赛',
             'important':true
         }
     ],
