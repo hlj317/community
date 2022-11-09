@@ -1030,7 +1030,7 @@ export const myData = [
                 awayLeftPoints:'+3.5',
                 awayRightPoints:'+3.5',
                 awayRatio:55,
-                homeName:'hwaks',
+                homeName:'hawks',
                 homeLeftPoints:'-3.5',
                 homeRightPoints:'-3.5',
                 homeRatio:45
