@@ -125,23 +125,23 @@ const nbaData = {
     pistons:[
         {        
             'name':'伯克斯',
-            'status':'出战存疑',
-            'detail':'腿部受伤，周六对阵尼克斯的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周六对阵尼克斯的比赛',
             'important':false
         },{        
             'name':'巴格利',
-            'status':'出战存疑',
-            'detail':'膝盖受伤，周六对阵尼克斯的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'无法出战周六对阵尼克斯的比赛',
             'important':true
         },{        
             'name':'凯德.坎宁安',
-            'status':'出战存疑',
-            'detail':'身体不适，周六对阵尼克斯的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'无法出战周六对阵尼克斯的比赛',
             'important':true
         },{        
             'name':'迪亚洛',
-            'status':'出战存疑',
-            'detail':'身体不适，周六对阵尼克斯的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周六对阵尼克斯的比赛',
             'important':false
         }       
     ],
@@ -392,8 +392,8 @@ const nbaData = {
             'important':true
         },{
             'name':'班切罗',
-            'status':'出战存疑',
-            'detail':'左脚踝受伤，周六对阵太阳的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'左脚踝受伤，无法出战周六对阵太阳的比赛',
             'important':true
         }
     ],
@@ -420,8 +420,8 @@ const nbaData = {
             'important':false
         },{
             'name':'克里斯.保罗',
-            'status':'出战存疑',
-            'detail':'脚后跟受伤，周六对阵魔术的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'脚后跟受伤，无法出战周六对阵魔术的比赛',
             'important':true
         },{
             'name':'卡梅伦.约翰逊',
