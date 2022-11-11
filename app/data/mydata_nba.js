@@ -428,6 +428,11 @@ const nbaData = {
             'status':'长期缺阵',
             'detail':'右膝半月板撕裂，预计缺阵2个月时间',
             'important':true
+        },{
+            'name':'沙梅特',
+            'status':'缺阵',
+            'detail':'个人原因，无法出战周六对阵魔术的比赛',
+            'important':false
         }
     ],
     //波特兰开拓者
@@ -497,7 +502,7 @@ const nbaData = {
         },{
             'name':'肯.伯奇',
             'status':'缺阵',
-            'detail':'右膝受伤，无法出战周四对阵火箭的比赛',
+            'detail':'右膝受伤，无法出战周六对阵雷霆的比赛',
             'important':false
         },{
             'name':'阿丘瓦',
