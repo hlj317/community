@@ -8,8 +8,8 @@ const nbaData = {
             'important':true
         },{
             'name':'杰伦.约翰逊',
-            'status':'出战存疑',
-            'detail':'腿部受伤，周五对阵76人的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周五对阵76人的比赛',
             'important':false
         }
     ],
@@ -278,13 +278,13 @@ const nbaData = {
             'important':false
         },{
             'name':'希罗',
-            'status':'出战存疑',
-            'detail':'小腿受伤，周五对阵黄蜂的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'小腿受伤，无法出战周五对阵黄蜂的比赛',
             'important':true
         },{
             'name':'克莱布.马丁',
-            'status':'出战存疑',
-            'detail':'左脚踝受伤，周五对阵黄蜂的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周五对阵黄蜂的比赛',
             'important':true
         }              
     ],
@@ -340,8 +340,8 @@ const nbaData = {
             'important':false
         },{
             'name':'南斯',
-            'status':'出战存疑',
-            'detail':'膝盖受伤，周五对阵开拓者的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周五对阵开拓者的比赛',
             'important':false
         },{
             'name':'坦普尔',
@@ -421,8 +421,8 @@ const nbaData = {
             'important':true
         },{        
             'name':'PJ.塔克',
-            'status':'出战存疑',
-            'detail':'左臀受伤，周五对阵76人的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周五对阵76人的比赛',
             'important':true
         }
     ],
@@ -459,18 +459,23 @@ const nbaData = {
             'important':true
         },{
             'name':'基翁.约翰逊',
-            'status':'出战存疑',
-            'detail':'左臀受伤，周五对阵鹈鹕的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'左臀受伤，无法出战周五对阵鹈鹕的比赛',
             'important':false
         },{
             'name':'努尔基奇',
-            'status':'出战存疑',
-            'detail':'身体不适，周五对阵鹈鹕的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'身体不适，无法出战周五对阵鹈鹕的比赛',
             'important':true
         },{
+            'name':'夏普',
+            'status':'缺阵',
+            'detail':'身体不适，无法出战周五对阵鹈鹕的比赛',
+            'important':false
+        },{
             'name':'格兰特',
-            'status':'出战存疑',
-            'detail':'身体不适，周五对阵鹈鹕的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周五对阵鹈鹕的比赛',
             'important':true
         },{
             'name':'利拉德',
