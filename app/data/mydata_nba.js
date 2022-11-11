@@ -210,13 +210,13 @@ const nbaData = {
             'important':false
         },{
             'name':'朗尼.沃克',
-            'status':'出战存疑',
-            'detail':'身体不适，周六对阵国王的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周六对阵国王的比赛',
             'important':true
         },{
             'name':'安东尼.戴维斯',
-            'status':'出战',
-            'detail':'预计出战周六对阵国王的比赛',
+            'status':'出战可能性小',
+            'detail':'背部受伤，周六对阵国王的比赛出战可能性小',
             'important':true
         },{
             'name':'詹姆斯',
