@@ -119,6 +119,11 @@ const nbaData = {
             'status':'缺阵',
             'detail':'小腿受伤，无法出战周六对阵凯尔特人的比赛',
             'important':false
+        },{
+            'name':'海兰德',
+            'status':'缺阵',
+            'detail':'身体不适，无法出战周六对阵凯尔特人的比赛',
+            'important':true
         }
     ],
     //底特律活塞
@@ -215,8 +220,8 @@ const nbaData = {
             'important':true
         },{
             'name':'安东尼.戴维斯',
-            'status':'出战可能性小',
-            'detail':'背部受伤，周六对阵国王的比赛出战可能性小',
+            'status':'出战',
+            'detail':'可以出战周六对阵国王的比赛',
             'important':true
         },{
             'name':'詹姆斯',
