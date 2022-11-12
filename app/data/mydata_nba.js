@@ -6,6 +6,11 @@ const nbaData = {
             'status':'长期缺阵',
             'detail':'膝盖受伤，归期未定',
             'important':true
+        },{
+            'name':'奥孔古',
+            'status':'缺阵',
+            'detail':'腿部受伤，无法出战周日对阵76人的比赛',
+            'important':false
         }
     ],
     //波士顿凯尔特人
@@ -22,8 +27,18 @@ const nbaData = {
             'important':true
         },{        
             'name':'布罗格登',
+            'status':'缺阵',
+            'detail':'腿筋拉伤，无法出战周日对阵活塞的比赛',
+            'important':true
+        },{        
+            'name':'霍福德',
+            'status':'缺阵',
+            'detail':'背部受伤，无法出战周日对阵活塞的比赛',
+            'important':true
+        },{        
+            'name':'杰伦.布朗',
             'status':'出战存疑',
-            'detail':'腿筋拉伤，周日对阵活塞的比赛出战存疑',
+            'detail':'身体不适，周日对阵活塞的比赛出战存疑',
             'important':true
         }
     ],
@@ -135,13 +150,13 @@ const nbaData = {
     pistons:[
         {        
             'name':'巴格利',
-            'status':'缺阵',
-            'detail':'膝盖受伤，无法出战',
+            'status':'出战',
+            'detail':'可以出战周日对阵凯尔特人的比赛',
             'important':true
         },{        
             'name':'凯德.坎宁安',
-            'status':'出战存疑',
-            'detail':'身体不适，周日对阵凯尔特人的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'腿部受伤，至少还要缺阵一周的时间',
             'important':true
         }    
     ],
@@ -404,6 +419,11 @@ const nbaData = {
             'status':'出战存疑',
             'detail':'身体不适，周日对阵老鹰的比赛出战存疑',
             'important':false
+        },{        
+            'name':'米尔顿',
+            'status':'出战存疑',
+            'detail':'身体不适，周日对阵老鹰的比赛出战存疑',
+            'important':false
         }
     ],
     //菲尼克斯太阳
@@ -504,6 +524,11 @@ const nbaData = {
             'status':'缺阵',
             'detail':'右脚踝受伤，归期未定',
             'important':false
+        },{
+            'name':'范弗利特',
+            'status':'缺阵',
+            'detail':'身体不适，无法出战周日对阵步行者的比赛',
+            'important':true
         }
     ],
     //犹它爵士
@@ -519,8 +544,8 @@ const nbaData = {
     wizards:[
         {
             'name':'泰.吉布森',
-            'status':'出战存疑',
-            'detail':'头痛不适，周日对阵爵士的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'头痛不适，无法出战周日对阵爵士的比赛',
             'important':false
         },{
             'name':'波尔津吉斯',
