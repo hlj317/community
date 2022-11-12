@@ -37,8 +37,8 @@ const nbaData = {
             'important':true
         },{        
             'name':'杰伦.布朗',
-            'status':'出战存疑',
-            'detail':'身体不适，周日对阵活塞的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'身体不适，无法出战周日对阵活塞的比赛',
             'important':true
         }
     ],
