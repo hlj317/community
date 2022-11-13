@@ -1254,7 +1254,6 @@ export const myData = [
         ]
     },
 
-
     //11月13日
     {
         date: 'Sun Nov 13',
@@ -1339,6 +1338,85 @@ export const myData = [
                 homeLeftPoints:'-5.0',
                 homeRightPoints:'-5.0',
                 homeRatio:40
+            }
+        ]
+    },
+
+
+    //11月14日
+    {
+        date: 'Mon Nov 14',
+        list: [
+            {
+                time:'Mon 11/14, 1:00 AM',
+                awayName:'thunder',
+                awayLeftPoints:'+5.5',
+                awayRightPoints:'+5.5',
+                awayRatio:48,
+                homeName:'knicks',
+                homeLeftPoints:'-5.5',
+                homeRightPoints:'-5.5',
+                homeRatio:52
+            },{
+                time:'Mon 11/14, 7:00 AM',
+                awayName:'timberwolves',
+                awayLeftPoints:'+5.0',
+                awayRightPoints:'+5.0',
+                awayRatio:34,
+                homeName:'cavaliers',
+                homeLeftPoints:'-5.0',
+                homeRightPoints:'-5.0',
+                homeRatio:66
+            },{
+                time:'Mon 11/14, 7:00 AM',
+                awayName:'grizzlies',
+                awayLeftPoints:'-1.5',
+                awayRightPoints:'-1.5',
+                awayRatio:67,
+                homeName:'wizards',
+                homeLeftPoints:'+1.5',
+                homeRightPoints:'+1.5',
+                homeRatio:33
+            },{
+                time:'Mon 11/14, 8:30 AM',
+                awayName:'jazz',
+                awayLeftPoints:'+3.5',
+                awayRightPoints:'+3.5',
+                awayRatio:45,
+                homeName:'seven6ers',
+                homeLeftPoints:'-3.5',
+                homeRightPoints:'-3.5',
+                homeRatio:55
+            },{
+                time:'Mon 11/14, 9:00 AM',
+                awayName:'nuggets',
+                awayLeftPoints:'+1.0',
+                awayRightPoints:'+1.0',
+                awayRatio:63,
+                homeName:'bulls',
+                homeLeftPoints:'-1.0',
+                homeRightPoints:'-1.0',
+                homeRatio:37
+            },{
+                time:'Mon 11/14, 10:00 AM',
+                awayName:'warriors',
+                awayLeftPoints:'-3.5',
+                awayRightPoints:'-3.5',
+                awayRatio:56,
+                homeName:'kings',
+                homeLeftPoints:'+3.5',
+                homeRightPoints:'+3.5',
+                homeRatio:44
+            },{
+                time:'Mon 11/14, 10:30 AM',
+                awayName:'nets',
+                awayLeftPoints:'-3.5',
+                awayRightPoints:'-3.5',
+                awayRatio:61,
+                homeName:'lakers',
+                homeLeftPoints:'+3.5',
+                homeRightPoints:'+3.5',
+                homeRatio:39
             }
         ]
     }
