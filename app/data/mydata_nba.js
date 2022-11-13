@@ -459,28 +459,28 @@ const nbaData = {
             'important':true
         },{
             'name':'基翁.约翰逊',
-            'status':'出战存疑',
-            'detail':'左臀受伤，周日对阵独行侠的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'左臀受伤，无法出战周日对阵独行侠的比赛',
             'important':false
         },{
             'name':'努尔基奇',
-            'status':'出战存疑',
-            'detail':'身体不适，周日对阵独行侠的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'身体不适，无法出战周日对阵独行侠的比赛',
             'important':true
         },{
             'name':'夏普',
-            'status':'出战存疑',
-            'detail':'身体不适，周日对阵独行侠的比赛出战存疑',
+            'status':'出战',
+            'detail':'身体不适，可以出战周日对阵独行侠的比赛',
             'important':false
         },{
             'name':'格兰特',
-            'status':'出战存疑',
-            'detail':'身体不适，周日对阵独行侠的比赛出战存疑',
+            'status':'出战',
+            'detail':'身体不适，可以出战周日对阵独行侠的比赛',
             'important':true
         },{
             'name':'温斯洛',
-            'status':'出战存疑',
-            'detail':'身体不适，周日对阵独行侠的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'身体不适，无法出战周日对阵独行侠的比赛',
             'important':true
         }
     ],
