@@ -278,13 +278,13 @@ const nbaData = {
             'important':false
         },{
             'name':'希罗',
-            'status':'出战存疑',
-            'detail':'小腿受伤，周日对阵黄蜂的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'小腿受伤，无法出战周日对阵黄蜂的比赛',
             'important':true
         },{
             'name':'戴德蒙',
-            'status':'出战存疑',
-            'detail':'腿部受伤，周日对阵黄蜂的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周日对阵黄蜂的比赛',
             'important':false
         }              
     ],
