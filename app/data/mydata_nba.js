@@ -51,8 +51,8 @@ const nbaData = {
             'important':false
         },{
             'name':'渡边雄太',
-            'status':'缺阵',
-            'detail':'脚踝受伤，无法出战周四对阵尼克斯的比赛',
+            'status':'出战',
+            'detail':'可以出战周一对阵湖人的比赛',
             'important':false
         },{
             'name':'欧文',
@@ -118,18 +118,18 @@ const nbaData = {
             'important':false
         },{
             'name':'多诺万.米切尔',
-            'status':'出战存疑',
-            'detail':'脚踝受伤，周一对阵森林狼的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'脚踝受伤，无法出战周一对阵森林狼的比赛',
             'important':true
         },{
             'name':'迪恩.韦德',
-            'status':'出战存疑',
-            'detail':'膝盖受伤，周一对阵森林狼的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'膝盖受伤，无法出战周一对阵森林狼的比赛',
             'important':false
         },{
             'name':'阿伦',
-            'status':'出战存疑',
-            'detail':'左脚踝受伤，周一对阵森林狼的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'左脚踝受伤，无法出战周一对阵森林狼的比赛',
             'important':true
         }
     ],
@@ -274,13 +274,13 @@ const nbaData = {
             'important':false
         },{
             'name':'贾.莫兰特',
-            'status':'出战存疑',
-            'detail':'左脚踝受伤，周一对阵奇才的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'左脚踝受伤，无法出战周一对阵奇才的比赛',
             'important':true
         },{
             'name':'贝恩',
-            'status':'出战存疑',
-            'detail':'右脚趾受伤，周一对阵奇才的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'右脚趾受伤，无法出战周一对阵奇才的比赛',
             'important':true
         }
     ],
@@ -431,13 +431,13 @@ const nbaData = {
             'important':true
         },{        
             'name':'恩比德',
-            'status':'出战存疑',
-            'detail':'身体不适，周一对阵爵士的比赛出战存疑',
+            'status':'出战',
+            'detail':'身体不适，可以出战周一对阵爵士的比赛',
             'important':true
         },{        
             'name':'米尔顿',
-            'status':'出战存疑',
-            'detail':'身体不适，周一对阵爵士的比赛出战存疑',
+            'status':'出战',
+            'detail':'身体不适，可以出战周一对阵爵士的比赛',
             'important':false
         }
     ],
@@ -559,8 +559,8 @@ const nbaData = {
     wizards:[
         {
             'name':'泰.吉布森',
-            'status':'出战存疑',
-            'detail':'头痛不适，周一对阵灰熊的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'头痛不适，无法出战',
             'important':false
         },{
             'name':'比尔',
