@@ -332,13 +332,13 @@ const nbaData = {
             'important':true
         },{
             'name':'字母哥',
-            'status':'出战存疑',
-            'detail':'膝盖受伤，周二对阵老鹰的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周二对阵老鹰的比赛',
             'important':true
         },{
             'name':'格雷森.阿伦',
-            'status':'出战存疑',
-            'detail':'膝盖受伤，周二对阵老鹰的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周二对阵老鹰的比赛',
             'important':true
         },{
             'name':'英格尔斯',
