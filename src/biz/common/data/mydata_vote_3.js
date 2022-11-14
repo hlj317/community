@@ -1419,6 +1419,85 @@ export const myData = [
                 homeRatio:39
             }
         ]
+    },
+
+
+    //11月15日
+    {
+        date: 'Tue Nov 15',
+        list: [
+            {
+                time:'Tue 11/15, 8:00 AM',
+                awayName:'raptors',
+                awayLeftPoints:'-5.0',
+                awayRightPoints:'-5.0',
+                awayRatio:55,
+                homeName:'pistons',
+                homeLeftPoints:'+5.0',
+                homeRightPoints:'+5.0',
+                homeRatio:45
+            },{
+                time:'Tue 11/15, 8:00 AM',
+                awayName:'hornets',
+                awayLeftPoints:'+1.0',
+                awayRightPoints:'+1.0',
+                awayRatio:47,
+                homeName:'magic',
+                homeLeftPoints:'-1.0',
+                homeRightPoints:'-1.0',
+                homeRatio:53
+            },{
+                time:'Tue 11/15, 8:30 AM',
+                awayName:'thunder',
+                awayLeftPoints:'+11.0',
+                awayRightPoints:'+11.0',
+                awayRatio:40,
+                homeName:'celtics',
+                homeLeftPoints:'-11.0',
+                homeRightPoints:'-11.0',
+                homeRatio:60
+            },{
+                time:'Tue 11/15, 8:30 AM',
+                awayName:'suns',
+                awayLeftPoints:'+1.5',
+                awayRightPoints:'+1.5',
+                awayRatio:59,
+                homeName:'heat',
+                homeLeftPoints:'-1.5',
+                homeRightPoints:'-1.5',
+                homeRatio:41
+            },{
+                time:'Tue 11/15, 9:00 AM',
+                awayName:'hawks',
+                awayLeftPoints:'+4.0',
+                awayRightPoints:'+4.0',
+                awayRatio:37,
+                homeName:'bucks',
+                homeLeftPoints:'-4.0',
+                homeRightPoints:'-4.0',
+                homeRatio:63
+            },{
+                time:'Tue 11/15, 9:00 AM',
+                awayName:'clippers',
+                awayLeftPoints:'-5.5',
+                awayRightPoints:'-5.5',
+                awayRatio:61,
+                homeName:'rockets',
+                homeLeftPoints:'+5.5',
+                homeRightPoints:'+5.5',
+                homeRatio:39
+            },{
+                time:'Tue 11/15, 11:00 AM',
+                awayName:'spurs',
+                awayLeftPoints:'+8.0',
+                awayRightPoints:'+8.0',
+                awayRatio:32,
+                homeName:'warriors',
+                homeLeftPoints:'-8.0',
+                homeRightPoints:'-8.0',
+                homeRatio:68
+            }
+        ]
     }
 
     
