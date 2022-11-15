@@ -1528,7 +1528,7 @@ export const myData = [
                 time:'Wed 11/16, 10:00 AM',
                 awayName:'knicks',
                 awayLeftPoints:'+4.5',
-                awayRightPoints:'+4.4',
+                awayRightPoints:'+4.5',
                 awayRatio:45,
                 homeName:'jazz',
                 homeLeftPoints:'-4.5',
