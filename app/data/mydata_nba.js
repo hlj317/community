@@ -357,13 +357,13 @@ const nbaData = {
             'important':true
         },{
             'name':'朱.霍乐迪',
-            'status':'出战存疑',
-            'detail':'右脚踝受伤，周四对阵骑士的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'右脚踝受伤，无法出战周四对阵骑士的比赛',
             'important':true
         },{
             'name':'格雷森.阿伦',
-            'status':'出战存疑',
-            'detail':'脚踝受伤，周四对阵骑士的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'脚踝受伤，无法出战周四对阵骑士的比赛',
             'important':true
         },{
             'name':'英格尔斯',
@@ -457,8 +457,8 @@ const nbaData = {
             'important':true
         },{
             'name':'温德勒.卡特',
-            'status':'小概率出战',
-            'detail':'左脚踝受伤，小概率可以出战周四对阵森林狼的比赛',
+            'status':'缺阵',
+            'detail':'左脚踝受伤，无法出战周四对阵森林狼的比赛',
             'important':true
         }
     ],
