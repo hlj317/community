@@ -581,13 +581,13 @@ const nbaData = {
             'important':false
         },{
             'name':'范弗利特',
-            'status':'出战存疑',
-            'detail':'身体不适，周四对阵热火的比赛出战存疑',
+            'status':'出战',
+            'detail':'身体不适，可以出战周四对阵热火的比赛',
             'important':true
         },{
             'name':'小特伦特',
-            'status':'小概率出战',
-            'detail':'右臀受伤，小概率可以出战周四对阵热火的比赛',
+            'status':'缺阵',
+            'detail':'右臀受伤，无法出战周四对阵热火的比赛',
             'important':true
         },{
             'name':'奥托.波特',
