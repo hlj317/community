@@ -222,8 +222,8 @@ const nbaData = {
             'important':false
         },{
             'name':'哈利伯顿',
-            'status':'出战存疑',
-            'detail':'右脚踝受伤，周四对阵黄蜂的比赛出战存疑',
+            'status':'大概率出战',
+            'detail':'右脚踝受伤，大概率可以出战周四对阵黄蜂的比赛',
             'important':true
         }
     ],
