@@ -42,7 +42,7 @@ const nbaData = {
         },{
             'name':'欧文',
             'status':'缺阵',
-            'detail':'球队禁赛中，归期未定',
+            'detail':'球队禁赛中，预计会在下周二对阵灰熊的比赛中复出',
             'important':true
         }
     ],
@@ -170,8 +170,8 @@ const nbaData = {
     pistons:[
         {        
             'name':'约瑟夫',
-            'status':'出战存疑',
-            'detail':'左臀受伤，周五对阵快船的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周五对阵快船的比赛',
             'important':false
         },{        
             'name':'凯德.坎宁安',
@@ -236,8 +236,8 @@ const nbaData = {
             'important':false
         },{
             'name':'伦纳德',
-            'status':'缺阵',
-            'detail':'伤病管理，归期未定',
+            'status':'出战存疑',
+            'detail':'伤病管理，周五对阵活塞的比赛出战存疑',
             'important':true
         },{
             'name':'保罗.乔治',
@@ -246,8 +246,8 @@ const nbaData = {
             'important':true
         },{
             'name':'肯纳德',
-            'status':'出战存疑',
-            'detail':'小腿受伤，周五对阵活塞的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'小腿受伤，无法出战周五对阵活塞的比赛',
             'important':false
         }
     ],
@@ -560,6 +560,16 @@ const nbaData = {
             'status':'缺阵',
             'detail':'腿部受伤，无法出战',
             'important':false
+        },{
+            'name':'麦克德莫特',
+            'status':'出战存疑',
+            'detail':'身体不适，周五对阵国王的比赛出战存疑',
+            'important':true
+        },{
+            'name':'凯尔登.约翰逊',
+            'status':'出战存疑',
+            'detail':'身体不适，周五对阵国王的比赛出战存疑',
+            'important':true
         }
     ],
     //多伦多猛龙
