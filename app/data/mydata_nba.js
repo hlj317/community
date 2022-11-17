@@ -113,13 +113,13 @@ const nbaData = {
             'important':false
         },{
             'name':'多诺万.米切尔',
-            'status':'大概率出战',
-            'detail':'脚踝受伤，大概率可以出战周四对阵雄鹿的比赛',
+            'status':'出战',
+            'detail':'脚踝受伤，可以出战周四对阵雄鹿的比赛',
             'important':true
         },{
             'name':'迪恩.韦德',
-            'status':'出战存疑',
-            'detail':'膝盖受伤，周四对阵雄鹿的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'膝盖受伤，无法出战周四对阵雄鹿的比赛',
             'important':false
         },{
             'name':'阿伦',
