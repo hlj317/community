@@ -509,18 +509,18 @@ const nbaData = {
             'important':true
         },{
             'name':'基翁.约翰逊',
-            'status':'出战存疑',
-            'detail':'左臀受伤，周五对阵篮网的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'左臀受伤，无法出战周五对阵篮网的比赛',
             'important':false
         },{
             'name':'温斯洛',
-            'status':'出战存疑',
-            'detail':'身体不适，周五对阵篮网的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周五对阵篮网的比赛',
             'important':false
         },{
             'name':'努尔基奇',
-            'status':'出战存疑',
-            'detail':'小腿受伤，周五对阵篮网的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周五对阵篮网的比赛',
             'important':true
         }
     ],
@@ -533,8 +533,8 @@ const nbaData = {
             'important':false
         },{
             'name':'基根.默里',
-            'status':'出战存疑',
-            'detail':'背部受伤，周五对阵马刺的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'背部受伤，无法出战周五对阵马刺的比赛',
             'important':true
         }
     ],
@@ -562,13 +562,13 @@ const nbaData = {
             'important':false
         },{
             'name':'麦克德莫特',
-            'status':'出战存疑',
-            'detail':'身体不适，周五对阵国王的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'身体不适，无法出战周五对阵国王的比赛',
             'important':true
         },{
             'name':'凯尔登.约翰逊',
-            'status':'出战存疑',
-            'detail':'身体不适，周五对阵国王的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周五对阵国王的比赛',
             'important':true
         }
     ],
