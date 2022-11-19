@@ -55,8 +55,8 @@ const nbaData = {
             'important':false
         },{
             'name':'海沃德',
-            'status':'大概率出战',
-            'detail':'肩膀受伤，大概率可以出战周六对阵骑士的比赛',
+            'status':'出战',
+            'detail':'可以出战周六对阵骑士的比赛',
             'important':true
         },{
             'name':'丹尼斯.史密斯',
