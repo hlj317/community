@@ -113,8 +113,8 @@ const nbaData = {
             'important':false
         },{
             'name':'贾勒特.阿伦',
-            'status':'出战存疑',
-            'detail':'左脚踝受伤，周六对阵黄蜂的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周六对阵黄蜂的比赛',
             'important':true
         }
     ],
@@ -390,8 +390,8 @@ const nbaData = {
             'important':false
         },{
             'name':'锡安.威廉森',
-            'status':'出战存疑',
-            'detail':'腿部受伤，周六对阵凯尔特人的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'腿部受伤，无法出战周六对阵凯尔特人的比赛',
             'important':true
         }  
     ],
