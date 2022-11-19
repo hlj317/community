@@ -225,6 +225,11 @@ const nbaData = {
             'status':'长期缺阵',
             'detail':'脚踝受伤，预计缺阵4-6周时间',
             'important':false
+        },{
+            'name':'哈里伯顿',
+            'status':'出战存疑',
+            'detail':'腿部受伤，周日对阵魔术的比赛中出战存疑',
+            'important':true
         }
     ],
     //洛杉矶快船
