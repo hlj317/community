@@ -476,8 +476,8 @@ const nbaData = {
             'important':true
         },{        
             'name':'哈里斯',
-            'status':'小概率出战',
-            'detail':'臀部受伤，小概率可以出战周日对阵森林狼的比赛',
+            'status':'缺阵',
+            'detail':'臀部受伤，无法出战周日对阵森林狼的比赛',
             'important':true
         },{        
             'name':'马克西',
