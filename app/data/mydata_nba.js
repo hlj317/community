@@ -227,8 +227,8 @@ const nbaData = {
             'important':false
         },{
             'name':'哈里伯顿',
-            'status':'出战存疑',
-            'detail':'腿部受伤，周日对阵魔术的比赛中出战存疑',
+            'status':'出战',
+            'detail':'可以出战周日对阵魔术的比赛中',
             'important':true
         }
     ],
@@ -462,8 +462,8 @@ const nbaData = {
             'important':true
         },{
             'name':'温德勒.卡特',
-            'status':'出战',
-            'detail':'可以出战周六对阵公牛的比赛',
+            'status':'缺阵',
+            'detail':'腿部受伤，无法出战周日对阵步行者的比赛',
             'important':true
         }
     ],
@@ -476,13 +476,13 @@ const nbaData = {
             'important':true
         },{        
             'name':'哈里斯',
-            'status':'出战存疑',
-            'detail':'臀部受伤，周日对阵森林狼的比赛出战存疑',
+            'status':'小概率出战',
+            'detail':'臀部受伤，小概率可以出战周日对阵森林狼的比赛',
             'important':true
         },{        
             'name':'马克西',
-            'status':'出战存疑',
-            'detail':'左脚受伤，周日对阵森林狼的比赛出战存疑',
+            'status':'长期缺阵',
+            'detail':'左脚受伤，至少缺阵3-4周时间',
             'important':true
         }
     ],
