@@ -151,7 +151,7 @@ const nbaData = {
         {        
             'name':'凯德.坎宁安',
             'status':'缺阵',
-            'detail':'腿部受伤，至少还要缺阵一周的时间',
+            'detail':'腿部受伤，归期未定',
             'important':true
         },{        
             'name':'斯图尔特',
@@ -530,16 +530,6 @@ const nbaData = {
             'name':'克塔',
             'status':'出战存疑',
             'detail':'腿部受伤，每日观察',
-            'important':false
-        },{
-            'name':'基根.默里',
-            'status':'出战存疑',
-            'detail':'背部受伤，周一对阵活塞的比赛出战存疑',
-            'important':true
-        },{
-            'name':'马利克.蒙克',
-            'status':'出战存疑',
-            'detail':'腿部受伤，周一对阵活塞的比赛出战存疑',
             'important':false
         }
     ],
