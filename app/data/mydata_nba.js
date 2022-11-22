@@ -39,16 +39,6 @@ const nbaData = {
             'status':'长期缺阵',
             'detail':'腿部受伤，归期未定',
             'important':false
-        },{
-            'name':'欧文',
-            'status':'出战',
-            'detail':'可以出战周一对阵灰熊的比赛',
-            'important':true
-        },{
-            'name':'克拉克斯顿',
-            'status':'缺阵',
-            'detail':'个人原因，无法出战周一对阵灰熊的比赛',
-            'important':true
         }
     ],
     //夏洛特黄蜂
@@ -136,23 +126,23 @@ const nbaData = {
             'important':false
         },{
             'name':'伊斯梅尔.史密斯',
-            'status':'缺阵',
-            'detail':'小腿受伤，无法出战周一对阵独行侠的比赛',
+            'status':'出战存疑',
+            'detail':'小腿受伤，周三对阵活塞的比赛出战存疑',
             'important':false
         },{
             'name':'戈登',
-            'status':'缺阵',
-            'detail':'身体不适，无法出战周一对阵独行侠的比赛',
+            'status':'出战存疑',
+            'detail':'身体不适，周三对阵活塞的比赛出战存疑',
             'important':true
         },{
             'name':'约基奇',
-            'status':'缺阵',
-            'detail':'因为联盟新冠协议，会缺阵几场比赛',
+            'status':'出战存疑',
+            'detail':'身体不适，周三对阵活塞的比赛出战存疑',
             'important':true
         },{
             'name':'贾马尔.穆雷',
-            'status':'缺阵',
-            'detail':'伤病管理，无法出战周一对阵独行侠的比赛',
+            'status':'出战存疑',
+            'detail':'身体不适，周三对阵活塞的比赛出战存疑',
             'important':true
         }
     ],
@@ -171,7 +161,7 @@ const nbaData = {
         },{        
             'name':'萨迪克.贝',
             'status':'缺阵',
-            'detail':'脚踝受伤，无法出战周一对阵国王的比赛',
+            'detail':'脚踝受伤，预计会缺阵接下来三场客场的比赛',
             'important':true
         }    
     ],
