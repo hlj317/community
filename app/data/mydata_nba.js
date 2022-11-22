@@ -299,8 +299,8 @@ const nbaData = {
             'important':true
         },{
             'name':'小贾伦.杰克逊',
-            'status':'缺阵',
-            'detail':'伤病管理，无法出战周一对阵篮网的比赛',
+            'status':'出战',
+            'detail':'可以出战周三对阵国王的比赛',
             'important':true
         }
     ],
