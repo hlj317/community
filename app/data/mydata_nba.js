@@ -39,6 +39,11 @@ const nbaData = {
             'status':'长期缺阵',
             'detail':'腿部受伤，归期未定',
             'important':false
+        },{
+            'name':'渡边雄太',
+            'status':'缺阵',
+            'detail':'腿部受伤，无法出战周三对阵76人的比赛',
+            'important':false
         }
     ],
     //夏洛特黄蜂
@@ -130,19 +135,24 @@ const nbaData = {
             'detail':'小腿受伤，周三对阵活塞的比赛出战存疑',
             'important':false
         },{
-            'name':'戈登',
+            'name':'海兰德',
             'status':'出战存疑',
-            'detail':'身体不适，周三对阵活塞的比赛出战存疑',
+            'detail':'臀部受伤，周三对阵活塞的比赛出战存疑',
+            'important':true
+        },{
+            'name':'戈登',
+            'status':'出战',
+            'detail':'可以出战周三对阵活塞的比赛',
             'important':true
         },{
             'name':'约基奇',
-            'status':'出战存疑',
-            'detail':'身体不适，周三对阵活塞的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周三对阵活塞的比赛',
             'important':true
         },{
             'name':'贾马尔.穆雷',
-            'status':'出战存疑',
-            'detail':'身体不适，周三对阵活塞的比赛出战存疑',
+            'status':'大概率出战',
+            'detail':'身体不适，大概率可以出战周三对阵活塞的比赛',
             'important':true
         }
     ],
@@ -260,13 +270,13 @@ const nbaData = {
     lakers:[
         {
             'name':'詹姆斯',
-            'status':'出战存疑',
-            'detail':'腹股沟伤势，周一对阵马刺的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'腹股沟伤势，无法出战周三对阵太阳的比赛',
             'important':true
         },{
             'name':'安德森',
-            'status':'小概率出战',
-            'detail':'背部受伤，小概率可以出战周一对阵马刺的比赛',
+            'status':'缺阵',
+            'detail':'背部受伤，无法出战周三对阵太阳的比赛',
             'important':false
         },{
             'name':'科尔.施威德',
@@ -294,8 +304,8 @@ const nbaData = {
             'important':true
         },{
             'name':'莫兰特',
-            'status':'缺阵',
-            'detail':'脚踝1级扭伤，至少要缺阵2周时间',
+            'status':'出战',
+            'detail':'可以出战周三对阵国王的比赛',
             'important':true
         },{
             'name':'小贾伦.杰克逊',
@@ -491,7 +501,7 @@ const nbaData = {
         },{
             'name':'克里斯.保罗',
             'status':'缺阵',
-            'detail':'脚后跟受伤，无法出战周一对阵尼克斯的比赛',
+            'detail':'脚后跟受伤，无法出战周三对阵湖人的比赛',
             'important':true
         },{
             'name':'卡梅伦.约翰逊',
@@ -501,7 +511,7 @@ const nbaData = {
         },{
             'name':'沙梅特',
             'status':'缺阵',
-            'detail':'个人原因，无法出战周一对阵尼克斯的比赛',
+            'detail':'个人原因，无法出战周三对阵湖人的比赛',
             'important':false
         }
     ],
