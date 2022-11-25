@@ -502,8 +502,8 @@ const nbaData = {
             'important':true
         },{
             'name':'奥吉吉',
-            'status':'出战存疑',
-            'detail':'膝盖受伤，周六对阵76人的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'膝盖受伤，无法出战周六对阵76人的比赛',
             'important':false
         }
     ],
