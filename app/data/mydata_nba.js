@@ -193,19 +193,24 @@ const nbaData = {
     rockets:[
         {
             'name':'申京',
-            'status':'出战存疑',
-            'detail':'腹股沟受伤，周日对阵雷霆的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周日对阵雷霆的比赛',
             'important':true
         },{
             'name':'戈登',
-            'status':'出战存疑',
-            'detail':'腹股沟受伤，周日对阵雷霆的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周日对阵雷霆的比赛',
             'important':true
         },{
             'name':'泰特',
             'status':'缺阵',
             'detail':'脚踝受伤，无法出战',
             'important':true
+        },{
+            'name':'费尔南多',
+            'status':'缺阵',
+            'detail':'伤病管理，无法出战出战周日对阵雷霆的比赛',
+            'important':false
         }
     ],
     //印第安纳步行者
@@ -540,8 +545,8 @@ const nbaData = {
             'important':true
         },{
             'name':'沙梅特',
-            'status':'缺阵',
-            'detail':'脑震荡治疗，无法出战周日对阵爵士的比赛',
+            'status':'出战',
+            'detail':'可以出战周日对阵爵士的比赛',
             'important':false
         }
     ],
@@ -587,13 +592,18 @@ const nbaData = {
             'important':false
         },{
             'name':'约什.理查德森',
-            'status':'出战存疑',
-            'detail':'腿部受伤，周日对阵湖人的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'腿部受伤，无法出战周日对阵湖人的比赛',
             'important':true
         },{
+            'name':'迪奥普',
+            'status':'缺阵',
+            'detail':'腿部受伤，无法出战周日对阵湖人的比赛',
+            'important':false
+        },{
             'name':'麦克德莫特',
-            'status':'出战存疑',
-            'detail':'膝盖受伤，周日对阵湖人的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周日对阵湖人的比赛',
             'important':true
         }
     ],
@@ -606,8 +616,8 @@ const nbaData = {
             'important':true
         },{
             'name':'班顿',
-            'status':'出战存疑',
-            'detail':'脚踝受伤，周六对阵独行侠的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'脚踝受伤，无法出战周六对阵独行侠的比赛',
             'important':false
         },{
             'name':'斯科蒂.巴恩斯',
@@ -616,8 +626,8 @@ const nbaData = {
             'important':true
         },{
             'name':'范弗利特',
-            'status':'出战存疑',
-            'detail':'身体不适，周六对阵独行侠的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周六对阵独行侠的比赛',
             'important':true
         },{
             'name':'阿丘瓦',
