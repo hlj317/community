@@ -137,9 +137,14 @@ const nbaData = {
     mavericks:[
         {
             'name':'布洛克',
-            'status':'轮休',
-            'detail':'身体不适，无法出战周一对阵雄鹿的比赛',
+            'status':'出战',
+            'detail':'可以出战周三对阵勇士的比赛',
             'important':true
+        },{
+            'name':'尼利基纳',
+            'status':'出战存疑',
+            'detail':'腿部受伤，每日观察',
+            'important':false
         }
     ],
     //丹佛掘金
