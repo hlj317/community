@@ -180,23 +180,23 @@ const nbaData = {
             'important':true
         },{        
             'name':'斯图尔特',
-            'status':'出战存疑',
-            'detail':'脚趾受伤，周三对阵尼克斯的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周三对阵尼克斯的比赛',
             'important':true
         },{        
             'name':'巴格利',
-            'status':'出战存疑',
-            'detail':'伤病管理，周三对阵尼克斯的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周三对阵尼克斯的比赛',
             'important':true
         },{        
             'name':'博扬',
-            'status':'出战存疑',
-            'detail':'右膝受伤，周三对阵尼克斯的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周三对阵尼克斯的比赛',
             'important':true
         },{        
             'name':'杰登.艾维',
-            'status':'出战存疑',
-            'detail':'膝盖受伤，周三对阵尼克斯的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'膝盖受伤，无法出战周三对阵尼克斯的比赛',
             'important':true
         }    
     ],
@@ -444,8 +444,8 @@ const nbaData = {
     knicks:[
         {
             'name':'奎克利',
-            'status':'出战存疑',
-            'detail':'膝盖受伤，周三对阵活塞的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周三对阵活塞的比赛',
             'important':false
         }
     ],
