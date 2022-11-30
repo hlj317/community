@@ -422,7 +422,7 @@ const nbaData = {
             'name':'英格拉姆',
             'status':'缺阵',
             'detail':'脚趾受伤，无法出战周四对阵猛龙的比赛',
-            'important':false
+            'important':true
         },{
             'name':'CJ.麦科勒姆',
             'status':'出战存疑',
