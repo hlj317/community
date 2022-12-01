@@ -2701,6 +2701,24 @@ export const myData = [
                 homeRatio:55
             }
         ]
+    },
+
+    //12月02日
+    {
+        date: 'Fri Dec 02',
+        list: [
+            {
+                time:'Fri 12/02, 8:00 AM',
+                awayName:'mavericks',
+                awayLeftPoints:'-7.5',
+                awayRightPoints:'-7.5',
+                awayRatio:61,
+                homeName:'pistons',
+                homeLeftPoints:'+7.5',
+                homeRightPoints:'+7.5',
+                homeRatio:39
+            }
+        ]
     }
     
 ]

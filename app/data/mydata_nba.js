@@ -130,6 +130,11 @@ const nbaData = {
             'status':'出战存疑',
             'detail':'腿部受伤，每日观察',
             'important':false
+        },{
+            'name':'肯巴.沃克',
+            'status':'出战存疑',
+            'detail':'刚被独行侠签下，周五对阵活塞的比赛出战存疑',
+            'important':false
         }
     ],
     //丹佛掘金
@@ -169,24 +174,9 @@ const nbaData = {
             'detail':'腿部受伤，归期未定',
             'important':true
         },{        
-            'name':'斯图尔特',
-            'status':'出战',
-            'detail':'可以出战周三对阵尼克斯的比赛',
-            'important':true
-        },{        
-            'name':'巴格利',
-            'status':'出战',
-            'detail':'可以出战周三对阵尼克斯的比赛',
-            'important':true
-        },{        
-            'name':'博扬',
-            'status':'出战',
-            'detail':'可以出战周三对阵尼克斯的比赛',
-            'important':true
-        },{        
             'name':'杰登.艾维',
-            'status':'缺阵',
-            'detail':'膝盖受伤，无法出战周三对阵尼克斯的比赛',
+            'status':'出战存疑',
+            'detail':'膝盖受伤，周五对阵独行侠的比赛出战存疑',
             'important':true
         }    
     ],
