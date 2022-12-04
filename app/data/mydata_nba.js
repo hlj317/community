@@ -52,8 +52,8 @@ const nbaData = {
             'important':true
         },{        
             'name':'斯马特',
-            'status':'出战存疑',
-            'detail':'身体不适，周一对阵篮网的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'身体不适，无法出战周一对阵篮网的比赛',
             'important':true
         }
     ],
@@ -114,8 +114,8 @@ const nbaData = {
             'important':true
         },{
             'name':'贾文特.格林',
-            'status':'出战存疑',
-            'detail':'身体不适，周一对阵国王的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'身体不适，无法出战周一对阵国王的比赛',
             'important':false
         }
     ],
@@ -176,8 +176,8 @@ const nbaData = {
             'important':true
         },{
             'name':'杰夫.格林',
-            'status':'出战存疑',
-            'detail':'膝盖受伤，周一对阵鹈鹕的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'膝盖受伤，无法出战周一对阵鹈鹕的比赛',
             'important':false
         }
     ],
@@ -275,8 +275,8 @@ const nbaData = {
     lakers:[
         {
             'name':'詹姆斯',
-            'status':'出战存疑',
-            'detail':'脚踝受伤，周一对阵奇才的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周一对阵奇才的比赛',
             'important':true
         },{
             'name':'安东尼.戴维斯',
@@ -285,8 +285,8 @@ const nbaData = {
             'important':true
         },{
             'name':'施罗德',
-            'status':'出战存疑',
-            'detail':'个人原因，周一对阵奇才的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周一对阵奇才的比赛',
             'important':false
         },{
             'name':'科尔.施威德',
@@ -314,13 +314,13 @@ const nbaData = {
             'important':true
         },{
             'name':'拉拉维',
-            'status':'出战存疑',
-            'detail':'左脚受伤，周一对阵活塞的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'左脚受伤，无法出战周一对阵活塞的比赛',
             'important':false
         },{
             'name':'亚当斯',
-            'status':'出战存疑',
-            'detail':'臀部受伤，周一对阵活塞的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'臀部受伤，无法出战周一对阵活塞的比赛',
             'important':true
         }
     ],
@@ -549,8 +549,8 @@ const nbaData = {
             'important':false
         },{
             'name':'利拉德',
-            'status':'出战',
-            'detail':'小腿受伤，预计出战周一对阵步行者的比赛',
+            'status':'出战存疑',
+            'detail':'预计出战周一对阵步行者的比赛，赛前决定',
             'important':true
         },{
             'name':'利特尔',
