@@ -237,9 +237,14 @@ const nbaData = {
             'important':false
         },{
             'name':'哈利伯顿',
-            'status':'出战存疑',
-            'detail':'腹股沟受伤，周一对阵开拓者的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'腹股沟受伤，无法出战周一对阵开拓者的比赛',
             'important':true
+        },{
+            'name':'TJ.麦克康奈尔',
+            'status':'缺阵',
+            'detail':'身体不适，无法出战周一对阵开拓者的比赛',
+            'important':false
         }
     ],
     //洛杉矶快船
@@ -549,8 +554,8 @@ const nbaData = {
             'important':false
         },{
             'name':'利拉德',
-            'status':'出战存疑',
-            'detail':'预计出战周一对阵步行者的比赛，赛前决定',
+            'status':'出战',
+            'detail':'可以出战周一对阵步行者的比赛',
             'important':true
         },{
             'name':'利特尔',
