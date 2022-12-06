@@ -343,13 +343,13 @@ const nbaData = {
             'important':false
         },{
             'name':'巴特勒',
-            'status':'出战存疑',
-            'detail':'右膝受伤，周六对阵灰熊的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周六对阵灰熊的比赛',
             'important':true
         },{
             'name':'文森特',
-            'status':'出战存疑',
-            'detail':'右脚受伤，周六对阵灰熊的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周六对阵灰熊的比赛',
             'important':false
         }                               
     ],
