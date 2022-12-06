@@ -123,8 +123,8 @@ const nbaData = {
             'important':false
         },{
             'name':'阿伦',
-            'status':'缺阵',
-            'detail':'臀部受伤，无法出战周一对阵尼克斯的比赛',
+            'status':'出战存疑',
+            'detail':'臀部受伤，周三对阵湖人的比赛出战存疑',
             'important':true
         }
     ],
@@ -137,14 +137,9 @@ const nbaData = {
             'important':false
         },{
             'name':'肯巴.沃克',
-            'status':'缺阵',
-            'detail':'膝盖受伤，无法出战周日对阵尼克斯的比赛',
-            'important':false
-        },{
-            'name':'伍德',
             'status':'出战',
-            'detail':'可以出战周二对阵太阳的比赛',
-            'important':true
+            'detail':'可以出战周三对阵掘金的比赛',
+            'important':false
         }
     ],
     //丹佛掘金
@@ -161,9 +156,14 @@ const nbaData = {
             'important':true
         },{
             'name':'杰夫.格林',
-            'status':'缺阵',
-            'detail':'膝盖受伤，无法出战周一对阵鹈鹕的比赛',
+            'status':'出战存疑',
+            'detail':'膝盖受伤，周三对阵独行侠的比赛出战存疑',
             'important':false
+        },{
+            'name':'波普',
+            'status':'出战存疑',
+            'detail':'右手腕受伤，周三对阵独行侠的比赛出战存疑',
+            'important':true
         }
     ],
     //底特律活塞
@@ -271,17 +271,17 @@ const nbaData = {
         {
             'name':'詹姆斯',
             'status':'出战',
-            'detail':'可以出战周一对阵奇才的比赛',
+            'detail':'可以出战周三对阵骑士的比赛',
             'important':true
         },{
             'name':'安东尼.戴维斯',
             'status':'出战',
-            'detail':'可以出战周一对阵奇才的比赛',
+            'detail':'可以出战周三对阵骑士的比赛',
             'important':true
         },{
-            'name':'施罗德',
-            'status':'出战',
-            'detail':'可以出战周一对阵奇才的比赛',
+            'name':'加布里埃尔',
+            'status':'出战存疑',
+            'detail':'左肩受伤，周三对阵骑士的比赛出战存疑',
             'important':false
         },{
             'name':'科尔.施威德',
@@ -341,17 +341,7 @@ const nbaData = {
             'status':'缺阵',
             'detail':'脚踝受伤，无法出战',
             'important':false
-        },{
-            'name':'巴特勒',
-            'status':'出战',
-            'detail':'可以出战周六对阵灰熊的比赛',
-            'important':true
-        },{
-            'name':'文森特',
-            'status':'出战',
-            'detail':'可以出战周六对阵灰熊的比赛',
-            'important':false
-        }                               
+        }                              
     ],
     //密尔沃基雄鹿
     bucks:[
