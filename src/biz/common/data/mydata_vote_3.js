@@ -3130,6 +3130,124 @@ export const myData = [
                 homeRatio:60
             }
         ]
+    },
+
+    //12月08日
+    {
+        date: 'Thu Dec 08',
+        list: [
+            {
+                time:'Thu 12/08, 8:00 AM',
+                awayName:'clippers',
+                awayLeftPoints:'-6.0',
+                awayRightPoints:'-6.0',
+                awayRatio:69,
+                homeName:'magic',
+                homeLeftPoints:'+6.0',
+                homeRightPoints:'+6.0',
+                homeRatio:31
+            },{
+                time:'Thu 12/08, 8:00 AM',
+                awayName:'hornets',
+                awayLeftPoints:'+9.5',
+                awayRightPoints:'+9.5',
+                awayRatio:35,
+                homeName:'nets',
+                homeLeftPoints:'-9.5',
+                homeRightPoints:'-9.5',
+                homeRatio:65
+            },{
+                time:'Thu 12/08, 8:00 AM',
+                awayName:'lakers',
+                awayLeftPoints:'+7.5',
+                awayRightPoints:'+7.5',
+                awayRatio:39,
+                homeName:'raptors',
+                homeLeftPoints:'-7.5',
+                homeRightPoints:'-7.5',
+                homeRatio:61
+            },{
+                time:'Thu 12/08, 8:00 AM',
+                awayName:'hawks',
+                awayLeftPoints:'+2.0',
+                awayRightPoints:'+2.0',
+                awayRatio:37,
+                homeName:'knicks',
+                homeLeftPoints:'-2.0',
+                homeRightPoints:'-2.0',
+                homeRatio:63
+            },{
+                time:'Thu 12/08, 8:00 AM',
+                awayName:'pacers',
+                awayLeftPoints:'+4.0',
+                awayRightPoints:'+4.0',
+                awayRatio:52,
+                homeName:'timberwolves',
+                homeLeftPoints:'-4.0',
+                homeRightPoints:'-4.0',
+                homeRatio:48
+            },{
+                time:'Thu 12/08, 8:00 AM',
+                awayName:'pistons',
+                awayLeftPoints:'+10.0',
+                awayRightPoints:'+10.0',
+                awayRatio:42,
+                homeName:'pelicans',
+                homeLeftPoints:'-10.0',
+                homeRightPoints:'-10.0',
+                homeRatio:58
+            },{
+                time:'Thu 12/08, 8:00 AM',
+                awayName:'thunder',
+                awayLeftPoints:'+6.0',
+                awayRightPoints:'+6.0',
+                awayRatio:47,
+                homeName:'grizzlies',
+                homeLeftPoints:'-6.0',
+                homeRightPoints:'-6.0',
+                homeRatio:53
+            },{
+                time:'Thu 12/08, 8:00 AM',
+                awayName:'wizards',
+                awayLeftPoints:'+5.5',
+                awayRightPoints:'+5.5',
+                awayRatio:56,
+                homeName:'bulls',
+                homeLeftPoints:'-5.5',
+                homeRightPoints:'-5.5',
+                homeRatio:44
+            },{
+                time:'Thu 12/08, 8:00 AM',
+                awayName:'kings',
+                awayLeftPoints:'+6.5',
+                awayRightPoints:'+6.5',
+                awayRatio:40,
+                homeName:'bucks',
+                homeLeftPoints:'-6.5',
+                homeRightPoints:'-6.5',
+                homeRatio:60
+            },{
+                time:'Thu 12/08, 8:00 AM',
+                awayName:'warriors',
+                awayLeftPoints:'+6.0',
+                awayRightPoints:'+6.0',
+                awayRatio:41,
+                homeName:'jazz',
+                homeLeftPoints:'-6.0',
+                homeRightPoints:'-6.0',
+                homeRatio:59
+            },{
+                time:'Thu 12/08, 8:00 AM',
+                awayName:'celtics',
+                awayLeftPoints:'-1.5',
+                awayRightPoints:'-1.5',
+                awayRatio:55,
+                homeName:'suns',
+                homeLeftPoints:'+1.5',
+                homeRightPoints:'+1.5',
+                homeRatio:45
+            }
+        ]
     }
     
 ]
