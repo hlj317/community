@@ -188,8 +188,8 @@ const nbaData = {
             'important':true
         },{
             'name':'费尔南多',
-            'status':'出战存疑',
-            'detail':'身体不适，周五对阵马刺的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'身体不适，无法出战周五对阵马刺的比赛',
             'important':false
         },{
             'name':'小波特',
@@ -241,24 +241,29 @@ const nbaData = {
             'important':false
         },{
             'name':'肯纳德',
-            'status':'出战存疑',
-            'detail':'伤病管理，周五对阵热火的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周五对阵热火的比赛',
             'important':false
         },{
             'name':'约翰.沃尔',
-            'status':'出战存疑',
-            'detail':'伤病管理，周五对阵热火的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周五对阵热火的比赛',
             'important':false
         },{
             'name':'马库斯.莫里斯',
-            'status':'出战存疑',
-            'detail':'身体不适，周五对阵热火的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周五对阵热火的比赛',
             'important':true
         },{
             'name':'伦纳德',
             'status':'缺阵',
-            'detail':'伤病管理，预计无法出战周五对阵热火的比赛',
+            'detail':'伤病管理，无法出战周五对阵热火的比赛',
             'important':true
+        },{
+            'name':'曼恩',
+            'status':'缺阵',
+            'detail':'身体不适，无法出战周五对阵热火的比赛',
+            'important':false
         },{
             'name':'鲍威尔',
             'status':'缺阵',
@@ -328,8 +333,8 @@ const nbaData = {
             'important':false
         },{
             'name':'巴特勒',
-            'status':'出战存疑',
-            'detail':'身体不适，周五对阵快船的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周五对阵快船的比赛',
             'important':true
         },{
             'name':'文森特',
@@ -337,9 +342,14 @@ const nbaData = {
             'detail':'膝盖受伤，无法出战周五对阵快船的比赛',
             'important':false
         },{
+            'name':'洛瑞',
+            'status':'缺阵',
+            'detail':'身体不适，无法出战周五对阵快船的比赛',
+            'important':true
+        },{
             'name':'戴德蒙',
-            'status':'出战存疑',
-            'detail':'腿部受伤，周五对阵快船的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周五对阵快船的比赛',
             'important':false
         }                       
     ],
@@ -575,6 +585,11 @@ const nbaData = {
             'status':'缺阵',
             'detail':'腿部受伤，无法出战周五对阵火箭的比赛',
             'important':false
+        },{
+            'name':'瓦塞尔',
+            'status':'缺阵',
+            'detail':'膝盖受伤，无法出战周五对阵火箭的比赛',
+            'important':true
         }
     ],
     //多伦多猛龙
