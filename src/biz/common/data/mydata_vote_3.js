@@ -3483,6 +3483,84 @@ export const myData = [
                 homeRatio:60
             }
         ]
+    },
+
+    //12月12日
+    {
+        date: 'Mon Dec 12',
+        list: [
+            {
+                time:'Mon 12/12, 4:30 AM',
+                awayName:'suns',
+                awayLeftPoints:'+2.5',
+                awayRightPoints:'+2.5',
+                awayRatio:41,
+                homeName:'pelicans',
+                homeLeftPoints:'-2.5',
+                homeRightPoints:'-2.5',
+                homeRatio:59
+            },{
+                time:'Mon 12/12, 7:00 AM',
+                awayName:'raptors',
+                awayLeftPoints:'-6.5',
+                awayRightPoints:'-6.5',
+                awayRatio:56,
+                homeName:'magic',
+                homeLeftPoints:'+6.5',
+                homeRightPoints:'+6.5',
+                homeRatio:44
+            },{
+                time:'Mon 12/12, 7:00 AM',
+                awayName:'kings',
+                awayLeftPoints:'+3.5',
+                awayRightPoints:'+3.5',
+                awayRatio:55,
+                homeName:'knicks',
+                homeLeftPoints:'-3.5',
+                homeRightPoints:'-3.5',
+                homeRatio:45
+            },{
+                time:'Mon 12/12, 7:00 AM',
+                awayName:'lakers',
+                awayLeftPoints:'-5.0',
+                awayRightPoints:'-5.0',
+                awayRatio:67,
+                homeName:'pistons',
+                homeLeftPoints:'+5.0',
+                homeRightPoints:'+5.0',
+                homeRatio:33
+            },{
+                time:'Mon 12/12, 7:00 AM',
+                awayName:'hornets',
+                awayLeftPoints:'+10.0',
+                awayRightPoints:'+10.0',
+                awayRatio:39,
+                homeName:'seven6ers',
+                homeLeftPoints:'-10.0',
+                homeRightPoints:'-10.0',
+                homeRatio:61
+            },{
+                time:'Mon 12/12, 7:30 AM',
+                awayName:'bulls',
+                awayLeftPoints:'+2.5',
+                awayRightPoints:'+2.5',
+                awayRatio:54,
+                homeName:'hawks',
+                homeLeftPoints:'+2.5',
+                homeRightPoints:'+2.5',
+                homeRatio:46
+            },{
+                time:'Mon 12/12, 8:00 AM',
+                awayName:'bucks',
+                awayLeftPoints:'-10.0',
+                awayRightPoints:'-10.0',
+                awayRatio:68,
+                homeName:'rockets',
+                homeLeftPoints:'+10.0',
+                homeRightPoints:'+10.0',
+                homeRatio:32
+            }
+        ]
     }
     
 ]
