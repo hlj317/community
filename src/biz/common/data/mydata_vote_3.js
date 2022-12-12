@@ -3561,6 +3561,84 @@ export const myData = [
                 homeRatio:32
             }
         ]
+    },
+
+    //12月13日
+    {
+        date: 'Tue Dec 13',
+        list: [
+            {
+                time:'Tue 12/13, 8:00 AM',
+                awayName:'nets',
+                awayLeftPoints:'-5.0',
+                awayRightPoints:'-5.0',
+                awayRatio:64,
+                homeName:'wizards',
+                homeLeftPoints:'+5.0',
+                homeRightPoints:'+5.0',
+                homeRatio:36
+            },{
+                time:'Tue 12/13, 8:00 AM',
+                awayName:'heat',
+                awayLeftPoints:'-2.5',
+                awayRightPoints:'-2.5',
+                awayRatio:59,
+                homeName:'pacers',
+                homeLeftPoints:'+2.5',
+                homeRightPoints:'+2.5',
+                homeRatio:41
+            },{
+                time:'Tue 12/13, 9:00 AM',
+                awayName:'hawks',
+                awayLeftPoints:'+7.0',
+                awayRightPoints:'+7.0',
+                awayRatio:36,
+                homeName:'grizzlies',
+                homeLeftPoints:'-7.0',
+                homeRightPoints:'-7.0',
+                homeRatio:64
+            },{
+                time:'Tue 12/13, 9:30 AM',
+                awayName:'cavaliers',
+                awayLeftPoints:'-5.5',
+                awayRightPoints:'-5.5',
+                awayRatio:70,
+                homeName:'spurs',
+                homeLeftPoints:'+5.5',
+                homeRightPoints:'+5.5',
+                homeRatio:30
+            },{
+                time:'Tue 12/13, 9:30 AM',
+                awayName:'thunder',
+                awayLeftPoints:'+8.5',
+                awayRightPoints:'+8.5',
+                awayRatio:42,
+                homeName:'mavericks',
+                homeLeftPoints:'-8.5',
+                homeRightPoints:'-8.5',
+                homeRatio:58
+            },{
+                time:'Tue 12/13, 11:00 AM',
+                awayName:'timberwolves',
+                awayLeftPoints:'+4.5',
+                awayRightPoints:'+4.5',
+                awayRatio:37,
+                homeName:'blazers',
+                homeLeftPoints:'+4.5',
+                homeRightPoints:'+4.5',
+                homeRatio:63
+            },{
+                time:'Tue 12/13, 11:30 AM',
+                awayName:'celtics',
+                awayLeftPoints:'-3.5',
+                awayRightPoints:'-3.5',
+                awayRatio:60,
+                homeName:'clippers',
+                homeLeftPoints:'+3.5',
+                homeRightPoints:'+3.5',
+                homeRatio:40
+            }
+        ]
     }
     
 ]
