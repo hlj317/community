@@ -337,8 +337,8 @@ const nbaData = {
             'important':false
         },{
             'name':'朱.霍乐迪',
-            'status':'出战存疑',
-            'detail':'身体不适，周三对阵勇士的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'身体不适，无法出战周三对阵勇士的比赛',
             'important':true
         }   
     ],
@@ -446,9 +446,14 @@ const nbaData = {
     seven6ers:[
         {        
             'name':'豪斯',
-            'status':'出战',
-            'detail':'可以出战周三对阵国王的比赛',
+            'status':'缺阵',
+            'detail':'身体不适，无法出战周三对阵国王的比赛',
             'important':false
+        },{        
+            'name':'梅尔顿',
+            'status':'缺阵',
+            'detail':'身体不适，无法出战周三对阵国王的比赛',
+            'important':true
         },{        
             'name':'马克西',
             'status':'长期缺阵',
@@ -498,8 +503,8 @@ const nbaData = {
             'important':false
         },{
             'name':'福克斯',
-            'status':'出战存疑',
-            'detail':'腿部受伤，周三对阵76人的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周三对阵76人的比赛',
             'important':true
         }
     ],
