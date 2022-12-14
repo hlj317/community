@@ -622,7 +622,7 @@ const nbaData = {
             'status':'出战存疑',
             'detail':'背部受伤，周四对阵掘金的比赛出战存疑',
             'important':true
-        }
+        } 
     ]   
 }
 
