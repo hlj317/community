@@ -341,7 +341,12 @@ const nbaData = {
             'status':'缺阵',
             'detail':'伤病管理，无法出战周五对阵火箭的比赛',
             'important':false
-        }                         
+        },{
+            'name':'阿德巴约',
+            'status':'缺阵',
+            'detail':'伤病管理，无法出战周五对阵火箭的比赛',
+            'important':true
+        }                        
     ],
     //密尔沃基雄鹿
     bucks:[
