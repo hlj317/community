@@ -317,7 +317,7 @@ export const myData = [
                 homeName:'lakers',
                 homeLeftPoints:'+1.0',
                 homeRightPoints:'+1.0',
-                homeRatio:44
+                homeRatio:44 
             }
         ]
     } 
