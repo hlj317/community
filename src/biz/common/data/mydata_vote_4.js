@@ -435,7 +435,7 @@ export const myData = [
                     homeLeftPoints:'-5.0',
                     homeRightPoints:'-5.0',
                     homeRatio:67
-                },{
+                },{ 
                     time:'Sun 12/18, 10:00 AM',
                     awayName:'pelicans',
                     awayLeftPoints:'+3.5',
