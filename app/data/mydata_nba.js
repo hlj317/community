@@ -32,8 +32,8 @@ const nbaData = {
             'important':true
         },{        
             'name':'AI.霍福德',
-            'status':'出战存疑',
-            'detail':'身体不适，周六对阵魔术的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周六对阵魔术的比赛',
             'important':true
         }
     ],
@@ -41,8 +41,8 @@ const nbaData = {
     nets:[
         {
             'name':'赛斯.库里',
-            'status':'出战存疑',
-            'detail':'右腿筋受伤，周六对阵猛龙的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周六对阵猛龙的比赛',
             'important':true
         },{
             'name':'帕蒂.米尔斯',
@@ -107,8 +107,8 @@ const nbaData = {
             'important':false
         },{
             'name':'克勒贝尔',
-            'status':'出战存疑',
-            'detail':'右膝受伤，周六对阵开拓者的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'右膝受伤，归期未定',
             'important':true
         },{
             'name':'约什.格林',
@@ -164,8 +164,8 @@ const nbaData = {
             'important':true
         },{
             'name':'追梦.格林',
-            'status':'出战存疑',
-            'detail':'身体不适，周六对阵76人的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'身体不适，无法出战周六对阵76人的比赛',
             'important':true
         }
     ],
@@ -366,8 +366,8 @@ const nbaData = {
             'important':true
         },{
             'name':'戈贝尔',
-            'status':'出战存疑',
-            'detail':'左脚踝受伤，周六对阵雷霆的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'左脚踝受伤，无法出战周六对阵雷霆的比赛',
             'important':true
         }
     ],
@@ -523,8 +523,8 @@ const nbaData = {
             'important':false
         },{
             'name':'赫尔特',
-            'status':'出战存疑',
-            'detail':'左脚踝受伤，周六对阵活塞的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周六对阵活塞的比赛',
             'important':true
         }
     ],
@@ -578,6 +578,11 @@ const nbaData = {
             'name':'阿奴诺比',
             'status':'缺阵',
             'detail':'左臀受伤，预计会缺阵接下来几场比赛',
+            'important':true
+        },{
+            'name':'加里.特伦特',
+            'status':'缺阵',
+            'detail':'身体不适，无法出战周六对阵篮网的比赛',
             'important':true
         }
     ],
