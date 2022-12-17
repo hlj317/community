@@ -43,12 +43,12 @@ const nbaData = {
             'name':'赛斯.库里',
             'status':'出战',
             'detail':'可以出战周六对阵猛龙的比赛',
-            'important':true
+            'important':false
         },{
             'name':'帕蒂.米尔斯',
             'status':'出战存疑',
             'detail':'身体不适，周六对阵猛龙的比赛出战存疑',
-            'important':true
+            'important':false
         }
     ],
     //夏洛特黄蜂
