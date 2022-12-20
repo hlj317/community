@@ -540,7 +540,7 @@ export const myData = [
                 homeName:'seven6ers',
                 homeLeftPoints:'-7.0',
                 homeRightPoints:'-7.0',
-                homeRatio:63
+                homeRatio:63 
             },{
                 time:'Tue 12/20, 8:00 AM',
                 awayName:'jazz',
