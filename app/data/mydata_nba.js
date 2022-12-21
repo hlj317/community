@@ -17,8 +17,8 @@ const nbaData = {
             'important':false
         },{        
             'name':'斯马特',
-            'status':'出战存疑',
-            'detail':'身体不适，周四对阵步行者的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'身体不适，无法出战周四对阵步行者的比赛',
             'important':true
         }
     ],
@@ -29,6 +29,11 @@ const nbaData = {
             'status':'出战存疑',
             'detail':'身体不适，每日观察',
             'important':false
+        },{
+            'name':'凯里.欧文',
+            'status':'出战存疑',
+            'detail':'右小腿酸痛，周四对阵勇士的比赛出战存疑',
+            'important':true
         }
     ],
     //夏洛特黄蜂
