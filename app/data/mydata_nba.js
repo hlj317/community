@@ -64,8 +64,13 @@ const nbaData = {
             'important':false
         },{
             'name':'德里克.琼斯',
-            'status':'出战存疑',
-            'detail':'身体不适，周四对阵老鹰的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'身体不适，无法出战周四对阵老鹰的比赛',
+            'important':false
+        },{
+            'name':'德拉季奇',
+            'status':'缺阵',
+            'detail':'脚踝受伤，无法出战周四对阵老鹰的比赛',
             'important':false
         }
     ],
@@ -88,8 +93,8 @@ const nbaData = {
             'important':false
         },{
             'name':'斯蒂文斯',
-            'status':'出战存疑',
-            'detail':'身体不适，周四对阵雄鹿的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'膝盖受伤，无法出战周四对阵雄鹿的比赛',
             'important':false
         }
     ],
@@ -112,8 +117,8 @@ const nbaData = {
             'important':false
         },{
             'name':'鲍威尔',
-            'status':'出战存疑',
-            'detail':'腿部受伤，周四对阵森林狼的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周四对阵森林狼的比赛',
             'important':true
         },{
             'name':'芬尼.史密斯',
@@ -179,13 +184,13 @@ const nbaData = {
             'important':true
         },{
             'name':'杰迈克尔.格林',
-            'status':'出战存疑',
-            'detail':'身体不适，周四对阵篮网的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'身体不适，无法出战周四对阵篮网的比赛',
             'important':false
         },{
             'name':'迪温琴佐',
-            'status':'出战存疑',
-            'detail':'身体不适，周四对阵篮网的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'身体不适，无法出战周四对阵篮网的比赛',
             'important':false
         }
     ],
@@ -265,8 +270,8 @@ const nbaData = {
             'important':true
         },{
             'name':'威斯布鲁克',
-            'status':'出战存疑',
-            'detail':'腿部受伤，周四对阵国王的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'腿部受伤，无法出战周四对阵国王的比赛',
             'important':true
         },{
             'name':'科尔.施威德',
@@ -397,6 +402,11 @@ const nbaData = {
             'status':'缺阵',
             'detail':'膝盖受伤，至少缺阵2-3周时间',
             'important':false
+        },{
+            'name':'格里姆斯',
+            'status':'出战存疑',
+            'detail':'右脚踝受伤，周四对阵猛龙的比赛出战存疑',
+            'important':true
         }
     ],
     //俄克拉荷马城雷霆
@@ -581,8 +591,8 @@ const nbaData = {
             'important':false
         },{
             'name':'加里.特伦特',
-            'status':'出战存疑',
-            'detail':'身体不适，周四对阵尼克斯的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'身体不适，无法出战周四对阵尼克斯的比赛',
             'important':true
         }
     ],
