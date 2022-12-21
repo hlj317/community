@@ -31,8 +31,8 @@ const nbaData = {
             'important':false
         },{
             'name':'凯里.欧文',
-            'status':'出战存疑',
-            'detail':'右小腿酸痛，周四对阵勇士的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'右小腿酸痛，无法出战周四对阵勇士的比赛',
             'important':true
         }
     ],
