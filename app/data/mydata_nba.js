@@ -386,12 +386,17 @@ const nbaData = {
         },{
             'name':'拉里.南斯',
             'status':'出战存疑',
-            'detail':'身体不适，每日观察',
-            'important':true
+            'detail':'身体不适，周五对阵马刺的比赛出战存疑',
+            'important':false
         },{
             'name':'英格拉姆',
             'status':'缺阵',
             'detail':'脚趾受伤，至少再缺阵一周时间',
+            'important':true
+        },{
+            'name':'锡安.威廉森',
+            'status':'缺阵',
+            'detail':'感染新冠，预计会缺阵几场比赛',
             'important':true
         }
     ],
@@ -562,23 +567,13 @@ const nbaData = {
     spurs:[
         {
             'name':'布雷克.威斯利',
-            'status':'缺阵',
-            'detail':'腿部受伤，无法出战',
-            'important':false
-        },{
-            'name':'约什.理查德森',
-            'status':'缺阵',
-            'detail':'腿部受伤，无法出战周二对阵火箭的比赛',
-            'important':true
-        },{
-            'name':'朗福德',
             'status':'出战存疑',
-            'detail':'脚踝受伤，周二对阵火箭的比赛出战存疑',
+            'detail':'腿部受伤，每日观察',
             'important':false
         },{
             'name':'凯尔登.约翰逊',
             'status':'出战存疑',
-            'detail':'身体不适，周二对阵火箭的比赛出战存疑',
+            'detail':'身体不适，周五对阵鹈鹕的比赛出战存疑',
             'important':true
         }
     ],
@@ -605,13 +600,13 @@ const nbaData = {
     jazz:[
         {
             'name':'塞克斯顿',
-            'status':'缺阵',
-            'detail':'腿筋拉伤，至少缺阵1-2周时间',
+            'status':'出战存疑',
+            'detail':'腿筋拉伤，周五对阵奇才的比赛出战存疑',
             'important':true
         },{
             'name':'奥利尼克',
             'status':'缺阵',
-            'detail':'左脚踝受伤，无法出战周三对阵活塞的比赛',
+            'detail':'左脚踝受伤，无法出战周五对阵奇才的比赛',
             'important':true
         }                                
     ],
@@ -619,8 +614,8 @@ const nbaData = {
     wizards:[
         {
             'name':'八村塁',
-            'status':'缺阵',
-            'detail':'脚踝扭伤，预计还需要缺阵1-2周时间',
+            'status':'出战',
+            'detail':'可以出战周五对阵爵士的比赛',
             'important':false
         },{
             'name':'德隆.赖特',
@@ -629,8 +624,8 @@ const nbaData = {
             'important':false
         },{
             'name':'波尔津吉斯',
-            'status':'缺阵',
-            'detail':'腿部受伤，无法出战周三对阵太阳的比赛',
+            'status':'出战存疑',
+            'detail':'身体不适，周五对阵爵士的比赛出战存疑',
             'important':true
         }
     ]   
