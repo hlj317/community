@@ -385,8 +385,8 @@ const nbaData = {
             'important':false
         },{
             'name':'拉里.南斯',
-            'status':'出战存疑',
-            'detail':'身体不适，周五对阵马刺的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'身体不适，无法出战周五对阵马刺的比赛',
             'important':false
         },{
             'name':'英格拉姆',
@@ -572,8 +572,8 @@ const nbaData = {
             'important':false
         },{
             'name':'凯尔登.约翰逊',
-            'status':'出战存疑',
-            'detail':'身体不适，周五对阵鹈鹕的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'身体不适，无法出战周五对阵鹈鹕的比赛',
             'important':true
         }
     ],
@@ -600,8 +600,8 @@ const nbaData = {
     jazz:[
         {
             'name':'塞克斯顿',
-            'status':'出战存疑',
-            'detail':'腿筋拉伤，周五对阵奇才的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周五对阵奇才的比赛',
             'important':true
         },{
             'name':'奥利尼克',
@@ -624,8 +624,13 @@ const nbaData = {
             'important':false
         },{
             'name':'波尔津吉斯',
-            'status':'出战存疑',
-            'detail':'身体不适，周五对阵爵士的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'身体不适，无法出战周五对阵爵士的比赛',
+            'important':true
+        },{
+            'name':'阿夫迪亚',
+            'status':'缺阵',
+            'detail':'背部受伤，无法出战周五对阵爵士的比赛',
             'important':true
         }
     ]   
