@@ -1033,6 +1033,84 @@ export const myData = [
                 homeRatio:56 
             }
         ]
+    },
+
+    //12月27日
+    {
+        date: 'Tue Dec 27',
+        list: [
+            {
+                time:'Tue 12/27, 8:00 AM',
+                awayName:'clippers',
+                awayLeftPoints:'-5.0',
+                awayRightPoints:'-5.0',
+                awayRatio:61,
+                homeName:'pistons',
+                homeLeftPoints:'+5.0',
+                homeRightPoints:'+5.0',
+                homeRatio:39 
+            },{
+                time:'Tue 12/27, 8:00 AM',
+                awayName:'nets',
+                awayLeftPoints:'+2.0',
+                awayRightPoints:'+2.0',
+                awayRatio:48,
+                homeName:'cavaliers',
+                homeLeftPoints:'-2.0',
+                homeRightPoints:'-2.0',
+                homeRatio:52 
+            },{
+                time:'Tue 12/27, 8:30 AM',
+                awayName:'timberwolves',
+                awayLeftPoints:'+4.5',
+                awayRightPoints:'+4.5',
+                awayRatio:43,
+                homeName:'heat',
+                homeLeftPoints:'-4.5',
+                homeRightPoints:'-4.5',
+                homeRatio:57 
+            },{
+                time:'Tue 12/27, 9:00 AM',
+                awayName:'pacers',
+                awayLeftPoints:'+6.5',
+                awayRightPoints:'+6.5',
+                awayRatio:45,
+                homeName:'pelicans',
+                homeLeftPoints:'-6.5',
+                homeRightPoints:'-6.5',
+                homeRatio:55 
+            },{
+                time:'Tue 12/27, 9:00 AM',
+                awayName:'rockets',
+                awayLeftPoints:'+8.0',
+                awayRightPoints:'+8.0',
+                awayRatio:35,
+                homeName:'bulls',
+                homeLeftPoints:'-8.0',
+                homeRightPoints:'-8.0',
+                homeRatio:65 
+            },{
+                time:'Tue 12/27, 9:00 AM',
+                awayName:'jazz',
+                awayLeftPoints:'-5.5',
+                awayRightPoints:'-5.5',
+                awayRatio:59,
+                homeName:'spurs',
+                homeLeftPoints:'+5.5',
+                homeRightPoints:'+5.5',
+                homeRatio:41 
+            },{
+                time:'Tue 12/27, 11:00 AM',
+                awayName:'hornets',
+                awayLeftPoints:'+6.0',
+                awayRightPoints:'+6.0',
+                awayRatio:32,
+                homeName:'blazers',
+                homeLeftPoints:'-6.0',
+                homeRightPoints:'-6.0',
+                homeRatio:68 
+            }
+        ]
     }
     
 ]
