@@ -26,8 +26,13 @@ const nbaData = {
     nets:[
         {
             'name':'乔哈里斯',
-            'status':'出战存疑',
-            'detail':'膝盖受伤，每日观察',
+            'status':'缺阵',
+            'detail':'膝盖受伤，无法出战周二对阵骑士的比赛',
+            'important':false
+        },{
+            'name':'赛斯.库里',
+            'status':'缺阵',
+            'detail':'身体不适，无法出战周二对阵骑士的比赛',
             'important':false
         }
     ],
@@ -59,13 +64,13 @@ const nbaData = {
             'important':true
         },{
             'name':'贾文特.格林',
-            'status':'出战存疑',
-            'detail':'身体不适，周二对阵火箭的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'身体不适，无法出战周二对阵火箭的比赛',
             'important':false
         },{
             'name':'德里克.琼斯',
-            'status':'出战存疑',
-            'detail':'身体不适，周二对阵火箭的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'身体不适，无法出战周二对阵火箭的比赛',
             'important':false
         },{
             'name':'卡鲁索',
@@ -90,6 +95,11 @@ const nbaData = {
             'name':'迪恩.韦德',
             'status':'缺阵',
             'detail':'肩膀受伤，预计会缺阵数周时间',
+            'important':false
+        },{
+            'name':'罗宾.洛佩兹',
+            'status':'缺阵',
+            'detail':'身体不适，无法出战周二对阵篮网的比赛',
             'important':false
         }
     ],
@@ -158,6 +168,11 @@ const nbaData = {
             'status':'缺阵',
             'detail':'肩膀受伤，预计会缺阵一段时间',
             'important':false
+        },{        
+            'name':'巴格利',
+            'status':'缺阵',
+            'detail':'身体不适，无法出战周二对阵快船的比赛',
+            'important':false
         }    
     ],
     //金州勇士
@@ -208,8 +223,8 @@ const nbaData = {
             'important':false
         },{
             'name':'埃里克.戈登',
-            'status':'出战存疑',
-            'detail':'左手拇指受伤，周二对阵公牛的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周二对阵公牛的比赛',
             'important':true
         }
     ],
@@ -293,28 +308,28 @@ const nbaData = {
             'important':false
         },{
             'name':'文森特',
-            'status':'出战存疑',
-            'detail':'膝盖受伤，周二对阵森林狼的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周二对阵森林狼的比赛',
             'important':false
         },{
             'name':'巴特勒',
-            'status':'出战存疑',
-            'detail':'脚踝受伤，周二对阵森林狼的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'脚踝受伤，无法出战周二对阵森林狼的比赛',
             'important':true
         },{
             'name':'戴德蒙',
-            'status':'出战存疑',
-            'detail':'身体不适，周二对阵森林狼的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'身体不适，无法出战周二对阵森林狼的比赛',
             'important':false
         },{
             'name':'克莱布.马丁',
-            'status':'出战存疑',
-            'detail':'腿部受伤，周二对阵森林狼的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周二对阵森林狼的比赛',
             'important':true
         },{
             'name':'阿德巴约',
-            'status':'出战存疑',
-            'detail':'右肩受伤，周二对阵森林狼的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'右肩受伤，无法出战周二对阵森林狼的比赛',
             'important':true
         }                       
     ],
@@ -351,8 +366,8 @@ const nbaData = {
             'important':false
         },{
             'name':'凯尔.安德森',
-            'status':'出战存疑',
-            'detail':'背部受伤，周二对阵热火的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'背部受伤，无法出战周二对阵热火的比赛',
             'important':false
         }
     ],
@@ -375,9 +390,24 @@ const nbaData = {
             'important':true
         },{
             'name':'锡安.威廉森',
-            'status':'出战',
-            'detail':'可以出战周二对阵步行者的比赛',
+            'status':'缺阵',
+            'detail':'身体不适，无法出战周二对阵步行者的比赛',
             'important':true
+        },{
+            'name':'赫伯特.琼斯',
+            'status':'缺阵',
+            'detail':'触发新冠协议，预计缺阵几场比赛',
+            'important':true
+        },{
+            'name':'墨菲',
+            'status':'缺阵',
+            'detail':'触发新冠协议，预计缺阵几场比赛',
+            'important':false
+        },{
+            'name':'丹尼尔斯',
+            'status':'缺阵',
+            'detail':'触发新冠协议，预计缺阵几场比赛',
+            'important':false
         }
     ],
     //纽约尼克斯
