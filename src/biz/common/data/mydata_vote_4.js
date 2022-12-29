@@ -1308,6 +1308,74 @@ export const myData = [
                 homeRatio:57 
             }
         ]
+    },
+
+    //12月29日
+    {
+        date: 'Fri Dec 30',
+        list: [
+            {
+                time:'Fri 12/30, 8:00 AM',
+                awayName:'thunder',
+                awayLeftPoints:'+1.5',
+                awayRightPoints:'+1.5',
+                awayRatio:56,
+                homeName:'hornets',
+                homeLeftPoints:'-1.5',
+                homeRightPoints:'-1.5',
+                homeRatio:44 
+            },{
+                time:'Fri 12/30, 8:00 AM',
+                awayName:'cavaliers',
+                awayLeftPoints:'-5.5',
+                awayRightPoints:'-5.5',
+                awayRatio:60,
+                homeName:'pacers',
+                homeLeftPoints:'+5.5',
+                homeRightPoints:'+5.5',
+                homeRatio:40 
+            },{
+                time:'Fri 12/30, 8:30 AM',
+                awayName:'clippers',
+                awayLeftPoints:'+6.0',
+                awayRightPoints:'+6.0',
+                awayRatio:42,
+                homeName:'celtics',
+                homeLeftPoints:'-6.0',
+                homeRightPoints:'-6.0',
+                homeRatio:58 
+            },{
+                time:'Fri 12/30, 8:30 AM',
+                awayName:'grizzlies',
+                awayLeftPoints:'-2.5',
+                awayRightPoints:'-2.5',
+                awayRatio:69,
+                homeName:'raptors',
+                homeLeftPoints:'+2.5',
+                homeRightPoints:'+2.5',
+                homeRatio:31
+            },{
+                time:'Fri 12/30, 9:00 AM',
+                awayName:'knicks',
+                awayLeftPoints:'-5.0',
+                awayRightPoints:'-5.0',
+                awayRatio:63,
+                homeName:'spurs',
+                homeLeftPoints:'+5.0',
+                homeRightPoints:'+5.0',
+                homeRatio:37 
+            },{
+                time:'Fri 12/30, 9:30 AM',
+                awayName:'rockets',
+                awayLeftPoints:'+10.5',
+                awayRightPoints:'+10.5',
+                awayRatio:39,
+                homeName:'mavericks',
+                homeLeftPoints:'-10.5',
+                homeRightPoints:'-10.5',
+                homeRatio:61 
+            }
+        ]
     }
     
 ]
