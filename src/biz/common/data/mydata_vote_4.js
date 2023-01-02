@@ -1610,6 +1610,124 @@ export const myData = [
                 homeRatio:65 
             }
         ]
+    },
+
+    //01月03日
+    {
+        date: 'Tue Jan 03',
+        list: [
+            {
+                time:'Tue 01/03, 4:00 AM',
+                awayName:'suns',
+                awayLeftPoints:'+1.5',
+                awayRightPoints:'+1.5',
+                awayRatio:45,
+                homeName:'knicks',
+                homeLeftPoints:'-1.5',
+                homeRightPoints:'-1.5',
+                homeRatio:55 
+            },{
+                time:'Tue 01/03, 8:00 AM',
+                awayName:'bulls',
+                awayLeftPoints:'+3.5',
+                awayRightPoints:'+3.5',
+                awayRatio:39,
+                homeName:'cavaliers',
+                homeLeftPoints:'-3.5',
+                homeRightPoints:'-3.5',
+                homeRatio:61
+            },{
+                time:'Tue 01/03, 8:00 AM',
+                awayName:'raptors',
+                awayLeftPoints:'+2.5',
+                awayRightPoints:'+2.5',
+                awayRatio:42,
+                homeName:'pacers',
+                homeLeftPoints:'-2.5',
+                homeRightPoints:'-2.5',
+                homeRatio:58 
+            },{
+                time:'Tue 01/03, 8:00 AM',
+                awayName:'lakers',
+                awayLeftPoints:'-1.5',
+                awayRightPoints:'-1.5',
+                awayRatio:70,
+                homeName:'hornets',
+                homeLeftPoints:'+1.5',
+                homeRightPoints:'+1.5',
+                homeRatio:30
+            },{
+                time:'Tue 01/03, 8:00 AM',
+                awayName:'pelicans',
+                awayLeftPoints:'+5.0',
+                awayRightPoints:'+5.0',
+                awayRatio:40,
+                homeName:'seven6ers',
+                homeLeftPoints:'-5.0',
+                homeRightPoints:'-5.0',
+                homeRatio:60 
+            },{
+                time:'Tue 01/03, 8:30 AM',
+                awayName:'spurs',
+                awayLeftPoints:'+13.5',
+                awayRightPoints:'+13.5',
+                awayRatio:35,
+                homeName:'nets',
+                homeLeftPoints:'-13.5',
+                homeRightPoints:'-13.5',
+                homeRatio:65 
+            },{
+                time:'Tue 01/03, 9:00 AM',
+                awayName:'mavericks',
+                awayLeftPoints:'-7.5',
+                awayRightPoints:'-7.5',
+                awayRatio:56,
+                homeName:'rockets',
+                homeLeftPoints:'+7.5',
+                homeRightPoints:'+7.5',
+                homeRatio:44 
+            },{
+                time:'Tue 01/03, 9:00 AM',
+                awayName:'nuggets',
+                awayLeftPoints:'-2.5',
+                awayRightPoints:'-2.5',
+                awayRatio:64,
+                homeName:'timberwolves',
+                homeLeftPoints:'+2.5',
+                homeRightPoints:'+2.5',
+                homeRatio:36 
+            },{
+                time:'Tue 01/03, 11:00 AM',
+                awayName:'hawks',
+                awayLeftPoints:'+3.5',
+                awayRightPoints:'+3.5',
+                awayRatio:43,
+                homeName:'warriors',
+                homeLeftPoints:'-3.5',
+                homeRightPoints:'-3.5',
+                homeRatio:57 
+            },{
+                time:'Tue 01/03, 11:00 AM',
+                awayName:'pistons',
+                awayLeftPoints:'+9.5',
+                awayRightPoints:'+9.5',
+                awayRatio:41,
+                homeName:'blazers',
+                homeLeftPoints:'-9.5',
+                homeRightPoints:'-9.5',
+                homeRatio:59 
+            },{
+                time:'Tue 01/03, 11:30 AM',
+                awayName:'heat',
+                awayLeftPoints:'+4.5',
+                awayRightPoints:'+4.5',
+                awayRatio:44,
+                homeName:'clippers',
+                homeLeftPoints:'-4.5',
+                homeRightPoints:'-4.5',
+                homeRatio:56 
+            }
+        ]
     }
     
 ]
