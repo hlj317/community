@@ -22,8 +22,8 @@ const nbaData = {
             'important':false
         },{        
             'name':'罗威',
-            'status':'出战存疑',
-            'detail':'左膝伤病管理，周三对阵雷霆的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'左膝伤病管理，无法出战周三对阵雷霆的比赛',
             'important':true
         }
     ],
@@ -362,8 +362,8 @@ const nbaData = {
             'important':true
         },{
             'name':'乔治.希尔',
-            'status':'出战',
-            'detail':'可以出战周三对阵奇才的比赛',
+            'status':'缺阵',
+            'detail':'身体不适，无法出战周三对阵奇才的比赛',
             'important':false
         } 
     ],
@@ -466,7 +466,12 @@ const nbaData = {
             'status':'长期缺阵',
             'detail':'左腿严重受伤，预计缺阵至少6-8周',
             'important':true
-        }
+        },{
+            'name':'亚历山大',
+            'status':'缺阵',
+            'detail':'身体不适，无法出战周三对阵凯尔特人的比赛',
+            'important':true
+        } 
     ],
     //奥兰多魔术
     magic:[
@@ -613,13 +618,13 @@ const nbaData = {
             'important':false
         },{
             'name':'马利克.蒙克',
-            'status':'出战存疑',
-            'detail':'右肩受伤，周三对阵爵士的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周三对阵爵士的比赛',
             'important':false
         },{
             'name':'凯文.赫尔特',
-            'status':'出战存疑',
-            'detail':'背部受伤，周三对阵爵士的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周三对阵爵士的比赛',
             'important':true
         }
     ],
@@ -679,18 +684,18 @@ const nbaData = {
     wizards:[
         {
             'name':'比尔',
-            'status':'出战存疑',
-            'detail':'腿筋拉伤，周三对阵雄鹿的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'腿筋拉伤，无法出战周三对阵雄鹿的比赛',
             'important':true
         },{
             'name':'泰.吉布森',
-            'status':'出战存疑',
-            'detail':'腹股沟受伤，周三对阵雄鹿的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'腹股沟受伤，无法出战周三对阵雄鹿的比赛',
             'important':false
         },{
             'name':'加福德',
-            'status':'出战存疑',
-            'detail':'身体不适，周三对阵雄鹿的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周三对阵雄鹿的比赛',
             'important':true
         }
     ]   
