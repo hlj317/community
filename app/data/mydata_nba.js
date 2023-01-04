@@ -684,8 +684,8 @@ const nbaData = {
     wizards:[
         {
             'name':'比尔',
-            'status':'缺阵',
-            'detail':'腿筋拉伤，无法出战周三对阵雄鹿的比赛',
+            'status':'出战',
+            'detail':'可以出战周三对阵雄鹿的比赛',
             'important':true
         },{
             'name':'泰.吉布森',
