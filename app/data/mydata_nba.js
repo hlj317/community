@@ -17,8 +17,8 @@ const nbaData = {
             'important':false
         },{        
             'name':'罗威',
-            'status':'缺阵',
-            'detail':'左膝伤病管理，无法出战周三对阵雷霆的比赛',
+            'status':'出战',
+            'detail':'可以出战周五对阵独行侠的比赛',
             'important':true
         }
     ],
@@ -236,13 +236,13 @@ const nbaData = {
             'important':false
         },{
             'name':'巴图姆',
-            'status':'出战存疑',
-            'detail':'左脚踝受伤，周二对阵热火的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'左脚踝受伤，无法出战周五对阵掘金的比赛',
             'important':false
         },{
-            'name':'伦纳德',
+            'name':'乔治',
             'status':'出战存疑',
-            'detail':'身体不适，周二对阵热火的比赛出战存疑',
+            'detail':'腿筋拉伤，周五对阵掘金的比赛出战存疑',
             'important':true
         }
     ],
@@ -273,19 +273,14 @@ const nbaData = {
             'detail':'膝盖受伤，归期未定',
             'important':false
         },{
-            'name':'阿尔达马',
-            'status':'出战',
-            'detail':'可以出战周四对阵黄蜂的比赛',
-            'important':false
-        },{
             'name':'扎伊尔.威廉姆斯',
-            'status':'缺阵',
-            'detail':'腿部受伤，无法出战周四对阵黄蜂的比赛',
+            'status':'出战',
+            'detail':'可以出战周五对阵魔术的比赛',
             'important':false
         },{
             'name':'克拉克',
-            'status':'缺阵',
-            'detail':'臀部受伤，无法出战周四对阵黄蜂的比赛',
+            'status':'出战存疑',
+            'detail':'臀部受伤，周五对阵魔术的比赛出战存疑',
             'important':false
         }
     ],
@@ -468,28 +463,28 @@ const nbaData = {
         },{
             'name':'莫里茨.瓦格纳',
             'status':'缺阵',
-            'detail':'禁赛两场，无法出战周四对阵雷霆的比赛',
+            'detail':'禁赛两场，无法出战周五对阵灰熊的比赛',
             'important':false
         },{
             'name':'弗朗茨.瓦格纳',
-            'status':'缺阵',
-            'detail':'禁赛一场，无法出战周四对阵雷霆的比赛',
+            'status':'出战',
+            'detail':'解禁复出，可以出战周五对阵灰熊的比赛',
             'important':true
         },{
             'name':'凯文.哈里斯',
-            'status':'缺阵',
-            'detail':'禁赛一场，无法出战周四对阵雷霆的比赛',
+            'status':'出战',
+            'detail':'解禁复出，可以出战周五对阵灰熊的比赛',
             'important':false
         },{
             'name':'斯科菲尔德',
-            'status':'缺阵',
-            'detail':'禁赛一场，无法出战周四对阵雷霆的比赛',
+            'status':'出战',
+            'detail':'解禁复出，可以出战周五对阵灰熊的比赛',
             'important':false
         },{
             'name':'波尔',
-            'status':'缺阵',
-            'detail':'因为新冠安全协议，预计会缺阵几场比赛',
-            'important':false
+            'status':'出战存疑',
+            'detail':'身体不适，周五对阵灰熊的比赛出战存疑',
+            'important':true
         }
     ],
     //费城76人
