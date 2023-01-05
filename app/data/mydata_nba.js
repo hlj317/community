@@ -208,8 +208,8 @@ const nbaData = {
     rockets:[
         {
             'name':'泰特',
-            'status':'缺阵',
-            'detail':'脚踝受伤，归期未定',
+            'status':'出战',
+            'detail':'可以出战周五对阵爵士的比赛',
             'important':false
         }
     ],
@@ -279,9 +279,14 @@ const nbaData = {
             'important':false
         },{
             'name':'克拉克',
-            'status':'出战存疑',
-            'detail':'臀部受伤，周五对阵魔术的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'臀部受伤，无法出战周五对阵魔术的比赛',
             'important':false
+        },{
+            'name':'贝恩',
+            'status':'缺阵',
+            'detail':'伤病管理，无法出战周五对阵魔术的比赛',
+            'important':true
         }
     ],
     //迈阿密热火
@@ -457,8 +462,8 @@ const nbaData = {
             'important':false
         },{
             'name':'萨格斯',
-            'status':'缺阵',
-            'detail':'脚踝受伤，预计会缺阵一段时间',
+            'status':'出战',
+            'detail':'可以出战周五对阵灰熊的比赛',
             'important':true
         },{
             'name':'莫里茨.瓦格纳',
@@ -482,8 +487,8 @@ const nbaData = {
             'important':false
         },{
             'name':'波尔',
-            'status':'出战存疑',
-            'detail':'身体不适，周五对阵灰熊的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'身体不适，无法出战周五对阵灰熊的比赛',
             'important':true
         }
     ],
