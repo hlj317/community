@@ -45,7 +45,7 @@
 
         <template v-for="(item,index) in currentData">
             <tr class="play-time-tr" :key="index">  
-                <td rowspan="3" class="play-time">{{item.time}}</td>
+                <td rowspan="3" class="play-time">{{item.time}}<br/><span class="play-live" v-if="item.live"><全美直播></span></td>
             </tr> 
         
             <tr :key="index">  
@@ -371,6 +371,10 @@
     background: #efefef;
 }
 .play-time{
+}
+.play-live{
+    color:#1e7ad2;
+    font-size:16 / @b;
 }
 .verse-logo{
     img{
