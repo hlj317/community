@@ -50,17 +50,17 @@ const nbaData = {
         },{
             'name':'贾文特.格林',
             'status':'缺阵',
-            'detail':'膝盖受伤，预计至少再缺阵1周时间',
+            'detail':'膝盖受伤，无法出战周日对阵爵士的比赛',
             'important':false
         },{
             'name':'布拉德利',
-            'status':'出战存疑',
-            'detail':'身体不适，周日对阵爵士的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'身体不适，无法出战周日对阵爵士的比赛',
             'important':false
         },{
             'name':'卡鲁索',
-            'status':'出战存疑',
-            'detail':'脚踝受伤，周日对阵爵士的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'脚踝受伤，无法出战周日对阵爵士的比赛',
             'important':true
         }
     ],
@@ -154,8 +154,8 @@ const nbaData = {
     warriors:[
         {
             'name':'伊戈达拉',
-            'status':'长期缺阵',
-            'detail':'臀部受伤，无法出战',
+            'status':'出战',
+            'detail':'可以出战周日对阵魔术的比赛',
             'important':false
         },{
             'name':'维金斯',
@@ -182,6 +182,11 @@ const nbaData = {
             'status':'缺阵',
             'detail':'右脚受伤，无法出战周四对阵活塞的比赛',
             'important':false
+        },{
+            'name':'汤普森',
+            'status':'缺阵',
+            'detail':'身体不适，无法出战周四对阵活塞的比赛',
+            'important':true
         }
     ],
     //休斯顿火箭
@@ -383,7 +388,17 @@ const nbaData = {
             'status':'缺阵',
             'detail':'腿筋拉伤，预计至少缺阵3周时间',
             'important':true
-        },
+        },{
+            'name':'CJ.麦科勒姆',
+            'status':'轮休',
+            'detail':'身体不适，无法出战周日对阵独行侠的比赛',
+            'important':true
+        },{
+            'name':'小南斯',
+            'status':'缺阵',
+            'detail':'身体不适，无法出战周日对阵独行侠的比赛',
+            'important':false
+        }
     ],
     //纽约尼克斯
     knicks:[
@@ -513,8 +528,8 @@ const nbaData = {
             'important':false
         },{
             'name':'马利克.蒙克',
-            'status':'出战存疑',
-            'detail':'小腿受伤，周日对阵湖人的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'小腿受伤，无法出战周日对阵湖人的比赛',
             'important':false
         }
     ],
@@ -534,6 +549,11 @@ const nbaData = {
             'name':'凯尔登.约翰逊',
             'status':'缺阵',
             'detail':'腿筋拉伤，无法出战周日对阵凯尔特人的比赛',
+            'important':true
+        },{
+            'name':'珀尔特尔',
+            'status':'缺阵',
+            'detail':'身体不适，无法出战周日对阵凯尔特人的比赛',
             'important':true
         }
     ],
