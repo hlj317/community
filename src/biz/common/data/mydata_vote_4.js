@@ -2218,6 +2218,74 @@ export const myData = [
                 homeRatio:60 
             }
         ]
+    },
+
+    //01月10日
+    {
+        date: 'Tue Jan 10',
+        list: [
+            {
+                time:'Tue 01/10, 8:00 AM',
+                awayName:'pelicans',
+                awayLeftPoints:'+2.0',
+                awayRightPoints:'+2.0',
+                awayRatio:39,
+                homeName:'wizards',
+                homeLeftPoints:'-2.0',
+                homeRightPoints:'-2.0',
+                homeRatio:61 
+            },{
+                time:'Tue 01/10, 8:30 AM',
+                awayName:'bulls',
+                awayLeftPoints:'+8.5',
+                awayRightPoints:'+8.5',
+                awayRatio:42,
+                homeName:'celtics',
+                homeLeftPoints:'-8.5',
+                homeRightPoints:'-8.5',
+                homeRatio:58
+            },{
+                time:'Tue 01/10, 8:30 AM',
+                awayName:'bucks',
+                awayLeftPoints:'-2.5',
+                awayRightPoints:'-2.5',
+                awayRatio:55,
+                homeName:'knicks',
+                homeLeftPoints:'+2.5',
+                homeRightPoints:'+2.5',
+                homeRatio:45 
+            },{
+                time:'Tue 01/10, 9:00 AM',
+                awayName:'spurs',
+                awayLeftPoints:'+11.0',
+                awayRightPoints:'+11.0',
+                awayRatio:33,
+                homeName:'grizzlies',
+                homeLeftPoints:'-11.0',
+                homeRightPoints:'-11.0',
+                homeRatio:67 
+            },{
+                time:'Tue 01/10, 10:00 AM',
+                awayName:'lakers',
+                awayLeftPoints:'+9.0',
+                awayRightPoints:'+9.0',
+                awayRatio:35,
+                homeName:'nuggets',
+                homeLeftPoints:'-9.0',
+                homeRightPoints:'-9.0',
+                homeRatio:65 
+            },{
+                time:'Tue 01/10, 11:00 AM',
+                awayName:'magic',
+                awayLeftPoints:'+6.0',
+                awayRightPoints:'+6.0',
+                awayRatio:41,
+                homeName:'kings',
+                homeLeftPoints:'-6.0',
+                homeRightPoints:'-6.0',
+                homeRatio:59 
+            }
+        ]
     }
     
 ]
