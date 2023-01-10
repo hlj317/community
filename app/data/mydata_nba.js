@@ -443,7 +443,7 @@ const nbaData = {
         },{
             'name':'波尔',
             'status':'出战',
-            'detail':'可以出战周二对阵国王的比赛',
+            'detail':'可以出战周三对阵开拓者的比赛',
             'important':true
         }
     ],
