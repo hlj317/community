@@ -112,8 +112,8 @@ const nbaData = {
             'important':true
         },{
             'name':'东契奇',
-            'status':'出战存疑',
-            'detail':'身体不适，周三对阵快船的比赛出战存疑',
+            'status':'大概率出战',
+            'detail':'身体不适，大概率可以出战周三对阵快船的比赛',
             'important':true
         }
     ],
@@ -442,8 +442,8 @@ const nbaData = {
             'important':false
         },{
             'name':'波尔',
-            'status':'缺阵',
-            'detail':'身体不适，无法出战周二对阵国王的比赛',
+            'status':'出战',
+            'detail':'可以出战周二对阵国王的比赛',
             'important':true
         }
     ],
