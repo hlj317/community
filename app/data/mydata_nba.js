@@ -371,8 +371,8 @@ const nbaData = {
             'important':false
         },{
             'name':'爱德华兹',
-            'status':'出战存疑',
-            'detail':'身体不适，周四对阵活塞的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周四对阵活塞的比赛',
             'important':true
         },{
             'name':'凯尔.安德森',
