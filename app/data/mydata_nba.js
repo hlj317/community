@@ -414,8 +414,8 @@ const nbaData = {
             'important':false
         },{
             'name':'巴雷特',
-            'status':'出战存疑',
-            'detail':'腿部受伤，周四对阵步行者的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周四对阵步行者的比赛',
             'important':true
         }
     ],
