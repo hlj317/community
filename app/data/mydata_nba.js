@@ -22,13 +22,23 @@ const nbaData = {
             'important':false
         },{        
             'name':'斯马特',
-            'status':'出战存疑',
-            'detail':'膝盖受伤，周五对阵篮网的比赛出战存疑',
+            'status':'出战',
+            'detail':'膝盖受伤，可以出战周五对阵篮网的比赛',
             'important':true
         },{        
             'name':'罗威',
-            'status':'出战存疑',
-            'detail':'膝盖受伤，周五对阵篮网的比赛出战存疑',
+            'status':'出战',
+            'detail':'膝盖受伤，可以出战周五对阵篮网的比赛',
+            'important':true
+        },{        
+            'name':'杰伦.布朗',
+            'status':'缺阵',
+            'detail':'身体不适，无法出战周五对阵篮网的比赛',
+            'important':true
+        },{        
+            'name':'AI.霍福德',
+            'status':'缺阵',
+            'detail':'身体不适，无法出战周五对阵篮网的比赛',
             'important':true
         }
     ],
@@ -45,8 +55,8 @@ const nbaData = {
     hornets:[
         {
             'name':'海沃德',
-            'status':'出战存疑',
-            'detail':'腿筋拉伤，周五对阵猛龙的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'腿筋拉伤，无法出战周五对阵猛龙的比赛',
             'important':true
         },{
             'name':'乌布雷',
@@ -362,9 +372,19 @@ const nbaData = {
             'important':false
         },{
             'name':'格雷森.阿伦',
-            'status':'出战存疑',
-            'detail':'身体不适，周五对阵热火的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'身体不适，无法出战周五对阵热火的比赛',
             'important':false
+        },{
+            'name':'英格尔斯',
+            'status':'缺阵',
+            'detail':'身体不适，无法出战周五对阵热火的比赛',
+            'important':false
+        },{
+            'name':'字母哥',
+            'status':'缺阵',
+            'detail':'身体不适，无法出战周五对阵热火的比赛',
+            'important':true
         }
     ],
     //明尼苏达森林狼
