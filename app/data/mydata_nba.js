@@ -22,8 +22,8 @@ const nbaData = {
             'important':false
         },{        
             'name':'布罗格登',
-            'status':'出战存疑',
-            'detail':'个人原因，周日对阵黄蜂的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周日对阵黄蜂的比赛',
             'important':true
         },{        
             'name':'杰伦.布朗',
