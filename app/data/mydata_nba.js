@@ -6,6 +6,11 @@ const nbaData = {
             'status':'缺阵',
             'detail':'小腿受伤，预计还要缺阵一段时间',
             'important':true
+        },{
+            'name':'博格丹',
+            'status':'出战存疑',
+            'detail':'腿部受伤，周日对阵猛龙的比赛出战存疑',
+            'important':true
         }
     ],
     //波士顿凯尔特人
@@ -91,6 +96,11 @@ const nbaData = {
             'status':'缺阵',
             'detail':'肩膀受伤，预计会缺阵数周时间',
             'important':false
+        },{
+            'name':'米切尔',
+            'status':'出战存疑',
+            'detail':'身体不适，周日对阵森林狼的比赛出战存疑',
+            'important':true
         }
     ],
     //达拉斯独行侠
@@ -212,13 +222,13 @@ const nbaData = {
             'important':false
         },{
             'name':'内史密斯',
-            'status':'出战存疑',
-            'detail':'身体不适，周日对阵灰熊的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周日对阵灰熊的比赛',
             'important':false
         },{
             'name':'特纳',
-            'status':'出战存疑',
-            'detail':'背部受伤，周日对阵灰熊的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'背部受伤，无法出战周日对阵灰熊的比赛',
             'important':true
         },{
             'name':'哈里伯顿',
@@ -289,8 +299,8 @@ const nbaData = {
             'important':false
         },{
             'name':'克拉克',
-            'status':'缺阵',
-            'detail':'臀部受伤，预计还会缺阵一段时间',
+            'status':'出战',
+            'detail':'可以出战周日对阵步行者的比赛',
             'important':false
         },{
             'name':'康查尔',
@@ -299,8 +309,8 @@ const nbaData = {
             'important':false
         },{
             'name':'狄龙.布鲁克斯',
-            'status':'出战存疑',
-            'detail':'右脚踝受伤，周日对阵步行者的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'右脚踝受伤，无法出战周日对阵步行者的比赛',
             'important':true
         }
     ],
@@ -323,8 +333,8 @@ const nbaData = {
             'important':false
         },{
             'name':'克莱布.马丁',
-            'status':'出战',
-            'detail':'可以出战周日对阵雄鹿的比赛',
+            'status':'缺阵',
+            'detail':'腿部受伤，无法出战周日对阵雄鹿的比赛',
             'important':false
         },{
             'name':'洛瑞',
@@ -333,8 +343,8 @@ const nbaData = {
             'important':true
         },{
             'name':'希罗',
-            'status':'出战存疑',
-            'detail':'左肌腱拉伤，周日对阵雄鹿的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'左肌腱拉伤，无法出战周日对阵雄鹿的比赛',
             'important':true
         }              
     ],
@@ -362,8 +372,8 @@ const nbaData = {
             'important':false
         },{
             'name':'字母哥',
-            'status':'出战存疑',
-            'detail':'身体不适，周日对阵热火的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'身体不适，无法出战周日对阵热火的比赛',
             'important':true
         }
     ],
@@ -445,16 +455,6 @@ const nbaData = {
             'status':'缺阵',
             'detail':'膝盖受伤，预计会缺阵一段时间',
             'important':false
-        },{
-            'name':'萨格斯',
-            'status':'出战存疑',
-            'detail':'腿部受伤，周六对阵爵士的比赛出战存疑',
-            'important':false
-        },{
-            'name':'凯文.哈里斯',
-            'status':'出战存疑',
-            'detail':'背部受伤，周六对阵爵士的比赛出战存疑',
-            'important':false
         }
     ],
     //费城76人
@@ -464,6 +464,11 @@ const nbaData = {
             'status':'出战存疑',
             'detail':'膝盖受伤，周日对阵爵士的比赛出战存疑',
             'important':true
+        },{        
+            'name':'尼昂',
+            'status':'出战存疑',
+            'detail':'身体不适，周日对阵爵士的比赛出战存疑',
+            'important':false
         }
     ],
     //菲尼克斯太阳
@@ -563,7 +568,22 @@ const nbaData = {
             'status':'缺阵',
             'detail':'身体不适，无法出战周日对阵76人的比赛',
             'important':false
-        }                               
+        },{
+            'name':'塞克斯顿',
+            'status':'缺阵',
+            'detail':'伤病管理，无法出战周日对阵76人的比赛',
+            'important':true
+        },{
+            'name':'盖伊',
+            'status':'缺阵',
+            'detail':'身体不适，无法出战周日对阵76人的比赛',
+            'important':false
+        },{
+            'name':'马尔坎宁',
+            'status':'出战存疑',
+            'detail':'身体不适，周日对阵76人的比赛出战存疑',
+            'important':true
+        }                             
     ],
     //华盛顿奇才
     wizards:[
