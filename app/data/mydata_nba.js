@@ -50,8 +50,8 @@ const nbaData = {
     hornets:[
         {
             'name':'海沃德',
-            'status':'出战存疑',
-            'detail':'腿筋拉伤，周日对阵凯尔特人的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'腿筋拉伤，无法出战周日对阵凯尔特人的比赛',
             'important':true
         },{
             'name':'乌布雷',
