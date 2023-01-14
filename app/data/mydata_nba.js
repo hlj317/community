@@ -379,7 +379,7 @@ const nbaData = {
             'status':'缺阵',
             'detail':'小腿拉伤，还需要缺阵一段时间',
             'important':false
-        }}
+        }
     ],
     //新奥尔良鹈鹕
     pelicans:[
