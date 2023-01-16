@@ -127,13 +127,13 @@ const nbaData = {
             'important':true
         },{
             'name':'伍德',
-            'status':'出战存疑',
-            'detail':'身体不适，周一对阵开拓者的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周一对阵开拓者的比赛',
             'important':true
         },{
             'name':'东契奇',
-            'status':'出战存疑',
-            'detail':'身体不适，周一对阵开拓者的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'身体不适，无法出战周一对阵开拓者的比赛',
             'important':true
         },{
             'name':'蒂姆.哈达威',
@@ -549,8 +549,8 @@ const nbaData = {
     blazers:[
         {
             'name':'利特尔',
-            'status':'长期缺阵',
-            'detail':'臀部受伤，预计缺阵6周时间',
+            'status':'出战',
+            'detail':'可以出战周一对阵独行侠的比赛',
             'important':false
         },{
             'name':'温斯洛',
@@ -560,7 +560,7 @@ const nbaData = {
         },{
             'name':'利拉德',
             'status':'出战',
-            'detail':'可以出战周日对阵独行侠的比赛',
+            'detail':'可以出战周一对阵独行侠的比赛',
             'important':true
         }
     ],
