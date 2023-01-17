@@ -3,8 +3,8 @@ const nbaData = {
     hawks:[
         {
             'name':'卡佩拉',
-            'status':'出战存疑',
-            'detail':'小腿受伤，周二对阵热火的比赛出战存疑',
+            'status':'出战',
+            'detail':'小腿受伤，可以出战周二对阵热火的比赛',
             'important':true
         }
     ],
@@ -36,8 +36,8 @@ const nbaData = {
             'important':true
         },{
             'name':'本.西蒙斯',
-            'status':'缺阵',
-            'detail':'背部受伤，无法出战周一对阵雷霆的比赛',
+            'status':'出战',
+            'detail':'可以出战周三对阵马刺的比赛',
             'important':true
         }
     ],
@@ -145,15 +145,15 @@ const nbaData = {
             'detail':'手指骨裂，至少缺阵一个月时间',
             'important':false
         },{
-            'name':'约基奇',
-            'status':'出战',
-            'detail':'可以出战周一对阵魔术的比赛',
-            'important':true
-        },{
             'name':'穆雷',
             'status':'出战',
-            'detail':'可以出战周一对阵魔术的比赛',
+            'detail':'可以出战周三对阵开拓者的比赛',
             'important':true
+        },{
+            'name':'海兰德',
+            'status':'出战存疑',
+            'detail':'脚踝受伤，周三对阵开拓者的比赛出战存疑',
+            'important':false
         }
     ],
     //底特律活塞
@@ -262,22 +262,17 @@ const nbaData = {
         },{
             'name':'肯纳德',
             'status':'缺阵',
-            'detail':'右小腿受伤，无法出战周一对阵火箭的比赛',
+            'detail':'右小腿受伤，还需要缺阵一段时间',
             'important':false
         },{
             'name':'乔治',
-            'status':'缺阵',
-            'detail':'右腿筋拉伤，无法出战周一对阵火箭的比赛',
-            'important':true
-        },{
-            'name':'马库斯.莫里斯',
-            'status':'缺阵',
-            'detail':'身体不适，无法出战周一对阵火箭的比赛',
+            'status':'出战存疑',
+            'detail':'右腿筋拉伤，周三对阵76人的比赛出战存疑',
             'important':true
         },{
             'name':'沃尔',
             'status':'缺阵',
-            'detail':'腿部受伤，无法出战周一对阵火箭的比赛',
+            'detail':'腿部受伤，至少缺阵两周时间',
             'important':false
         }
     ],
@@ -376,19 +371,14 @@ const nbaData = {
             'detail':'个人原因，会缺阵一段时间',
             'important':false
         },{
-            'name':'朱.霍乐迪',
-            'status':'出战',
-            'detail':'可以出战周二对阵步行者的比赛',
-            'important':true
-        },{
             'name':'英格尔斯',
-            'status':'缺阵',
-            'detail':'伤病管理，无法出战周二对阵步行者的比赛',
+            'status':'出战存疑',
+            'detail':'伤病管理，周三对阵猛龙的比赛出战存疑',
             'important':false
         },{
             'name':'字母哥',
-            'status':'缺阵',
-            'detail':'腿部受伤，无法出战周二对阵步行者的比赛',
+            'status':'出战存疑',
+            'detail':'膝盖受伤，周三对阵猛龙的比赛出战存疑',
             'important':true
         }
     ],
@@ -542,6 +532,11 @@ const nbaData = {
             'status':'缺阵',
             'detail':'左脚踝受伤，至少缺阵两周时间',
             'important':false
+        },{
+            'name':'小佩顿',
+            'status':'出战存疑',
+            'detail':'伤病管理，周三对阵掘金的比赛出战存疑',
+            'important':false
         }
     ],
     //萨克拉门托国王
@@ -567,8 +562,8 @@ const nbaData = {
             'important':true
         },{
             'name':'麦克德莫特',
-            'status':'缺阵',
-            'detail':'腿部受伤，无法出战周一对阵国王的比赛',
+            'status':'出战存疑',
+            'detail':'背部受伤，周三对阵篮网的比赛出战存疑',
             'important':false
         }
     ],
@@ -579,11 +574,6 @@ const nbaData = {
             'status':'缺阵',
             'detail':'左脚受伤，预计会缺阵一段时间',
             'important':false
-        },{
-            'name':'范弗利特',
-            'status':'出战存疑',
-            'detail':'背部受伤，周二对阵尼克斯的比赛出战存疑',
-            'important':true
         }
     ],
     //犹它爵士
