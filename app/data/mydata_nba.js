@@ -39,6 +39,11 @@ const nbaData = {
             'status':'出战',
             'detail':'可以出战周三对阵马刺的比赛',
             'important':true
+        },{
+            'name':'欧文',
+            'status':'出战存疑',
+            'detail':'腿部酸痛，周三对阵马刺的比赛出战存疑',
+            'important':true
         }
     ],
     //夏洛特黄蜂
@@ -145,9 +150,9 @@ const nbaData = {
             'detail':'手指骨裂，至少缺阵一个月时间',
             'important':false
         },{
-            'name':'穆雷',
-            'status':'出战',
-            'detail':'可以出战周三对阵开拓者的比赛',
+            'name':'贾马尔.穆雷',
+            'status':'出战存疑',
+            'detail':'脚踝受伤，周三对阵开拓者的比赛出战存疑',
             'important':true
         },{
             'name':'海兰德',
@@ -372,13 +377,13 @@ const nbaData = {
             'important':false
         },{
             'name':'英格尔斯',
-            'status':'出战存疑',
-            'detail':'伤病管理，周三对阵猛龙的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周三对阵猛龙的比赛',
             'important':false
         },{
             'name':'字母哥',
-            'status':'出战存疑',
-            'detail':'膝盖受伤，周三对阵猛龙的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'膝盖受伤，无法出战周三对阵猛龙的比赛',
             'important':true
         }
     ],
@@ -480,15 +485,10 @@ const nbaData = {
     //费城76人
     seven6ers:[
         {        
-            'name':'哈里斯',
-            'status':'出战存疑',
-            'detail':'膝盖受伤，周一对阵湖人的比赛出战存疑',
-            'important':true
-        },{        
-            'name':'哈登',
-            'status':'出战存疑',
-            'detail':'伤病管理，周一对阵湖人的比赛出战存疑',
-            'important':true
+            'name':'梅尔顿',
+            'status':'大概率出战',
+            'detail':'身体不适，大概率可以出战周三对阵快船的比赛',
+            'important':false
         }
     ],
     //菲尼克斯太阳
@@ -573,6 +573,11 @@ const nbaData = {
             'name':'奥托.波特',
             'status':'缺阵',
             'detail':'左脚受伤，预计会缺阵一段时间',
+            'important':false
+        },{
+            'name':'班顿',
+            'status':'缺阵',
+            'detail':'臀部受伤，无法出战周三对阵雄鹿的比赛',
             'important':false
         }
     ],
