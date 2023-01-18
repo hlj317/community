@@ -98,8 +98,8 @@ const nbaData = {
             'important':false
         },{
             'name':'米切尔',
-            'status':'出战存疑',
-            'detail':'腹股沟受伤，周四对阵灰熊的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'腹股沟受伤，无法出战周四对阵灰熊的比赛',
             'important':true
         }
     ],
@@ -149,6 +149,16 @@ const nbaData = {
             'status':'长期缺阵',
             'detail':'手指骨裂，至少缺阵一个月时间',
             'important':false
+        },{
+            'name':'海兰德',
+            'status':'出战存疑',
+            'detail':'腿部受伤，周四对阵森林狼的比赛出战存疑',
+            'important':false
+        },{
+            'name':'贾马尔.穆雷',
+            'status':'出战存疑',
+            'detail':'伤病管理，周四对阵森林狼的比赛出战存疑',
+            'important':true
         }
     ],
     //底特律活塞
@@ -260,6 +270,11 @@ const nbaData = {
             'detail':'伤病管理，无法出战周四对阵爵士的比赛',
             'important':true
         },{
+            'name':'祖巴茨',
+            'status':'出战存疑',
+            'detail':'腿部受伤，周四对阵爵士的比赛出战存疑',
+            'important':true
+        },{
             'name':'沃尔',
             'status':'缺阵',
             'detail':'腿部受伤，至少缺阵两周时间',
@@ -323,8 +338,8 @@ const nbaData = {
             'important':false
         },{
             'name':'洛瑞',
-            'status':'出战存疑',
-            'detail':'膝盖受伤，周四对阵鹈鹕的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周四对阵鹈鹕的比赛',
             'important':true
         }        
     ],
@@ -376,8 +391,8 @@ const nbaData = {
             'important':true
         },{
             'name':'戈贝尔',
-            'status':'出战存疑',
-            'detail':'腹股沟受伤，周四对阵掘金的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'腹股沟受伤，无法出战周四对阵掘金的比赛',
             'important':true
         }
     ],
@@ -545,8 +560,8 @@ const nbaData = {
             'important':true
         },{
             'name':'马尔坎宁',
-            'status':'出战存疑',
-            'detail':'身体不适，周四对阵快船的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周四对阵快船的比赛',
             'important':true
         }                             
     ],
