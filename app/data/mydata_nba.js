@@ -41,8 +41,8 @@ const nbaData = {
             'important':true
         },{
             'name':'欧文',
-            'status':'出战存疑',
-            'detail':'腿部酸痛，周三对阵马刺的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'腿部酸痛，无法出战周三对阵马刺的比赛',
             'important':true
         }
     ],
