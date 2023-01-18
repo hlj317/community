@@ -569,8 +569,8 @@ const nbaData = {
     wizards:[
         {
             'name':'比尔',
-            'status':'出战存疑',
-            'detail':'腿筋拉伤，周四对阵尼克斯的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周四对阵尼克斯的比赛',
             'important':true
         }
     ]   
