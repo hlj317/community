@@ -3045,6 +3045,67 @@ export const myData = [
                 homeRatio:45
             }
         ]
+    },
+
+    //01月20日
+    {
+        date: 'Fri Jan 20',
+        list: [
+            {
+                time:'Fri 01/20, 4:00 AM',
+                awayName:'bulls',
+                awayLeftPoints:'-7.0',
+                awayRightPoints:'-7.0',
+                awayRatio:69,
+                homeName:'pistons',
+                homeLeftPoints:'+7.0',
+                homeRightPoints:'+7.0',
+                homeRatio:31,
+                abroad:true
+            },{
+                time:'Fri 01/20, 8:30 AM',
+                awayName:'warriors',
+                awayLeftPoints:'+5.5',
+                awayRightPoints:'+5.5',
+                awayRatio:37,
+                homeName:'celtics',
+                homeLeftPoints:'-5.5',
+                homeRightPoints:'-5.5',
+                homeRatio:63,
+                live:true
+            },{
+                time:'Fri 01/20, 9:00 AM',
+                awayName:'raptors',
+                awayLeftPoints:'+3.0',
+                awayRightPoints:'+3.0',
+                awayRatio:42,
+                homeName:'timberwolves',
+                homeLeftPoints:'-3.0',
+                homeRightPoints:'-3.0',
+                homeRatio:58
+            },{
+                time:'Fri 01/20, 11:00 AM',
+                awayName:'nets',
+                awayLeftPoints:'-1.5',
+                awayRightPoints:'-1.5',
+                awayRatio:60,
+                homeName:'suns',
+                homeLeftPoints:'+1.5',
+                homeRightPoints:'+1.5',
+                homeRatio:40,
+                live:true
+            },{
+                time:'Fri 01/20, 11:00 AM',
+                awayName:'seven6ers',
+                awayLeftPoints:'-2.0',
+                awayRightPoints:'-2.0',
+                awayRatio:55,
+                homeName:'blazers',
+                homeLeftPoints:'+2.0',
+                homeRightPoints:'+2.0',
+                homeRatio:45
+            }
+        ]
     }
     
 ]
