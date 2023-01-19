@@ -45,7 +45,7 @@
 
         <template v-for="(item,index) in currentData">
             <tr class="play-time-tr" :key="index">  
-                <td rowspan="3" class="play-time">{{item.time}}<br/><span class="play-live" v-if="item.live"><全美直播></span><span class="play-live" v-if="item.aboard"><海外比赛></span></td>
+                <td rowspan="3" class="play-time">{{item.time}}<br/><span class="play-live" v-if="item.live"><全美直播></span><span class="play-live" v-if="item.abroad"><海外比赛></span></td>
             </tr> 
         
             <tr :key="index">  
