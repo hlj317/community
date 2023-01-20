@@ -17,8 +17,8 @@ const nbaData = {
             'important':false
         },{        
             'name':'杰伦.布朗',
-            'status':'出战存疑',
-            'detail':'腹股沟受伤，周五对阵勇士的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周五对阵勇士的比赛',
             'important':true
         }
     ],
@@ -175,18 +175,18 @@ const nbaData = {
             'important':false
         },{        
             'name':'杰伦.杜伦',
-            'status':'出战存疑',
-            'detail':'右脚踝受伤，周五对阵公牛的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周五对阵公牛的比赛',
             'important':true
         },{        
             'name':'约瑟夫',
             'status':'缺阵',
-            'detail':'出战存疑，周五对阵公牛的比赛出战存疑',
+            'detail':'膝盖受伤，无法出战周五对阵公牛的比赛',
             'important':true
         },{        
             'name':'诺埃尔',
-            'status':'出战存疑',
-            'detail':'腿部受伤，周五对阵公牛的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'膝盖受伤，无法出战周五对阵公牛的比赛',
             'important':false
         }    
     ],
@@ -375,9 +375,19 @@ const nbaData = {
             'detail':'左脚踝受伤，周五对阵猛龙的比赛出战存疑',
             'important':false
         },{
-            'name':'戈贝尔',
+            'name':'爱德华兹',
             'status':'出战存疑',
-            'detail':'腹股沟受伤，周五对阵猛龙的比赛出战存疑',
+            'detail':'臀部受伤，周五对阵猛龙的比赛出战存疑',
+            'important':true
+        },{
+            'name':'普林斯',
+            'status':'出战存疑',
+            'detail':'腿部受伤，周五对阵猛龙的比赛出战存疑',
+            'important':false
+        },{
+            'name':'戈贝尔',
+            'status':'缺阵',
+            'detail':'腹股沟受伤，无法出战周五对阵猛龙的比赛',
             'important':true
         }
     ],
