@@ -3206,6 +3206,84 @@ export const myData = [
                 homeRatio:56
             }
         ]
+    },
+
+    //01月22日
+    {
+        date: 'Sun Jan 22',
+        list: [
+            {
+                time:'Sun 01/22, 6:00 AM',
+                awayName:'celtics',
+                awayLeftPoints:'-1.5',
+                awayRightPoints:'-1.5',
+                awayRatio:65,
+                homeName:'raptors',
+                homeLeftPoints:'+1.5',
+                homeRightPoints:'+1.5',
+                homeRatio:35
+            },{
+                time:'Sun 01/22, 8:00 AM',
+                awayName:'magic',
+                awayLeftPoints:'+6.0',
+                awayRightPoints:'+6.0',
+                awayRatio:39,
+                homeName:'wizards',
+                homeLeftPoints:'-6.0',
+                homeRightPoints:'-6.0',
+                homeRatio:61
+            },{
+                time:'Sun 01/22, 8:30 AM',
+                awayName:'bucks',
+                awayLeftPoints:'+1.5',
+                awayRightPoints:'+1.5',
+                awayRatio:57,
+                homeName:'cavaliers',
+                homeLeftPoints:'-1.5',
+                homeRightPoints:'-1.5',
+                homeRatio:43
+            },{
+                time:'Sun 01/22, 8:30 AM',
+                awayName:'hornets',
+                awayLeftPoints:'+8.5',
+                awayRightPoints:'+8.5',
+                awayRatio:38,
+                homeName:'hawks',
+                homeLeftPoints:'-8.5',
+                homeRightPoints:'-8.5',
+                homeRatio:62
+            },{
+                time:'Sun 01/22, 9:00 AM',
+                awayName:'rockets',
+                awayLeftPoints:'+8.0',
+                awayRightPoints:'+8.0',
+                awayRatio:32,
+                homeName:'timberwolves',
+                homeLeftPoints:'-8.0',
+                homeRightPoints:'-8.0',
+                homeRatio:68
+            },{
+                time:'Sun 01/22, 10:00 AM',
+                awayName:'pacers',
+                awayLeftPoints:'+5.5',
+                awayRightPoints:'+5.5',
+                awayRatio:44,
+                homeName:'suns',
+                homeLeftPoints:'-5.5',
+                homeRightPoints:'-5.5',
+                homeRatio:56
+            },{
+                time:'Sun 01/22, 11:00 AM',
+                awayName:'seven6ers',
+                awayLeftPoints:'-3.5',
+                awayRightPoints:'-3.5',
+                awayRatio:59,
+                homeName:'kings',
+                homeLeftPoints:'+3.5',
+                homeRightPoints:'+3.5',
+                homeRatio:41
+            }
+        ]
     }
     
 ]
