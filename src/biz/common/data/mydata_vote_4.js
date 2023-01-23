@@ -3362,6 +3362,84 @@ export const myData = [
                 homeRatio:67
             }
         ]
+    },
+
+    //01月24日
+    {
+        date: 'Tue Jan 24',
+        list: [
+            {
+                time:'Tue 01/24, 8:00 AM',
+                awayName:'bucks',
+                awayLeftPoints:'-11.5',
+                awayRightPoints:'-11.5',
+                awayRatio:61,
+                homeName:'pistons',
+                homeLeftPoints:'+11.5',
+                homeRightPoints:'+11.5',
+                homeRatio:39
+            },{
+                time:'Tue 01/24, 8:00 AM',
+                awayName:'celtics',
+                awayLeftPoints:'-7.5',
+                awayRightPoints:'-7.5',
+                awayRatio:35,
+                homeName:'magic',
+                homeLeftPoints:'+7.5',
+                homeRightPoints:'+7.5',
+                homeRatio:65
+            },{
+                time:'Tue 01/24, 9:00 AM',
+                awayName:'hawks',
+                awayLeftPoints:'+1.0',
+                awayRightPoints:'+1.0',
+                awayRatio:47,
+                homeName:'bulls',
+                homeLeftPoints:'-1.0',
+                homeRightPoints:'-1.0',
+                homeRatio:53
+            },{
+                time:'Tue 01/24, 9:00 AM',
+                awayName:'timberwolves',
+                awayLeftPoints:'-6.5',
+                awayRightPoints:'-6.5',
+                awayRatio:70,
+                homeName:'rockets',
+                homeLeftPoints:'+6.5',
+                homeRightPoints:'+6.5',
+                homeRatio:30
+            },{
+                time:'Tue 01/24, 10:00 AM',
+                awayName:'hornets',
+                awayLeftPoints:'+7.5',
+                awayRightPoints:'+7.5',
+                awayRatio:40,
+                homeName:'jazz',
+                homeLeftPoints:'-7.5',
+                homeRightPoints:'-7.5',
+                homeRatio:60
+            },{
+                time:'Tue 01/24, 11:00 AM',
+                awayName:'spurs',
+                awayLeftPoints:'+9.0',
+                awayRightPoints:'+9.0',
+                awayRatio:39,
+                homeName:'blazers',
+                homeLeftPoints:'-9.0',
+                homeRightPoints:'-9.0',
+                homeRatio:61
+            },{
+                time:'Tue 01/24, 11:30 AM',
+                awayName:'grizzlies',
+                awayLeftPoints:'-1.0',
+                awayRightPoints:'-1.0',
+                awayRatio:57,
+                homeName:'kings',
+                homeLeftPoints:'+1.0',
+                homeRightPoints:'+1.0',
+                homeRatio:43
+            }
+        ]
     }
     
 ]
