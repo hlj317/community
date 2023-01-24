@@ -527,7 +527,7 @@ const nbaData = {
             'status':'出战存疑',
             'detail':'刚到球队报到，周三对阵独行侠的比赛出战存疑',
             'important':false
-        }
+        } 
     ]   
 }
 
