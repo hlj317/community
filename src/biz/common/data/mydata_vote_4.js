@@ -3475,7 +3475,8 @@ export const myData = [
                 homeName:'heat',
                 homeLeftPoints:'-1.5',
                 homeRightPoints:'-1.5',
-                homeRatio:43
+                homeRatio:43,
+                live:true
             },{
                 time:'Wed 01/25, 9:00 AM',
                 awayName:'nuggets',
@@ -3515,7 +3516,8 @@ export const myData = [
                 homeName:'lakers',
                 homeLeftPoints:'+4.0',
                 homeRightPoints:'+4.0',
-                homeRatio:41
+                homeRatio:41,
+                live:true
             }
         ]
     }
