@@ -3440,6 +3440,84 @@ export const myData = [
                 homeRatio:43
             }
         ]
+    },
+
+    //01月25日
+    {
+        date: 'Wed Jan 25',
+        list: [
+            {
+                time:'Wed 01/25, 8:00 AM',
+                awayName:'bulls',
+                awayLeftPoints:'-1.5',
+                awayRightPoints:'-1.5',
+                awayRatio:61,
+                homeName:'pacers',
+                homeLeftPoints:'+1.5',
+                homeRightPoints:'+1.5',
+                homeRatio:39
+            },{
+                time:'Wed 01/25, 8:30 AM',
+                awayName:'cavaliers',
+                awayLeftPoints:'-3.0',
+                awayRightPoints:'-3.0',
+                awayRatio:53,
+                homeName:'knicks',
+                homeLeftPoints:'+3.0',
+                homeRightPoints:'+3.0',
+                homeRatio:47
+            },{
+                time:'Wed 01/25, 8:30 AM',
+                awayName:'celtics',
+                awayLeftPoints:'+1.5',
+                awayRightPoints:'+1.5',
+                awayRatio:57,
+                homeName:'heat',
+                homeLeftPoints:'-1.5',
+                homeRightPoints:'-1.5',
+                homeRatio:43
+            },{
+                time:'Wed 01/25, 9:00 AM',
+                awayName:'nuggets',
+                awayLeftPoints:'+1.5',
+                awayRightPoints:'+1.5',
+                awayRatio:63,
+                homeName:'pelicans',
+                homeLeftPoints:'-1.5',
+                homeRightPoints:'-1.5',
+                homeRatio:37
+            },{
+                time:'Wed 01/25, 9:30 AM',
+                awayName:'wizards',
+                awayLeftPoints:'+7.5',
+                awayRightPoints:'+7.5',
+                awayRatio:45,
+                homeName:'mavericks',
+                homeLeftPoints:'-7.5',
+                homeRightPoints:'-7.5',
+                homeRatio:55
+            },{
+                time:'Wed 01/25, 10:00 AM',
+                awayName:'hornets',
+                awayLeftPoints:'+6.5',
+                awayRightPoints:'+6.5',
+                awayRatio:32,
+                homeName:'suns',
+                homeLeftPoints:'-6.5',
+                homeRightPoints:'-6.5',
+                homeRatio:68
+            },{
+                time:'Wed 01/25, 11:00 AM',
+                awayName:'clippers',
+                awayLeftPoints:'-4.0',
+                awayRightPoints:'-4.0',
+                awayRatio:59,
+                homeName:'lakers',
+                homeLeftPoints:'+4.0',
+                homeRightPoints:'+4.0',
+                homeRatio:41
+            }
+        ]
     }
     
 ]
