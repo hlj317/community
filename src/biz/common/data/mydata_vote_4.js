@@ -3631,6 +3631,76 @@ export const myData = [
                 homeRatio:68
             }
         ]
+    },
+
+    //01月27日
+    {
+        date: 'Fri Jan 27',
+        list: [
+            {
+                time:'Fri 01/27, 8:30 AM',
+                awayName:'bulls',
+                awayLeftPoints:'-5.5',
+                awayRightPoints:'-5.5',
+                awayRatio:64,
+                homeName:'hornets',
+                homeLeftPoints:'+5.5',
+                homeRightPoints:'+5.5',
+                homeRatio:36
+            },{
+                time:'Fri 01/27, 8:30 AM',
+                awayName:'knicks',
+                awayLeftPoints:'+8.5',
+                awayRightPoints:'+8.5',
+                awayRatio:42,
+                homeName:'celtics',
+                homeLeftPoints:'-8.5',
+                homeRightPoints:'-8.5',
+                homeRatio:58,
+                live:true
+            },{
+                time:'Fri 01/27, 8:30 AM',
+                awayName:'pistons',
+                awayLeftPoints:'+9.0',
+                awayRightPoints:'+9.0',
+                awayRatio:38,
+                homeName:'nets',
+                homeLeftPoints:'-9.0',
+                homeRightPoints:'-9.0',
+                homeRatio:62
+            },{
+                time:'Fri 01/27, 9:00 AM',
+                awayName:'cavaliers',
+                awayLeftPoints:'-8.0',
+                awayRightPoints:'-8.0',
+                awayRatio:65,
+                homeName:'rockets',
+                homeLeftPoints:'+8.0',
+                homeRightPoints:'+8.0',
+                homeRatio:35
+            },{
+                time:'Fri 01/27, 11:00 AM',
+                awayName:'mavericks',
+                awayLeftPoints:'+1.5',
+                awayRightPoints:'+1.5',
+                awayRatio:48,
+                homeName:'suns',
+                homeLeftPoints:'-1.5',
+                homeRightPoints:'-1.5',
+                homeRatio:52,
+                live:true
+            },{
+                time:'Fri 01/27, 11:30 AM',
+                awayName:'spurs',
+                awayLeftPoints:'+13.0',
+                awayRightPoints:'+13.0',
+                awayRatio:39,
+                homeName:'clippers',
+                homeLeftPoints:'-13.0',
+                homeRightPoints:'-13.0',
+                homeRatio:61
+            }
+        ]
     }
     
 ]
