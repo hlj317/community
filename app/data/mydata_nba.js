@@ -51,8 +51,13 @@ const nbaData = {
             'important':true
         },{
             'name':'夏普',
-            'status':'出战存疑',
-            'detail':'背部受伤，周五对阵活塞的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'背部受伤，无法出战周五对阵活塞的比赛',
+            'important':false
+        },{
+            'name':'赛斯.库里',
+            'status':'缺阵',
+            'detail':'膝盖受伤，无法出战周五对阵活塞的比赛',
             'important':false
         }
     ],
@@ -65,13 +70,13 @@ const nbaData = {
             'important':false
         },{
             'name':'拉梅洛.鲍尔',
-            'status':'出战存疑',
-            'detail':'左手腕受伤，周五对阵公牛的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周五对阵公牛的比赛',
             'important':true
         },{
             'name':'海沃德',
-            'status':'出战存疑',
-            'detail':'腿筋拉伤，周五对阵公牛的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周五对阵公牛的比赛',
             'important':true
         },{
             'name':'乌布雷',
@@ -180,13 +185,13 @@ const nbaData = {
             'important':false
         },{        
             'name':'斯图尔特',
-            'status':'出战存疑',
-            'detail':'身体不适，周五对阵篮网的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周五对阵篮网的比赛',
             'important':true
         },{        
             'name':'以赛亚.里弗斯',
-            'status':'出战存疑',
-            'detail':'左肩受伤，周五对阵篮网的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周五对阵篮网的比赛',
             'important':false
         },{        
             'name':'约瑟夫',
@@ -216,6 +221,16 @@ const nbaData = {
             'status':'缺阵',
             'detail':'腿部受伤，至少再缺阵一周时间',
             'important':true
+        },{
+            'name':'戈登',
+            'status':'缺阵',
+            'detail':'膝盖受伤，无法出战周五对阵骑士的比赛',
+            'important':true
+        },{
+            'name':'泰特',
+            'status':'缺阵',
+            'detail':'脚踝受伤，无法出战周五对阵骑士的比赛',
+            'important':false
         }
     ],
     //印第安纳步行者
@@ -414,8 +429,8 @@ const nbaData = {
             'important':false
         },{
             'name':'富尼耶',
-            'status':'出战存疑',
-            'detail':'个人原因，周五对阵凯尔特人的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'个人原因，无法出战周五对阵凯尔特人的比赛',
             'important':false
         }
     ],
