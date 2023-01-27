@@ -118,8 +118,13 @@ const nbaData = {
             'important':true
         },{
             'name':'乐福',
-            'status':'出战存疑',
-            'detail':'身体不适，周六对阵雷霆的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'身体不适，无法出战周六对阵雷霆的比赛',
+            'important':false
+        },{
+            'name':'卢比奥',
+            'status':'缺阵',
+            'detail':'伤病管理，无法出战周六对阵雷霆的比赛',
             'important':false
         }
     ],
@@ -252,18 +257,18 @@ const nbaData = {
             'important':true
         },{
             'name':'内姆哈德',
-            'status':'出战存疑',
-            'detail':'身体不适，周六对阵雄鹿的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周六对阵雄鹿的比赛',
             'important':false
         },{
             'name':'特纳',
-            'status':'出战存疑',
-            'detail':'身体不适，周六对阵雄鹿的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周六对阵雄鹿的比赛',
             'important':true
         },{
             'name':'内史密斯',
-            'status':'出战存疑',
-            'detail':'身体不适，周六对阵雄鹿的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周六对阵雄鹿的比赛',
             'important':false
         }
     ],
@@ -382,8 +387,8 @@ const nbaData = {
             'important':false
         },{
             'name':'AJ.格林',
-            'status':'出战存疑',
-            'detail':'身体不适，周六对阵步行者的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'身体不适，无法出战周六对阵步行者的比赛',
             'important':false
         },
     ],
