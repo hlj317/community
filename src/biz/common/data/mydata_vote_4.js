@@ -3774,7 +3774,8 @@ export const myData = [
                 homeName:'seven6ers',
                 homeLeftPoints:'-3.5',
                 homeRightPoints:'-3.5',
-                homeRatio:56
+                homeRatio:56,
+                live:true
             },{
                 time:'Sun 01/29, 6:30 AM',
                 awayName:'knicks',
@@ -3784,7 +3785,8 @@ export const myData = [
                 homeName:'nets',
                 homeLeftPoints:'-2.0',
                 homeRightPoints:'-2.0',
-                homeRatio:59
+                homeRatio:59,
+                live:true
             },{
                 time:'Sun 01/29, 8:00 AM',
                 awayName:'rockets',
@@ -3854,7 +3856,8 @@ export const myData = [
                 homeName:'celtics',
                 homeLeftPoints:'-7.5',
                 homeRightPoints:'-7.5',
-                homeRatio:58
+                homeRatio:58,
+                live:true
             },{
                 time:'Sun 01/29, 10:00 AM',
                 awayName:'mavericks',
