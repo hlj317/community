@@ -215,10 +215,10 @@ const nbaData = {
             'detail':'腿部受伤，每日观察',
             'important':false
         },{
-            'name':'肯纳德',
-            'status':'出战',
-            'detail':'可以出战周日对阵老鹰的比赛',
-            'important':false
+            'name':'伦纳德',
+            'status':'缺阵',
+            'detail':'身体不适，无法出战周一对阵骑士的比赛',
+            'important':true
         },{
             'name':'沃尔',
             'status':'缺阵',
@@ -227,7 +227,7 @@ const nbaData = {
         },{
             'name':'马库斯.莫里斯',
             'status':'出战存疑',
-            'detail':'肋骨受伤，周五对阵马刺的比赛出战存疑',
+            'detail':'肋骨受伤，周一对阵骑士的比赛出战存疑',
             'important':true
         }
     ],
