@@ -36,13 +36,13 @@ const nbaData = {
             'important':true
         },{
             'name':'T.J.沃伦',
-            'status':'出战存疑',
-            'detail':'左手扭伤，周二对阵湖人的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'左手扭伤，无法出战周二对阵湖人的比赛',
             'important':false
         },{
             'name':'本.西蒙斯',
-            'status':'出战存疑',
-            'detail':'膝盖受伤，周二对阵湖人的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'膝盖受伤，无法出战周二对阵湖人的比赛',
             'important':true
         }
     ],
@@ -138,7 +138,12 @@ const nbaData = {
             'status':'缺阵',
             'detail':'背部受伤，还需要缺阵一段时间',
             'important':false
-        }  
+        },{        
+            'name':'迪亚洛',
+            'status':'缺阵',
+            'detail':'身体不适，无法出战周二对阵独行侠的比赛',
+            'important':false
+        }   
     ],
     //金州勇士
     warriors:[
@@ -457,8 +462,8 @@ const nbaData = {
             'important':false
         },{
             'name':'理查德森',
-            'status':'出战存疑',
-            'detail':'身体不适，周二对阵奇才的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周二对阵奇才的比赛',
             'important':false
         }
     ],
@@ -497,6 +502,11 @@ const nbaData = {
             'status':'出战',
             'detail':'可以出战周二对阵马刺的比赛',
             'important':true
+        },{
+            'name':'加福德',
+            'status':'出战存疑',
+            'detail':'身体不适，周二对阵马刺的比赛出战存疑',
+            'important':false
         },{
             'name':'吉尔',
             'status':'缺阵',
