@@ -4017,6 +4017,66 @@ export const myData = [
                 homeRatio:48
             }
         ]
+    },
+
+    //02月01日
+    {
+        date: 'Wed Feb 01',
+        list: [
+            {
+                time:'Wed 02/01, 8:00 AM',
+                awayName:'heat',
+                awayLeftPoints:'+5.5',
+                awayRightPoints:'+5.5',
+                awayRatio:52,
+                homeName:'cavaliers',
+                homeLeftPoints:'-5.5',
+                homeRightPoints:'-5.5',
+                homeRatio:48
+            },{
+                time:'Wed 02/01, 8:30 AM',
+                awayName:'lakers',
+                awayLeftPoints:'+2.5',
+                awayRightPoints:'+2.5',
+                awayRatio:45,
+                homeName:'knicks',
+                homeLeftPoints:'-2.5',
+                homeRightPoints:'-2.5',
+                homeRatio:55,
+                live:true
+            },{
+                time:'Wed 02/01, 9:00 AM',
+                awayName:'hornets',
+                awayLeftPoints:'+12.0',
+                awayRightPoints:'+12.0',
+                awayRatio:32,
+                homeName:'bucks',
+                homeLeftPoints:'-12.0',
+                homeRightPoints:'-12.0',
+                homeRatio:68
+            },{
+                time:'Wed 02/01, 9:00 AM',
+                awayName:'clippers',
+                awayLeftPoints:'-3.0',
+                awayRightPoints:'-3.0',
+                awayRatio:63,
+                homeName:'bulls',
+                homeLeftPoints:'+3.0',
+                homeRightPoints:'+3.0',
+                homeRatio:37
+            },{
+                time:'Wed 02/01, 11:00 AM',
+                awayName:'pelicans',
+                awayLeftPoints:'+7.5',
+                awayRightPoints:'+7.5',
+                awayRatio:40,
+                homeName:'nuggets',
+                homeLeftPoints:'-7.5',
+                homeRightPoints:'-7.5',
+                homeRatio:60,
+                live:true
+            }
+        ]
     }
     
 ]
