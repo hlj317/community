@@ -216,18 +216,18 @@ const nbaData = {
             'important':false
         },{
             'name':'马库斯.莫里斯',
-            'status':'出战存疑',
-            'detail':'肋骨受伤，周三对阵公牛的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'肋骨受伤，无法出战周三对阵公牛的比赛',
             'important':true
         },{
             'name':'雷吉.杰克逊',
-            'status':'出战存疑',
-            'detail':'肌腱拉伤，周三对阵公牛的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周三对阵公牛的比赛',
             'important':false
         },{
             'name':'考文顿',
-            'status':'出战存疑',
-            'detail':'个人原因，周三对阵公牛的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周三对阵公牛的比赛',
             'important':false
         }
     ],
@@ -298,13 +298,13 @@ const nbaData = {
             'important':false
         },{
             'name':'文森特',
-            'status':'出战存疑',
-            'detail':'身体不适，周三对阵骑士的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周三对阵骑士的比赛',
             'important':false
         },{
             'name':'吉米.巴特勒',
-            'status':'出战存疑',
-            'detail':'身体不适，周三对阵骑士的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周三对阵骑士的比赛',
             'important':true
         }     
     ],
