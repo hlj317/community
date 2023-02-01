@@ -22,8 +22,8 @@ const nbaData = {
             'important':true
         },{        
             'name':'罗威',
-            'status':'出战存疑',
-            'detail':'伤病管理，周四对阵篮网的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周四对阵篮网的比赛',
             'important':true
         }
     ],
@@ -254,8 +254,8 @@ const nbaData = {
     grizzlies:[
         {
             'name':'丹尼.格林',
-            'status':'长期缺阵',
-            'detail':'膝盖受伤，归期未定',
+            'status':'出战存疑',
+            'detail':'膝盖受伤，周四对阵开拓者的比赛出战存疑',
             'important':false
         },{
             'name':'亚当斯',
@@ -269,8 +269,8 @@ const nbaData = {
             'important':true
         },{
             'name':'康查尔',
-            'status':'缺阵',
-            'detail':'身体不适，还需要缺阵一段时间',
+            'status':'出战存疑',
+            'detail':'身体不适，周四对阵开拓者的比赛出战存疑',
             'important':false
         }
     ],
@@ -333,6 +333,11 @@ const nbaData = {
             'name':'普林斯',
             'status':'出战存疑',
             'detail':'伤病管理，周四对阵勇士的比赛出战存疑',
+            'important':false
+        },{
+            'name':'福布斯',
+            'status':'出战存疑',
+            'detail':'右脚踝受伤，周四对阵勇士的比赛出战存疑',
             'important':false
         },{
             'name':'戈贝尔',
@@ -405,6 +410,11 @@ const nbaData = {
             'status':'出战存疑',
             'detail':'右脚受伤，周四对阵76人的比赛出战存疑',
             'important':true
+        },{
+            'name':'艾萨克',
+            'status':'缺阵',
+            'detail':'伤病管理，无法出战周四对阵76人的比赛',
+            'important':false
         }
     ],
     //费城76人
@@ -509,8 +519,8 @@ const nbaData = {
     wizards:[
         {
             'name':'加福德',
-            'status':'出战存疑',
-            'detail':'身体不适，出战周四对阵活塞的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周四对阵活塞的比赛',
             'important':false
         },{
             'name':'吉尔',
