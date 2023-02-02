@@ -81,6 +81,11 @@ const nbaData = {
             'status':'缺阵',
             'detail':'脚踝受伤，无法出战',
             'important':false
+        },{
+            'name':'勒维尔',
+            'status':'出战存疑',
+            'detail':'身体不适，周五对阵灰熊的比赛出战存疑',
+            'important':true
         }
     ],
     //达拉斯独行侠
@@ -157,11 +162,6 @@ const nbaData = {
             'status':'大概率轮休',
             'detail':'身体不适，大概率无法出战周五对阵掘金的比赛',
             'important':true
-        },{
-            'name':'维金斯',
-            'status':'大概率轮休',
-            'detail':'身体不适，大概率无法出战周五对阵掘金的比赛',
-            'important':true
         }
     ],
     //休斯顿火箭
@@ -230,8 +230,8 @@ const nbaData = {
             'important':true
         },{
             'name':'詹姆斯',
-            'status':'出战存疑',
-            'detail':'脚踝受伤，周五对阵步行者的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周五对阵步行者的比赛',
             'important':true
         }  
     ],
@@ -240,8 +240,18 @@ const nbaData = {
         {
             'name':'丹尼.格林',
             'status':'缺阵',
-            'detail':'伤病管理，大概率无法出战周五对阵骑士的比赛',
+            'detail':'伤病管理，无法出战周五对阵骑士的比赛',
             'important':false
+        },{
+            'name':'扎威',
+            'status':'出战存疑',
+            'detail':'伤病管理，周五对阵骑士的比赛出战存疑',
+            'important':false
+        },{
+            'name':'小贾伦.杰克逊',
+            'status':'出战存疑',
+            'detail':'伤病管理，周五对阵骑士的比赛出战存疑',
+            'important':true
         },{
             'name':'亚当斯',
             'status':'长期缺阵',
@@ -249,8 +259,8 @@ const nbaData = {
             'important':true
         },{
             'name':'康查尔',
-            'status':'出战存疑',
-            'detail':'身体不适，周五对阵骑士的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周五对阵骑士的比赛',
             'important':false
         }
     ],
@@ -273,13 +283,13 @@ const nbaData = {
             'important':false
         },{
             'name':'文森特',
-            'status':'出战存疑',
-            'detail':'脚踝扭伤，周五对阵尼克斯的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周五对阵尼克斯的比赛',
             'important':false
         },{
             'name':'奥拉迪波',
-            'status':'出战存疑',
-            'detail':'脚踝扭伤，周五对阵尼克斯的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'脚踝扭伤，无法出战周五对阵尼克斯的比赛',
             'important':true
         },{
             'name':'奥兰多.罗宾逊',
