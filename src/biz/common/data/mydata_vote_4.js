@@ -4257,6 +4257,94 @@ export const myData = [
                 live:true
             }
         ]
+    },
+
+    //02月04日
+    {
+        date: 'Sat Feb 04',
+        list: [
+            {
+                time:'Sat 02/04, 8:00 AM',
+                awayName:'kings',
+                awayLeftPoints:'-3.0',
+                awayRightPoints:'-3.0',
+                awayRatio:57,
+                homeName:'pacers',
+                homeLeftPoints:'+3.0',
+                homeRightPoints:'+3.0',
+                homeRatio:43
+            },{
+                time:'Sat 02/04, 8:00 AM',
+                awayName:'blazers',
+                awayLeftPoints:'+4.0',
+                awayRightPoints:'+4.0',
+                awayRatio:44,
+                homeName:'wizards',
+                homeLeftPoints:'-4.0',
+                homeRightPoints:'-4.0',
+                homeRatio:56
+            },{
+                time:'Sat 02/04, 8:00 AM',
+                awayName:'hornets',
+                awayLeftPoints:'+1.5',
+                awayRightPoints:'+1.5',
+                awayRatio:60,
+                homeName:'pistons',
+                homeLeftPoints:'-1.5',
+                homeRightPoints:'-1.5',
+                homeRatio:40
+            },{
+                time:'Sat 02/04, 8:30 AM',
+                awayName:'suns',
+                awayLeftPoints:'+9.5',
+                awayRightPoints:'+9.5',
+                awayRatio:42,
+                homeName:'celtics',
+                homeLeftPoints:'-9.5',
+                homeRightPoints:'-9.5',
+                homeRatio:58
+            },{
+                time:'Sat 02/04, 9:00 AM',
+                awayName:'raptors',
+                awayLeftPoints:'-6.0',
+                awayRightPoints:'-6.0',
+                awayRatio:61,
+                homeName:'rockets',
+                homeLeftPoints:'+6.0',
+                homeRightPoints:'+6.0',
+                homeRatio:39
+            },{
+                time:'Sat 02/04, 9:00 AM',
+                awayName:'magic',
+                awayLeftPoints:'+5.0',
+                awayRightPoints:'+5.0',
+                awayRatio:38,
+                homeName:'timberwolves',
+                homeLeftPoints:'-5.0',
+                homeRightPoints:'-5.0',
+                homeRatio:62
+            },{
+                time:'Sat 02/04, 9:00 AM',
+                awayName:'seven6ers',
+                awayLeftPoints:'-10.0',
+                awayRightPoints:'-10.0',
+                awayRatio:64,
+                homeName:'spurs',
+                homeLeftPoints:'+10.0',
+                homeRightPoints:'+10.0',
+                homeRatio:36
+            },{
+                time:'Sat 02/04, 10:00 AM',
+                awayName:'hawks',
+                awayLeftPoints:'+1.5',
+                awayRightPoints:'+1.5',
+                awayRatio:55,
+                homeName:'jazz',
+                homeLeftPoints:'-1.5',
+                homeRightPoints:'-1.5',
+                homeRatio:45
+            }
+        ]
     }
     
 ]
