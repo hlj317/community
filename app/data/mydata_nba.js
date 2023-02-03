@@ -111,8 +111,8 @@ const nbaData = {
             'important':false
         },{
             'name':'阿隆.戈登',
-            'status':'出战存疑',
-            'detail':'脚踝扭伤，周五对阵勇士的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'脚踝扭伤，无法出战周五对阵勇士的比赛',
             'important':true
         }
     ],
@@ -154,13 +154,13 @@ const nbaData = {
             'important':true
         },{
             'name':'库里',
-            'status':'大概率轮休',
-            'detail':'身体不适，大概率无法出战周五对阵掘金的比赛',
+            'status':'出战',
+            'detail':'可以出战周五对阵掘金的比赛',
             'important':true
         },{
             'name':'追梦.格林',
-            'status':'大概率轮休',
-            'detail':'身体不适，大概率无法出战周五对阵掘金的比赛',
+            'status':'出战',
+            'detail':'可以出战周五对阵掘金的比赛',
             'important':true
         }
     ],
@@ -244,13 +244,13 @@ const nbaData = {
             'important':false
         },{
             'name':'扎威',
-            'status':'出战存疑',
-            'detail':'伤病管理，周五对阵骑士的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周五对阵骑士的比赛',
             'important':false
         },{
             'name':'小贾伦.杰克逊',
-            'status':'出战存疑',
-            'detail':'伤病管理，周五对阵骑士的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'伤病管理，无法出战周五对阵骑士的比赛',
             'important':true
         },{
             'name':'亚当斯',
