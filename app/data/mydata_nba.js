@@ -168,8 +168,8 @@ const nbaData = {
             'important':true
         },{
             'name':'贾巴里.史密斯',
-            'status':'出战存疑',
-            'detail':'右臀受伤，周六对阵猛龙的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周六对阵猛龙的比赛',
             'important':false
         }
     ],
@@ -177,8 +177,8 @@ const nbaData = {
     pacers:[
         {
             'name':'丹尼尔.泰斯',
-            'status':'出战存疑',
-            'detail':'伤病管理，每日观察',
+            'status':'出战',
+            'detail':'可以出战周六对阵国王的比赛',
             'important':false
         }
     ],
@@ -324,6 +324,11 @@ const nbaData = {
             'status':'出战存疑',
             'detail':'腹股沟受伤，周六对阵魔术的比赛出战存疑',
             'important':true
+        },{
+            'name':'普林斯',
+            'status':'出战存疑',
+            'detail':'腿部受伤，周六对阵魔术的比赛出战存疑',
+            'important':false
         }
     ],
     //新奥尔良鹈鹕
@@ -392,8 +397,8 @@ const nbaData = {
             'important':false
         },{
             'name':'艾萨克',
-            'status':'出战存疑',
-            'detail':'伤病管理，周六对阵森林狼的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周六对阵森林狼的比赛',
             'important':false
         }
     ],
@@ -428,6 +433,11 @@ const nbaData = {
             'status':'缺阵',
             'detail':'腿部受伤，还需要缺阵一段时间',
             'important':false
+        },{
+            'name':'卡梅伦.约翰逊',
+            'status':'缺阵',
+            'detail':'伤病管理，无法出战周六对阵凯尔特人的比赛',
+            'important':true
         }
     ],
     //波特兰开拓者
@@ -444,9 +454,14 @@ const nbaData = {
             'important':true
         },{
             'name':'格兰特',
-            'status':'出战存疑',
-            'detail':'腿部受伤，周六对阵奇才的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周六对阵奇才的比赛',
             'important':true
+        },{
+            'name':'小佩顿',
+            'status':'缺阵',
+            'detail':'伤病管理，无法出战周六对阵奇才的比赛',
+            'important':false
         }
     ],
     //萨克拉门托国王
@@ -482,8 +497,8 @@ const nbaData = {
             'important':true
         },{
             'name':'特雷.琼斯',
-            'status':'出战存疑',
-            'detail':'腿部受伤，周六对阵76人的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'腿部受伤，无法出战周六对阵76人的比赛',
             'important':true
         }
     ],
