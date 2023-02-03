@@ -83,8 +83,8 @@ const nbaData = {
             'important':false
         },{
             'name':'勒维尔',
-            'status':'出战存疑',
-            'detail':'身体不适，周五对阵灰熊的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'身体不适，无法出战周五对阵灰熊的比赛',
             'important':true
         }
     ],
@@ -371,6 +371,11 @@ const nbaData = {
             'name':'米切尔.罗宾逊',
             'status':'缺阵',
             'detail':'拇指受伤，至少恢复三周时间',
+            'important':true
+        },{
+            'name':'杰伦.布伦森',
+            'status':'缺阵',
+            'detail':'身体不适，无法出战周五对阵热火的比赛',
             'important':true
         }
     ],
