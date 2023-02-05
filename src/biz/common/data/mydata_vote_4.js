@@ -4445,6 +4445,75 @@ export const myData = [
                 homeRatio:59
             }
         ]
+    },
+
+    //02月06日
+    {
+        date: 'Mon Feb 06',
+        list: [
+            {
+                time:'Mon 02/06, 2:00 AM',
+                awayName:'magic',
+                awayLeftPoints:'+1.5',
+                awayRightPoints:'+1.5',
+                awayRatio:47,
+                homeName:'hornets',
+                homeLeftPoints:'-1.5',
+                homeRightPoints:'-1.5',
+                homeRatio:53
+            },{
+                time:'Mon 02/06, 6:00 AM',
+                awayName:'cavaliers',
+                awayLeftPoints:'-4.5',
+                awayRightPoints:'-4.5',
+                awayRatio:61,
+                homeName:'pacers',
+                homeLeftPoints:'+4.5',
+                homeRightPoints:'+4.5',
+                homeRatio:39
+            },{
+                time:'Mon 02/06, 7:00 AM',
+                awayName:'raptors',
+                awayLeftPoints:'+4.5',
+                awayRightPoints:'+4.5',
+                awayRatio:37,
+                homeName:'grizzlies',
+                homeLeftPoints:'-4.5',
+                homeRightPoints:'-4.5',
+                homeRatio:63
+            },{
+                time:'Mon 02/06, 7:00 AM',
+                awayName:'seven6ers',
+                awayLeftPoints:'-5.5',
+                awayRightPoints:'-5.5',
+                awayRatio:58,
+                homeName:'knicks',
+                homeLeftPoints:'+5.5',
+                homeRightPoints:'+5.5',
+                homeRatio:42,
+                live:true
+            },{
+                time:'Mon 02/06, 8:00 AM',
+                awayName:'nuggets',
+                awayLeftPoints:'-1.5',
+                awayRightPoints:'-1.5',
+                awayRatio:60,
+                homeName:'timberwolves',
+                homeLeftPoints:'+1.5',
+                homeRightPoints:'+1.5',
+                homeRatio:40
+            },{
+                time:'Mon 02/06, 8:00 AM',
+                awayName:'kings',
+                awayLeftPoints:'+1.5',
+                awayRightPoints:'+1.5',
+                awayRatio:45,
+                homeName:'pelicans',
+                homeLeftPoints:'-1.5',
+                homeRightPoints:'-1.5',
+                homeRatio:55
+            }
+        ]
     }
     
 ]
