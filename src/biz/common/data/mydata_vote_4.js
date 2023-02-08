@@ -4627,7 +4627,8 @@ export const myData = [
                 homeName:'nets',
                 homeLeftPoints:'+5.0',
                 homeRightPoints:'+5.0',
-                homeRatio:40
+                homeRatio:40,
+                live:true
             },{
                 time:'Wed 02/08, 8:30 AM',
                 awayName:'hawks',
@@ -4667,7 +4668,8 @@ export const myData = [
                 homeName:'lakers',
                 homeLeftPoints:'-7.0',
                 homeRightPoints:'-7.0',
-                homeRatio:55
+                homeRatio:55,
+                live:true
             }
         ]
     }
