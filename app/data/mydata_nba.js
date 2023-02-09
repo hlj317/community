@@ -35,11 +35,6 @@ const nbaData = {
     //布鲁克林篮网
     nets:[
         {
-            'name':'杜兰特',
-            'status':'长期缺阵',
-            'detail':'右膝扭伤，预计缺阵1个月时间',
-            'important':true
-        },{
             'name':'本.西蒙斯',
             'status':'出战',
             'detail':'可以出战周三对阵太阳的比赛',
@@ -68,6 +63,16 @@ const nbaData = {
             'name':'夏普',
             'status':'出战存疑',
             'detail':'腿部受伤，周五对阵公牛的比赛出战存疑',
+            'important':false
+        },{
+            'name':'杜兰特',
+            'status':'缺阵',
+            'detail':'被球队交易去了湖人',
+            'important':true
+        },{
+            'name':'TJ.沃伦',
+            'status':'缺阵',
+            'detail':'被球队交易去了湖人',
             'important':false
         }
     ],
@@ -503,7 +508,27 @@ const nbaData = {
             'status':'缺阵',
             'detail':'腿部受伤，还需要缺阵一段时间',
             'important':false
-        }
+        },{
+            'name':'布里奇斯',
+            'status':'缺阵',
+            'detail':'被球队交易去了篮网',
+            'important':true
+        },{
+            'name':'卡梅伦.约翰逊',
+            'status':'缺阵',
+            'detail':'被球队交易去了篮网',
+            'important':true
+        },{
+            'name':'杜兰特',
+            'status':'缺阵',
+            'detail':'被交易到球队，预计全明星赛后复出',
+            'important':true
+        },{
+            'name':'TJ.沃伦',
+            'status':'缺阵',
+            'detail':'刚被交易到球队，无法出战周五对阵老鹰的比赛',
+            'important':false
+        },
     ],
     //波特兰开拓者
     blazers:[
