@@ -4895,7 +4895,7 @@ export const myData = [
             },{
                 time:'Fri 02/10, 11:00 AM',
                 awayName:'bucks',
-                awayRightPoints:'-5.5',
+                awayLeftPoints:'-5.5',
                 awayRatio:68,
                 homeName:'lakers',
                 homeLeftPoints:'+5.5',
