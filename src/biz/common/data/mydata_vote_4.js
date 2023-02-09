@@ -4862,6 +4862,46 @@ export const myData = [
                 live:true
             }
         ]
+    },
+
+    //02月10日
+    {
+        date: 'Fri Feb 10',
+        list: [
+            {
+                time:'Fri 02/10, 8:00 AM',
+                awayName:'nuggets',
+                awayLeftPoints:'-6.5',
+                awayRatio:66,
+                homeName:'magic',
+                homeLeftPoints:'+6.5',
+                homeRatio:34
+            },{
+                time:'Fri 02/10, 8:30 AM',
+                awayName:'bulls',
+                awayLeftPoints:'+3.5',
+                awayRatio:60,
+                homeName:'nets',
+                homeLeftPoints:'-3.5',
+                homeRatio:40
+            },{
+                time:'Fri 02/10, 8:30 AM',
+                awayName:'suns',
+                awayLeftPoints:'+4.5',
+                awayRatio:43,
+                homeName:'hawks',
+                homeLeftPoints:'-4.5',
+                homeRatio:57
+            },{
+                time:'Fri 02/10, 11:00 AM',
+                awayName:'bucks',
+                awayRightPoints:'-5.5',
+                awayRatio:68,
+                homeName:'lakers',
+                homeLeftPoints:'+5.5',
+                homeRatio:32
+            }
+        ]
     }
     
 ]

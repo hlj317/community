@@ -51,12 +51,12 @@
         
             <tr :key="index">  
                 <td class="verse-logo"><img :src="getTeam(item.awayName).img" /><span class="verse-name">{{getTeam(item.awayName).name}}</span></td>
-                <td class="verse-trend"><span class="verse-left">{{item.awayLeftPoints}}</span><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/common/arrow.png" /><span class="verse-right">{{item.awayRightPoints}}</span></td>
+                <td class="verse-trend"><span class="verse-left">{{item.awayLeftPoints}}</span><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/common/arrow.png" /><span class="verse-right">{{item.awayLeftPoints}}</span></td>
                 <td class="verse-ratio">{{item.awayRatio}}%<span class="verse-wrapper"><span class="verse-inner" v-bind:style="{ width: item.awayRatio + '%' }"></span></span></td>
             </tr> 
             <tr :key="index">  
                 <td class="verse-logo"><img :src="getTeam(item.homeName).img" /><span class="verse-name">{{getTeam(item.homeName).name}}[主]</span></td>
-                <td class="verse-trend"><span class="verse-left">{{item.homeLeftPoints}}</span><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/common/arrow.png" /><span class="verse-right">{{item.homeRightPoints}}</span></td>
+                <td class="verse-trend"><span class="verse-left">{{item.homeLeftPoints}}</span><img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/common/arrow.png" /><span class="verse-right">{{item.homeLeftPoints}}</span></td>
                 <td class="verse-ratio">{{item.homeRatio}}%<span class="verse-wrapper"><span class="verse-inner" v-bind:style="{ width: item.homeRatio + '%' }"></span></span></td>
             </tr> 
             <tr class="empty" :key="index" v-if="index !== (lastTrIndex-1)"><td colspan="4"></td></tr> 
