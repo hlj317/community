@@ -489,11 +489,6 @@ const nbaData = {
     //菲尼克斯太阳
     suns:[
         {
-            'name':'杰.克劳德',
-            'status':'长期缺阵',
-            'detail':'与球队闹矛盾，本赛季不会出战',
-            'important':false
-        },{
             'name':'布克',
             'status':'缺阵',
             'detail':'伤病管理，无法出战周五对阵老鹰的比赛',
