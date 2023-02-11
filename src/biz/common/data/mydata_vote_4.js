@@ -5002,6 +5002,87 @@ export const myData = [
                 homeRatio:39
             }
         ]
+    },
+
+    //02月12日
+    {
+        date: 'Sun Feb 12',
+        list: [
+            {
+                time:'Sun 02/12, 7:00 AM',
+                awayName:'seven6ers',
+                awayLeftPoints:'-2.5',
+                awayRatio:61,
+                homeName:'nets',
+                homeLeftPoints:'+2.5',
+                homeRatio:39
+            },{
+                time:'Sun 02/12, 8:00 AM',
+                awayName:'heat',
+                awayLeftPoints:'-2.0',
+                awayRatio:45,
+                homeName:'magic',
+                homeLeftPoints:'+2.0',
+                homeRatio:55
+            },{
+                time:'Sun 02/12, 8:00 AM',
+                awayName:'pacers',
+                awayLeftPoints:'+5.0',
+                awayRatio:37,
+                homeName:'wizards',
+                homeLeftPoints:'-5.0',
+                homeRatio:63
+            },{
+                time:'Sun 02/12, 8:00 AM',
+                awayName:'nuggets',
+                awayLeftPoints:'-9.5',
+                awayRatio:70,
+                homeName:'hornets',
+                homeLeftPoints:'+9.5',
+                homeRatio:30
+            },{
+                time:'Sun 02/12, 8:30 AM',
+                awayName:'spurs',
+                awayLeftPoints:'+12.0',
+                awayRatio:32,
+                homeName:'hawks',
+                homeLeftPoints:'-12.0',
+                homeRatio:68
+            },{
+                time:'Sun 02/12, 8:30 AM',
+                awayName:'jazz',
+                awayLeftPoints:'+4.5',
+                awayRatio:39,
+                homeName:'knicks',
+                homeLeftPoints:'-4.5',
+                homeRatio:61
+            },{
+                time:'Sun 02/12, 9:00 AM',
+                awayName:'bulls',
+                awayLeftPoints:'+5.0',
+                awayRatio:44,
+                homeName:'cavaliers',
+                homeLeftPoints:'-5.0',
+                homeRatio:56
+            },{
+                time:'Sun 02/12, 9:30 AM',
+                awayName:'lakers',
+                awayLeftPoints:'+3.5',
+                awayRatio:40,
+                homeName:'warriors',
+                homeLeftPoints:'-3.5',
+                homeRatio:60,
+                live:true
+            },{
+                time:'Sun 02/12, 11:00 AM',
+                awayName:'mavericks',
+                awayLeftPoints:'+2.5',
+                awayRatio:58,
+                homeName:'kings',
+                homeLeftPoints:'-2.5',
+                homeRatio:42
+            }
+        ]
     }
     
 ]
