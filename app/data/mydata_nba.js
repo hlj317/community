@@ -32,18 +32,18 @@ const nbaData = {
             'important':true
         },{        
             'name':'AI霍福德',
-            'status':'缺阵',
-            'detail':'膝盖受伤，无法出战周六对阵黄蜂的比赛',
+            'status':'出战',
+            'detail':'可以出战周一对阵灰熊的比赛',
             'important':true
         },{        
             'name':'罗威',
             'status':'出战',
-            'detail':'可以出战周六对阵黄蜂的比赛',
+            'detail':'可以出战周一对阵灰熊的比赛',
             'important':true
         },{        
             'name':'塔图姆',
             'status':'出战',
-            'detail':'可以出战周六对阵黄蜂的比赛',
+            'detail':'可以出战周一对阵灰熊的比赛',
             'important':true
         }
     ],
@@ -206,7 +206,7 @@ const nbaData = {
         },{        
             'name':'诺埃尔',
             'status':'缺阵',
-            'detail':'个人原因，无法出战周六对阵马刺的比赛',
+            'detail':'个人原因，无法出战周一对阵猛龙的比赛',
             'important':false
         },{        
             'name':'萨迪克.贝',
@@ -215,8 +215,8 @@ const nbaData = {
             'important':false
         },{        
             'name':'怀斯曼',
-            'status':'缺阵',
-            'detail':'刚被交易到球队，无法出战周六对阵马刺的比赛',
+            'status':'出战存疑',
+            'detail':'刚被交易到球队，周一对阵猛龙的比赛出战存疑',
             'important':false
         }
     ],
@@ -355,8 +355,8 @@ const nbaData = {
             'important':false
         },{
             'name':'德文.里德',
-            'status':'出战存疑',
-            'detail':'刚被交易到球队，周日对阵勇士的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'刚被交易到球队，无法出战周日对阵勇士的比赛',
             'important':false
         },{
             'name':'威斯布鲁克',
@@ -748,11 +748,6 @@ const nbaData = {
             'name':'阿奴诺比',
             'status':'缺阵',
             'detail':'腿部受伤，还需要缺阵一段时间',
-            'important':true
-        },{
-            'name':'珀尔特尔',
-            'status':'出战',
-            'detail':'可以出战周六对阵爵士的比赛',
             'important':true
         }
     ],

@@ -5083,6 +5083,31 @@ export const myData = [
                 homeRatio:42
             }
         ]
+    },
+
+    //02月13日
+    {
+        date: 'Mon Feb 13',
+        list: [
+            {
+                time:'Mon 02/13, 3:00 AM',
+                awayName:'grizzlies',
+                awayLeftPoints:'+4.0',
+                awayRatio:45,
+                homeName:'celtics',
+                homeLeftPoints:'-4.0',
+                homeRatio:55,
+                live:true
+            },{
+                time:'Mon 02/13, 4:00 AM',
+                awayName:'pistons',
+                awayLeftPoints:'+9.5',
+                awayRatio:39,
+                homeName:'raptors',
+                homeLeftPoints:'-9.5',
+                homeRatio:61
+            }
+        ]
     }
     
 ]
