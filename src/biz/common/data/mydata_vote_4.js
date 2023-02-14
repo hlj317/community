@@ -5217,8 +5217,7 @@ export const myData = [
                 awayRatio:44,
                 homeName:'raptors',
                 homeLeftPoints:'-6.5',
-                homeRatio:56,
-                live:true
+                homeRatio:56
             },{
                 time:'Wed 02/15, 8:30 AM',
                 awayName:'celtics',
