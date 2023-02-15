@@ -28,17 +28,17 @@ const nbaData = {
         },{        
             'name':'AI霍福德',
             'status':'出战存疑',
-            'detail':'膝盖受伤，周三对阵雄鹿的比赛出战存疑',
+            'detail':'可以出战周四对阵活塞的比赛',
             'important':true
         },{        
             'name':'格威',
             'status':'出战',
-            'detail':'可以出战周三对阵雄鹿的比赛',
+            'detail':'可以出战周四对阵活塞的比赛',
             'important':false
         },{        
             'name':'塔图姆',
-            'status':'缺阵',
-            'detail':'身体不适，无法出战周三对阵雄鹿的比赛',
+            'status':'出战',
+            'detail':'可以出战周四对阵活塞的比赛',
             'important':true
         }
     ],
