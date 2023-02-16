@@ -89,18 +89,23 @@ const nbaData = {
             'important':false
         },{
             'name':'德罗赞',
-            'status':'出战存疑',
-            'detail':'臀部受伤，周五对阵雄鹿的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'臀部受伤，无法出战周五对阵雄鹿的比赛',
             'important':true
         },{
             'name':'德里克.琼斯',
-            'status':'出战存疑',
-            'detail':'腹股沟受伤，周五对阵雄鹿的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'腹股沟受伤，无法出战周五对阵雄鹿的比赛',
             'important':false
         },{
             'name':'德拉季奇',
-            'status':'出战存疑',
-            'detail':'膝盖受伤，周五对阵雄鹿的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'膝盖受伤，无法出战周五对阵雄鹿的比赛',
+            'important':false
+        },{
+            'name':'卡鲁索',
+            'status':'缺阵',
+            'detail':'腿部受伤，无法出战周五对阵雄鹿的比赛',
             'important':false
         }
     ],
@@ -320,6 +325,11 @@ const nbaData = {
             'status':'缺阵',
             'detail':'左小腿受伤，无法出战周五对阵公牛的比赛',
             'important':false
+        },{
+            'name':'米德尔顿',
+            'status':'缺阵',
+            'detail':'伤病管理，无法出战周五对阵公牛的比赛',
+            'important':true
         }
     ],
     //明尼苏达森林狼
