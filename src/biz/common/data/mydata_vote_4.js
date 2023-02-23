@@ -5378,6 +5378,88 @@ export const myData = [
                 live:true
             }
         ]
+    },
+
+    //02月24日
+    {
+        date: 'Fri Feb 24',
+        list: [
+            {
+                time:'Fri 02/24, 8:00 AM',
+                awayName:'nuggets',
+                awayLeftPoints:'+2.5',
+                awayRatio:42,
+                homeName:'cavaliers',
+                homeLeftPoints:'-2.5',
+                homeRatio:58
+            },{
+                time:'Fri 02/24, 8:00 AM',
+                awayName:'pistons',
+                awayLeftPoints:'+6.5',
+                awayRatio:38,
+                homeName:'magic',
+                homeLeftPoints:'-6.5',
+                homeRatio:62
+            },{
+                time:'Fri 02/24, 8:00 AM',
+                awayName:'celtics',
+                awayLeftPoints:'-8.5',
+                awayRatio:65,
+                homeName:'pacers',
+                homeLeftPoints:'+8.5',
+                homeRatio:35
+            },{
+                time:'Fri 02/24, 8:30 AM',
+                awayName:'pelicans',
+                awayLeftPoints:'+5.5',
+                awayRatio:40,
+                homeName:'raptors',
+                homeLeftPoints:'-5.5',
+                homeRatio:60
+            },{
+                time:'Fri 02/24, 8:30 AM',
+                awayName:'grizzlies',
+                awayLeftPoints:'+4.0',
+                awayRatio:43,
+                homeName:'seven6ers',
+                homeLeftPoints:'-4.0',
+                homeRatio:57,
+                live:true
+            },{
+                time:'Fri 02/24, 9:30 AM',
+                awayName:'spurs',
+                awayLeftPoints:'+13.5',
+                awayRatio:31,
+                homeName:'mavericks',
+                homeLeftPoints:'-13.5',
+                homeRatio:69
+            },{
+                time:'Fri 02/24, 10:00 AM',
+                awayName:'thunder',
+                awayLeftPoints:'+2.0',
+                awayRatio:55,
+                homeName:'jazz',
+                homeLeftPoints:'-2.0',
+                homeRatio:45
+            },{
+                time:'Fri 02/24, 11:00 AM',
+                awayName:'blazers',
+                awayLeftPoints:'+5.5',
+                awayRatio:40,
+                homeName:'kings',
+                homeLeftPoints:'-5.5',
+                homeRatio:60
+            },{
+                time:'Fri 02/24, 11:00 AM',
+                awayName:'warriors',
+                awayLeftPoints:'+5.5',
+                awayRatio:37,
+                homeName:'lakers',
+                homeLeftPoints:'-5.5',
+                homeRatio:63,
+                live:true
+            }
+        ]
     }
     
 ]
