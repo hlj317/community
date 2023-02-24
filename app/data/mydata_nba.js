@@ -131,8 +131,8 @@ const nbaData = {
             'important':false
         },{
             'name':'贾马尔.穆雷',
-            'status':'缺阵',
-            'detail':'伤病管理，无法出战周五对阵骑士的比赛',
+            'status':'出战',
+            'detail':'可以出战周五对阵骑士的比赛',
             'important':true
         },{
             'name':'阿隆.戈登',
@@ -407,6 +407,16 @@ const nbaData = {
             'status':'缺阵',
             'detail':'脚踝受伤，归期未定',
             'important':true
+        },{
+            'name':'利拉德',
+            'status':'缺阵',
+            'detail':'轮休，无法出战周五对阵国王的比赛',
+            'important':true
+        },{
+            'name':'格兰特',
+            'status':'缺阵',
+            'detail':'轮休，无法出战周五对阵国王的比赛',
+            'important':true
         }
     ],
     //萨克拉门托国王
@@ -461,13 +471,13 @@ const nbaData = {
             'important':false
         },{
             'name':'阿奴诺比',
-            'status':'缺阵',
-            'detail':'腿部受伤，还需要缺阵一段时间',
+            'status':'出战',
+            'detail':'可以出战周五对阵鹈鹕的比赛',
             'important':true
         },{
             'name':'泰迪斯.杨',
-            'status':'出战存疑',
-            'detail':'膝盖受伤，周五对阵鹈鹕的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周五对阵鹈鹕的比赛',
             'important':false
         }
     ],
@@ -493,9 +503,9 @@ const nbaData = {
     //华盛顿奇才
     wizards:[
         {
-            'name':'库兹马',
-            'status':'出战',
-            'detail':'可以出战周五对阵森林狼的比赛',
+            'name':'比尔',
+            'status':'出战存疑',
+            'detail':'腹股沟受伤，每日观察',
             'important':true
         }
     ]   
