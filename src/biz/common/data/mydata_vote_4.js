@@ -5489,7 +5489,8 @@ export const myData = [
                 awayRatio:39,
                 homeName:'bucks',
                 homeLeftPoints:'-2.0',
-                homeRatio:61
+                homeRatio:61,
+                live:true
             },{
                 time:'Sat 02/25, 9:00 AM',
                 awayName:'nets',
@@ -5505,8 +5506,7 @@ export const myData = [
                 awayRatio:37,
                 homeName:'timberwolves',
                 homeLeftPoints:'-7.5',
-                homeRatio:63,
-                live:true
+                homeRatio:63
             },{
                 time:'Sat 02/25, 11:00 AM',
                 awayName:'rockets',
@@ -5522,7 +5522,8 @@ export const myData = [
                 awayRatio:45,
                 homeName:'suns',
                 homeLeftPoints:'-8.0',
-                homeRatio:55
+                homeRatio:55,
+                live:true
             },{
                 time:'Sat 02/25, 11:30 AM',
                 awayName:'kings',
