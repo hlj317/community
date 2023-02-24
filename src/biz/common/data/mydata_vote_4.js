@@ -5460,6 +5460,79 @@ export const myData = [
                 live:true
             }
         ]
+    },
+
+    //02月25日
+    {
+        date: 'Sat Feb 25',
+        list: [
+            {
+                time:'Sat 02/25, 8:00 AM',
+                awayName:'knicks',
+                awayLeftPoints:'+2.0',
+                awayRatio:57,
+                homeName:'wizards',
+                homeLeftPoints:'-2.0',
+                homeRatio:43
+            },{
+                time:'Sat 02/25, 8:30 AM',
+                awayName:'cavaliers',
+                awayLeftPoints:'+1.0',
+                awayRatio:45,
+                homeName:'hawks',
+                homeLeftPoints:'-1.0',
+                homeRatio:55
+            },{
+                time:'Sat 02/25, 8:30 AM',
+                awayName:'heat',
+                awayLeftPoints:'+2.0',
+                awayRatio:39,
+                homeName:'bucks',
+                homeLeftPoints:'-2.0',
+                homeRatio:61
+            },{
+                time:'Sat 02/25, 9:00 AM',
+                awayName:'nets',
+                awayLeftPoints:'+5.5',
+                awayRatio:56,
+                homeName:'bulls',
+                homeLeftPoints:'-5.5',
+                homeRatio:44
+            },{
+                time:'Sat 02/25, 9:00 AM',
+                awayName:'hornets',
+                awayLeftPoints:'+7.5',
+                awayRatio:37,
+                homeName:'timberwolves',
+                homeLeftPoints:'-7.5',
+                homeRatio:63,
+                live:true
+            },{
+                time:'Sat 02/25, 11:00 AM',
+                awayName:'rockets',
+                awayLeftPoints:'+9.5',
+                awayRatio:32,
+                homeName:'warriors',
+                homeLeftPoints:'-9.5',
+                homeRatio:68
+            },{
+                time:'Sat 02/25, 11:00 AM',
+                awayName:'thunder',
+                awayLeftPoints:'+8.0',
+                awayRatio:45,
+                homeName:'suns',
+                homeLeftPoints:'-8.0',
+                homeRatio:55
+            },{
+                time:'Sat 02/25, 11:30 AM',
+                awayName:'kings',
+                awayLeftPoints:'+6.5',
+                awayRatio:41,
+                homeName:'clippers',
+                homeLeftPoints:'-6.5',
+                homeRatio:59
+            }
+        ]
     }
     
 ]
