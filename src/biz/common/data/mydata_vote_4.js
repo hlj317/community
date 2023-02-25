@@ -5522,8 +5522,7 @@ export const myData = [
                 awayRatio:45,
                 homeName:'suns',
                 homeLeftPoints:'-8.0',
-                homeRatio:55,
-                live:true
+                homeRatio:55
             },{
                 time:'Sat 02/25, 11:30 AM',
                 awayName:'kings',
@@ -5532,6 +5531,71 @@ export const myData = [
                 homeName:'clippers',
                 homeLeftPoints:'-6.5',
                 homeRatio:59
+            }
+        ]
+    },
+
+    //02月26日
+    {
+        date: 'Sun Feb 26',
+        list: [
+            {
+                time:'Sun 02/26, 8:00 AM',
+                awayName:'raptors',
+                awayLeftPoints:'-6.5',
+                awayRatio:61,
+                homeName:'pistons',
+                homeLeftPoints:'+6.5',
+                homeRatio:39
+            },{
+                time:'Sun 02/26, 8:00 AM',
+                awayName:'heat',
+                awayLeftPoints:'-4.5',
+                awayRatio:66,
+                homeName:'hornets',
+                homeLeftPoints:'+4.5',
+                homeRatio:34
+            },{
+                time:'Sun 02/26, 8:00 AM',
+                awayName:'pacers',
+                awayLeftPoints:'+3.0',
+                awayRatio:37,
+                homeName:'magic',
+                homeLeftPoints:'-3.0',
+                homeRatio:63
+            },{
+                time:'Sun 02/26, 8:00 AM',
+                awayName:'pelicans',
+                awayLeftPoints:'+3.0',
+                awayRatio:39,
+                homeName:'knicks',
+                homeLeftPoints:'-3.0',
+                homeRatio:61
+            },{
+                time:'Sun 02/26, 8:00 AM',
+                awayName:'nuggets',
+                awayLeftPoints:'+2.5',
+                awayRatio:48,
+                homeName:'grizzlies',
+                homeLeftPoints:'-2.5',
+                homeRatio:52
+            },{
+                time:'Sun 02/26, 8:00 AM',
+                awayName:'celtics',
+                awayLeftPoints:'+1.5',
+                awayRatio:57,
+                homeName:'seven6ers',
+                homeLeftPoints:'-1.5',
+                homeRatio:43,
+                live:true
+            },{
+                time:'Sun 02/26, 8:00 AM',
+                awayName:'spurs',
+                awayLeftPoints:'+10.0',
+                awayRatio:32,
+                homeName:'jazz',
+                homeLeftPoints:'-10.0',
+                homeRatio:68
             }
         ]
     }
