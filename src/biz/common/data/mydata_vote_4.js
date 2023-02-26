@@ -5605,7 +5605,7 @@ export const myData = [
         date: 'Mon Feb 27',
         list: [
             {
-                time:'Sun 02/26, 8:00 AM',
+                time:'Sun 02/26, 2:00 AM',
                 awayName:'suns',
                 awayLeftPoints:'+3.5',
                 awayRatio:35,
@@ -5614,7 +5614,7 @@ export const myData = [
                 homeRatio:65,
                 live:true
             },{
-                time:'Sun 02/26, 8:00 AM',
+                time:'Sun 02/26, 4:00 AM',
                 awayName:'nets',
                 awayLeftPoints:'+5.5',
                 awayRatio:37,
@@ -5622,7 +5622,7 @@ export const myData = [
                 homeLeftPoints:'-5.5',
                 homeRatio:63
             },{
-                time:'Sun 02/26, 8:00 AM',
+                time:'Sun 02/26, 4:30 AM',
                 awayName:'wizards',
                 awayLeftPoints:'+4.0',
                 awayRatio:41,
@@ -5630,7 +5630,7 @@ export const myData = [
                 homeLeftPoints:'-4.0',
                 homeRatio:59
             },{
-                time:'Sun 02/26, 8:00 AM',
+                time:'Sun 02/26, 4:30 AM',
                 awayName:'lakers',
                 awayLeftPoints:'+4.0',
                 awayRatio:47,
@@ -5639,7 +5639,7 @@ export const myData = [
                 homeRatio:53,
                 live:true
             },{
-                time:'Sun 02/26, 8:00 AM',
+                time:'Sun 02/26, 7:00 AM',
                 awayName:'raptors',
                 awayLeftPoints:'+6.5',
                 awayRatio:45,
@@ -5655,7 +5655,7 @@ export const myData = [
                 homeLeftPoints:'-4.0',
                 homeRatio:38
             },{
-                time:'Sun 02/26, 8:00 AM',
+                time:'Sun 02/26, 8:30 AM',
                 awayName:'timberwolves',
                 awayLeftPoints:'+3.0',
                 awayRatio:42,
@@ -5664,7 +5664,7 @@ export const myData = [
                 homeRatio:58,
                 live:true
             },{
-                time:'Sun 02/26, 8:00 AM',
+                time:'Sun 02/26, 10:00 AM',
                 awayName:'rockets',
                 awayLeftPoints:'+9.5',
                 awayRatio:33,
@@ -5672,7 +5672,7 @@ export const myData = [
                 homeLeftPoints:'-9.5',
                 homeRatio:67
             },{
-                time:'Sun 02/26, 8:00 AM',
+                time:'Sun 02/26, 11:00 AM',
                 awayName:'clippers',
                 awayLeftPoints:'+4.5',
                 awayRatio:40,
