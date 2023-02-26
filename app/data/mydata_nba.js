@@ -4,7 +4,7 @@ const nbaData = {
         {
             'name':'科林斯',
             'status':'缺阵',
-            'detail':'身体不适，无法出战周六对阵骑士的比赛',
+            'detail':'背部受伤，周一对阵篮网的比赛出战存疑',
             'important':true
         }
     ],
@@ -22,7 +22,7 @@ const nbaData = {
         {
             'name':'本.西蒙斯',
             'status':'缺阵',
-            'detail':'膝盖受伤，无法出战周六对阵公牛的比赛',
+            'detail':'膝盖受伤，还需要缺阵一段时间',
             'important':true
         }
     ],
@@ -50,7 +50,7 @@ const nbaData = {
         },{
             'name':'德拉季奇',
             'status':'缺阵',
-            'detail':'伤病管理，无法出战周六对阵篮网的比赛',
+            'detail':'伤病管理，还需要缺阵一段时间',
             'important':false
         }
     ],
@@ -142,6 +142,11 @@ const nbaData = {
             'status':'缺阵',
             'detail':'个人原因，归期未定',
             'important':true
+        },{        
+            'name':'德拉蒙德.格林',
+            'status':'出战存疑',
+            'detail':'膝盖受伤，周一对阵森林狼的比赛出战存疑',
+            'important':true
         }
     ],
     //休斯顿火箭
@@ -177,7 +182,7 @@ const nbaData = {
         },{
             'name':'祖巴茨',
             'status':'缺阵',
-            'detail':'小腿受伤，无法出战周六对阵国王的比赛',
+            'detail':'小腿受伤，无法出战周一对阵掘金的比赛',
             'important':false
         }
     ],
@@ -186,7 +191,7 @@ const nbaData = {
         {
             'name':'拉塞尔',
             'status':'出战存疑',
-            'detail':'脚踝受伤，每日观察',
+            'detail':'脚踝受伤，周一对阵独行侠的比赛出战存疑',
             'important':true
         }
     ],
@@ -231,14 +236,9 @@ const nbaData = {
             'detail':'右膝受伤，至少缺阵两周时间',
             'important':true
         },{
-            'name':'康文顿',
-            'status':'出战存疑',
-            'detail':'小腿受伤，周六对阵热火的比赛出战存疑',
-            'important':false
-        },{
             'name':'字母哥',
-            'status':'大概率出战',
-            'detail':'手腕受伤，大概率可以出战周六对阵热火的比赛',
+            'status':'出战存疑',
+            'detail':'膝盖受伤，周一对阵太阳的比赛出战存疑',
             'important':true
         }
     ],
@@ -251,8 +251,13 @@ const nbaData = {
             'important':true
         },{
             'name':'普林斯',
-            'status':'缺阵',
-            'detail':'个人原因，无法出战周六对阵黄蜂的比赛',
+            'status':'出战存疑',
+            'detail':'个人原因，周一对阵勇士的比赛出战存疑',
+            'important':false
+        },{
+            'name':'诺埃尔',
+            'status':'出战存疑',
+            'detail':'左膝受伤，周一对阵勇士的比赛出战存疑',
             'important':false
         }
     ],
@@ -299,7 +304,7 @@ const nbaData = {
         },{
             'name':'亚历山大',
             'status':'缺阵',
-            'detail':'右脚踝受伤，无法出战周六对阵太阳的比赛',
+            'detail':'右脚踝受伤，无法出战周一对阵国王的比赛',
             'important':true
         }
     ],
@@ -308,7 +313,7 @@ const nbaData = {
         {
             'name':'艾萨克',
             'status':'出战存疑',
-            'detail':'伤病管理，周日对阵步行者的比赛出战存疑',
+            'detail':'伤病管理，每日观察',
             'important':false
         }
     ],
@@ -351,16 +356,6 @@ const nbaData = {
             'name':'安芬尼.西蒙斯',
             'status':'缺阵',
             'detail':'脚踝受伤，归期未定',
-            'important':true
-        },{
-            'name':'利拉德',
-            'status':'出战存疑',
-            'detail':'身体不适，每日观察',
-            'important':true
-        },{
-            'name':'格兰特',
-            'status':'出战存疑',
-            'detail':'身体不适，每日观察',
             'important':true
         }
     ],
@@ -433,24 +428,14 @@ const nbaData = {
             'status':'缺阵',
             'detail':'腿筋拉伤，预计会缺阵一段时间',
             'important':true
-        },{
-            'name':'鲁迪.盖伊',
-            'status':'出战存疑',
-            'detail':'鼻子受伤，周日对阵马刺的比赛出战存疑',
-            'important':false
-        },{
-            'name':'奥利尼克',
-            'status':'出战存疑',
-            'detail':'右脚踝受伤，周日对阵马刺的比赛出战存疑',
-            'important':false
-        }                       
+        }                      
     ],
     //华盛顿奇才
     wizards:[
         {
-            'name':'比尔',
-            'status':'出战',
-            'detail':'可以出战周六对阵尼克斯的比赛',
+            'name':'波尔津吉斯',
+            'status':'缺阵',
+            'detail':'腿部受伤，无法出战周一对阵公牛的比赛',
             'important':true
         }
     ]   
