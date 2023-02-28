@@ -29,6 +29,11 @@ const nbaData = {
             'status':'缺阵',
             'detail':'膝盖受伤，还需要缺阵一段时间',
             'important':true
+        },        {
+            'name':'萨姆纳',
+            'status':'缺阵',
+            'detail':'个人原因，无法出战周三对阵雄鹿的比赛',
+            'important':false
         }
     ],
     //夏洛特黄蜂
@@ -60,7 +65,7 @@ const nbaData = {
         },{
             'name':'德拉季奇',
             'status':'缺阵',
-            'detail':'伤病管理，还需要缺阵一段时间',
+            'detail':'已被公牛裁掉',
             'important':false
         }
     ],
@@ -101,8 +106,8 @@ const nbaData = {
             'important':false
         },{
             'name':'阿隆.戈登',
-            'status':'出战存疑',
-            'detail':'伤病管理，周三对阵火箭的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周三对阵火箭的比赛',
             'important':true
         },{
             'name':'贾马尔.穆雷',
@@ -210,8 +215,8 @@ const nbaData = {
     lakers:[
         {
             'name':'安东尼.戴维斯',
-            'status':'出战存疑',
-            'detail':'伤病管理，周三对阵灰熊的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周三对阵灰熊的比赛',
             'important':true
         },{
             'name':'拉塞尔',
@@ -459,8 +464,8 @@ const nbaData = {
     wizards:[
         {
             'name':'波尔津吉斯',
-            'status':'出战存疑',
-            'detail':'膝盖受伤，周三对阵老鹰的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'膝盖受伤，无法出战周三对阵老鹰的比赛',
             'important':true
         },{
             'name':'蒙特.莫里斯',
