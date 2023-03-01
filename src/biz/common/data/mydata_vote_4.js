@@ -5812,6 +5812,88 @@ export const myData = [
                 live:true
             }
         ]
+    },
+
+    //03月2日
+    {
+        date: 'Thu Mar 02',
+        list: [
+            {
+                time:'Thu 03/02, 8:00 AM',
+                awayName:'suns',
+                awayLeftPoints:'-10.0',
+                awayRatio:67,
+                homeName:'hornets',
+                homeLeftPoints:'+10.0',
+                homeRatio:33
+            },{
+                time:'Thu 03/02, 8:00 AM',
+                awayName:'bulls',
+                awayLeftPoints:'-5.5',
+                awayRatio:59,
+                homeName:'pistons',
+                homeLeftPoints:'+5.5',
+                homeRatio:41
+            },{
+                time:'Thu 03/02, 8:00 AM',
+                awayName:'cavaliers',
+                awayLeftPoints:'+6.5',
+                awayRatio:43,
+                homeName:'celtics',
+                homeLeftPoints:'-6.5',
+                homeRatio:57,
+                live:true
+            },{
+                time:'Thu 03/02, 8:00 AM',
+                awayName:'seven6ers',
+                awayLeftPoints:'+1.0',
+                awayRatio:55,
+                homeName:'heat',
+                homeLeftPoints:'-1.0',
+                homeRatio:45
+            },{
+                time:'Thu 03/02, 8:00 AM',
+                awayName:'nets',
+                awayLeftPoints:'+7.0',
+                awayRatio:34,
+                homeName:'knicks',
+                homeLeftPoints:'-7.0',
+                homeRatio:66
+            },{
+                time:'Thu 03/02, 8:00 AM',
+                awayName:'lakers',
+                awayLeftPoints:'+1.5',
+                awayRatio:58,
+                homeName:'thunder',
+                homeLeftPoints:'-1.5',
+                homeRatio:42
+            },{
+                time:'Thu 03/02, 8:00 AM',
+                awayName:'grizzlies',
+                awayLeftPoints:'-9.5',
+                awayRatio:65,
+                homeName:'rockets',
+                homeLeftPoints:'+9.5',
+                homeRatio:35
+            },{
+                time:'Thu 03/02, 8:00 AM',
+                awayName:'magic',
+                awayLeftPoints:'+9.5',
+                awayRatio:33,
+                homeName:'bucks',
+                homeLeftPoints:'-9.5',
+                homeRatio:67
+            },{
+                time:'Thu 03/02, 8:00 AM',
+                awayName:'pelicans',
+                awayLeftPoints:'+2.0',
+                awayRatio:39,
+                homeName:'blazers',
+                homeLeftPoints:'-2.0',
+                homeRatio:61,
+                live:true
+            }
+        ]
     }
     
 ]
