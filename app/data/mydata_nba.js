@@ -398,8 +398,8 @@ const nbaData = {
     kings:[
         {
             'name':'福克斯',
-            'status':'出战存疑',
-            'detail':'左手腕受伤，周三对阵雷霆的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'左手腕受伤，无法出战周三对阵雷霆的比赛',
             'important':true
         }
     ],
