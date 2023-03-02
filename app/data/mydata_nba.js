@@ -194,6 +194,16 @@ const nbaData = {
             'status':'出战存疑',
             'detail':'腿部受伤，每日观察',
             'important':false
+        },{
+            'name':'祖巴茨',
+            'status':'出战存疑',
+            'detail':'腿部受伤，周五对阵勇士的比赛出战存疑',
+            'important':false
+        },{
+            'name':'马库斯.莫里斯',
+            'status':'出战存疑',
+            'detail':'身体不适，周五对阵勇士的比赛出战存疑',
+            'important':false
         }
     ],
     //洛杉矶湖人
@@ -228,8 +238,8 @@ const nbaData = {
     heat:[
         {
             'name':'尤尔特塞文',
-            'status':'出战',
-            'detail':'可以出战周四对阵76人的比赛',
+            'status':'长期缺阵',
+            'detail':'腿部受伤，归期未定',
             'important':false
         },{
             'name':'约维奇',
@@ -356,8 +366,8 @@ const nbaData = {
             'important':false
         },{        
             'name':'恩比德',
-            'status':'出战存疑',
-            'detail':'腿部受伤，周五对阵独行侠的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周五对阵独行侠的比赛',
             'important':true
         }
     ],
@@ -427,13 +437,13 @@ const nbaData = {
             'important':false
         },{
             'name':'特雷.琼斯',
-            'status':'出战存疑',
-            'detail':'腿部受伤，周五对阵步行者的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周五对阵步行者的比赛',
             'important':true
         },{
             'name':'凯尔登.约翰逊',
-            'status':'出战存疑',
-            'detail':'左腿受伤，周五对阵步行者的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'左腿受伤，无法出战周五对阵步行者的比赛',
             'important':true
         }
     ],
