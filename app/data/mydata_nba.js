@@ -167,11 +167,6 @@ const nbaData = {
     //休斯顿火箭
     rockets:[
         {
-            'name':'小凯文.波特',
-            'status':'缺阵',
-            'detail':'腿部受伤，至少再缺阵一周时间',
-            'important':true
-        },{
             'name':'泰特',
             'status':'缺阵',
             'detail':'腿部受伤，还需要缺阵一段时间',
@@ -185,6 +180,11 @@ const nbaData = {
             'status':'缺阵',
             'detail':'右腿受伤，归期未定',
             'important':false
+        },{
+            'name':'哈利伯顿',
+            'status':'出战存疑',
+            'detail':'小腿受伤，周五对阵马刺的比赛出战存疑',
+            'important':true
         }
     ],
     //洛杉矶快船
@@ -295,14 +295,9 @@ const nbaData = {
             'important':false
         },{
             'name':'瓦兰丘纳斯',
-            'status':'出战存疑',
-            'detail':'身体不适，周四对阵开拓者的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'身体不适，无法出战周四对阵开拓者的比赛',
             'important':true
-        },{
-            'name':'约什.理查德森',
-            'status':'出战存疑',
-            'detail':'身体不适，周四对阵开拓者的比赛出战存疑',
-            'important':false
         },{
             'name':'阿尔瓦拉多',
             'status':'缺阵',
@@ -359,6 +354,11 @@ const nbaData = {
             'status':'缺阵',
             'detail':'臀部受伤，还需要缺阵一段时间',
             'important':false
+        },{        
+            'name':'恩比德',
+            'status':'出战存疑',
+            'detail':'腿部受伤，周五对阵独行侠的比赛出战存疑',
+            'important':true
         }
     ],
     //菲尼克斯太阳
@@ -389,8 +389,8 @@ const nbaData = {
             'important':true
         },{
             'name':'安芬尼.西蒙斯',
-            'status':'缺阵',
-            'detail':'脚踝受伤，归期未定',
+            'status':'出战',
+            'detail':'可以出战周四对阵鹈鹕的比赛',
             'important':true
         }
     ],
@@ -428,7 +428,12 @@ const nbaData = {
         },{
             'name':'特雷.琼斯',
             'status':'出战存疑',
-            'detail':'腿部受伤，周三对阵爵士的比赛出战存疑',
+            'detail':'腿部受伤，周五对阵步行者的比赛出战存疑',
+            'important':true
+        },{
+            'name':'凯尔登.约翰逊',
+            'status':'出战存疑',
+            'detail':'左腿受伤，周五对阵步行者的比赛出战存疑',
             'important':true
         }
     ],
@@ -458,15 +463,10 @@ const nbaData = {
     //华盛顿奇才
     wizards:[
         {
-            'name':'波尔津吉斯',
-            'status':'出战存疑',
-            'detail':'膝盖受伤，每日观察',
-            'important':true
-        },{
             'name':'蒙特.莫里斯',
-            'status':'出战存疑',
-            'detail':'背部受伤，每日观察',
-            'important':true
+            'status':'缺阵',
+            'detail':'背部受伤，预计会缺阵1-2周时间',
+            'important':false
         }
     ]   
 }
