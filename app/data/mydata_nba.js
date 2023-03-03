@@ -187,13 +187,23 @@ const nbaData = {
         },{
             'name':'祖巴茨',
             'status':'出战存疑',
-            'detail':'腿部受伤，周五对阵勇士的比赛出战存疑',
+            'detail':'腿部受伤，周六对阵国王的比赛出战存疑',
             'important':false
         },{
             'name':'马库斯.莫里斯',
-            'status':'出战存疑',
-            'detail':'身体不适，周五对阵勇士的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'腿部受伤，无法出战周六对阵国王的比赛',
             'important':false
+        },{
+            'name':'鲍威尔',
+            'status':'缺阵',
+            'detail':'伤病管理，无法出战周六对阵国王的比赛',
+            'important':true
+        },{
+            'name':'伦纳德',
+            'status':'缺阵',
+            'detail':'伤病管理，无法出战周六对阵国王的比赛',
+            'important':true
         }
     ],
     //洛杉矶湖人
@@ -211,7 +221,7 @@ const nbaData = {
         },{
             'name':'詹姆斯',
             'status':'缺阵',
-            'detail':'脚踝受伤，需要缺阵较长一段时间',
+            'detail':'脚踝受伤，至少需要缺阵三周时间',
             'important':true
         }
     ],
@@ -303,6 +313,11 @@ const nbaData = {
             'status':'缺阵',
             'detail':'腿部受伤，至少缺阵三周时间',
             'important':false
+        },{
+            'name':'约什.理查德森',
+            'status':'缺阵',
+            'detail':'个人原因，无法出战周六对阵勇士的比赛',
+            'important':false
         }
     ],
     //纽约尼克斯
@@ -389,8 +404,8 @@ const nbaData = {
             'important':true
         },{
             'name':'安芬尼.西蒙斯',
-            'status':'出战存疑',
-            'detail':'脚踝受伤，周六对阵老鹰的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'脚踝受伤，无法出战周六对阵老鹰的比赛',
             'important':true
         }
     ],
