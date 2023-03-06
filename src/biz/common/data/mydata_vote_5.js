@@ -361,6 +361,62 @@ export const myData = [
                 live:true
             }
         ]
+    },
+
+    //03月7日
+    {
+        date: 'Tue Mar 07',
+        list: [
+            {
+                time:'Tue 03/07, 8:00 AM',
+                awayName:'seven6ers',
+                awayLeftPoints:'-7.0',
+                awayRatio:69,
+                homeName:'pacers',
+                homeLeftPoints:'-7.0',
+                homeRatio:31
+            },{
+                time:'Tue 03/07, 8:00 AM',
+                awayName:'celtics',
+                awayLeftPoints:'+4.0',
+                awayRatio:55,
+                homeName:'cavaliers',
+                homeLeftPoints:'-4.0',
+                homeRatio:45
+            },{
+                time:'Tue 03/07, 8:00 AM',
+                awayName:'blazers',
+                awayLeftPoints:'-5.5',
+                awayRatio:70,
+                homeName:'pistons',
+                homeLeftPoints:'+5.5',
+                homeRatio:30
+            },{
+                time:'Tue 03/07, 8:30 AM',
+                awayName:'hawks',
+                awayLeftPoints:'+3.0',
+                awayRatio:44,
+                homeName:'heat',
+                homeLeftPoints:'-3.0',
+                homeRatio:56
+            },{
+                time:'Tue 03/07, 10:00 AM',
+                awayName:'raptors',
+                awayLeftPoints:'+7.0',
+                awayRatio:35,
+                homeName:'nuggets',
+                homeLeftPoints:'-7.0',
+                homeRatio:65
+            },{
+                time:'Tue 03/07, 11:00 AM',
+                awayName:'pelicans',
+                awayLeftPoints:'+6.0',
+                awayRatio:39,
+                homeName:'kings',
+                homeLeftPoints:'-6.0',
+                homeRatio:61
+            }
+        ]
     }
     
 ]
