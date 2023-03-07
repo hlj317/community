@@ -417,6 +417,79 @@ export const myData = [
                 homeRatio:61
             }
         ]
+    },
+
+
+    //03月8日
+    {
+        date: 'Wed Mar 08',
+        list: [
+            {
+                time:'Wed 03/08, 8:00 AM',
+                awayName:'wizards',
+                awayLeftPoints:'-7.0',
+                awayRatio:66,
+                homeName:'pistons',
+                homeLeftPoints:'-7.0',
+                homeRatio:34
+            },{
+                time:'Wed 03/08, 8:00 AM',
+                awayName:'bucks',
+                awayLeftPoints:'-7.0',
+                awayRatio:70,
+                homeName:'magic',
+                homeLeftPoints:'-7.0',
+                homeRatio:30
+            },{
+                time:'Wed 03/08, 8:30 AM',
+                awayName:'hornets',
+                awayLeftPoints:'+9.5',
+                awayRatio:32,
+                homeName:'knicks',
+                homeLeftPoints:'-9.5',
+                homeRatio:68
+            },{
+                time:'Wed 03/08, 8:30 AM',
+                awayName:'seven6ers',
+                awayLeftPoints:'-2.5',
+                awayRatio:56,
+                homeName:'timberwolves',
+                homeLeftPoints:'+2.5',
+                homeRatio:44
+            },{
+                time:'Wed 03/08, 9:00 AM',
+                awayName:'warriors',
+                awayLeftPoints:'-4.5',
+                awayRatio:60,
+                homeName:'thunder',
+                homeLeftPoints:'+4.5',
+                homeRatio:40
+            },{
+                time:'Wed 03/08, 9:00 AM',
+                awayName:'nets',
+                awayLeftPoints:'-7.0',
+                awayRatio:65,
+                homeName:'rockets',
+                homeLeftPoints:'+7.0',
+                homeRatio:35
+            },{
+                time:'Wed 03/08, 9:30 AM',
+                awayName:'jazz',
+                awayLeftPoints:'+6.0',
+                awayRatio:43,
+                homeName:'mavericks',
+                homeLeftPoints:'-6.0',
+                homeRatio:57
+            },{
+                time:'Wed 03/08, 11:00 AM',
+                awayName:'grizzlies',
+                awayLeftPoints:'+1.5',
+                awayRatio:45,
+                homeName:'lakers',
+                homeLeftPoints:'-1.5',
+                homeRatio:55
+            }
+        ]
     }
     
 ]
