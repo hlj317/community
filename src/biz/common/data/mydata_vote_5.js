@@ -455,7 +455,8 @@ export const myData = [
                 awayRatio:56,
                 homeName:'timberwolves',
                 homeLeftPoints:'+2.5',
-                homeRatio:44
+                homeRatio:44,
+                live:true
             },{
                 time:'Wed 03/08, 9:00 AM',
                 awayName:'warriors',
@@ -487,7 +488,74 @@ export const myData = [
                 awayRatio:45,
                 homeName:'lakers',
                 homeLeftPoints:'-1.5',
-                homeRatio:55
+                homeRatio:55,
+                live:true
+            }
+        ]
+    },
+
+    //03月9日
+    {
+        date: 'Thu Mar 09',
+        list: [
+            {
+                time:'Thu 03/09, 8:00 AM',
+                awayName:'hawks',
+                awayLeftPoints:'+1.5',
+                awayRatio:46,
+                homeName:'wizards',
+                homeLeftPoints:'-1.5',
+                homeRatio:54
+            },{
+                time:'Thu 03/09, 8:30 AM',
+                awayName:'blazers',
+                awayLeftPoints:'+8.0',
+                awayRatio:35,
+                homeName:'celtics',
+                homeLeftPoints:'-8.0',
+                homeRatio:65
+            },{
+                time:'Thu 03/09, 8:30 AM',
+                awayName:'mavericks',
+                awayLeftPoints:'-3.0',
+                awayRatio:58,
+                homeName:'pelicans',
+                homeLeftPoints:'+3.0',
+                homeRatio:42,
+                live:true
+            },{
+                time:'Thu 03/09, 8:30 AM',
+                awayName:'cavaliers',
+                awayLeftPoints:'-1.5',
+                awayRatio:48,
+                homeName:'heat',
+                homeLeftPoints:'+1.5',
+                homeRatio:52
+            },{
+                time:'Thu 03/09, 10:00 AM',
+                awayName:'thunder',
+                awayLeftPoints:'+12.5',
+                awayRatio:39,
+                homeName:'suns',
+                homeLeftPoints:'-12.5',
+                homeRatio:61
+            },{
+                time:'Thu 03/09, 10:00 AM',
+                awayName:'bulls',
+                awayLeftPoints:'+8.0',
+                awayRatio:37,
+                homeName:'nuggets',
+                homeLeftPoints:'-8.0',
+                homeRatio:63
+            },{
+                time:'Thu 03/09, 11:00 AM',
+                awayName:'raptors',
+                awayLeftPoints:'+3.5',
+                awayRatio:45,
+                homeName:'clippers',
+                homeLeftPoints:'+3.5',
+                homeRatio:55,
+                live:true
             }
         ]
     }
