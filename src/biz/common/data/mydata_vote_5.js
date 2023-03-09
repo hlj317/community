@@ -558,6 +558,62 @@ export const myData = [
                 live:true
             }
         ]
+    },
+
+    //03月10日
+    {
+        date: 'Fri Mar 10',
+        list: [
+            {
+                time:'Fri 03/10, 8:00 AM',
+                awayName:'jazz',
+                awayLeftPoints:'+3.0',
+                awayRatio:45,
+                homeName:'magic',
+                homeLeftPoints:'-3.0',
+                homeRatio:55
+            },{
+                time:'Fri 03/10, 8:00 AM',
+                awayName:'hornets',
+                awayLeftPoints:'-3.0',
+                awayRatio:61,
+                homeName:'pistons',
+                homeLeftPoints:'+3.0',
+                homeRatio:39
+            },{
+                time:'Fri 03/10, 8:00 AM',
+                awayName:'rockets',
+                awayLeftPoints:'+9.5',
+                awayRatio:33,
+                homeName:'pacers',
+                homeLeftPoints:'-9.5',
+                homeRatio:67
+            },{
+                time:'Fri 03/10, 8:30 AM',
+                awayName:'warriors',
+                awayLeftPoints:'-1.5',
+                awayRatio:46,
+                homeName:'grizzlies',
+                homeLeftPoints:'+1.5',
+                homeRatio:54
+            },{
+                time:'Fri 03/10, 9:00 AM',
+                awayName:'nets',
+                awayLeftPoints:'+12.5',
+                awayRatio:31,
+                homeName:'bucks',
+                homeLeftPoints:'-12.5',
+                homeRatio:69
+            },{
+                time:'Fri 03/10, 11:00 AM',
+                awayName:'knicks',
+                awayLeftPoints:'+4.5',
+                awayRatio:42,
+                homeName:'kings',
+                homeLeftPoints:'-4.5',
+                homeRatio:58
+            }
+        ]
     }
     
 ]
