@@ -595,7 +595,8 @@ export const myData = [
                 awayRatio:46,
                 homeName:'grizzlies',
                 homeLeftPoints:'+1.5',
-                homeRatio:54
+                homeRatio:54,
+                live:true
             },{
                 time:'Fri 03/10, 9:00 AM',
                 awayName:'nets',
@@ -611,7 +612,8 @@ export const myData = [
                 awayRatio:42,
                 homeName:'kings',
                 homeLeftPoints:'-4.5',
-                homeRatio:58
+                homeRatio:58,
+                live:true
             }
         ]
     }
