@@ -818,6 +818,72 @@ export const myData = [
                 live:true
             }
         ]
+    },
+
+    //03月14日
+    {
+        date: 'Tue Mar 14',
+        list: [
+            {
+                time:'Tue 03/14, 7:00 AM',
+                awayName:'pacers',
+                awayLeftPoints:'-3.5',
+                awayRatio:65,
+                homeName:'pistons',
+                homeLeftPoints:'+3.5',
+                homeRatio:35
+            },{
+                time:'Tue 03/14, 7:30 AM',
+                awayName:'timberwolves',
+                awayLeftPoints:'+5.0',
+                awayRatio:44,
+                homeName:'hawks',
+                homeLeftPoints:'-5.0',
+                homeRatio:56
+            },{
+                time:'Tue 03/14, 7:30 AM',
+                awayName:'jazz',
+                awayLeftPoints:'+7.5',
+                awayRatio:40,
+                homeName:'heat',
+                homeLeftPoints:'-7.5',
+                homeRatio:60
+            },{
+                time:'Tue 03/14, 7:30 AM',
+                awayName:'grizzlies',
+                awayLeftPoints:'-1.0',
+                awayRatio:42,
+                homeName:'mavericks',
+                homeLeftPoints:'+1.0',
+                homeRatio:58,
+                live:true
+            },{
+                time:'Tue 03/14, 8:00 AM',
+                awayName:'celtics',
+                awayLeftPoints:'-13.0',
+                awayRatio:61,
+                homeName:'rockets',
+                homeLeftPoints:'+13.0',
+                homeRatio:39
+            },{
+                time:'Tue 03/14, 10:00 AM',
+                awayName:'bucks',
+                awayLeftPoints:'-1.5',
+                awayRatio:55,
+                homeName:'kings',
+                homeLeftPoints:'+1.5',
+                homeRatio:45
+            },{
+                time:'Tue 03/14, 10:00 AM',
+                awayName:'suns',
+                awayLeftPoints:'+4.5',
+                awayRatio:37,
+                homeName:'warriors',
+                homeLeftPoints:'-4.5',
+                homeRatio:63,
+                live:true
+            }
+        ]
     }
     
 ]
