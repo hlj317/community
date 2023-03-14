@@ -488,17 +488,17 @@ const nbaData = {
         },{
             'name':'凯尔登.约翰逊',
             'status':'出战存疑',
-            'detail':'左脚受伤，周二对阵魔术的比赛出战存疑',
+            'detail':'左脚受伤，周三对阵魔术的比赛出战存疑',
             'important':true
         },{
             'name':'索汉',
             'status':'出战存疑',
-            'detail':'膝盖受伤，周二对阵魔术的比赛出战存疑',
+            'detail':'膝盖受伤，周三对阵魔术的比赛出战存疑',
             'important':true
         },{
             'name':'特雷.琼斯',
             'status':'身体不适',
-            'detail':'腿部受伤，无法出战周二对阵魔术的比赛',
+            'detail':'腿部受伤，无法出战周三对阵魔术的比赛',
             'important':true
         }
     ],
