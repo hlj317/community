@@ -887,12 +887,12 @@ export const myData = [
     },
 
 
-    //03月15日
+    //03月16日
     {
-        date: 'Wed Mar 15',
+        date: 'Thu Mar 16',
         list: [
             {
-                time:'Wed 03/15, 7:00 AM',
+                time:'Thu 03/16, 8:00 AM',
                 awayName:'pistons',
                 awayLeftPoints:'+12.5',
                 awayRatio:37,
@@ -900,7 +900,7 @@ export const myData = [
                 homeLeftPoints:'-12.5',
                 homeRatio:63
             },{
-                time:'Wed 03/15, 7:00 AM',
+                time:'Thu 03/16, 8:00 AM',
                 awayName:'cavaliers',
                 awayLeftPoints:'-9.0',
                 awayRatio:69,
@@ -908,7 +908,7 @@ export const myData = [
                 homeLeftPoints:'+9.0',
                 homeRatio:31
             },{
-                time:'Wed 03/15, 7:30 AM',
+                time:'Thu 03/16, 8:00 AM',
                 awayName:'nuggets',
                 awayLeftPoints:'-3.5',
                 awayRatio:61,
@@ -916,7 +916,7 @@ export const myData = [
                 homeLeftPoints:'+3.5',
                 homeRatio:39
             },{
-                time:'Wed 03/15, 8:00 AM',
+                time:'Thu 03/16, 8:00 AM',
                 awayName:'nets',
                 awayLeftPoints:'+2.0',
                 awayRatio:42,
@@ -924,7 +924,7 @@ export const myData = [
                 homeLeftPoints:'-2.0',
                 homeRatio:58
             },{
-                time:'Wed 03/15, 8:00 AM',
+                time:'Thu 03/16, 8:00 AM',
                 awayName:'lakers',
                 awayLeftPoints:'+1.5',
                 awayRatio:45,
@@ -932,7 +932,7 @@ export const myData = [
                 homeLeftPoints:'-1.5',
                 homeRatio:55
             },{
-                time:'Wed 03/15, 8:00 AM',
+                time:'Thu 03/16, 8:00 AM',
                 awayName:'magic',
                 awayLeftPoints:'-3.0',
                 awayRatio:57,
@@ -940,7 +940,7 @@ export const myData = [
                 homeLeftPoints:'+3.0',
                 homeRatio:43
             },{
-                time:'Wed 03/15, 10:00 AM',
+                time:'Thu 03/16, 8:00 AM',
                 awayName:'bucks',
                 awayLeftPoints:'-3.0',
                 awayRatio:62,
@@ -948,13 +948,80 @@ export const myData = [
                 homeLeftPoints:'+3.0',
                 homeRatio:38
             },{
-                time:'Wed 03/15, 10:00 AM',
+                time:'Thu 03/16, 8:00 AM',
                 awayName:'knicks',
                 awayLeftPoints:'-1.5',
                 awayRatio:60,
                 homeName:'blazers',
                 homeLeftPoints:'+1.5',
                 homeRatio:40
+            }
+        ]
+    },
+
+
+    //03月16日
+    {
+        date: 'Thu Mar 16',
+        list: [
+            {
+                time:'Thu 03/16, 7:30 AM',
+                awayName:'grizzlies',
+                awayLeftPoints:'+3.5',
+                awayRatio:40,
+                homeName:'heat',
+                homeLeftPoints:'-3.5',
+                homeRatio:60
+            },{
+                time:'Thu 03/16, 7:30 AM',
+                awayName:'seven6ers',
+                awayLeftPoints:'-2.0',
+                awayRatio:57,
+                homeName:'cavaliers',
+                homeLeftPoints:'+2.0',
+                homeRatio:43,
+                live:true
+            },{
+                time:'Thu 03/16, 8:00 AM',
+                awayName:'lakers',
+                awayLeftPoints:'-2.0',
+                awayRatio:70,
+                homeName:'rockets',
+                homeLeftPoints:'+2.0',
+                homeRatio:30
+            },{
+                time:'Thu 03/16, 8:00 AM',
+                awayName:'kings',
+                awayLeftPoints:'+1.0',
+                awayRatio:45,
+                homeName:'bulls',
+                homeLeftPoints:'-1.0',
+                homeRatio:55
+            },{
+                time:'Thu 03/16, 8:00 AM',
+                awayName:'celtics',
+                awayLeftPoints:'-5.0',
+                awayRatio:68,
+                homeName:'timberwolves',
+                homeLeftPoints:'+5.0',
+                homeRatio:32
+            },{
+                time:'Thu 03/16, 8:30 AM',
+                awayName:'mavericks',
+                awayLeftPoints:'-5.5',
+                awayRatio:65,
+                homeName:'spurs',
+                homeLeftPoints:'+5.5',
+                homeRatio:35
+            },{
+                time:'Thu 03/16, 10:00 AM',
+                awayName:'warriors',
+                awayLeftPoints:'+2.5',
+                awayRatio:39,
+                homeName:'clippers',
+                homeLeftPoints:'-2.5',
+                homeRatio:61,
+                live:true
             }
         ]
     }
