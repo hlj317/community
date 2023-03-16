@@ -502,8 +502,8 @@ const nbaData = {
             'important':true
         },{
             'name':'特雷.琼斯',
-            'status':'缺阵',
-            'detail':'腿部受伤，无法出战周四对阵独行侠的比赛',
+            'status':'出战',
+            'detail':'可以出战周四对阵独行侠的比赛',
             'important':true
         },{
             'name':'索汉',
