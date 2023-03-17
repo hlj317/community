@@ -1073,6 +1073,78 @@ export const myData = [
                 homeRatio:61
             }
         ]
+    },
+
+    //03月18日
+    {
+        date: 'Sat Mar 18',
+        list: [
+            {
+                time:'Sat 03/18, 7:00 AM',
+                awayName:'seven6ers',
+                awayLeftPoints:'-10.0',
+                awayRatio:69,
+                homeName:'hornets',
+                homeLeftPoints:'+10.0',
+                homeRatio:31
+            },{
+                time:'Sat 03/18, 7:30 AM',
+                awayName:'wizards',
+                awayLeftPoints:'+4.5',
+                awayRatio:42,
+                homeName:'cavaliers',
+                homeLeftPoints:'-4.5',
+                homeRatio:58
+            },{
+                time:'Sat 03/18, 7:30 AM',
+                awayName:'warriors',
+                awayLeftPoints:'+2.0',
+                awayRatio:55,
+                homeName:'hawks',
+                homeLeftPoints:'-2.0',
+                homeRatio:45
+            },{
+                time:'Sat 03/18, 8:00 AM',
+                awayName:'timberwolves',
+                awayLeftPoints:'+2.5',
+                awayRatio:48,
+                homeName:'bulls',
+                homeLeftPoints:'-2.5',
+                homeRatio:52
+            },{
+                time:'Sat 03/18, 8:00 AM',
+                awayName:'grizzlies',
+                awayLeftPoints:'-8.5',
+                awayRatio:60,
+                homeName:'spurs',
+                homeLeftPoints:'+8.5',
+                homeRatio:40
+            },{
+                time:'Sat 03/18, 8:00 AM',
+                awayName:'pelicans',
+                awayLeftPoints:'-6.0',
+                awayRatio:65,
+                homeName:'rockets',
+                homeLeftPoints:'+6.0',
+                homeRatio:35
+            },{
+                time:'Sat 03/18, 10:00 AM',
+                awayName:'celtics',
+                awayLeftPoints:'-5.5',
+                awayRatio:68,
+                homeName:'blazers',
+                homeLeftPoints:'+5.5',
+                homeRatio:32
+            },{
+                time:'Sat 03/18, 10:30 AM',
+                awayName:'mavericks',
+                awayLeftPoints:'+1.5',
+                awayRatio:47,
+                homeName:'lakers',
+                homeLeftPoints:'-1.5',
+                homeRatio:53
+            }
+        ]
     }
     
 ]
