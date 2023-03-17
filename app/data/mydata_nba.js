@@ -322,8 +322,8 @@ const nbaData = {
             'important':false
         },{
             'name':'字母哥',
-            'status':'缺阵',
-            'detail':'伤病管理，无法出战周五对阵步行者的比赛',
+            'status':'出战',
+            'detail':'可以出战周五对阵步行者的比赛',
             'important':true
         },{
             'name':'洛佩兹',
