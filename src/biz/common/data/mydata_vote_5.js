@@ -1145,6 +1145,79 @@ export const myData = [
                 homeRatio:53
             }
         ]
+    },
+
+
+    //03月19日
+    {
+        date: 'Sun Mar 19',
+        list: [
+            {
+                time:'Sun 03/19, 1:00 AM',
+                awayName:'nuggets',
+                awayLeftPoints:'-2.0',
+                awayRatio:48,
+                homeName:'knicks',
+                homeLeftPoints:'+2.0',
+                homeRatio:52
+            },{
+                time:'Sun 03/19, 3:00 AM',
+                awayName:'magic',
+                awayLeftPoints:'+7.0',
+                awayRatio:38,
+                homeName:'clippers',
+                homeLeftPoints:'-7.0',
+                homeRatio:62
+            },{
+                time:'Sun 03/19, 7:00 AM',
+                awayName:'timberwolves',
+                awayLeftPoints:'+7.5',
+                awayRatio:43,
+                homeName:'raptors',
+                homeLeftPoints:'-7.5',
+                homeRatio:57
+            },{
+                time:'Sun 03/19, 7:00 AM',
+                awayName:'seven6ers',
+                awayLeftPoints:'-6.0',
+                awayRatio:68,
+                homeName:'pacers',
+                homeLeftPoints:'+6.0',
+                homeRatio:32
+            },{
+                time:'Sun 03/19, 8:00 AM',
+                awayName:'heat',
+                awayLeftPoints:'-3.0',
+                awayRatio:55,
+                homeName:'bulls',
+                homeLeftPoints:'+3.0',
+                homeRatio:45
+            },{
+                time:'Sun 03/19, 8:00 AM',
+                awayName:'warriors',
+                awayLeftPoints:'+4.5',
+                awayRatio:40,
+                homeName:'grizzlies',
+                homeLeftPoints:'-4.5',
+                homeRatio:60
+            },{
+                time:'Sun 03/19, 8:00 AM',
+                awayName:'kings',
+                awayLeftPoints:'-3.0',
+                awayRatio:58,
+                homeName:'wizards',
+                homeLeftPoints:'+3.0',
+                homeRatio:42
+            },{
+                time:'Sun 03/19, 9:00 AM',
+                awayName:'celtics',
+                awayLeftPoints:'-6.0',
+                awayRatio:61,
+                homeName:'jazz',
+                homeLeftPoints:'+6.0',
+                homeRatio:39
+            }
+        ]
     }
     
 ]
