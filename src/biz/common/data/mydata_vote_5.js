@@ -1218,6 +1218,79 @@ export const myData = [
                 homeRatio:39
             }
         ]
+    },
+
+
+    //03月20日
+    {
+        date: 'Mon Mar 20',
+        list: [
+            {
+                time:'Mon 03/20, 3:30 AM',
+                awayName:'suns',
+                awayLeftPoints:'+1.0',
+                awayRatio:61,
+                homeName:'thunder',
+                homeLeftPoints:'-1.0',
+                homeRatio:39
+            },{
+                time:'Mon 03/20, 3:30 AM',
+                awayName:'nuggets',
+                awayLeftPoints:'-1.5',
+                awayRatio:65,
+                homeName:'nets',
+                homeLeftPoints:'+1.5',
+                homeRatio:35
+            },{
+                time:'Mon 03/20, 4:00 AM',
+                awayName:'hawks',
+                awayLeftPoints:'-9.0',
+                awayRatio:68,
+                homeName:'spurs',
+                homeLeftPoints:'+9.0',
+                homeRatio:32
+            },{
+                time:'Mon 03/20, 6:00 AM',
+                awayName:'heat',
+                awayLeftPoints:'-9.5',
+                awayRatio:63,
+                homeName:'pistons',
+                homeLeftPoints:'+9.5',
+                homeRatio:37
+            },{
+                time:'Mon 03/20, 7:00 AM',
+                awayName:'pelicans',
+                awayLeftPoints:'-5.0',
+                awayRatio:58,
+                homeName:'rockets',
+                homeLeftPoints:'+5.0',
+                homeRatio:42
+            },{
+                time:'Mon 03/20, 8:00 AM',
+                awayName:'raptors',
+                awayLeftPoints:'+9.5',
+                awayRatio:40,
+                homeName:'bucks',
+                homeLeftPoints:'-9.5',
+                homeRatio:60
+            },{
+                time:'Mon 03/20, 9:00 AM',
+                awayName:'clippers',
+                awayLeftPoints:'-2.5',
+                awayRatio:67,
+                homeName:'blazers',
+                homeLeftPoints:'+2.5',
+                homeRatio:33
+            },{
+                time:'Mon 03/20, 9:30 AM',
+                awayName:'magic',
+                awayLeftPoints:'+6.0',
+                awayRatio:36,
+                homeName:'lakers',
+                homeLeftPoints:'-6.0',
+                homeRatio:64
+            }
+        ]
     }
     
 ]
