@@ -284,8 +284,8 @@ const nbaData = {
             'important':true
         },{
             'name':'莫兰特',
-            'status':'出战存疑',
-            'detail':'做出违规行为，周二对阵独行侠的比赛中出战存疑',
+            'status':'缺阵',
+            'detail':'做出违规行为，无法出战周二对阵独行侠的比赛中',
             'important':true
         },{
             'name':'小贾伦.杰克逊',
