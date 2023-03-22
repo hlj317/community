@@ -1403,6 +1403,97 @@ export const myData = [
                 homeRatio:60
             }
         ]
+    },
+
+
+    //03月23日
+    {
+        date: 'Thu Mar 23',
+        list: [
+            {
+                time:'Thu 03/23, 7:00 AM',
+                awayName:'nuggets',
+                awayLeftPoints:'-6.5',
+                awayRatio:67,
+                homeName:'wizards',
+                homeLeftPoints:'+6.5',
+                homeRatio:33
+            },{
+                time:'Thu 03/23, 7:30 AM',
+                awayName:'knicks',
+                awayLeftPoints:'+2.0',
+                awayRatio:48,
+                homeName:'heat',
+                homeLeftPoints:'-2.0',
+                homeRatio:52
+            },{
+                time:'Thu 03/23, 7:30 AM',
+                awayName:'pacers',
+                awayLeftPoints:'+8.0',
+                awayRatio:39,
+                homeName:'raptors',
+                homeLeftPoints:'-8.0',
+                homeRatio:61
+            },{
+                time:'Thu 03/23, 7:30 AM',
+                awayName:'warriors',
+                awayLeftPoints:'-1.5',
+                awayRatio:60,
+                homeName:'mavericks',
+                homeLeftPoints:'+1.5',
+                homeRatio:40,
+                live:true
+            },{
+                time:'Thu 03/23, 8:00 AM',
+                awayName:'hawks',
+                awayLeftPoints:'+4.5',
+                awayRatio:43,
+                homeName:'timberwolves',
+                homeLeftPoints:'-4.5',
+                homeRatio:57
+            },{
+                time:'Thu 03/23, 8:00 AM',
+                awayName:'seven6ers',
+                awayLeftPoints:'-3.5',
+                awayRatio:59,
+                homeName:'bulls',
+                homeLeftPoints:'+3.5',
+                homeRatio:41
+            },{
+                time:'Thu 03/23, 8:00 AM',
+                awayName:'rockets',
+                awayLeftPoints:'+13.0',
+                awayRatio:34,
+                homeName:'grizzlies',
+                homeLeftPoints:'-13.0',
+                homeRatio:66
+            },{
+                time:'Thu 03/23, 8:00 AM',
+                awayName:'spurs',
+                awayLeftPoints:'+17.5',
+                awayRatio:25,
+                homeName:'bucks',
+                homeLeftPoints:'-17.5',
+                homeRatio:75
+            },{
+                time:'Thu 03/23, 9:00 AM',
+                awayName:'blazers',
+                awayLeftPoints:'+4.0',
+                awayRatio:37,
+                homeName:'jazz',
+                homeLeftPoints:'-4.0',
+                homeRatio:63
+            },{
+                time:'Thu 03/23, 10:00 AM',
+                awayName:'suns',
+                awayLeftPoints:'-1.0',
+                awayRatio:56,
+                homeName:'lakers',
+                homeLeftPoints:'+1.0',
+                homeRatio:44,
+                live:true
+            }
+        ]
     }
     
 ]
