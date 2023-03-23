@@ -1494,6 +1494,47 @@ export const myData = [
                 live:true
             }
         ]
+    },
+
+
+    //03月24日
+    {
+        date: 'Fri Mar 24',
+        list: [
+            {
+                time:'Fri 03/24, 7:00 AM',
+                awayName:'knicks',
+                awayLeftPoints:'-2.5',
+                awayRatio:61,
+                homeName:'magic',
+                homeLeftPoints:'+2.5',
+                homeRatio:39
+            },{
+                time:'Fri 03/24, 7:30 AM',
+                awayName:'cavaliers',
+                awayLeftPoints:'-4.0',
+                awayRatio:56,
+                homeName:'nets',
+                homeLeftPoints:'+4.0',
+                homeRatio:44
+            },{
+                time:'Fri 03/24, 8:00 AM',
+                awayName:'hornets',
+                awayLeftPoints:'+7.5',
+                awayRatio:32,
+                homeName:'pelicans',
+                homeLeftPoints:'-7.5',
+                homeRatio:68
+            },{
+                time:'Fri 03/24, 10:30 AM',
+                awayName:'thunder',
+                awayLeftPoints:'+3.0',
+                awayRatio:40,
+                homeName:'clippers',
+                homeLeftPoints:'-3.0',
+                homeRatio:60
+            }
+        ]
     }
     
 ]
