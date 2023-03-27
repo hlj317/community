@@ -1762,6 +1762,78 @@ export const myData = [
                 homeRatio:65
             }
         ]
+    },
+
+    //03月28日
+    {
+        date: 'Tue Mar 28',
+        list: [
+            {
+                time:'Tue 03/28, 7:00 AM',
+                awayName:'bucks',
+                awayLeftPoints:'-15.0',
+                awayRatio:68,
+                homeName:'pistons',
+                homeLeftPoints:'+15.0',
+                homeRatio:32
+            },{
+                time:'Tue 03/28, 7:00 AM',
+                awayName:'mavericks',
+                awayLeftPoints:'-1.5',
+                awayRatio:67,
+                homeName:'pacers',
+                homeLeftPoints:'+1.5',
+                homeRatio:33
+            },{
+                time:'Tue 03/28, 7:30 AM',
+                awayName:'rockets',
+                awayLeftPoints:'+12.5',
+                awayRatio:35,
+                homeName:'knicks',
+                homeLeftPoints:'-12.5',
+                homeRatio:65
+            },{
+                time:'Tue 03/28, 9:00 AM',
+                awayName:'suns',
+                awayLeftPoints:'-6.5',
+                awayRatio:61,
+                homeName:'jazz',
+                homeLeftPoints:'+6.5',
+                homeRatio:39
+            },{
+                time:'Tue 03/28, 9:30 AM',
+                awayName:'seven6ers',
+                awayLeftPoints:'+5.0',
+                awayRatio:47,
+                homeName:'nuggets',
+                homeLeftPoints:'-5.0',
+                homeRatio:53
+            },{
+                time:'Tue 03/28, 10:00 AM',
+                awayName:'timberwolves',
+                awayLeftPoints:'+5.5',
+                awayRatio:40,
+                homeName:'kings',
+                homeLeftPoints:'-5.5',
+                homeRatio:60
+            },{
+                time:'Tue 03/28, 10:00 AM',
+                awayName:'pelicans',
+                awayLeftPoints:'-9.0',
+                awayRatio:64,
+                homeName:'blazers',
+                homeLeftPoints:'+9.0',
+                homeRatio:36
+            },{
+                time:'Tue 03/28, 10:30 AM',
+                awayName:'bulls',
+                awayLeftPoints:'+5.0',
+                awayRatio:44,
+                homeName:'clippers',
+                homeLeftPoints:'-5.0',
+                homeRatio:56
+            }
+        ]
     }
     
 ]
