@@ -132,8 +132,8 @@ const nbaData = {
             'important':true
         },{
             'name':'克勒贝尔',
-            'status':'出战存疑',
-            'detail':'腿筋拉伤，周二对阵步行者的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'腿筋拉伤，无法出战周二对阵步行者的比赛',
             'important':false
         }
     ],
@@ -232,13 +232,13 @@ const nbaData = {
             'important':false
         },{
             'name':'哈利伯顿',
-            'status':'出战存疑',
-            'detail':'脚踝受伤，周二对阵独行侠的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'脚踝受伤，无法出战周二对阵独行侠的比赛',
             'important':true
         },{
             'name':'特纳',
-            'status':'出战存疑',
-            'detail':'背部受伤，周二对阵独行侠的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'背部受伤，无法出战周二对阵独行侠的比赛',
             'important':true
         },{
             'name':'杜阿尔特',
@@ -451,8 +451,8 @@ const nbaData = {
     seven6ers:[
         {        
             'name':'哈登',
-            'status':'出战',
-            'detail':'可以出战周二对阵掘金的比赛',
+            'status':'缺阵',
+            'detail':'小腿酸痛，无法出战周二对阵掘金的比赛',
             'important':true
         },{        
             'name':'恩比德',
@@ -590,8 +590,8 @@ const nbaData = {
             'important':true
         },{
             'name':'马尔坎宁',
-            'status':'出战存疑',
-            'detail':'手部受伤，周二对阵太阳的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周二对阵太阳的比赛',
             'important':true
         },{
             'name':'鲁迪.盖伊',
