@@ -1980,6 +1980,32 @@ export const myData = [
                 homeRatio:34
             }
         ]
+    },
+
+    //03月31日
+    {
+        date: 'Fri Mar 31',
+        list: [
+            {
+                time:'Fri 03/31, 7:30 AM',
+                awayName:'celtics',
+                awayLeftPoints:'+3.5',
+                awayRatio:58,
+                homeName:'bucks',
+                homeLeftPoints:'-3.5',
+                homeRatio:42,
+                live:true
+            },{
+                time:'Fri 03/31, 10:00 AM',
+                awayName:'pelicans',
+                awayLeftPoints:'+7.0',
+                awayRatio:45,
+                homeName:'nuggets',
+                homeLeftPoints:'-7.0',
+                homeRatio:55,
+                live:true
+            }
+        ]
     }
     
 ]
