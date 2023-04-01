@@ -8,8 +8,8 @@ const nbaData = {
             'important':false
         },{
             'name':'亨特',
-            'status':'出战存疑',
-            'detail':'膝盖受伤，周六对阵篮网的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'膝盖受伤，无法出战周六对阵篮网的比赛',
             'important':true
         }
     ],
@@ -21,9 +21,14 @@ const nbaData = {
             'detail':'膝盖ACL伤病，赛季报销',
             'important':false
         },{        
-            'name':'普理查德',
+            'name':'AI.霍福德',
             'status':'缺阵',
-            'detail':'脚踝受伤，还需要缺阵一段时间',
+            'detail':'伤病管理，无法出战周日对阵爵士的比赛',
+            'important':false
+        },{        
+            'name':'罗伯特.威廉姆斯',
+            'status':'缺阵',
+            'detail':'伤病管理，无法出战周日对阵爵士的比赛',
             'important':false
         }
     ],
@@ -121,9 +126,9 @@ const nbaData = {
     //达拉斯独行侠
     mavericks:[
         {
-            'name':'克勒贝尔',
-            'status':'出战',
-            'detail':'可以出战周四对阵76人的比赛',
+            'name':'尼利基纳',
+            'status':'出战存疑',
+            'detail':'膝盖受伤，每日观察',
             'important':false
         }
     ],
@@ -266,9 +271,14 @@ const nbaData = {
             'important':false
         },{
             'name':'伦纳德',
-            'status':'出战存疑',
-            'detail':'个人原因，周六对阵灰熊的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周日对阵鹈鹕的比赛',
             'important':true
+        },{
+            'name':'埃里克.戈登',
+            'status':'出战存疑',
+            'detail':'臀部受伤，周日对阵鹈鹕的比赛出战存疑',
+            'important':false
         }
     ],
     //洛杉矶湖人
@@ -332,14 +342,14 @@ const nbaData = {
     //迈阿密热火
     heat:[
         {
-            'name':'巴特勒',
-            'status':'出战',
-            'detail':'可以出战周四对阵尼克斯的比赛',
+            'name':'阿德巴约',
+            'status':'出战存疑',
+            'detail':'臀部受伤，周日对阵独行侠的比赛出战存疑',
             'important':true
         },{
             'name':'洛瑞',
-            'status':'缺阵',
-            'detail':'腿部受伤，无法出战周四对阵尼克斯的比赛',
+            'status':'出战存疑',
+            'detail':'膝盖受伤，周日对阵独行侠的比赛出战存疑',
             'important':false
         }
     ],

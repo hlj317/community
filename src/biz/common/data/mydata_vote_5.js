@@ -2010,7 +2010,7 @@ export const myData = [
 
     //04月01日
     {
-        date: 'Sat Mar 01',
+        date: 'Sat Apr 01',
         list: [
             {
                 time:'Sat 04/01, 7:00 AM',
@@ -2115,6 +2115,30 @@ export const myData = [
                 awayRatio:39,
                 homeName:'suns',
                 homeLeftPoints:'-8.5',
+                homeRatio:61
+            }
+        ]
+    },
+
+    //04月02日
+    {
+        date: 'Sun Apr 02',
+        list: [
+            {
+                time:'Sun 04/02, 7:30 AM',
+                awayName:'mavericks',
+                awayLeftPoints:'+1.0',
+                awayRatio:45,
+                homeName:'heat',
+                homeLeftPoints:'-1.0',
+                homeRatio:55
+            },{
+                time:'Sun 04/02, 08:30 AM',
+                awayName:'clippers',
+                awayLeftPoints:'+3.0',
+                awayRatio:39,
+                homeName:'pelicans',
+                homeLeftPoints:'-3.0',
                 homeRatio:61
             }
         ]
