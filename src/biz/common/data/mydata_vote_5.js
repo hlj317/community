@@ -2367,6 +2367,80 @@ export const myData = [
                 homeRatio:61
             }
         ]
+    },
+
+    //04月06日
+    {
+        date: 'Thu Apr 06',
+        list: [
+            {
+                time:'Thu 04/06, 7:00 AM',
+                awayName:'nets',
+                awayLeftPoints:'-10.5',
+                awayRatio:68,
+                homeName:'pistons',
+                homeLeftPoints:'+10.5',
+                homeRatio:32
+            },{
+                time:'Thu 04/06, 7:00 AM',
+                awayName:'knicks',
+                awayLeftPoints:'-8.5',
+                awayRatio:65,
+                homeName:'pacers',
+                homeLeftPoints:'+8.5',
+                homeRatio:35
+            },{
+                time:'Thu 04/06, 7:30 AM',
+                awayName:'raptors',
+                awayLeftPoints:'+5.0',
+                awayRatio:41,
+                homeName:'celtics',
+                homeLeftPoints:'-5.0',
+                homeRatio:59
+            },{
+                time:'Thu 04/06, 7:30 AM',
+                awayName:'bulls',
+                awayLeftPoints:'+7.0',
+                awayRatio:39,
+                homeName:'bucks',
+                homeLeftPoints:'-7.0',
+                homeRatio:61,
+                live:true
+            },{
+                time:'Thu 04/06, 7:30 AM',
+                awayName:'wizards',
+                awayLeftPoints:'+10.5',
+                awayRatio:37,
+                homeName:'hawks',
+                homeLeftPoints:'-10.5',
+                homeRatio:63
+            },{
+                time:'Thu 04/06, 8:00 AM',
+                awayName:'grizzlies',
+                awayLeftPoints:'+5.0',
+                awayRatio:47,
+                homeName:'pelicans',
+                homeLeftPoints:'-5.0',
+                homeRatio:53
+            },{
+                time:'Thu 04/06, 8:30 AM',
+                awayName:'kings',
+                awayLeftPoints:'+3.5',
+                awayRatio:40,
+                homeName:'mavericks',
+                homeLeftPoints:'-3.5',
+                homeRatio:60
+            },{
+                time:'Thu 04/06, 10:00 AM',
+                awayName:'lakers',
+                awayLeftPoints:'-1.5',
+                awayRatio:55,
+                homeName:'clippers',
+                homeLeftPoints:'+1.5',
+                homeRatio:45,
+                live:true
+            }
+        ]
     }
     
 ]
