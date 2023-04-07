@@ -520,7 +520,7 @@ const nbaData = {
             'status':'缺阵',
             'detail':'伤病管理，无法出战周六对阵篮网的比赛',
             'important':false
-        }{
+        },{
             'name':'莫里茨.瓦格纳',
             'status':'缺阵',
             'detail':'脚踝受伤，无法出战周六对阵篮网的比赛',
