@@ -2491,6 +2491,102 @@ export const myData = [
                 live:true
             }
         ]
+    },
+
+    //04月08日
+    {
+        date: 'Sat Apr 08',
+        list: [
+            {
+                time:'Sat 04/08, 7:00 AM',
+                awayName:'pistons',
+                awayLeftPoints:'+7.0',
+                awayRatio:56,
+                homeName:'pacers',
+                homeLeftPoints:'-7.0',
+                homeRatio:44
+            },{
+                time:'Sat 04/08, 7:00 AM',
+                awayName:'heat',
+                awayLeftPoints:'-6.0',
+                awayRatio:61,
+                homeName:'wizards',
+                homeLeftPoints:'+6.0',
+                homeRatio:39
+            },{
+                time:'Sat 04/08, 7:00 AM',
+                awayName:'rockets',
+                awayLeftPoints:'-2.0',
+                awayRatio:55,
+                homeName:'hornets',
+                homeLeftPoints:'+2.0',
+                homeRatio:45
+            },{
+                time:'Sat 04/08, 7:30 AM',
+                awayName:'seven6ers',
+                awayLeftPoints:'+9.0',
+                awayRatio:31,
+                homeName:'hawks',
+                homeLeftPoints:'-9.0',
+                homeRatio:69
+            },{
+                time:'Sat 04/08, 7:30 AM',
+                awayName:'raptors',
+                awayLeftPoints:'+2.0',
+                awayRatio:47,
+                homeName:'celtics',
+                homeLeftPoints:'-2.0',
+                homeRatio:53
+            },{
+                time:'Sat 04/08, 7:30 AM',
+                awayName:'magic',
+                awayLeftPoints:'+11.5',
+                awayRatio:38,
+                homeName:'nets',
+                homeLeftPoints:'-11.5',
+                homeRatio:62
+            },{
+                time:'Sat 04/08, 8:00 AM',
+                awayName:'knicks',
+                awayLeftPoints:'+7.5',
+                awayRatio:40,
+                homeName:'pelicans',
+                homeLeftPoints:'-7.5',
+                homeRatio:60
+            },{
+                time:'Sat 04/08, 8:00 AM',
+                awayName:'grizzlies',
+                awayLeftPoints:'-7.0',
+                awayRatio:66,
+                homeName:'bucks',
+                homeLeftPoints:'+7.0',
+                homeRatio:34
+            },{
+                time:'Sat 04/08, 8:30 AM',
+                awayName:'bulls',
+                awayLeftPoints:'+8.5',
+                awayRatio:35,
+                homeName:'mavericks',
+                homeLeftPoints:'-8.5',
+                homeRatio:65
+            },{
+                time:'Sat 04/08, 10:00 AM',
+                awayName:'warriors',
+                awayLeftPoints:'-5.5',
+                awayRatio:63,
+                homeName:'kings',
+                homeLeftPoints:'+5.5',
+                homeRatio:37
+            },{
+                time:'Sat 04/08, 10:30 AM',
+                awayName:'suns',
+                awayLeftPoints:'+6.5',
+                awayRatio:32,
+                homeName:'lakers',
+                homeLeftPoints:'-6.5',
+                homeRatio:68
+            }
+        ]
     }
     
 ]
