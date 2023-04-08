@@ -181,28 +181,28 @@ const nbaData = {
             'important':false
         },{
             'name':'约基奇',
-            'status':'缺阵',
-            'detail':'伤病管理，无法出战周五对阵太阳的比赛',
+            'status':'出战存疑',
+            'detail':'伤病管理，周六对阵爵士的比赛出战存疑',
             'important':true
         },{
             'name':'贾马尔.穆雷',
-            'status':'缺阵',
-            'detail':'伤病管理，无法出战周五对阵太阳的比赛',
+            'status':'出战存疑',
+            'detail':'伤病管理，周六对阵爵士的比赛出战存疑',
             'important':true
         },{
             'name':'小迈克尔.波特',
-            'status':'缺阵',
-            'detail':'伤病管理，无法出战周五对阵太阳的比赛',
+            'status':'出战存疑',
+            'detail':'伤病管理，周六对阵爵士的比赛出战存疑',
             'important':false
         },{
             'name':'阿隆.戈登',
-            'status':'缺阵',
-            'detail':'伤病管理，无法出战周五对阵太阳的比赛',
+            'status':'出战存疑',
+            'detail':'伤病管理，周六对阵爵士的比赛出战存疑',
             'important':true
         },{
             'name':'波普',
-            'status':'缺阵',
-            'detail':'伤病管理，无法出战周五对阵太阳的比赛',
+            'status':'出战存疑',
+            'detail':'伤病管理，周六对阵爵士的比赛出战存疑',
             'important':false
         }
     ],
