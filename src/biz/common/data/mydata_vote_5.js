@@ -2734,12 +2734,46 @@ export const myData = [
                 homeRatio:41
             },{
                 time:'Mon 04/10, 3:30 AM',
+                awayName:'spurs',
+                awayLeftPoints:'+3.5',
+                awayRatio:47,
+                homeName:'mavericks',
+                homeLeftPoints:'-3.5',
+                homeRatio:53
+            },{
+                time:'Mon 04/10, 3:30 AM',
                 awayName:'jazz',
                 awayLeftPoints:'+16.5',
                 awayRatio:39,
                 homeName:'lakers',
                 homeLeftPoints:'-16.5',
                 homeRatio:61,
+                live:true
+            }
+        ]
+    },
+
+    //04月12日
+    {
+        date: 'Wed Apr 12',
+        list: [
+            {
+                time:'Wed 04/12, 7:30 AM',
+                awayName:'hawks',
+                awayLeftPoints:'+5.0',
+                awayRatio:40,
+                homeName:'heat',
+                homeLeftPoints:'-5.0',
+                homeRatio:60,
+                live:true
+            },{
+                time:'Wed 04/12, 10:00 AM',
+                awayName:'timberwolves',
+                awayLeftPoints:'+8.0',
+                awayRatio:45,
+                homeName:'lakers',
+                homeLeftPoints:'-8.0',
+                homeRatio:55,
                 live:true
             }
         ]

@@ -4,7 +4,7 @@ const nbaData = {
         {
             'name':'亨特',
             'status':'出战',
-            'detail':'可以出战周六对阵76人的比赛',
+            'detail':'可以出战周三对阵热火的比赛',
             'important':true
         }
     ],
@@ -15,21 +15,6 @@ const nbaData = {
             'status':'长期缺阵',
             'detail':'膝盖ACL伤病，赛季报销',
             'important':false
-        },{        
-            'name':'布罗格登',
-            'status':'缺阵',
-            'detail':'背部受伤，无法出战周六对阵猛龙的比赛',
-            'important':false
-        },{        
-            'name':'斯马特',
-            'status':'缺阵',
-            'detail':'颈部受伤，无法出战周六对阵猛龙的比赛',
-            'important':true
-        },{        
-            'name':'杰伦.布朗',
-            'status':'缺阵',
-            'detail':'手指受伤，无法出战周六对阵猛龙的比赛',
-            'important':true
         }
     ],
     //布鲁克林篮网
@@ -39,50 +24,14 @@ const nbaData = {
             'status':'缺阵',
             'detail':'膝盖受伤，还需要缺阵一段时间',
             'important':true
-        },{
-            'name':'芬尼-史密斯',
-            'status':'出战',
-            'detail':'可以出战周六对阵魔术的比赛',
-            'important':false
         }
     ],
     //夏洛特黄蜂
     hornets:[
         {
-            'name':'拉梅洛.鲍尔',
-            'status':'长期缺阵',
-            'detail':'脚踝严重受伤，本赛季报销',
-            'important':true
-        },{
-            'name':'科迪.马丁',
-            'status':'缺阵',
-            'detail':'膝盖受伤，预计会缺阵一段时间',
-            'important':false
-        },{
-            'name':'罗齐尔',
-            'status':'缺阵',
-            'detail':'脚踝受伤，还需要缺阵一段时间',
-            'important':true
-        },{
-            'name':'乌布雷',
-            'status':'缺阵',
-            'detail':'伤病管理，还需要缺阵一段时间',
-            'important':false
-        },{
-            'name':'海沃德',
-            'status':'缺阵',
-            'detail':'肋骨受伤，还需要缺阵一段时间',
-            'important':true
-        },{
-            'name':'PJ.华盛顿',
-            'status':'缺阵',
-            'detail':'身体不适，还需要缺阵一段时间',
-            'important':true
-        },{
-            'name':'丹尼斯.史密斯',
-            'status':'缺阵',
-            'detail':'身体不适，还需要缺阵一段时间',
-            'important':false
+            'name':'无',
+            'status':'无更新',
+            'detail':'本赛季已结束'
         }
     ],
     //芝加哥公牛
