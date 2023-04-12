@@ -2777,6 +2777,32 @@ export const myData = [
                 live:true
             }
         ]
+    },
+
+    //04月13日
+    {
+        date: 'Thu Apr 13',
+        list: [
+            {
+                time:'Thu 04/13, 7:00 AM',
+                awayName:'bulls',
+                awayLeftPoints:'+5.5',
+                awayRatio:39,
+                homeName:'raptors',
+                homeLeftPoints:'-5.5',
+                homeRatio:61,
+                live:true
+            },{
+                time:'Thu 04/13, 9:30 AM',
+                awayName:'thunder',
+                awayLeftPoints:'+5.5',
+                awayRatio:43,
+                homeName:'pelicans',
+                homeLeftPoints:'-5.5',
+                homeRatio:57,
+                live:true
+            }
+        ]
     }
     
 ]
