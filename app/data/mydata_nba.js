@@ -167,9 +167,9 @@ const nbaData = {
     //迈阿密热火
     heat:[
         {
-            'name':'洛瑞',
+            'name':'文森特',
             'status':'出战存疑',
-            'detail':'伤病管理，周三对阵老鹰的比赛出战存疑',
+            'detail':'手腕受伤，周六对阵公牛的比赛出战存疑',
             'important':false
         }
     ],
@@ -191,19 +191,9 @@ const nbaData = {
     timberwolves:[
         {
             'name':'唐斯',
-            'status':'出战存疑',
-            'detail':'伤病管理，周三对阵湖人的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周六对阵雷霆的比赛',
             'important':true
-        },{
-            'name':'诺埃尔',
-            'status':'出战存疑',
-            'detail':'左膝受伤，周三对阵湖人的比赛出战存疑',
-            'important':false
-        },{
-            'name':'奥斯汀.里弗斯',
-            'status':'出战存疑',
-            'detail':'身体不适，周三对阵湖人的比赛出战存疑',
-            'important':false
         },{
             'name':'纳兹.里德',
             'status':'长期缺阵',
@@ -211,23 +201,17 @@ const nbaData = {
             'important':false
         },{
             'name':'戈贝尔',
-            'status':'缺阵',
-            'detail':'被球队禁赛一场，无法出战周三对阵湖人的比赛',
+            'status':'出战',
+            'detail':'可以出战周六对阵雷霆的比赛',
             'important':true
         }
     ],
     //新奥尔良鹈鹕
     pelicans:[
         {
-            'name':'锡安',
-            'status':'缺阵',
-            'detail':'腿筋拉伤，预计至少缺阵3周时间',
-            'important':true
-        },{
-            'name':'阿尔瓦拉多',
-            'status':'缺阵',
-            'detail':'腿部受伤，至少缺阵三周时间',
-            'important':false
+            'name':'无',
+            'status':'无更新',
+            'detail':'本赛季已结束'
         }
     ],
     //纽约尼克斯
@@ -312,10 +296,9 @@ const nbaData = {
     //多伦多猛龙
     raptors:[
         {
-            'name':'奥托.波特',
-            'status':'缺阵',
-            'detail':'左脚受伤，预计会缺阵一段时间',
-            'important':false
+            'name':'无',
+            'status':'无更新',
+            'detail':'本赛季已结束'
         }
     ],
     //犹它爵士

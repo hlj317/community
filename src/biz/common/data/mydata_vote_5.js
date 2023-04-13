@@ -2803,6 +2803,33 @@ export const myData = [
                 live:true
             }
         ]
+    },
+
+
+    //04月15日
+    {
+        date: 'Sat Apr 15',
+        list: [
+            {
+                time:'Sat 04/15, 7:00 AM',
+                awayName:'bulls',
+                awayLeftPoints:'+5.0',
+                awayRatio:43,
+                homeName:'heat',
+                homeLeftPoints:'-5.0',
+                homeRatio:57,
+                live:true
+            },{
+                time:'Sat 04/15, 9:30 AM',
+                awayName:'thunder',
+                awayLeftPoints:'+4.5',
+                awayRatio:40,
+                homeName:'timberwolves',
+                homeLeftPoints:'-4.5',
+                homeRatio:60,
+                live:true
+            }
+        ]
     }
     
 ]
