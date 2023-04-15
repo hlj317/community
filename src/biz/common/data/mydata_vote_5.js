@@ -2805,7 +2805,6 @@ export const myData = [
         ]
     },
 
-
     //04月15日
     {
         date: 'Sat Apr 15',
@@ -2827,6 +2826,50 @@ export const myData = [
                 homeName:'timberwolves',
                 homeLeftPoints:'-4.5',
                 homeRatio:60,
+                live:true
+            }
+        ]
+    },
+
+    //04月16日
+    {
+        date: 'Sun Apr 16',
+        list: [
+            {
+                time:'Sun 04/16, 1:00 AM',
+                awayName:'nets',
+                awayLeftPoints:'+8.5',
+                awayRatio:32,
+                homeName:'seven6ers',
+                homeLeftPoints:'-8.5',
+                homeRatio:68,
+                live:true
+            },{
+                time:'Sun 04/16, 3:30 AM',
+                awayName:'hawks',
+                awayLeftPoints:'+8.5',
+                awayRatio:37,
+                homeName:'celtics',
+                homeLeftPoints:'-8.5',
+                homeRatio:63,
+                live:true
+            },{
+                time:'Sun 04/16, 6:00 AM',
+                awayName:'knicks',
+                awayLeftPoints:'+5.0',
+                awayRatio:45,
+                homeName:'cavaliers',
+                homeLeftPoints:'-5.0',
+                homeRatio:55,
+                live:true
+            },{
+                time:'Sun 04/16, 8:30 AM',
+                awayName:'warriors',
+                awayLeftPoints:'+1.0',
+                awayRatio:48,
+                homeName:'kings',
+                homeLeftPoints:'-1.0',
+                homeRatio:52,
                 live:true
             }
         ]
