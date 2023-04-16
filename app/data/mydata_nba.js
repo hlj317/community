@@ -51,8 +51,8 @@ const nbaData = {
             'important':false
         },{
             'name':'奥克罗',
-            'status':'出战存疑',
-            'detail':'膝盖受伤，周日对阵尼克斯的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周日对阵尼克斯的比赛',
             'important':false
         }
     ],
@@ -125,8 +125,8 @@ const nbaData = {
             'important':true
         },{
             'name':'马库斯.莫里斯',
-            'status':'出战存疑',
-            'detail':'身体不适，每日观察',
+            'status':'出战',
+            'detail':'可以出战周一对阵太阳的比赛',
             'important':false
         }
     ],
@@ -212,8 +212,8 @@ const nbaData = {
             'important':false
         },{
             'name':'兰德尔',
-            'status':'大概率出战',
-            'detail':'脚踝受伤，周日对阵骑士的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周日对阵骑士的比赛',
             'important':true
         }
     ],
@@ -243,8 +243,8 @@ const nbaData = {
     seven6ers:[
         {        
             'name':'尼昂',
-            'status':'出战存疑',
-            'detail':'右小腿受伤，周日对阵篮网的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周日对阵篮网的比赛',
             'important':false
         }
     ],
@@ -269,13 +269,13 @@ const nbaData = {
     kings:[
         {
             'name':'巴恩斯',
-            'status':'出战存疑',
-            'detail':'腿部受伤，周日对阵勇士的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周日对阵勇士的比赛',
             'important':true
         },{
             'name':'米切尔',
-            'status':'出战存疑',
-            'detail':'膝盖受伤，周日对阵勇士的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周日对阵勇士的比赛',
             'important':false
         }
     ],
