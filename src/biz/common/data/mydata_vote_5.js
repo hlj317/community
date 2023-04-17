@@ -2875,7 +2875,6 @@ export const myData = [
         ]
     },
 
-
     //04月17日
     {
         date: 'Mon Apr 17',
@@ -2915,6 +2914,33 @@ export const myData = [
                 homeName:'nuggets',
                 homeLeftPoints:'-7.5',
                 homeRatio:61,
+                live:true
+            }
+        ]
+    },
+
+
+    //04月18日
+    {
+        date: 'Mon Apr 18',
+        list: [
+            {
+                time:'Mon 04/18, 7:30 AM',
+                awayName:'nets',
+                awayLeftPoints:'+10.0',
+                awayRatio:31,
+                homeName:'seven6ers',
+                homeLeftPoints:'-10.0',
+                homeRatio:69,
+                live:true
+            },{
+                time:'Mon 04/18, 10:00 AM',
+                awayName:'warriors',
+                awayLeftPoints:'-1.0',
+                awayRatio:55,
+                homeName:'kings',
+                homeLeftPoints:'+1.0',
+                homeRatio:45,
                 live:true
             }
         ]

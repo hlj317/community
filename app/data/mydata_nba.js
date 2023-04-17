@@ -84,9 +84,9 @@ const nbaData = {
     //金州勇士
     warriors:[
         {        
-            'name':'维金斯',
-            'status':'出战',
-            'detail':'可以出战周日对阵国王的比赛',
+            'name':'乔丹.普尔',
+            'status':'出战存疑',
+            'detail':'腿部受伤，周二对阵国王的比赛出战存疑',
             'important':true
         },{        
             'name':'伊戈达拉',
@@ -268,14 +268,9 @@ const nbaData = {
     //萨克拉门托国王
     kings:[
         {
-            'name':'巴恩斯',
-            'status':'出战',
-            'detail':'可以出战周日对阵勇士的比赛',
-            'important':true
-        },{
-            'name':'米切尔',
-            'status':'出战',
-            'detail':'可以出战周日对阵勇士的比赛',
+            'name':'德拉维多瓦',
+            'status':'缺阵',
+            'detail':'手指受伤，归期未定',
             'important':false
         }
     ],
