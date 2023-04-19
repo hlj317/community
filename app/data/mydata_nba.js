@@ -171,8 +171,8 @@ const nbaData = {
             'important':false
         },{
             'name':'字母哥',
-            'status':'大概率出战',
-            'detail':'脚踝受伤，大概率可以出战周四对阵热火的比赛',
+            'status':'缺阵',
+            'detail':'脚踝受伤，无法出战周四对阵热火的比赛',
             'important':true
         }
     ],
