@@ -2922,10 +2922,10 @@ export const myData = [
 
     //04月18日
     {
-        date: 'Mon Apr 18',
+        date: 'Tue Apr 18',
         list: [
             {
-                time:'Mon 04/18, 7:30 AM',
+                time:'Tue 04/18, 7:30 AM',
                 awayName:'nets',
                 awayLeftPoints:'+10.0',
                 awayRatio:31,
@@ -2934,7 +2934,7 @@ export const myData = [
                 homeRatio:69,
                 live:true
             },{
-                time:'Mon 04/18, 10:00 AM',
+                time:'Tue 04/18, 10:00 AM',
                 awayName:'warriors',
                 awayLeftPoints:'-1.0',
                 awayRatio:55,
@@ -2948,10 +2948,10 @@ export const myData = [
 
     //04月19日
     {
-        date: 'Mon Apr 19',
+        date: 'Wed Apr 19',
         list: [
             {
-                time:'Mon 04/19, 7:00 AM',
+                time:'Wed 04/19, 7:00 AM',
                 awayName:'hawks',
                 awayLeftPoints:'+10.0',
                 awayRatio:35,
@@ -2959,7 +2959,7 @@ export const myData = [
                 homeLeftPoints:'-10.0',
                 homeRatio:65
             },{
-                time:'Mon 04/19, 7:30 AM',
+                time:'Wed 04/19, 7:30 AM',
                 awayName:'knicks',
                 awayLeftPoints:'+5.5',
                 awayRatio:40,
@@ -2968,13 +2968,48 @@ export const myData = [
                 homeRatio:60,
                 live:true
             },{
-                time:'Mon 04/19, 10:00 AM',
+                time:'Wed 04/19, 10:00 AM',
                 awayName:'clippers',
                 awayLeftPoints:'+7.5',
                 awayRatio:42,
                 homeName:'suns',
                 homeLeftPoints:'-7.5',
                 homeRatio:58,
+                live:true
+            }
+        ]
+    },
+
+
+    //04月20日
+    {
+        date: 'Thu Apr 20',
+        list: [
+            {
+                time:'Thu 04/20, 7:30 AM',
+                awayName:'lakers',
+                awayLeftPoints:'-1.0',
+                awayRatio:60,
+                homeName:'grizzlies',
+                homeLeftPoints:'+1.0',
+                homeRatio:40,
+                live:true
+            },{
+                time:'Thu 04/19, 9:00 AM',
+                awayName:'heat',
+                awayLeftPoints:'+6.0',
+                awayRatio:38,
+                homeName:'bucks',
+                homeLeftPoints:'-6.0',
+                homeRatio:62
+            },{
+                time:'Thu 04/19, 10:00 AM',
+                awayName:'timberwolves',
+                awayLeftPoints:'+8.0',
+                awayRatio:35,
+                homeName:'nuggets',
+                homeLeftPoints:'-8.0',
+                homeRatio:65,
                 live:true
             }
         ]
