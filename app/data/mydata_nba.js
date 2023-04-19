@@ -66,6 +66,11 @@ const nbaData = {
             'status':'缺阵',
             'detail':'腿部受伤，无法出战',
             'important':false
+        },{
+            'name':'约基奇',
+            'status':'大概率出战',
+            'detail':'手部受伤，大概率可以出战周四对阵森林狼的比赛',
+            'important':true
         }
     ],
     //底特律活塞
@@ -138,8 +143,8 @@ const nbaData = {
             'important':false
         },{
             'name':'莫兰特',
-            'status':'出战存疑',
-            'detail':'手部受伤，周四对阵湖人的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'手部受伤，无法出战周四对阵湖人的比赛',
             'important':true
         }
     ],
@@ -166,8 +171,8 @@ const nbaData = {
             'important':false
         },{
             'name':'字母哥',
-            'status':'出战存疑',
-            'detail':'脚踝受伤，周四对阵热火的比赛出战存疑',
+            'status':'大概率出战',
+            'detail':'脚踝受伤，大概率可以出战周四对阵热火的比赛',
             'important':true
         }
     ],
