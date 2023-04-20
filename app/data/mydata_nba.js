@@ -88,6 +88,11 @@ const nbaData = {
             'status':'长期缺阵',
             'detail':'左手腕受伤，归期未定',
             'important':false
+        },{        
+            'name':'追梦.格林',
+            'status':'缺阵',
+            'detail':'禁赛一场，无法出战周五对阵国王的比赛',
+            'important':true
         }
     ],
     //休斯顿火箭
@@ -262,8 +267,8 @@ const nbaData = {
             'important':false
         },{
             'name':'佩恩',
-            'status':'缺阵',
-            'detail':'腿部受伤，无法出战周三对阵快船的比赛',
+            'status':'出战存疑',
+            'detail':'腿部受伤，周五对阵快船的比赛出战存疑',
             'important':false
         }
     ],
@@ -282,6 +287,11 @@ const nbaData = {
             'status':'缺阵',
             'detail':'手指受伤，归期未定',
             'important':false
+        },{
+            'name':'小萨博尼斯',
+            'status':'出战',
+            'detail':'可以出战周五对阵勇士的比赛',
+            'important':true
         }
     ],
     //圣安东尼奥马刺
