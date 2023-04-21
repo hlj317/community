@@ -4,7 +4,7 @@ const nbaData = {
         {
             'name':'亨特',
             'status':'出战',
-            'detail':'可以出战周三对阵凯尔特人的比赛',
+            'detail':'可以出战周六对阵凯尔特人的比赛',
             'important':true
         }
     ],
@@ -49,6 +49,11 @@ const nbaData = {
             'status':'缺阵',
             'detail':'腿部受伤，预计会缺阵一段时间',
             'important':false
+        },{
+            'name':'奥斯曼',
+            'status':'出战存疑',
+            'detail':'左脚踝受伤，周六对阵尼克斯的比赛出战存疑',
+            'important':false
         }
     ],
     //达拉斯独行侠
@@ -68,8 +73,8 @@ const nbaData = {
             'important':false
         },{
             'name':'约基奇',
-            'status':'大概率出战',
-            'detail':'手部受伤，大概率可以出战周四对阵森林狼的比赛',
+            'status':'出战存疑',
+            'detail':'手部受伤，周六对阵森林狼的比赛出战存疑',
             'important':true
         }
     ],
@@ -122,6 +127,11 @@ const nbaData = {
             'name':'乔治',
             'status':'长期缺阵',
             'detail':'膝盖受伤，预计至少缺阵3-4周时间',
+            'important':true
+        },{
+            'name':'伦纳德',
+            'status':'缺阵',
+            'detail':'膝盖受伤，无法出战周五对阵太阳的比赛',
             'important':true
         }
     ],
@@ -196,12 +206,12 @@ const nbaData = {
         },{
             'name':'戈贝尔',
             'status':'出战存疑',
-            'detail':'背部受伤，周四对阵掘金的比赛出战存疑',
+            'detail':'背部受伤，周六对阵掘金的比赛出战存疑',
             'important':true
         },{
             'name':'杰伦.诺威尔',
             'status':'出战存疑',
-            'detail':'左膝受伤，周四对阵掘金的比赛出战存疑',
+            'detail':'左膝受伤，周六对阵掘金的比赛出战存疑',
             'important':false
         }
     ],
@@ -219,11 +229,6 @@ const nbaData = {
             'name':'阿尔奇迪亚科诺',
             'status':'出战存疑',
             'detail':'腿部受伤，每日观察',
-            'important':false
-        },{
-            'name':'哈特',
-            'status':'出战',
-            'detail':'可以出战周三对阵骑士的比赛',
             'important':false
         }
     ],
@@ -254,7 +259,7 @@ const nbaData = {
         {        
             'name':'尼昂',
             'status':'出战',
-            'detail':'可以出战周日对阵篮网的比赛',
+            'detail':'可以出战周五对阵篮网的比赛',
             'important':false
         }
     ],
@@ -267,8 +272,8 @@ const nbaData = {
             'important':false
         },{
             'name':'佩恩',
-            'status':'出战存疑',
-            'detail':'腿部受伤，周五对阵快船的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'腿部受伤，无法出战周五对阵快船的比赛',
             'important':false
         }
     ],

@@ -3046,6 +3046,41 @@ export const myData = [
                 homeRatio:40
             }
         ]
+    },
+
+    //04月22日
+    {
+        date: 'Sat Apr 22',
+        list: [
+            {
+                time:'Sat 04/22, 7:30 AM',
+                awayName:'celtics',
+                awayLeftPoints:'-5.0',
+                awayRatio:61,
+                homeName:'hawks',
+                homeLeftPoints:'+5.0',
+                homeRatio:39,
+                live:true
+            },{
+                time:'Sat 04/22, 8:30 AM',
+                awayName:'cavaliers',
+                awayLeftPoints:'+2.0',
+                awayRatio:52,
+                homeName:'knicks',
+                homeLeftPoints:'-2.0',
+                homeRatio:48,
+                live:true
+            },{
+                time:'Sat 04/22, 9:30 AM',
+                awayName:'nuggets',
+                awayLeftPoints:'-2.5',
+                awayRatio:57,
+                homeName:'timberwolves',
+                homeLeftPoints:'+2.5',
+                homeRatio:43,
+                live:true
+            }
+        ]
     }
 
 ]
