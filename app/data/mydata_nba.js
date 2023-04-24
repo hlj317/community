@@ -17,8 +17,8 @@ const nbaData = {
             'important':false
         },{        
             'name':'斯马特',
-            'status':'出战存疑',
-            'detail':'后背受伤，周一对阵老鹰的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周一对阵老鹰的比赛',
             'important':true
         }
     ],
@@ -140,7 +140,7 @@ const nbaData = {
         {
             'name':'安东尼.戴维斯',
             'status':'出战',
-            'detail':'可以出战周日对阵灰熊的比赛',
+            'detail':'可以出战周二对阵灰熊的比赛',
             'important':true
         }
     ],
@@ -148,7 +148,7 @@ const nbaData = {
     grizzlies:[
         {
             'name':'亚当斯',
-            'status':'缺阵',
+            'status':'长期缺阵',
             'detail':'膝盖扭伤，至少缺阵3-5周的时间',
             'important':true
         },{
@@ -156,11 +156,6 @@ const nbaData = {
             'status':'长期缺阵',
             'detail':'左肌腱严重拉伤，赛季报销',
             'important':false
-        },{
-            'name':'莫兰特',
-            'status':'出战',
-            'detail':'可以出战周日对阵湖人的比赛',
-            'important':true
         }
     ],
     //迈阿密热火
@@ -171,9 +166,14 @@ const nbaData = {
             'detail':'手腕骨折，赛季报销',
             'important':true
         },{
-            'name':'洛瑞',
-            'status':'出战',
-            'detail':'可以出战周日对阵雄鹿的比赛',
+            'name':'巴特勒',
+            'status':'出战存疑',
+            'detail':'背部受伤，周二对阵雄鹿的比赛出战存疑',
+            'important':true
+        },{
+            'name':'奥拉迪波',
+            'status':'长期缺阵',
+            'detail':'膝盖受伤，赛季报销',
             'important':false
         }
     ],
@@ -186,8 +186,8 @@ const nbaData = {
             'important':false
         },{
             'name':'字母哥',
-            'status':'缺阵',
-            'detail':'脚踝受伤，无法出战周日对阵热火的比赛',
+            'status':'出战存疑',
+            'detail':'脚踝受伤，周二对阵热火的比赛出战存疑',
             'important':true
         }
     ],
@@ -205,8 +205,8 @@ const nbaData = {
             'important':false
         },{
             'name':'杰伦.诺威尔',
-            'status':'出战存疑',
-            'detail':'腿部受伤，周一对阵掘金的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周一对阵掘金的比赛',
             'important':false
         }
     ],
