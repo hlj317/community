@@ -3195,6 +3195,40 @@ export const myData = [
                 live:true
             }
         ]
+    },
+
+    //04月26日
+    {
+        date: 'Wed Apr 26',
+        list: [
+            {
+                time:'Wed 04/26, 7:30 AM',
+                awayName:'hawks',
+                awayLeftPoints:'+13.0',
+                awayRatio:42,
+                homeName:'celtics',
+                homeLeftPoints:'-13.0',
+                homeRatio:58,
+                live:true
+            },{
+                time:'Wed 04/26, 9:00 AM',
+                awayName:'timberwolves',
+                awayLeftPoints:'+9.5',
+                awayRatio:39,
+                homeName:'nuggets',
+                homeLeftPoints:'-9.5',
+                homeRatio:61
+            },{
+                time:'Wed 04/26, 10:00 AM',
+                awayName:'clippers',
+                awayLeftPoints:'+12.5',
+                awayRatio:35,
+                homeName:'suns',
+                homeLeftPoints:'-12.5',
+                homeRatio:65,
+                live:true
+            }
+        ]
     }
 
 ]

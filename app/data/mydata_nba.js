@@ -2,9 +2,9 @@ const nbaData = {
     //亚特兰大老鹰
     hawks:[
         {
-            'name':'亨特',
-            'status':'出战',
-            'detail':'可以出战周一对阵凯尔特人的比赛',
+            'name':'德章泰.默里',
+            'status':'缺阵',
+            'detail':'被官方禁赛一场，无法出战周三对阵凯尔特人的比赛',
             'important':true
         }
     ],
@@ -15,11 +15,6 @@ const nbaData = {
             'status':'长期缺阵',
             'detail':'膝盖ACL伤病，赛季报销',
             'important':false
-        },{        
-            'name':'斯马特',
-            'status':'出战',
-            'detail':'可以出战周一对阵老鹰的比赛',
-            'important':true
         }
     ],
     //布鲁克林篮网
@@ -131,7 +126,7 @@ const nbaData = {
         },{
             'name':'伦纳德',
             'status':'缺阵',
-            'detail':'膝盖受伤，无法出战周日对阵太阳的比赛',
+            'detail':'膝盖受伤，无法出战周三对阵太阳的比赛',
             'important':true
         }
     ],
@@ -167,8 +162,8 @@ const nbaData = {
             'important':true
         },{
             'name':'巴特勒',
-            'status':'出战存疑',
-            'detail':'背部受伤，周二对阵雄鹿的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周二对阵雄鹿的比赛',
             'important':true
         },{
             'name':'奥拉迪波',
@@ -186,8 +181,8 @@ const nbaData = {
             'important':false
         },{
             'name':'字母哥',
-            'status':'出战存疑',
-            'detail':'脚踝受伤，周二对阵热火的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周二对阵热火的比赛',
             'important':true
         }
     ],
@@ -204,9 +199,9 @@ const nbaData = {
             'detail':'手部手术，赛季报销',
             'important':false
         },{
-            'name':'杰伦.诺威尔',
-            'status':'出战',
-            'detail':'可以出战周一对阵掘金的比赛',
+            'name':'凯尔.安德森',
+            'status':'缺阵',
+            'detail':'眼部受伤，无法出战周三对阵掘金的比赛',
             'important':false
         }
     ],
@@ -267,8 +262,8 @@ const nbaData = {
             'important':false
         },{
             'name':'佩恩',
-            'status':'缺阵',
-            'detail':'腿部受伤，无法出战周日对阵快船的比赛',
+            'status':'出战',
+            'detail':'可以出战周三对阵快船的比赛',
             'important':false
         }
     ],
