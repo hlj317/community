@@ -20,10 +20,9 @@ const nbaData = {
     //布鲁克林篮网
     nets:[
         {
-            'name':'本.西蒙斯',
-            'status':'缺阵',
-            'detail':'膝盖受伤，还需要缺阵一段时间',
-            'important':true
+            'name':'无',
+            'status':'无更新',
+            'detail':'本赛季已结束'
         }
     ],
     //夏洛特黄蜂
@@ -104,20 +103,9 @@ const nbaData = {
     //洛杉矶快船
     clippers:[
         {
-            'name':'普雷斯頓',
-            'status':'出战存疑',
-            'detail':'腿部受伤，每日观察',
-            'important':false
-        },{
-            'name':'乔治',
-            'status':'长期缺阵',
-            'detail':'膝盖受伤，预计至少缺阵3-4周时间',
-            'important':true
-        },{
-            'name':'伦纳德',
-            'status':'缺阵',
-            'detail':'膝盖受伤，无法出战周三对阵太阳的比赛',
-            'important':true
+            'name':'无',
+            'status':'无更新',
+            'detail':'本赛季已结束'
         }
     ],
     //洛杉矶湖人
@@ -174,20 +162,9 @@ const nbaData = {
     //明尼苏达森林狼
     timberwolves:[
         {
-            'name':'纳兹.里德',
-            'status':'长期缺阵',
-            'detail':'手腕骨折，赛季报销',
-            'important':false
-        },{
-            'name':'麦克丹尼尔斯',
-            'status':'长期缺阵',
-            'detail':'手部手术，赛季报销',
-            'important':false
-        },{
-            'name':'凯尔.安德森',
-            'status':'缺阵',
-            'detail':'眼部受伤，无法出战周三对阵掘金的比赛',
-            'important':false
+            'name':'无',
+            'status':'无更新',
+            'detail':'本赛季已结束'
         }
     ],
     //新奥尔良鹈鹕
