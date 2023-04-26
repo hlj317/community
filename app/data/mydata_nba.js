@@ -83,16 +83,6 @@ const nbaData = {
             'status':'长期缺阵',
             'detail':'左手腕受伤，归期未定',
             'important':false
-        },{        
-            'name':'追梦.格林',
-            'status':'出战',
-            'detail':'可以出战周一对阵国王的比赛',
-            'important':true
-        },{        
-            'name':'小佩顿',
-            'status':'出战',
-            'detail':'可以出战周一对阵国王的比赛',
-            'important':false
         }
     ],
     //休斯顿火箭
@@ -135,7 +125,7 @@ const nbaData = {
         {
             'name':'安东尼.戴维斯',
             'status':'出战',
-            'detail':'可以出战周二对阵灰熊的比赛',
+            'detail':'可以出战周四对阵灰熊的比赛',
             'important':true
         }
     ],
@@ -161,11 +151,6 @@ const nbaData = {
             'detail':'手腕骨折，赛季报销',
             'important':true
         },{
-            'name':'巴特勒',
-            'status':'出战',
-            'detail':'可以出战周二对阵雄鹿的比赛',
-            'important':true
-        },{
             'name':'奥拉迪波',
             'status':'长期缺阵',
             'detail':'膝盖受伤，赛季报销',
@@ -176,13 +161,13 @@ const nbaData = {
     bucks:[
         {
             'name':'马修斯',
-            'status':'缺阵',
-            'detail':'小腿受伤，无法出战周四对阵热火的比赛',
+            'status':'出战',
+            'detail':'可以出战周四对阵热火的比赛',
             'important':false
         },{
             'name':'字母哥',
             'status':'出战',
-            'detail':'可以出战周二对阵热火的比赛',
+            'detail':'可以出战周四对阵热火的比赛',
             'important':true
         }
     ],
@@ -220,20 +205,19 @@ const nbaData = {
             'status':'出战存疑',
             'detail':'腿部受伤，每日观察',
             'important':false
+        },{
+            'name':'格里姆斯',
+            'status':'出战存疑',
+            'detail':'肩膀受伤，周四对阵骑士的比赛出战存疑',
+            'important':false
         }
     ],
     //俄克拉荷马城雷霆
     thunder:[
         {
-            'name':'切特.霍姆格伦',
-            'status':'长期缺阵',
-            'detail':'腿部受伤，赛季报销',
-            'important':false
-        },{
-            'name':'肯威',
-            'status':'长期缺阵',
-            'detail':'手腕手术，赛季报销',
-            'important':false
+            'name':'无',
+            'status':'无更新',
+            'detail':'本赛季已结束'
         }
     ],
     //奥兰多魔术
@@ -281,6 +265,11 @@ const nbaData = {
             'name':'德拉维多瓦',
             'status':'缺阵',
             'detail':'手指受伤，归期未定',
+            'important':false
+        },{
+            'name':'福克斯',
+            'status':'出战',
+            'detail':'可以出战周四对阵勇士的比赛',
             'important':false
         }
     ],
