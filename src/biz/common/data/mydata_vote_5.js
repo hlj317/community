@@ -3271,6 +3271,23 @@ export const myData = [
                 live:true
             }
         ]
+    },
+
+    //04月28日
+    {
+        date: 'Fri Apr 28',
+        list: [
+            {
+                time:'Fri 04/28, 8:30 AM',
+                awayName:'celtics',
+                awayLeftPoints:'-6.5',
+                awayRatio:59,
+                homeName:'hawks',
+                homeLeftPoints:'+6.5',
+                homeRatio:41,
+                live:true
+            }
+        ]
     }
 
 ]

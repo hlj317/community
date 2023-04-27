@@ -3,8 +3,8 @@ const nbaData = {
     hawks:[
         {
             'name':'德章泰.默里',
-            'status':'缺阵',
-            'detail':'被官方禁赛一场，无法出战周三对阵凯尔特人的比赛',
+            'status':'出战',
+            'detail':'可以出战周五对阵凯尔特人的比赛',
             'important':true
         }
     ],
@@ -44,11 +44,10 @@ const nbaData = {
     //克利夫兰骑士
     cavaliers:[
         {
-            'name':'温德勒',
-            'status':'缺阵',
-            'detail':'腿部受伤，预计会缺阵一段时间',
-            'important':false
-        }
+            'name':'无',
+            'status':'无更新',
+            'detail':'本赛季已结束'
+        }  
     ],
     //达拉斯独行侠
     mavericks:[
@@ -148,15 +147,9 @@ const nbaData = {
     //密尔沃基雄鹿
     bucks:[
         {
-            'name':'马修斯',
-            'status':'出战',
-            'detail':'可以出战周四对阵热火的比赛',
-            'important':false
-        },{
-            'name':'字母哥',
-            'status':'出战',
-            'detail':'可以出战周四对阵热火的比赛',
-            'important':true
+            'name':'无',
+            'status':'无更新',
+            'detail':'本赛季已结束'
         }
     ],
     //明尼苏达森林狼
@@ -184,8 +177,8 @@ const nbaData = {
             'important':false
         },{
             'name':'格里姆斯',
-            'status':'出战存疑',
-            'detail':'肩膀受伤，周四对阵骑士的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'肩膀受伤，无法出战周四对阵骑士的比赛',
             'important':false
         }
     ],
