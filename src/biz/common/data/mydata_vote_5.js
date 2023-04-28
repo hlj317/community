@@ -3288,6 +3288,32 @@ export const myData = [
                 live:true
             }
         ]
+    },
+
+    //04月29日
+    {
+        date: 'Sat Apr 29',
+        list: [
+            {
+                time:'Sat 04/29, 8:00 AM',
+                awayName:'kings',
+                awayLeftPoints:'+7.0',
+                awayRatio:39,
+                homeName:'warriors',
+                homeLeftPoints:'-7.0',
+                homeRatio:61,
+                live:true
+            },{
+                time:'Sat 04/29, 10:30 AM',
+                awayName:'grizzlies',
+                awayLeftPoints:'+4.5',
+                awayRatio:45,
+                homeName:'lakers',
+                homeLeftPoints:'-4.5',
+                homeRatio:55,
+                live:true
+            }
+        ]
     }
 
 ]

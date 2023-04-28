@@ -2,10 +2,9 @@ const nbaData = {
     //亚特兰大老鹰
     hawks:[
         {
-            'name':'德章泰.默里',
-            'status':'出战',
-            'detail':'可以出战周五对阵凯尔特人的比赛',
-            'important':true
+            'name':'无',
+            'status':'无更新',
+            'detail':'本赛季已结束'
         }
     ],
     //波士顿凯尔特人
@@ -127,6 +126,11 @@ const nbaData = {
             'name':'克拉克',
             'status':'长期缺阵',
             'detail':'左肌腱严重拉伤，赛季报销',
+            'important':false
+        },{
+            'name':'肯纳德',
+            'status':'出战存疑',
+            'detail':'肩膀拉伤，周六对阵湖人的比赛出战存疑',
             'important':false
         }
     ],
