@@ -111,27 +111,16 @@ const nbaData = {
         {
             'name':'安东尼.戴维斯',
             'status':'出战',
-            'detail':'可以出战周四对阵灰熊的比赛',
+            'detail':'可以出战周六对阵灰熊的比赛',
             'important':true
         }
     ],
     //孟菲斯灰熊
     grizzlies:[
         {
-            'name':'亚当斯',
-            'status':'长期缺阵',
-            'detail':'膝盖扭伤，至少缺阵3-5周的时间',
-            'important':true
-        },{
-            'name':'克拉克',
-            'status':'长期缺阵',
-            'detail':'左肌腱严重拉伤，赛季报销',
-            'important':false
-        },{
-            'name':'肯纳德',
-            'status':'出战存疑',
-            'detail':'肩膀拉伤，周六对阵湖人的比赛出战存疑',
-            'important':false
+            'name':'无',
+            'status':'无更新',
+            'detail':'本赛季已结束'
         }
     ],
     //迈阿密热火
@@ -181,9 +170,14 @@ const nbaData = {
             'important':false
         },{
             'name':'格里姆斯',
-            'status':'缺阵',
-            'detail':'肩膀受伤，无法出战周四对阵骑士的比赛',
+            'status':'出战存疑',
+            'detail':'肩膀受伤，周一对阵热火的比赛出战存疑',
             'important':false
+        },{
+            'name':'兰德尔',
+            'status':'出战存疑',
+            'detail':'脚踝受伤，周一对阵热火的比赛出战存疑',
+            'important':true
         }
     ],
     //俄克拉荷马城雷霆
@@ -206,8 +200,8 @@ const nbaData = {
     seven6ers:[
         {        
             'name':'恩比德',
-            'status':'缺阵',
-            'detail':'膝盖扭伤，无法出战周日对阵篮网的比赛',
+            'status':'出战存疑',
+            'detail':'膝盖扭伤，每日观察',
             'important':true
         }
     ],
@@ -217,11 +211,6 @@ const nbaData = {
             'name':'萨宾.李',
             'status':'出战存疑',
             'detail':'腿部受伤，每日观察',
-            'important':false
-        },{
-            'name':'佩恩',
-            'status':'出战',
-            'detail':'可以出战周三对阵快船的比赛',
             'important':false
         }
     ],
@@ -239,11 +228,6 @@ const nbaData = {
             'name':'德拉维多瓦',
             'status':'缺阵',
             'detail':'手指受伤，归期未定',
-            'important':false
-        },{
-            'name':'福克斯',
-            'status':'出战',
-            'detail':'可以出战周四对阵勇士的比赛',
             'important':false
         }
     ],
