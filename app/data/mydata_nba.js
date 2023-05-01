@@ -135,6 +135,11 @@ const nbaData = {
             'status':'长期缺阵',
             'detail':'膝盖受伤，赛季报销',
             'important':false
+        },{
+            'name':'巴特勒',
+            'status':'出战存疑',
+            'detail':'脚踝受伤，周三对阵尼克斯的比赛出战存疑',
+            'important':true
         }
     ],
     //密尔沃基雄鹿
@@ -169,14 +174,9 @@ const nbaData = {
             'detail':'腿部受伤，每日观察',
             'important':false
         },{
-            'name':'格里姆斯',
-            'status':'出战存疑',
-            'detail':'肩膀受伤，周一对阵热火的比赛出战存疑',
-            'important':false
-        },{
             'name':'兰德尔',
             'status':'出战存疑',
-            'detail':'脚踝受伤，周一对阵热火的比赛出战存疑',
+            'detail':'脚踝受伤，周三对阵热火的比赛出战存疑',
             'important':true
         }
     ],
@@ -225,10 +225,9 @@ const nbaData = {
     //萨克拉门托国王
     kings:[
         {
-            'name':'德拉维多瓦',
-            'status':'缺阵',
-            'detail':'手指受伤，归期未定',
-            'important':false
+            'name':'无',
+            'status':'无更新',
+            'detail':'本赛季已结束'
         }
     ],
     //圣安东尼奥马刺
