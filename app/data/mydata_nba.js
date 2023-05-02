@@ -200,8 +200,8 @@ const nbaData = {
     seven6ers:[
         {        
             'name':'恩比德',
-            'status':'出战存疑',
-            'detail':'膝盖扭伤，每日观察',
+            'status':'缺阵',
+            'detail':'膝盖扭伤，无法出战周二对阵凯尔特人的比赛',
             'important':true
         }
     ],
