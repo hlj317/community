@@ -109,10 +109,10 @@ const nbaData = {
     //洛杉矶湖人
     lakers:[
         {
-            'name':'安东尼.戴维斯',
-            'status':'出战',
-            'detail':'可以出战周六对阵灰熊的比赛',
-            'important':true
+            'name':'班巴',
+            'status':'出战存疑',
+            'detail':'腿部受伤，每日观察',
+            'important':false
         }
     ],
     //孟菲斯灰熊
@@ -137,8 +137,8 @@ const nbaData = {
             'important':false
         },{
             'name':'巴特勒',
-            'status':'出战存疑',
-            'detail':'脚踝受伤，周三对阵尼克斯的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'脚踝受伤，无法出战周三对阵尼克斯的比赛',
             'important':true
         }
     ],
@@ -175,8 +175,13 @@ const nbaData = {
             'important':false
         },{
             'name':'兰德尔',
-            'status':'出战存疑',
-            'detail':'脚踝受伤，周三对阵热火的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周三对阵热火的比赛',
+            'important':true
+        },{
+            'name':'杰伦.布伦森',
+            'status':'出战',
+            'detail':'可以出战周三对阵热火的比赛',
             'important':true
         }
     ],
@@ -200,8 +205,8 @@ const nbaData = {
     seven6ers:[
         {        
             'name':'恩比德',
-            'status':'缺阵',
-            'detail':'膝盖扭伤，无法出战周二对阵凯尔特人的比赛',
+            'status':'出战存疑',
+            'detail':'膝盖扭伤，周四对阵凯尔特人的比赛出战存疑',
             'important':true
         }
     ],
@@ -212,6 +217,11 @@ const nbaData = {
             'status':'出战存疑',
             'detail':'腿部受伤，每日观察',
             'important':false
+        },{
+            'name':'克里斯.保罗',
+            'status':'缺阵',
+            'detail':'腹股沟受伤，预计缺阵接下来季后赛第二轮G3-G5的三场比赛',
+            'important':true
         }
     ],
     //波特兰开拓者
