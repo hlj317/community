@@ -205,8 +205,8 @@ const nbaData = {
     seven6ers:[
         {        
             'name':'恩比德',
-            'status':'出战存疑',
-            'detail':'膝盖扭伤，周四对阵凯尔特人的比赛出战存疑',
+            'status':'大概率出战',
+            'detail':'膝盖扭伤，大概率可以出战周六对阵凯尔特人的比赛',
             'important':true
         }
     ],
@@ -219,8 +219,8 @@ const nbaData = {
             'important':false
         },{
             'name':'克里斯.保罗',
-            'status':'缺阵',
-            'detail':'腹股沟受伤，预计缺阵接下来季后赛第二轮G3-G5的三场比赛',
+            'status':'出战存疑',
+            'detail':'腹股沟受伤，周六对阵太阳的比赛出战存疑',
             'important':true
         }
     ],
