@@ -137,9 +137,14 @@ const nbaData = {
             'important':false
         },{
             'name':'巴特勒',
-            'status':'缺阵',
-            'detail':'脚踝受伤，无法出战周三对阵尼克斯的比赛',
+            'status':'出战存疑',
+            'detail':'脚踝受伤，周日对阵尼克斯的比赛出战存疑',
             'important':true
+        },{
+            'name':'凯莱布.马丁',
+            'status':'出战存疑',
+            'detail':'腿部受伤，周日对阵尼克斯的比赛出战存疑',
+            'important':false
         }
     ],
     //密尔沃基雄鹿
@@ -169,20 +174,10 @@ const nbaData = {
     //纽约尼克斯
     knicks:[
         {
-            'name':'阿尔奇迪亚科诺',
-            'status':'出战存疑',
-            'detail':'腿部受伤，每日观察',
+            'name':'西姆斯',
+            'status':'缺阵',
+            'detail':'肩膀受伤，归期未定',
             'important':false
-        },{
-            'name':'兰德尔',
-            'status':'出战',
-            'detail':'可以出战周三对阵热火的比赛',
-            'important':true
-        },{
-            'name':'杰伦.布伦森',
-            'status':'出战',
-            'detail':'可以出战周三对阵热火的比赛',
-            'important':true
         }
     ],
     //俄克拉荷马城雷霆
