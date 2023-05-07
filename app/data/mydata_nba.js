@@ -14,6 +14,11 @@ const nbaData = {
             'status':'长期缺阵',
             'detail':'膝盖ACL伤病，赛季报销',
             'important':false
+        },{        
+            'name':'斯马特',
+            'status':'出战存疑',
+            'detail':'腿部受伤，周一对阵76人的比赛出战存疑',
+            'important':false
         }
     ],
     //布鲁克林篮网
@@ -137,13 +142,13 @@ const nbaData = {
             'important':false
         },{
             'name':'巴特勒',
-            'status':'出战存疑',
-            'detail':'脚踝受伤，周日对阵尼克斯的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周日对阵尼克斯的比赛',
             'important':true
         },{
             'name':'凯莱布.马丁',
-            'status':'出战存疑',
-            'detail':'腿部受伤，周日对阵尼克斯的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周日对阵尼克斯的比赛',
             'important':false
         }
     ],
@@ -201,7 +206,7 @@ const nbaData = {
         {        
             'name':'恩比德',
             'status':'大概率出战',
-            'detail':'膝盖扭伤，大概率可以出战周六对阵凯尔特人的比赛',
+            'detail':'膝盖扭伤，大概率可以出战周一对阵凯尔特人的比赛',
             'important':true
         }
     ],
@@ -214,8 +219,8 @@ const nbaData = {
             'important':false
         },{
             'name':'克里斯.保罗',
-            'status':'出战存疑',
-            'detail':'腹股沟受伤，周六对阵太阳的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'腹股沟受伤，无法出战周一对阵太阳的比赛',
             'important':true
         }
     ],
