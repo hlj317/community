@@ -3574,6 +3574,32 @@ export const myData = [
                 live:true
             }
         ]
+    },
+
+    //05月11日
+    {
+        date: 'Wed May 11',
+        list: [
+            {
+                time:'Wed 05/11, 7:30 AM',
+                awayName:'heat',
+                awayLeftPoints:'+3.5',
+                awayRatio:53,
+                homeName:'knicks',
+                homeLeftPoints:'-3.5',
+                homeRatio:47,
+                live:true
+            },{
+                time:'Wed 05/11, 10:00 AM',
+                awayName:'lakers',
+                awayLeftPoints:'+7.0',
+                awayRatio:42,
+                homeName:'warriors',
+                homeLeftPoints:'-7.0',
+                homeRatio:58,
+                live:true
+            }
+        ]
     }
 
 ]
