@@ -219,8 +219,8 @@ const nbaData = {
             'important':false
         },{
             'name':'克里斯.保罗',
-            'status':'缺阵',
-            'detail':'腹股沟受伤，无法出战周三对阵太阳的比赛',
+            'status':'出战存疑',
+            'detail':'腹股沟受伤，周五对阵掘金的比赛出战存疑',
             'important':true
         }
     ],
