@@ -113,6 +113,11 @@ const nbaData = {
             'status':'出战存疑',
             'detail':'腿部受伤，每日观察',
             'important':false
+        },{
+            'name':'安东尼.戴维斯',
+            'status':'出战',
+            'detail':'可以出战周六对阵勇士的比赛',
+            'important':true
         }
     ],
     //孟菲斯灰熊
@@ -137,13 +142,13 @@ const nbaData = {
             'important':false
         },{
             'name':'巴特勒',
-            'status':'出战存疑',
-            'detail':'脚踝受伤，周四对阵尼克斯的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周六对阵尼克斯的比赛',
             'important':true
         },{
             'name':'凯莱布.马丁',
-            'status':'出战存疑',
-            'detail':'背部受伤，周四对阵尼克斯的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周六对阵尼克斯的比赛',
             'important':false
         }
     ],
@@ -181,7 +186,7 @@ const nbaData = {
         },{
             'name':'奎克利',
             'status':'出战存疑',
-            'detail':'脚踝受伤，周四对阵热火的比赛出战存疑',
+            'detail':'脚踝受伤，周六对阵热火的比赛出战存疑',
             'important':false
         }
     ],

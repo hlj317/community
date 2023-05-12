@@ -3626,6 +3626,32 @@ export const myData = [
                 live:true
             }
         ]
+    },
+
+    //05月13日
+    {
+        date: 'Sat May 13',
+        list: [
+            {
+                time:'Sat 05/13, 7:30 AM',
+                awayName:'knicks',
+                awayLeftPoints:'+5.0',
+                awayRatio:33,
+                homeName:'heat',
+                homeLeftPoints:'-5.0',
+                homeRatio:67,
+                live:true
+            },{
+                time:'Sat 05/13, 10:00 AM',
+                awayName:'warriors',
+                awayLeftPoints:'+2.5',
+                awayRatio:42,
+                homeName:'lakers',
+                homeLeftPoints:'-2.5',
+                homeRatio:58,
+                live:true
+            }
+        ]
     }
 
 ]
