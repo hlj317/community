@@ -75,11 +75,10 @@ const nbaData = {
     ],
     //金州勇士
     warriors:[
-        {        
-            'name':'伊戈达拉',
-            'status':'长期缺阵',
-            'detail':'左手腕受伤，归期未定',
-            'important':false
+        {
+            'name':'无',
+            'status':'无更新',
+            'detail':'本赛季已结束'
         }
     ],
     //休斯顿火箭
@@ -113,11 +112,6 @@ const nbaData = {
             'status':'出战存疑',
             'detail':'腿部受伤，每日观察',
             'important':false
-        },{
-            'name':'安东尼.戴维斯',
-            'status':'出战',
-            'detail':'可以出战周六对阵勇士的比赛',
-            'important':true
         }
     ],
     //孟菲斯灰熊
@@ -179,15 +173,9 @@ const nbaData = {
     //纽约尼克斯
     knicks:[
         {
-            'name':'西姆斯',
-            'status':'缺阵',
-            'detail':'肩膀受伤，归期未定',
-            'important':false
-        },{
-            'name':'奎克利',
-            'status':'出战存疑',
-            'detail':'脚踝受伤，周六对阵热火的比赛出战存疑',
-            'important':false
+            'name':'无',
+            'status':'无更新',
+            'detail':'本赛季已结束'
         }
     ],
     //俄克拉荷马城雷霆
@@ -211,22 +199,16 @@ const nbaData = {
         {        
             'name':'恩比德',
             'status':'出战',
-            'detail':'可以出战周三对阵凯尔特人的比赛',
+            'detail':'可以出战周一对阵凯尔特人的比赛',
             'important':true
         }
     ],
     //菲尼克斯太阳
     suns:[
         {
-            'name':'萨宾.李',
-            'status':'出战存疑',
-            'detail':'腿部受伤，每日观察',
-            'important':false
-        },{
-            'name':'克里斯.保罗',
-            'status':'出战存疑',
-            'detail':'腹股沟受伤，周五对阵掘金的比赛出战存疑',
-            'important':true
+            'name':'无',
+            'status':'无更新',
+            'detail':'本赛季已结束'
         }
     ],
     //波特兰开拓者
