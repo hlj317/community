@@ -3686,6 +3686,23 @@ export const myData = [
                 live:true
             }
         ]
+    },
+
+    //05月18日
+    {
+        date: 'Thu May 18',
+        list: [
+            {
+                time:'Thu 05/18, 8:30 AM',
+                awayName:'heat',
+                awayLeftPoints:'+8.0',
+                awayRatio:63,
+                homeName:'celtics',
+                homeLeftPoints:'-8.0',
+                homeRatio:37,
+                live:true
+            }
+        ]
     }
 
 ]

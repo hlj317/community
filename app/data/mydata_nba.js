@@ -135,14 +135,9 @@ const nbaData = {
             'detail':'膝盖受伤，赛季报销',
             'important':false
         },{
-            'name':'巴特勒',
-            'status':'出战',
-            'detail':'可以出战周六对阵尼克斯的比赛',
-            'important':true
-        },{
-            'name':'凯莱布.马丁',
-            'status':'出战',
-            'detail':'可以出战周六对阵尼克斯的比赛',
+            'name':'泽勒',
+            'status':'出战存疑',
+            'detail':'身体不适，周四对阵凯尔特人的比赛出战存疑',
             'important':false
         }
     ],
