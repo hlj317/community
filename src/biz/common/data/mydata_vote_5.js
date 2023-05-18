@@ -3720,6 +3720,56 @@ export const myData = [
                 live:true
             }
         ]
+    },
+
+    //05月20日
+    {
+        date: 'Sat May 20',
+        list: [
+            {
+                time:'Sat 05/20, 8:30 AM',
+                awayName:'heat',
+                awayLeftPoints:'+9.0',
+                awayRatio:44,
+                homeName:'celtics',
+                homeLeftPoints:'-9.0',
+                homeRatio:56,
+                live:true
+            },{
+                time:'Sat 05/20, 7:00 AM',
+                awayName:'liberty',
+                awayLeftPoints:'+1.5',
+                awayRatio:48,
+                homeName:'mystics',
+                homeLeftPoints:'-1.5',
+                homeRatio:52
+            },{
+                time:'Sat 05/20, 7:00 AM',
+                awayName:'sun',
+                awayLeftPoints:'-7.5',
+                awayRatio:69,
+                homeName:'fever',
+                homeLeftPoints:'+7.5',
+                homeRatio:31
+            },{
+                time:'Sat 05/20, 8:00 AM',
+                awayName:'sky',
+                awayLeftPoints:'+4.5',
+                awayRatio:36,
+                homeName:'lynx',
+                homeLeftPoints:'-4.5',
+                homeRatio:64
+            },{
+                time:'Sat 05/20, 11:00 AM',
+                awayName:'mercury',
+                awayLeftPoints:'+2.5',
+                awayRatio:60,
+                homeName:'sparks',
+                homeLeftPoints:'-2.5',
+                homeRatio:40,
+                live:true
+            }
+        ]
     }
 
 ]
