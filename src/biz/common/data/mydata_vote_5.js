@@ -3770,6 +3770,41 @@ export const myData = [
                 live:true
             }
         ]
+    },
+
+    //05月21日
+    {
+        date: 'Sun May 21',
+        list: [
+            {
+                time:'Sun 05/21, 8:30 AM',
+                awayName:'nuggets',
+                awayLeftPoints:'+5.5',
+                awayRatio:42,
+                homeName:'lakers',
+                homeLeftPoints:'-5.5',
+                homeRatio:58,
+                live:true
+            },{
+                time:'Sun 05/21, 1:00 AM',
+                awayName:'dream',
+                awayLeftPoints:'+5.5',
+                awayRatio:39,
+                homeName:'wings',
+                homeLeftPoints:'-5.5',
+                homeRatio:61,
+                live:true
+            },{
+                time:'Sun 05/21, 3:00 AM',
+                awayName:'aces',
+                awayLeftPoints:'-12.5',
+                awayRatio:70,
+                homeName:'storm',
+                homeLeftPoints:'+12.5',
+                homeRatio:30,
+                live:true
+            }
+        ]
     }
 
 ]
