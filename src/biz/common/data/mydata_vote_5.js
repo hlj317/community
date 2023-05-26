@@ -3899,4 +3899,37 @@ export const myData = [
         ]
     },
 
+    //05月26日
+    {
+        date: 'Fri May 26',
+        list: [
+            {
+                time:'Fri 05/26, 8:30 AM',
+                awayName:'heat',
+                awayLeftPoints:'+8.5',
+                awayRatio:61,
+                homeName:'celtics',
+                homeLeftPoints:'-8.5',
+                homeRatio:39,
+                live:true
+            },{
+                time:'Fri 05/26, 10:00 AM',
+                awayName:'lynx',
+                awayLeftPoints:'+3.0',
+                awayRatio:40,
+                homeName:'mercury',
+                homeLeftPoints:'-3.0',
+                homeRatio:60
+            },{
+                time:'Fri 05/26, 10:00 AM',
+                awayName:'aces',
+                awayLeftPoints:'-13.5',
+                awayRatio:57,
+                homeName:'sparks',
+                homeLeftPoints:'+13.5',
+                homeRatio:43
+            },
+        ]
+    }
+
 ]
