@@ -3989,7 +3989,6 @@ export const myData = [
         ]
     },
 
-
     //05月29日
     {
         date: 'Mon May 29',
@@ -4018,6 +4017,23 @@ export const myData = [
                 homeName:'aces',
                 homeLeftPoints:'-12.5',
                 homeRatio:65
+            }
+        ]
+    },
+
+    //05月30日
+    {
+        date: 'Tue May 30',
+        list: [
+            {
+                time:'Tue 05/30, 8:30 AM',
+                awayName:'heat',
+                awayLeftPoints:'+7.5',
+                awayRatio:58,
+                homeName:'celtics',
+                homeLeftPoints:'-7.5',
+                homeRatio:42,
+                live:true
             }
         ]
     }
