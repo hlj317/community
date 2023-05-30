@@ -4036,6 +4036,48 @@ export const myData = [
                 live:true
             }
         ]
-    }
+    },
+
+    //05月31日
+    {
+        date: 'Wed May 31',
+        list: [
+            {
+                time:'Wed 05/31, 7:00 AM',
+                awayName:'fever',
+                awayLeftPoints:'+12.5',
+                awayRatio:32,
+                homeName:'sun',
+                homeLeftPoints:'-12.5',
+                homeRatio:68
+            },{
+                time:'Wed 05/31, 8:00 AM',
+                awayName:'sky',
+                awayLeftPoints:'+2.5',
+                awayRatio:48,
+                homeName:'dream',
+                homeLeftPoints:'-2.5',
+                homeRatio:52
+            },{
+                time:'Wed 05/31, 9:00 AM',
+                awayName:'lynx',
+                awayLeftPoints:'+5.5',
+                awayRatio:46,
+                homeName:'wings',
+                homeLeftPoints:'-5.5',
+                homeRatio:54,
+                live:true
+            },{
+                time:'Wed 05/31, 9:00 AM',
+                awayName:'liberty',
+                awayLeftPoints:'-15.5',
+                awayRatio:61,
+                homeName:'storm',
+                homeLeftPoints:'+15.5',
+                homeRatio:39,
+                live:true
+            }
+        ]
+    },
 
 ]
