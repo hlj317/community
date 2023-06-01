@@ -4080,4 +4080,29 @@ export const myData = [
         ]
     },
 
+    //06月02日
+    {
+        date: 'Fri Jun 02',
+        list: [
+            {
+                time:'Jun 06/02, 8:30 AM',
+                awayName:'heat',
+                awayLeftPoints:'+9.0',
+                awayRatio:55,
+                homeName:'nuggets',
+                homeLeftPoints:'-9.0',
+                homeRatio:45,
+                live:true
+            },{
+                time:'Jun 06/02, 8:00 AM',
+                awayName:'sun',
+                awayLeftPoints:'+7.5',
+                awayRatio:67,
+                homeName:'lynx',
+                homeLeftPoints:'-7.5',
+                homeRatio:33
+            }
+        ]
+    },
+
 ]
