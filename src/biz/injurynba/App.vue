@@ -215,6 +215,7 @@
             color:#ffffff;
         }
         &.vote-ratio a{
+            padding-left: 10 /@b;
             width:140 / @b;   
         }
         &.lancai{
