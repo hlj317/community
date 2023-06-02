@@ -8,15 +8,15 @@
             </div>
             <div class="portait-text">
                 <div class="text-name"><span class="text-game">每日红单推荐</span>请关注微信公众号：<strong>[篮彩老黑]</strong></div>
-                <div class="text-notice">NBA伤病名单实时更新、篮彩盘口热度更新、专栏文章</div>
+                <div class="text-notice">WNBA伤病名单实时更新、WNBA新闻咨询、WNBA盘口热度</div>
             </div>
         </div>
         <div class="clear"></div>
         <ul class="nav">
-            <li><a href="/injurynba.html">NBA</a></li>
-            <li class="vote-ratio"><a href="#">盘口热度</a><span class="selected"></span></li>
+            <li class="vote-ratio"><a href="/injurywnba.html">WNBA伤病</a></li>
+            <li class="news-ratio"><a href="/info.html">WNBA新闻</a></li>
             <li class="lancai"><a href="/lancai.html">专栏文章</a></li>
-            <li class="vote-ratio"><a href="/rank.html">盘口红黑榜</a></li>
+            <li class="lancai"><a href="#">盘口热度</a><span class="selected"></span></li>   
         </ul>
     </div>
     <div class="clear"></div>
@@ -274,20 +274,27 @@
     float:left;
     margin-left:0;
     margin-right:50 / @b;
-    color:#ffffff;
     font-size:24 / @b;
-    width:120 / @b;
-    font-weight: bold;
-    text-align:center;
-    &.vote-ratio{
-        width:140 / @b;   
+    a{
+        display: block;
+        width:120 / @b;
+        font-weight: bold;
+        text-align:center;
+        color:#ffffff;
+    }
+    &.vote-ratio a{
+        padding-left: 25 /@b;
+        width:135 / @b;   
     }
     &.lancai{
-        width: 140 / @b;
+        width: 105 / @b;
         a{
-            width:150 / @b;   
+            width:105 / @b;   
             display:block;
         }
+    }
+    &.news-ratio a{
+        width:140 / @b;   
     }
 }
 .nav li span{

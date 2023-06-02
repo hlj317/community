@@ -171,7 +171,7 @@
         border-left-color: transparent;
         border-right-color: transparent;
         position: relative;
-        left: 66 / @b;
+        left: 70 / @b;
         top: -22 / @b;
     }
 

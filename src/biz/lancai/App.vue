@@ -95,14 +95,18 @@
             color:#ffffff;
         }
         &.vote-ratio a{
-            width:140 / @b;   
+            padding-left: 25 /@b;
+            width:135 / @b;   
         }
         &.lancai{
-            width: 140 / @b;
+            width: 105 / @b;
             a{
-                width:150 / @b;   
+                width:105 / @b;   
                 display:block;
             }
+        }
+        &.news-ratio a{
+            width:140 / @b;   
         }
     }
     .nav li span{
