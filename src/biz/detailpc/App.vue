@@ -100,6 +100,9 @@
         &.lancai a{
             width: 160px;    
         }
+        &.news-ratio a{
+            width:180px;
+        }
     }
     .nav li a{
         display: block;
