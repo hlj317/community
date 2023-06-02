@@ -7,7 +7,7 @@
                 <img src="https://lancailaohei.oss-cn-hangzhou.aliyuncs.com/common/portait.png"/>
             </div>
             <div class="portait-text">
-                <div class="text-name"><span class="text-game">每日红单推荐</span>请关注微信公众号：<strong>[篮彩老黑]</strong></div>
+                <div class="text-name"><span class="text-game">每日篮球推荐</span>请关注微信公众号：<strong>[篮彩老黑]</strong></div>
                 <div class="text-notice">WNBA伤病名单实时更新、WNBA新闻咨询、WNBA盘口热度</div>
             </div>
         </div>
@@ -450,7 +450,7 @@
     border-left-color: transparent;
     border-right-color: transparent;
     position: relative;
-    left: 57 / @b;
+    left: 48 / @b;
     top: -22 / @b;
 }
 

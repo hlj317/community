@@ -130,7 +130,7 @@
         border-left-color: transparent;
         border-right-color: transparent;
         position: relative;
-        left: 61 / @b;
+        left: 48 / @b;
         top: -22 / @b;
     }
 
