@@ -218,9 +218,9 @@
             width:140 / @b;   
         }
         &.lancai{
-            width: 140 / @b;
+            width: 120 / @b;
             a{
-                width:150 / @b;   
+                width:120 / @b;   
                 display:block;
             }
         }
