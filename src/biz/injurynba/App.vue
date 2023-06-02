@@ -225,6 +225,9 @@
                 display:block;
             }
         }
+        &.news-ratio a{
+            width:140 / @b;   
+        }
     }
     .nav li span{
         display: block;
