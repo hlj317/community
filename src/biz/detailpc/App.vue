@@ -101,7 +101,7 @@
             width: 160px;    
         }
         &.news-ratio a{
-            width:180px;
+            width:160px;
         }
     }
     .nav li a{
