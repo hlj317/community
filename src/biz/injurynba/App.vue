@@ -215,13 +215,13 @@
             color:#ffffff;
         }
         &.vote-ratio a{
-            padding-left: 15 /@b;
+            padding-left: 20 /@b;
             width:135 / @b;   
         }
         &.lancai{
-            width: 115 / @b;
+            width: 110 / @b;
             a{
-                width:115 / @b;   
+                width:110 / @b;   
                 display:block;
             }
         }
@@ -247,7 +247,7 @@
         border-left-color: transparent;
         border-right-color: transparent;
         position: relative;
-        left: 50 / @b;
+        left: 58 / @b;
         top: -22 / @b;
     }
 
