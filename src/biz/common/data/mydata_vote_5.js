@@ -4271,6 +4271,79 @@ export const myData = [
                 homeRatio:57
             }
         ]
+    },
+
+    //06月09日
+    {
+        date: 'Fri Jun 09',
+        list: [
+            {
+                time:'Fri 06/09, 7:00 AM',
+                awayName:'aces',
+                awayLeftPoints:'-5.5',
+                awayRatio:39,
+                homeName:'sun',
+                homeLeftPoints:'+5.5',
+                homeRatio:61
+            }
+        ]
+    },
+
+    //06月09日
+    {
+        date: 'Sat Jun 10',
+        list: [
+            {
+                time:'Sat 06/10, 8:30 AM',
+                awayName:'nuggets',
+                awayLeftPoints:'-5.5',
+                awayRatio:65,
+                homeName:'heat',
+                homeLeftPoints:'+5.5',
+                homeRatio:35
+            },{
+                time:'Sat 06/10, 7:30 AM',
+                awayName:'liberty',
+                awayLeftPoints:'-7.0',
+                awayRatio:58,
+                homeName:'dream',
+                homeLeftPoints:'+7.0',
+                homeRatio:42
+            },{
+                time:'Sat 06/10, 8:00 AM',
+                awayName:'mercury',
+                awayLeftPoints:'+5.0',
+                awayRatio:40,
+                homeName:'wings',
+                homeLeftPoints:'-5.0',
+                homeRatio:60
+            },{
+                time:'Sat 06/10, 8:00 AM',
+                awayName:'fever',
+                awayLeftPoints:'+2.5',
+                awayRatio:45,
+                homeName:'lynx',
+                homeLeftPoints:'-2.5',
+                homeRatio:55
+            },{
+                time:'Sat 06/10, 10:00 AM',
+                awayName:'mystics',
+                awayLeftPoints:'-12.5',
+                awayRatio:63,
+                homeName:'storm',
+                homeLeftPoints:'+12.5',
+                homeRatio:37
+            },{
+                time:'Sat 06/10, 10:00 AM',
+                awayName:'sky',
+                awayLeftPoints:'+3.5',
+                awayRatio:44,
+                homeName:'sparks',
+                homeLeftPoints:'-3.5',
+                homeRatio:56
+            }
+        ]
     }
+
 
 ]
