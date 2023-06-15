@@ -4452,6 +4452,78 @@ export const myData = [
                 homeRatio:61
             }
         ]
+    },
+
+    //06月15日
+    {
+        date: 'Thu Jun 15',
+        list: [
+            {
+                time:'Thu 06/15, 1:00 AM',
+                awayName:'sparks',
+                awayLeftPoints:'+5.5',
+                awayRatio:40,
+                homeName:'wings',
+                homeLeftPoints:'-5.5',
+                homeRatio:60
+            }
+        ]
+    },
+
+    //06月16日
+    {
+        date: 'Fri Jun 16',
+        list: [
+            {
+                time:'Fri 06/16, 7:00 AM',
+                awayName:'dream',
+                awayLeftPoints:'+8.5',
+                awayRatio:32,
+                homeName:'sun',
+                homeLeftPoints:'-8.5',
+                homeRatio:68
+            },{
+                time:'Fri 06/16, 8:00 AM',
+                awayName:'fever',
+                awayLeftPoints:'+3.5',
+                awayRatio:55,
+                homeName:'sky',
+                homeLeftPoints:'-3.5',
+                homeRatio:45
+            },{
+                time:'Fri 06/16, 10:00 AM',
+                awayName:'storm',
+                awayLeftPoints:'+17.5',
+                awayRatio:37,
+                homeName:'aces',
+                homeLeftPoints:'-17.5',
+                homeRatio:63
+            }
+        ]
+    },
+
+    //06月17日
+    {
+        date: 'Sat Jun 17',
+        list: [
+            {
+                time:'Sat 06/17, 8:00 AM',
+                awayName:'mercury',
+                awayLeftPoints:'+10.5',
+                awayRatio:35,
+                homeName:'mystics',
+                homeLeftPoints:'-10.5',
+                homeRatio:65
+            },{
+                time:'Sat 06/17, 10:00 AM',
+                awayName:'lynx',
+                awayLeftPoints:'+6.5',
+                awayRatio:40,
+                homeName:'sparks',
+                homeLeftPoints:'-6.5',
+                homeRatio:60
+            }
+        ]
     }
 
 
