@@ -4630,10 +4630,10 @@ export const myData = [
                 time:'Thu 06/22, 3:30 AM',
                 awayName:'aces',
                 awayLeftPoints:'-17.5',
-                awayRatio:63,
+                awayRatio:61,
                 homeName:'mercury',
                 homeLeftPoints:'+17.5',
-                homeRatio:37
+                homeRatio:39
             }
         ]
     }
