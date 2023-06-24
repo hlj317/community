@@ -4692,6 +4692,30 @@ export const myData = [
                 homeRatio:39
             }
         ]
+    },
+
+    //06月25日
+    {
+        date: 'Sun Jun 25',
+        list: [
+            {
+                time:'Sun 06/25, 9:00 AM',
+                awayName:'fever',
+                awayLeftPoints:'+13.5',
+                awayRatio:41,
+                homeName:'aces',
+                homeLeftPoints:'-13.5',
+                homeRatio:59
+            },{
+                time:'Sun 06/25, 9:00 AM',
+                awayName:'mercury',
+                awayLeftPoints:'-2.0',
+                awayRatio:55,
+                homeName:'storm',
+                homeLeftPoints:'+2.0',
+                homeRatio:45
+            }
+        ]
     }
 
 
