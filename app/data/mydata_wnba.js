@@ -144,7 +144,7 @@ const wnbaData = {
             'important':true
         },{        
             'name':'古斯塔夫森',
-            'status':'出战',
+            'status':'缺阵',
             'detail':'脑震荡不适，预计会缺阵几场比赛；2023场均数据：4.7分/3.1篮板/0.3助攻/0.2抢断',
             'important':false
         },{        

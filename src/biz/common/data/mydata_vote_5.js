@@ -4852,6 +4852,30 @@ export const myData = [
                 homeRatio:40
             }
         ]
+    },
+
+    //07月01日
+    {
+        date: 'Sat Jul 01',
+        list: [
+            {
+                time:'Sat 07/01, 07:30 AM',
+                awayName:'mystics',
+                awayLeftPoints:'-6.5',
+                awayRatio:67,
+                homeName:'dream',
+                homeLeftPoints:'+6.5',
+                homeRatio:33
+            },{
+                time:'Sat 07/01, 08:00 AM',
+                awayName:'sparks',
+                awayLeftPoints:'+2.5',
+                awayRatio:39,
+                homeName:'sky',
+                homeLeftPoints:'-2.5',
+                homeRatio:61
+            }
+        ]
     }
 
 
