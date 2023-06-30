@@ -4861,10 +4861,10 @@ export const myData = [
             {
                 time:'Sat 07/01, 07:30 AM',
                 awayName:'mystics',
-                awayLeftPoints:'-6.5',
+                awayLeftPoints:'-3.5',
                 awayRatio:67,
                 homeName:'dream',
-                homeLeftPoints:'+6.5',
+                homeLeftPoints:'+3.5',
                 homeRatio:33
             },{
                 time:'Sat 07/01, 08:00 AM',
