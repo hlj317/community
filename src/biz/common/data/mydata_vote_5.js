@@ -5006,34 +5006,34 @@ export const myData = [
                 time:'Sat 07/08, 07:00 AM',
                 awayName:'fever',
                 awayLeftPoints:'+4.5',
-                awayRatio:35,
+                awayRatio:42,
                 homeName:'mystics',
                 homeLeftPoints:'-4.5',
-                homeRatio:65
+                homeRatio:58
             },{
                 time:'Sat 07/08, 08:00 AM',
                 awayName:'aces',
                 awayLeftPoints:'-7.5',
-                awayRatio:35,
+                awayRatio:61,
                 homeName:'wings',
                 homeLeftPoints:'+7.5',
-                homeRatio:65
+                homeRatio:39
             },{
                 time:'Sat 07/08, 08:00 AM',
                 awayName:'mercury',
                 awayLeftPoints:'+4.5',
-                awayRatio:35,
+                awayRatio:45,
                 homeName:'lynx',
                 homeLeftPoints:'-4.5',
-                homeRatio:65
+                homeRatio:55
             },{
                 time:'Sat 07/08, 08:00 AM',
                 awayName:'dream',
                 awayLeftPoints:'+1.5',
-                awayRatio:35,
+                awayRatio:60,
                 homeName:'sky',
                 homeLeftPoints:'-1.5',
-                homeRatio:65
+                homeRatio:40
             }
         ]
     }
