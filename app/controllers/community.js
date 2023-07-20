@@ -97,7 +97,7 @@ const vote = async function (ctx, next) {
     await ctx.render("community/vote", {
         title: "NBA篮彩投注率-篮彩老黑",
         keywords: "NBA,投注率,热度,篮彩,彩票",
-        description: "NBA篮彩投注率实时更新，投注率来源于拉斯维加斯博彩官网"
+        description: "NBA篮彩投注率实时更新，投注率来源于拉斯维加斯官网"
     });
     return next();
 };
@@ -110,7 +110,7 @@ const votePC = async function (ctx, next) {
     await ctx.render("community/votepc", {
         title: "NBA篮彩投注率-篮彩老黑",
         keywords: "NBA,投注率,热度,篮彩,彩票",
-        description: "NBA篮彩投注率实时更新，投注率来源于拉斯维加斯博彩官网"
+        description: "NBA篮彩投注率实时更新，投注率来源于拉斯维加斯官网"
     });
     return next();
 };
