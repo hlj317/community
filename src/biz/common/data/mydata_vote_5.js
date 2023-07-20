@@ -5240,10 +5240,10 @@ export const myData = [
             {
                 time:'Fri 07/21, 08:00 AM',
                 awayName:'sparks',
-                awayLeftPoints:'+4.0',
+                awayLeftPoints:'+3.5',
                 awayRatio:41,
                 homeName:'lynx',
-                homeLeftPoints:'-4.0',
+                homeLeftPoints:'-3.5',
                 homeRatio:59
             },{
                 time:'Fri 07/21, 10:00 AM',
@@ -5256,10 +5256,10 @@ export const myData = [
             },{
                 time:'Fri 07/21, 10:00 AM',
                 awayName:'sky',
-                awayLeftPoints:'+2.0',
+                awayLeftPoints:'-2.0',
                 awayRatio:55,
                 homeName:'mercury',
-                homeLeftPoints:'-2.0',
+                homeLeftPoints:'+2.0',
                 homeRatio:45
             }
         ]
