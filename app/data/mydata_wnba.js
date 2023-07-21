@@ -54,7 +54,7 @@ const wnbaData = {
             'important':true
         },{
             'name':'莱克西.赫尔',
-            'status':'出战存疑',
+            'status':'缺阵',
             'detail':'鼻子受伤，无法出战周三对阵神秘人的比赛；2023场均数据：5.7分/3.1篮板/0.9助攻/1.1抢断',
             'important':false
         }
@@ -82,8 +82,8 @@ const wnbaData = {
             'important':true
         },{
             'name':'莱斯利.布朗',
-            'status':'出战存疑',
-            'detail':'身体不适，周五对阵山猫的比赛出战存疑；2023场均数据：13.3分/2.0篮板/2.9助攻/1.2抢断',
+            'status':'出战',
+            'detail':'可以出战周五对阵山猫的比赛；2023场均数据：13.3分/2.0篮板/2.9助攻/1.2抢断',
             'important':true
         },{
             'name':'尼娅.克莱登',
