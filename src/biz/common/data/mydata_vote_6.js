@@ -102,6 +102,48 @@ export const myData = [
                 homeRatio:32
             }
         ]
+    },
+
+    //07月23日
+    {
+        date: 'Sun Jul 23',
+        list: [
+            {
+                time:'Sun 07/23, 01:00 AM',
+                awayName:'sun',
+                awayLeftPoints:'-1.5',
+                awayRatio:59,
+                homeName:'dream',
+                homeLeftPoints:'+1.5',
+                homeRatio:41,
+                live:true
+            },{
+                time:'Sun 07/23, 03:00 AM',
+                awayName:'aces',
+                awayLeftPoints:'-15.0',
+                awayRatio:62,
+                homeName:'lynx',
+                homeLeftPoints:'+15.0',
+                homeRatio:38,
+                live:true
+            },{
+                time:'Sun 07/23, 08:00 AM',
+                awayName:'sparks',
+                awayLeftPoints:'+7.5',
+                awayRatio:31,
+                homeName:'wings',
+                homeLeftPoints:'-7.5',
+                homeRatio:69
+            },{
+                time:'Sun 07/23, 09:00 AM',
+                awayName:'sky',
+                awayLeftPoints:'-1.0',
+                awayRatio:57,
+                homeName:'storm',
+                homeLeftPoints:'+1.0',
+                homeRatio:43
+            }
+        ]
     }
 
 
