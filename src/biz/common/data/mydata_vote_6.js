@@ -190,7 +190,8 @@ export const myData = [
                 awayRatio:39,
                 homeName:'dream',
                 homeLeftPoints:'-7.5',
-                homeRatio:61
+                homeRatio:61,
+                live:true
             },{
                 time:'Wed 07/26, 07:00 AM',
                 awayName:'storm',
