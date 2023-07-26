@@ -238,5 +238,29 @@ export const myData = [
         ]
     },
 
+    //07月28日
+    {
+        date: 'Fri Jul 28',
+        list: [
+            {
+                time:'Fri 07/28, 03:30 AM',
+                awayName:'fever',
+                awayLeftPoints:'+4.5',
+                awayRatio:45,
+                homeName:'sparks',
+                homeLeftPoints:'-4.5',
+                homeRatio:55
+            },{
+                time:'Fri 07/28, 07:00 AM',
+                awayName:'dream',
+                awayLeftPoints:'+7.5',
+                awayRatio:39,
+                homeName:'liberty',
+                homeLeftPoints:'-7.5',
+                homeRatio:61
+            }
+        ]
+    }
+
 
 ]
