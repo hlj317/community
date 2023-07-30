@@ -345,10 +345,10 @@ export const myData = [
             },{
                 time:'Mon 07/31, 06:00 AM',
                 awayName:'wings',
-                awayLeftPoints:'+6.0',
+                awayLeftPoints:'+9.5',
                 awayRatio:45,
                 homeName:'aces',
-                homeLeftPoints:'-6.0',
+                homeLeftPoints:'-9.5',
                 homeRatio:55
             }
         ]
