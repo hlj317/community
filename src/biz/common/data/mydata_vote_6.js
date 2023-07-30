@@ -318,11 +318,11 @@ export const myData = [
             },{
                 time:'Mon 07/31, 04:00 AM',
                 awayName:'mercury',
-                awayLeftPoints:'+3.5',
-                awayRatio:46,
+                awayLeftPoints:'+6.5',
+                awayRatio:34,
                 homeName:'sky',
-                homeLeftPoints:'-3.5',
-                homeRatio:54,
+                homeLeftPoints:'-6.5',
+                homeRatio:66,
                 live:true
             },{
                 time:'Mon 07/31, 04:00 AM',
