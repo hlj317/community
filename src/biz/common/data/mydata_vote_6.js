@@ -396,7 +396,7 @@ export const myData = [
         ]
     },
 
-    //08月02日
+    //08月03日
     {
         date: 'Thu Aug 03',
         list: [
@@ -408,6 +408,22 @@ export const myData = [
                 homeName:'storm',
                 homeLeftPoints:'+9.0',
                 homeRatio:32
+            }
+        ]
+    },
+
+    //08月04日
+    {
+        date: 'Fri Aug 04',
+        list: [
+            {
+                time:'Fri 08/04, 10:00 AM',
+                awayName:'dream',
+                awayLeftPoints:'-7.5',
+                awayRatio:55,
+                homeName:'mercury',
+                homeLeftPoints:'+7.5',
+                homeRatio:45
             }
         ]
     }
