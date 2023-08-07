@@ -526,6 +526,54 @@ export const myData = [
                 live:true
             }
         ]
+    },
+
+    //08月09日
+    {
+        date: 'Wed Aug 09',
+        list: [
+            {
+                time:'Wed 08/09, 03:00 AM',
+                awayName:'sun',
+                awayLeftPoints:'-7.5',
+                awayRatio:65,
+                homeName:'storm',
+                homeLeftPoints:'+7.5',
+                homeRatio:35
+            },{
+                time:'Wed 08/09, 07:00 AM',
+                awayName:'sparks',
+                awayLeftPoints:'-2.5',
+                awayRatio:56,
+                homeName:'fever',
+                homeLeftPoints:'+2.5',
+                homeRatio:44
+            },{
+                time:'Wed 08/09, 08:00 AM',
+                awayName:'aces',
+                awayLeftPoints:'-9.5',
+                awayRatio:61,
+                homeName:'wings',
+                homeLeftPoints:'+9.5',
+                homeRatio:39
+            },{
+                time:'Wed 08/09, 08:00 AM',
+                awayName:'lynx',
+                awayLeftPoints:'+2.5',
+                awayRatio:52,
+                homeName:'sky',
+                homeLeftPoints:'-2.5',
+                homeRatio:48
+            },{
+                time:'Wed 08/09, 10:00 AM',
+                awayName:'mystics',
+                awayLeftPoints:'-6.5',
+                awayRatio:57,
+                homeName:'mercury',
+                homeLeftPoints:'+6.5',
+                homeRatio:43
+            }
+        ]
     }
 
 
