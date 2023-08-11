@@ -623,11 +623,11 @@ export const myData = [
             },{
                 time:'Sat 08/12, 10:00 AM',
                 awayName:'mystics',
-                awayLeftPoints:'+10.5',
-                awayRatio:39,
+                awayLeftPoints:'+15.5',
+                awayRatio:37,
                 homeName:'aces',
-                homeLeftPoints:'-10.5',
-                homeRatio:61
+                homeLeftPoints:'-15.5',
+                homeRatio:63
             }
         ]
     }
