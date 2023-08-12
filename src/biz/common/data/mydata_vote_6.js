@@ -639,18 +639,18 @@ export const myData = [
             {
                 time:'Sun 08/13, 07:30 AM',
                 awayName:'dream',
-                awayLeftPoints:'-2.5',
+                awayLeftPoints:'+1.0',
                 awayRatio:58,
                 homeName:'sparks',
-                homeLeftPoints:'+2.5',
+                homeLeftPoints:'-1.0',
                 homeRatio:42
             },{
                 time:'Sun 08/13, 08:00 AM',
                 awayName:'sun',
-                awayLeftPoints:'+2.5',
+                awayLeftPoints:'+2.0',
                 awayRatio:45,
                 homeName:'wings',
-                homeLeftPoints:'-2.5',
+                homeLeftPoints:'-2.0',
                 homeRatio:55
             }
         ]
