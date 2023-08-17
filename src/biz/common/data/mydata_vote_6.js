@@ -714,5 +714,21 @@ export const myData = [
         ]
     },
 
+    //08月18日
+    {
+        date: 'Fri Aug 18',
+        list: [
+            {
+                time:'Fri 08/18, 10:00 AM',
+                awayName:'liberty',
+                awayLeftPoints:'+6.0',
+                awayRatio:45,
+                homeName:'aces',
+                homeLeftPoints:'-6.0',
+                homeRatio:55
+            }
+        ]
+    }
+
 
 ]
