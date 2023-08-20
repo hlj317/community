@@ -794,5 +794,45 @@ export const myData = [
         ]
     },
 
+    //08月21日
+    {
+        date: 'Mon Aug 21',
+        list: [
+            {
+                time:'Mon 08/21, 03:00 AM',
+                awayName:'wings',
+                awayLeftPoints:'-5.0',
+                awayRatio:65,
+                homeName:'mystics',
+                homeLeftPoints:'+5.0',
+                homeRatio:35
+            },{
+                time:'Mon 08/21, 05:00 AM',
+                awayName:'sun',
+                awayLeftPoints:'-6.5',
+                awayRatio:61,
+                homeName:'sky',
+                homeLeftPoints:'+6.5',
+                homeRatio:39
+            },{
+                time:'Mon 08/21, 06:00 AM',
+                awayName:'fever',
+                awayLeftPoints:'-1.5',
+                awayRatio:47,
+                homeName:'mercury',
+                homeLeftPoints:'+1.5',
+                homeRatio:53
+            },{
+                time:'Mon 08/21, 07:00 AM',
+                awayName:'storm',
+                awayLeftPoints:'+5.5',
+                awayRatio:31,
+                homeName:'lynx',
+                homeLeftPoints:'-5.5',
+                homeRatio:69
+            }
+        ]
+    }
+
 
 ]
