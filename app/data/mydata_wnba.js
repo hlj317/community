@@ -167,7 +167,7 @@ const wnbaData = {
             'important':false
         },{
             'name':'奥斯汀',
-            'status':'缺阵',
+            'status':'出战',
             'detail':'可以出战周三对阵阳光的比赛；2023场均数据：11.4分/7.8篮板/0.9助攻/0.8抢断',
             'important':true
         },{
