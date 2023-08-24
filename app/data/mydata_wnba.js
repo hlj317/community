@@ -43,7 +43,7 @@ const wnbaData = {
             'name':'卡琳顿',
             'status':'缺阵',
             'detail':'腿部受伤，无法出战周五对阵自由人的比赛；2023场均数据：10.3分/2.7篮板/3.1助攻/1.1抢断',
-            'important':true
+            'important':false
         }
     ],
     //达拉斯飞翼
