@@ -14,12 +14,12 @@ const wnbaData = {
             'name':'丽贝卡.加德纳',
             'status':'长期缺阵',
             'detail':'腿部手术，预计赛季报销；2023场均数据：7.0分/3.7篮板/2.3助攻/2.0抢断',
-            'important':true
+            'important':false
         },{        
             'name':'哈里森',
             'status':'长期缺阵',
             'detail':'膝盖受伤，预计赛季报销；2023场均数据：13.0分/3.0篮板/1.0助攻/1.0抢断',
-            'important':true
+            'important':false
         },{        
             'name':'阿兰娜.史密斯',
             'status':'出战存疑',
