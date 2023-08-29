@@ -1025,6 +1025,38 @@ export const myData = [
                 live:true
             }
         ]
+    },
+
+    //08月30日
+    {
+        date: 'Wed Aug 30',
+        list: [
+            {
+                time:'Wed 08/30, 07:00 AM',
+                awayName:'lynx',
+                awayLeftPoints:'+6.5',
+                awayRatio:42,
+                homeName:'mystics',
+                homeLeftPoints:'-6.5',
+                homeRatio:58
+            },{
+                time:'Wed 08/30, 07:00 AM',
+                awayName:'mercury',
+                awayLeftPoints:'+8.0',
+                awayRatio:31,
+                homeName:'dream',
+                homeLeftPoints:'-8.0',
+                homeRatio:69
+            },{
+                time:'Wed 08/30, 10:30 AM',
+                awayName:'sky',
+                awayLeftPoints:'+2.0',
+                awayRatio:37,
+                homeName:'sparks',
+                homeLeftPoints:'-2.0',
+                homeRatio:63
+            }
+        ]
     }
 
 
