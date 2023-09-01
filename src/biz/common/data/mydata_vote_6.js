@@ -1059,6 +1059,38 @@ export const myData = [
         ]
     },
 
+    //09月01日
+    {
+        date: 'Sat Sep 01',
+        list: [
+            {
+                time:'Sat 09/01, 07:00 AM',
+                awayName:'wings',
+                awayLeftPoints:'+5.5',
+                awayRatio:59,
+                homeName:'fever',
+                homeLeftPoints:'-5.5',
+                homeRatio:41
+            },{
+                time:'Sat 09/01, 08:00 AM',
+                awayName:'sun',
+                awayLeftPoints:'+8.0',
+                awayRatio:33,
+                homeName:'liberty',
+                homeLeftPoints:'-8.0',
+                homeRatio:67
+            },{
+                time:'Sat 09/01, 08:00 AM',
+                awayName:'dream',
+                awayLeftPoints:'-2.5',
+                awayRatio:40,
+                homeName:'lynx',
+                homeLeftPoints:'+2.5',
+                homeRatio:60
+            }
+        ]
+    },
+
     //08月31日
     {
         date: 'Fri Aug 31',
