@@ -1235,6 +1235,22 @@ export const myData = [
                 homeRatio:61
             }
         ]
+    },
+
+    //09月08日
+    {
+        date: 'Fri Sep 08',
+        list: [
+            {
+                time:'Fri 09/08, 07:00 AM',
+                awayName:'sparks',
+                awayLeftPoints:'+13.5',
+                awayRatio:32,
+                homeName:'liberty',
+                homeLeftPoints:'-13.5',
+                homeRatio:68
+            }
+        ]
     }
 
 
