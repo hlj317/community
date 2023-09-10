@@ -1316,10 +1316,10 @@ export const myData = [
             },{
                 time:'Mon 09/11, 01:00 AM',
                 awayName:'sky',
-                awayLeftPoints:'+9.0',
+                awayLeftPoints:'+9.5',
                 awayRatio:42,
                 homeName:'sun',
-                homeLeftPoints:'-9.0',
+                homeLeftPoints:'-9.5',
                 homeRatio:58
             },{
                 time:'Mon 09/11, 01:00 AM',
@@ -1332,27 +1332,27 @@ export const myData = [
             },{
                 time:'Mon 09/11, 01:00 AM',
                 awayName:'mystics',
-                awayLeftPoints:'+8.0',
+                awayLeftPoints:'+9.5',
                 awayRatio:55,
                 homeName:'liberty',
-                homeLeftPoints:'-8.0',
+                homeLeftPoints:'-9.5',
                 homeRatio:45
             },{
                 time:'Mon 09/11, 03:00 AM',
                 awayName:'mercury',
-                awayLeftPoints:'+20.5',
+                awayLeftPoints:'+18.5',
                 awayRatio:70,
                 homeName:'aces',
-                homeLeftPoints:'-20.5',
+                homeLeftPoints:'-18.5',
                 homeRatio:30,
                 live:true
             },{
                 time:'Mon 09/11, 03:00 AM',
                 awayName:'sparks',
-                awayLeftPoints:'+2.0',
+                awayLeftPoints:'-2.5',
                 awayRatio:70,
                 homeName:'storm',
-                homeLeftPoints:'-2.0',
+                homeLeftPoints:'+2.5',
                 homeRatio:30,
                 live:true
             }
