@@ -1357,7 +1357,31 @@ export const myData = [
                 live:true
             }
         ]
-    }
+    },
+
+    //09月14日
+    {
+        date: 'Thu Sep 14',
+        list: [
+            {
+                time:'Thu 09/14, 08:00 AM',
+                awayName:'lynx',
+                awayLeftPoints:'+8.0',
+                awayRatio:40,
+                homeName:'sun',
+                homeLeftPoints:'-8.0',
+                homeRatio:60
+            },{
+                time:'Thu 09/14, 10:00 AM',
+                awayName:'sky',
+                awayLeftPoints:'+15.0',
+                awayRatio:31,
+                homeName:'aces',
+                homeLeftPoints:'-15.0',
+                homeRatio:69
+            }
+        ]
+    },
 
 
 ]
