@@ -1439,10 +1439,10 @@ export const myData = [
 
     //09月20日
     {
-        date: 'Sat Sep 16',
+        date: 'Wed Sep 20',
         list: [
             {
-                time:'Sat 09/16, 07:00 AM',
+                time:'Wed 09/20, 07:00 AM',
                 awayName:'mystics',
                 awayLeftPoints:'+9.0',
                 awayRatio:41,
@@ -1451,13 +1451,30 @@ export const myData = [
                 homeRatio:59,
                 live:true
             },{
-                time:'Thu 09/14, 09:00 AM',
+                time:'Wed 09/20, 09:00 AM',
                 awayName:'dream',
                 awayLeftPoints:'+7.5',
                 awayRatio:37,
                 homeName:'wings',
                 homeLeftPoints:'-7.5',
                 homeRatio:63,
+                live:true
+            }
+        ]
+    },
+
+    //09月21日
+    {
+        date: 'Thu Sep 21',
+        list: [
+            {
+                time:'Thu 09/21, 08:00 AM',
+                awayName:'sun',
+                awayLeftPoints:'-5.0',
+                awayRatio:55,
+                homeName:'lynx',
+                homeLeftPoints:'+5.0',
+                homeRatio:45,
                 live:true
             }
         ]
