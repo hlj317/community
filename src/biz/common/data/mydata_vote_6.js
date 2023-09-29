@@ -1530,6 +1530,32 @@ export const myData = [
                 live:true
             }
         ]
+    },
+
+    //09月30日
+    {
+        date: 'Sat Sep 30',
+        list: [
+            {
+                time:'Sat 09/30, 07:30 AM',
+                awayName:'liberty',
+                awayLeftPoints:'-4.0',
+                awayRatio:61,
+                homeName:'sun',
+                homeLeftPoints:'+4.0',
+                homeRatio:39,
+                live:true
+            },{
+                time:'Sat 09/30, 09:30 AM',
+                awayName:'aces',
+                awayLeftPoints:'-6.0',
+                awayRatio:65,
+                homeName:'wings',
+                homeLeftPoints:'+6.0',
+                homeRatio:35,
+                live:true
+            }
+        ]
     }
 
 
