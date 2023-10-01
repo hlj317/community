@@ -1556,6 +1556,23 @@ export const myData = [
                 live:true
             }
         ]
+    },
+
+    //10月02日
+    {
+        date: 'Mon Oct 02',
+        list: [
+            {
+                time:'Mon 10/02, 03:00 AM',
+                awayName:'liberty',
+                awayLeftPoints:'-5.0',
+                awayRatio:57,
+                homeName:'sun',
+                homeLeftPoints:'+5.0',
+                homeRatio:43,
+                live:true
+            }
+        ]
     }
 
 
