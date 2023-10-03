@@ -13,8 +13,8 @@
         </div>
         <div class="clear"></div>
         <ul class="nav">
+            <li class="vote-ratio"><a href="/injurynba.html">NBA伤病</a></li>
             <li class="vote-ratio"><a href="/injurywnba.html">WNBA伤病</a></li>
-            <li class="news-ratio"><a href="/info.html">WNBA新闻</a></li>
             <li class="lancai"><a href="/lancai.html">专栏文章</a></li>
             <li class="lancai"><a href="#">盘口热度</a><span class="selected"></span></li>   
         </ul>
