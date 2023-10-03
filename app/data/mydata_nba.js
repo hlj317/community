@@ -4,15 +4,15 @@ const nbaData = {
         {
             'name':'无',
             'status':'无更新',
-            'detail':'本赛季已结束'
+            'detail':'2023-2024NBA新赛季即将开始'
         }
     ],
     //波士顿凯尔特人
     celtics:[
         {        
-            'name':'加里纳利',
-            'status':'长期缺阵',
-            'detail':'膝盖ACL伤病，赛季报销',
+            'name':'无',
+            'status':'无更新',
+            'detail':'2023-2024NBA新赛季即将开始',
             'important':false
         }
     ],
@@ -21,7 +21,7 @@ const nbaData = {
         {
             'name':'无',
             'status':'无更新',
-            'detail':'本赛季已结束'
+            'detail':'2023-2024NBA新赛季即将开始'
         }
     ],
     //夏洛特黄蜂
@@ -29,7 +29,7 @@ const nbaData = {
         {
             'name':'无',
             'status':'无更新',
-            'detail':'本赛季已结束'
+            'detail':'2023-2024NBA新赛季即将开始'
         }
     ],
     //芝加哥公牛
@@ -37,7 +37,7 @@ const nbaData = {
         {
             'name':'无',
             'status':'无更新',
-            'detail':'本赛季已结束'
+            'detail':'2023-2024NBA新赛季即将开始'
         }
     ],
     //克利夫兰骑士
@@ -45,7 +45,7 @@ const nbaData = {
         {
             'name':'无',
             'status':'无更新',
-            'detail':'本赛季已结束'
+            'detail':'2023-2024NBA新赛季即将开始'
         }  
     ],
     //达拉斯独行侠
@@ -53,15 +53,15 @@ const nbaData = {
         {
             'name':'无',
             'status':'无更新',
-            'detail':'本赛季已结束'
+            'detail':'2023-2024NBA新赛季即将开始'
         }
     ],
     //丹佛掘金
     nuggets:[
         {
-            'name':'科林·吉莱斯皮',
-            'status':'缺阵',
-            'detail':'腿部受伤，无法出战',
+            'name':'无',
+            'status':'无更新',
+            'detail':'2023-2024NBA新赛季即将开始',
             'important':false
         }
     ],
@@ -70,7 +70,7 @@ const nbaData = {
         {
             'name':'无',
             'status':'无更新',
-            'detail':'本赛季已结束'
+            'detail':'2023-2024NBA新赛季即将开始'
         }
     ],
     //金州勇士
@@ -78,7 +78,7 @@ const nbaData = {
         {
             'name':'无',
             'status':'无更新',
-            'detail':'本赛季已结束'
+            'detail':'2023-2024NBA新赛季即将开始'
         }
     ],
     //休斯顿火箭
@@ -86,7 +86,7 @@ const nbaData = {
         {
             'name':'无',
             'status':'无更新',
-            'detail':'本赛季已结束'
+            'detail':'2023-2024NBA新赛季即将开始'
         }
     ],
     //印第安纳步行者
@@ -94,7 +94,7 @@ const nbaData = {
         {
             'name':'无',
             'status':'无更新',
-            'detail':'本赛季已结束'
+            'detail':'2023-2024NBA新赛季即将开始'
         }
     ],
     //洛杉矶快船
@@ -102,16 +102,15 @@ const nbaData = {
         {
             'name':'无',
             'status':'无更新',
-            'detail':'本赛季已结束'
+            'detail':'2023-2024NBA新赛季即将开始'
         }
     ],
     //洛杉矶湖人
     lakers:[
         {
-            'name':'班巴',
-            'status':'出战存疑',
-            'detail':'腿部受伤，每日观察',
-            'important':false
+            'name':'无',
+            'status':'无更新',
+            'detail':'2023-2024NBA新赛季即将开始'
         }
     ],
     //孟菲斯灰熊
@@ -119,26 +118,15 @@ const nbaData = {
         {
             'name':'无',
             'status':'无更新',
-            'detail':'本赛季已结束'
+            'detail':'2023-2024NBA新赛季即将开始'
         }
     ],
     //迈阿密热火
     heat:[
         {
-            'name':'希罗',
-            'status':'长期缺阵',
-            'detail':'手腕骨折，赛季报销',
-            'important':true
-        },{
-            'name':'奥拉迪波',
-            'status':'长期缺阵',
-            'detail':'膝盖受伤，赛季报销',
-            'important':false
-        },{
-            'name':'泽勒',
-            'status':'出战存疑',
-            'detail':'身体不适，周四对阵凯尔特人的比赛出战存疑',
-            'important':false
+            'name':'无',
+            'status':'无更新',
+            'detail':'2023-2024NBA新赛季即将开始'
         }
     ],
     //密尔沃基雄鹿
@@ -146,7 +134,7 @@ const nbaData = {
         {
             'name':'无',
             'status':'无更新',
-            'detail':'本赛季已结束'
+            'detail':'2023-2024NBA新赛季即将开始'
         }
     ],
     //明尼苏达森林狼
@@ -154,7 +142,7 @@ const nbaData = {
         {
             'name':'无',
             'status':'无更新',
-            'detail':'本赛季已结束'
+            'detail':'2023-2024NBA新赛季即将开始'
         }
     ],
     //新奥尔良鹈鹕
@@ -162,7 +150,7 @@ const nbaData = {
         {
             'name':'无',
             'status':'无更新',
-            'detail':'本赛季已结束'
+            'detail':'2023-2024NBA新赛季即将开始'
         }
     ],
     //纽约尼克斯
@@ -170,7 +158,7 @@ const nbaData = {
         {
             'name':'无',
             'status':'无更新',
-            'detail':'本赛季已结束'
+            'detail':'2023-2024NBA新赛季即将开始'
         }
     ],
     //俄克拉荷马城雷霆
@@ -178,7 +166,7 @@ const nbaData = {
         {
             'name':'无',
             'status':'无更新',
-            'detail':'本赛季已结束'
+            'detail':'2023-2024NBA新赛季即将开始'
         }
     ],
     //奥兰多魔术
@@ -186,16 +174,15 @@ const nbaData = {
         {
             'name':'无',
             'status':'无更新',
-            'detail':'本赛季已结束'
+            'detail':'2023-2024NBA新赛季即将开始'
         }
     ],
     //费城76人
     seven6ers:[
         {        
-            'name':'恩比德',
-            'status':'出战',
-            'detail':'可以出战周一对阵凯尔特人的比赛',
-            'important':true
+            'name':'无',
+            'status':'无更新',
+            'detail':'2023-2024NBA新赛季即将开始'
         }
     ],
     //菲尼克斯太阳
@@ -203,7 +190,7 @@ const nbaData = {
         {
             'name':'无',
             'status':'无更新',
-            'detail':'本赛季已结束'
+            'detail':'2023-2024NBA新赛季即将开始'
         }
     ],
     //波特兰开拓者
@@ -211,7 +198,7 @@ const nbaData = {
         {
             'name':'无',
             'status':'无更新',
-            'detail':'本赛季已结束'
+            'detail':'2023-2024NBA新赛季即将开始'
         }
     ],
     //萨克拉门托国王
@@ -219,7 +206,7 @@ const nbaData = {
         {
             'name':'无',
             'status':'无更新',
-            'detail':'本赛季已结束'
+            'detail':'2023-2024NBA新赛季即将开始'
         }
     ],
     //圣安东尼奥马刺
@@ -227,7 +214,7 @@ const nbaData = {
         {
             'name':'无',
             'status':'无更新',
-            'detail':'本赛季已结束'
+            'detail':'2023-2024NBA新赛季即将开始'
         }
     ],
     //多伦多猛龙
@@ -235,7 +222,7 @@ const nbaData = {
         {
             'name':'无',
             'status':'无更新',
-            'detail':'本赛季已结束'
+            'detail':'2023-2024NBA新赛季即将开始'
         }
     ],
     //犹它爵士
@@ -243,7 +230,7 @@ const nbaData = {
         {
             'name':'无',
             'status':'无更新',
-            'detail':'本赛季已结束'
+            'detail':'2023-2024NBA新赛季即将开始'
         }                    
     ],
     //华盛顿奇才
@@ -251,7 +238,7 @@ const nbaData = {
         {
             'name':'无',
             'status':'无更新',
-            'detail':'本赛季已结束'
+            'detail':'2023-2024NBA新赛季即将开始'
         }
     ]   
 }
