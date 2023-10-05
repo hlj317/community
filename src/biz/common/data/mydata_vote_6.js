@@ -1573,6 +1573,22 @@ export const myData = [
                 live:true
             }
         ]
+    },
+
+    //10月05日
+    {
+        date: 'Fri Oct 05',
+        list: [
+            {
+                time:'Fri 10/05, 00:00 AM',
+                awayName:'mavericks',
+                awayLeftPoints:'+1.0',
+                awayRatio:54,
+                homeName:'timberwolves',
+                homeLeftPoints:'-1.0',
+                homeRatio:46
+            }
+        ]
     }
 
 

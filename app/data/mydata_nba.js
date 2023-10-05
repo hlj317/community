@@ -75,13 +75,18 @@ const nbaData = {
     mavericks:[
         {
             'name':'东契奇',
-            'status':'缺阵',
-            'detail':'参加世界杯期间大腿受伤，预计会缺席新赛季训练营和部分季前赛',
+            'status':'出战',
+            'detail':'参加世界杯期间大腿受伤，可以出战周五对阵森林狼的季前赛',
             'important':true
         },{
-            'name':'格兰特.威廉姆斯',
+            'name':'小蒂姆.哈达威',
             'status':'出战存疑',
-            'detail':'休赛期刚从凯尔特人转会到独行侠，腿部轻微挫伤，每日观察',
+            'detail':'右腿筋酸痛，周五对阵森林狼的季前赛出战存疑',
+            'important':false
+        },{
+            'name':'小德里克.琼斯',
+            'status':'出战存疑',
+            'detail':'身体不适，周五对阵森林狼的季前赛出战存疑',
             'important':false
         }
     ],
