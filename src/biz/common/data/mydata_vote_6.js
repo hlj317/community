@@ -1575,18 +1575,42 @@ export const myData = [
         ]
     },
 
-    //10月05日
+    //10月06日
     {
-        date: 'Fri Oct 05',
+        date: 'Fri Oct 06',
         list: [
             {
-                time:'Fri 10/05, 00:00 AM',
+                time:'Fri 10/06, 00:00 AM',
                 awayName:'mavericks',
                 awayLeftPoints:'+1.0',
                 awayRatio:54,
                 homeName:'timberwolves',
                 homeLeftPoints:'-1.0',
                 homeRatio:46
+            }
+        ]
+    },
+
+    //10月08日
+    {
+        date: 'Sun Oct 08',
+        list: [
+            {
+                time:'Sun 10/08, 00:00 AM',
+                awayName:'timberwolves',
+                awayLeftPoints:'-1.5',
+                awayRatio:63,
+                homeName:'mavericks',
+                homeLeftPoints:'+1.5',
+                homeRatio:37
+            },{
+                time:'Sun 10/08, 00:00 AM',
+                awayName:'lakers',
+                awayLeftPoints:'+2.5',
+                awayRatio:45,
+                homeName:'warriors',
+                homeLeftPoints:'-2.5',
+                homeRatio:55
             }
         ]
     }

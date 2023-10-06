@@ -74,19 +74,14 @@ const nbaData = {
     //达拉斯独行侠
     mavericks:[
         {
-            'name':'东契奇',
-            'status':'出战',
-            'detail':'参加世界杯期间大腿受伤，可以出战周五对阵森林狼的季前赛',
-            'important':true
-        },{
             'name':'小蒂姆.哈达威',
             'status':'出战存疑',
-            'detail':'右腿筋酸痛，周五对阵森林狼的季前赛出战存疑',
+            'detail':'右腿筋酸痛，周日对阵森林狼的季前赛出战存疑',
             'important':false
         },{
             'name':'小德里克.琼斯',
             'status':'出战存疑',
-            'detail':'身体不适，周五对阵森林狼的季前赛出战存疑',
+            'detail':'身体不适，周日对阵森林狼的季前赛出战存疑',
             'important':false
         }
     ],
@@ -157,9 +152,10 @@ const nbaData = {
     //洛杉矶湖人
     lakers:[
         {
-            'name':'无',
-            'status':'全员健康',
-            'detail':'全员健康'
+            'name':'詹姆斯',
+            'status':'缺阵',
+            'detail':'身体不适，无法出战周日对阵勇士的季前赛',
+            'important':true
         }
     ],
     //孟菲斯灰熊
@@ -201,10 +197,10 @@ const nbaData = {
             'detail':'跟腱受伤，预计至少缺阵新赛季的3个月时间',
             'important':false
         },{
-            'name':'纳兹.里德',
-            'status':'出战存疑',
-            'detail':'腿部受伤，每日观察',
-            'important':false
+            'name':'爱德华兹',
+            'status':'出战',
+            'detail':'可以出战周日对阵独行侠的季前赛',
+            'important':true
         }
     ],
     //新奥尔良鹈鹕
