@@ -116,7 +116,7 @@ const nbaData = {
             'detail':'左脚踝受伤，至少缺阵2周时间，估计赶不上新赛季季前赛了',
             'important':true
         },{
-            'name':'麦克格鲁',
+            'name':'麦克鲁德',
             'status':'缺阵',
             'detail':'脑震荡保护协议，预计会缺阵新赛季的前几场季前赛',
             'important':false
