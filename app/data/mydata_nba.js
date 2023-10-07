@@ -115,6 +115,11 @@ const nbaData = {
             'status':'缺阵',
             'detail':'左脚踝受伤，至少缺阵2周时间，估计赶不上新赛季季前赛了',
             'important':true
+        },{
+            'name':'麦克格鲁',
+            'status':'缺阵',
+            'detail':'脑震荡保护协议，预计会缺阵新赛季的前几场季前赛',
+            'important':false
         }
     ],
     //休斯顿火箭
@@ -155,6 +160,11 @@ const nbaData = {
             'name':'詹姆斯',
             'status':'缺阵',
             'detail':'身体不适，无法出战周日对阵勇士的季前赛',
+            'important':true
+        },{
+            'name':'里弗斯',
+            'status':'缺阵',
+            'detail':'腿部受伤，无法出战周日对阵勇士的季前赛',
             'important':true
         }
     ],
