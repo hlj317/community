@@ -1613,6 +1613,72 @@ export const myData = [
                 homeRatio:55
             }
         ]
+    },
+
+    //10月09日
+    {
+        date: 'Mon Oct 09',
+        list: [
+            {
+                time:'Mon 10/09, 03:00 AM',
+                awayName:'liberty',
+                awayLeftPoints:'+4.5',
+                awayRatio:40,
+                homeName:'aces',
+                homeLeftPoints:'-4.5',
+                homeRatio:60,
+                live:true
+            },{
+                time:'Mon 10/09, 01:00 AM',
+                awayName:'bulls',
+                awayLeftPoints:'+4.5',
+                awayRatio:37,
+                homeName:'bucks',
+                homeLeftPoints:'-4.5',
+                homeRatio:63
+            },{
+                time:'Mon 10/09, 03:00 AM',
+                awayName:'suns',
+                awayLeftPoints:'-3.5',
+                awayRatio:65,
+                homeName:'pistons',
+                homeLeftPoints:'+3.5',
+                homeRatio:35
+            },{
+                time:'Mon 10/09, 06:00 AM',
+                awayName:'seven6ers',
+                awayLeftPoints:'+4.5',
+                awayRatio:42,
+                homeName:'celtics',
+                homeLeftPoints:'-4.5',
+                homeRatio:58,
+                live:true
+            },{
+                time:'Mon 10/09, 08:00 AM',
+                awayName:'pacers',
+                awayLeftPoints:'+3.5',
+                awayRatio:40,
+                homeName:'grizzlies',
+                homeLeftPoints:'-3.5',
+                homeRatio:60
+            },{
+                time:'Mon 10/09, 08:00 AM',
+                awayName:'kings',
+                awayLeftPoints:'+2.5',
+                awayRatio:66,
+                homeName:'raptors',
+                homeLeftPoints:'-2.5',
+                homeRatio:34
+            },{
+                time:'Mon 10/09, 09:00 AM',
+                awayName:'jazz',
+                awayLeftPoints:'+4.5',
+                awayRatio:31,
+                homeName:'clippers',
+                homeLeftPoints:'-4.5',
+                homeRatio:69
+            }
+        ]
     }
 
 

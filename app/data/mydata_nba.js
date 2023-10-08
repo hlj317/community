@@ -37,15 +37,10 @@ const nbaData = {
             'detail':'个人原因，暂时离开球队，归期未定',
             'important':false
         },{
-            'name':'小尼克.史密斯',
+            'name':'布克奈特',
             'status':'缺阵',
-            'detail':'腿部受伤，归期未定',
+            'detail':'膝盖受伤，预计会缺阵一段时间',
             'important':false
-        },{
-            'name':'罗齐尔',
-            'status':'出战存疑',
-            'detail':'腿部受伤，每日观察',
-            'important':true
         }
     ],
     //芝加哥公牛
@@ -54,11 +49,6 @@ const nbaData = {
             'name':'郎佐.鲍尔',
             'status':'长期缺阵',
             'detail':'膝盖受伤，预计2023-2024赛季报销',
-            'important':false
-        },{
-            'name':'贾斯汀.刘易斯',
-            'status':'出战存疑',
-            'detail':'脚踝受伤，每日观察',
             'important':false
         }
     ],
@@ -69,20 +59,30 @@ const nbaData = {
             'status':'长期缺阵',
             'detail':'患有抑郁症，预计会缺阵较长一段时间，归期未定',
             'important':false
+        },{
+            'name':'贾勒特.阿伦',
+            'status':'缺阵',
+            'detail':'左脚踝受伤，至少还要缺阵两周时间，预计季前赛都不会打',
+            'important':true
         }  
     ],
     //达拉斯独行侠
     mavericks:[
         {
-            'name':'小蒂姆.哈达威',
-            'status':'出战存疑',
-            'detail':'右腿筋酸痛，周日对阵森林狼的季前赛出战存疑',
+            'name':'赛斯.库里',
+            'status':'缺阵',
+            'detail':'身体不适，无法出战周日对阵森林狼的季前赛',
             'important':false
         },{
-            'name':'小德里克.琼斯',
-            'status':'出战存疑',
-            'detail':'身体不适，周日对阵森林狼的季前赛出战存疑',
+            'name':'马基夫.莫里斯',
+            'status':'缺阵',
+            'detail':'左脚踝受伤，无法出战周日对阵森林狼的季前赛',
             'important':false
+        },{
+            'name':'凯里.欧文',
+            'status':'缺阵',
+            'detail':'腹股沟受伤，无法出战周日对阵森林狼的季前赛',
+            'important':true
         }
     ],
     //丹佛掘金
@@ -92,6 +92,11 @@ const nbaData = {
             'status':'长期缺阵',
             'detail':'夏天左膝严重受伤，新赛季归期未定',
             'important':false
+        },{
+            'name':'迈克尔.波特',
+            'status':'缺阵',
+            'detail':'脚踝受伤，预计还会缺阵一段时间',
+            'important':true
         }
     ],
     //底特律活塞
@@ -101,6 +106,11 @@ const nbaData = {
             'status':'长期缺阵',
             'detail':'左脚踝3级扭伤，预计缺阵6-8周时间',
             'important':false
+        },{
+            'name':'博扬',
+            'status':'缺阵',
+            'detail':'右小腿拉伤，无法出战周一对阵太阳的季前赛',
+            'important':true
         }
     ],
     //金州勇士
@@ -129,19 +139,14 @@ const nbaData = {
             'status':'预计被裁',
             'detail':'因为个人家暴事件，预计会被球队裁掉，已确定无法回归球队',
             'important':false
-        },{
-            'name':'泰特',
-            'status':'出战存疑',
-            'detail':'膝盖受伤，每日观察',
-            'important':false
         }
     ],
     //印第安纳步行者
     pacers:[
         {
-            'name':'贾雷斯.沃克',
-            'status':'出战存疑',
-            'detail':'右手肘挫伤，但应该问题不大，预计可以赶上新赛季的训练营',
+            'name':'内姆布哈德',
+            'status':'缺阵',
+            'detail':'颈部受伤，无法出战周一对阵灰熊的季前赛和周三对阵火箭的比赛',
             'important':false
         }
     ],
@@ -185,9 +190,10 @@ const nbaData = {
     //迈阿密热火
     heat:[
         {
-            'name':'无',
-            'status':'全员健康',
-            'detail':'全员健康'
+            'name':'凯尔布.马丁',
+            'status':'出战存疑',
+            'detail':'左膝受伤，周三对阵黄蜂的比赛出战存疑，每日观察',
+            'important':false
         }
     ],
     //密尔沃基雄鹿
@@ -211,6 +217,11 @@ const nbaData = {
             'status':'出战',
             'detail':'可以出战周日对阵独行侠的季前赛',
             'important':true
+        },{
+            'name':'麦克丹尼尔斯',
+            'status':'缺阵',
+            'detail':'左小腿拉伤，无法出战周日对阵独行侠的季前赛',
+            'important':true
         }
     ],
     //新奥尔良鹈鹕
@@ -225,11 +236,6 @@ const nbaData = {
             'status':'出战存疑',
             'detail':'腿部轻微挫伤，每日观察',
             'important':false
-        },{
-            'name':'英格拉姆',
-            'status':'出战存疑',
-            'detail':'身体不适，每日观察',
-            'important':true
         },{
             'name':'特里.墨菲',
             'status':'长期缺阵',
@@ -270,18 +276,8 @@ const nbaData = {
             'important':false
         },{
             'name':'奥拉迪波',
-            'status':'出战存疑',
-            'detail':'身体状态恢复中，预计不会参加雷霆的训练营',
-            'important':false
-        },{
-            'name':'特雷.曼恩',
             'status':'缺阵',
-            'detail':'手指受伤，至少还需要2周的恢复时间',
-            'important':false
-        },{
-            'name':'肯里奇.威廉姆斯',
-            'status':'长期缺阵',
-            'detail':'手腕手术恢复中，归期未定',
+            'detail':'身体状态恢复中，预计不会参加雷霆的训练营',
             'important':false
         }
     ],
@@ -297,8 +293,8 @@ const nbaData = {
     seven6ers:[
         {
             'name':'詹姆斯.哈登',
-            'status':'缺阵',
-            'detail':'跟球队管理层闹矛盾中，没有出现在训练营，归期未定',
+            'status':'出战存疑',
+            'detail':'跟球队管理层闹矛盾中，每日观察',
             'important':true
         },{
             'name':'哈雷尔',
@@ -313,11 +309,6 @@ const nbaData = {
             'name':'达米安.李',
             'status':'缺阵',
             'detail':'右膝受伤，预计会缺阵一段时间',
-            'important':false
-        },{
-            'name':'乔丹.德古温',
-            'status':'出战存疑',
-            'detail':'膝盖受伤，每日观察',
             'important':false
         }
     ],
@@ -351,11 +342,6 @@ const nbaData = {
             'status':'缺阵',
             'detail':'因为被指控驾驶事故，联盟停赛两场',
             'important':false
-        },{
-            'name':'查尔斯.巴斯',
-            'status':'出战存疑',
-            'detail':'上赛季左髌骨骨折，目前身体恢复中，每日观察',
-            'important':false
         }
     ],
     //多伦多猛龙
@@ -376,9 +362,9 @@ const nbaData = {
             'detail':'刚跟球队签订了一份双向合同，肩膀受伤，每日观察',
             'important':false
         },{
-            'name':'小奥托.波特',
-            'status':'出战存疑',
-            'detail':'脚踝受伤，每日观察',
+            'name':'阿丘瓦',
+            'status':'缺阵',
+            'detail':'腹股沟拉伤，无法出战周一对阵国王的季前赛',
             'important':false
         }
     ],
@@ -414,9 +400,9 @@ const nbaData = {
             'detail':'大脚趾骨折，预计缺阵2-4周时间',
             'important':false
         },{
-            'name':'加里纳利',
+            'name':'小鲍德温',
             'status':'出战存疑',
-            'detail':'被凯尔特人交易到奇才，目前状态恢复中，每日观察',
+            'detail':'右膝酸痛，每日观察',
             'important':false
         }
     ]   
