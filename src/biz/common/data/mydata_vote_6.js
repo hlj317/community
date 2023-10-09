@@ -1679,6 +1679,38 @@ export const myData = [
                 homeRatio:69
             }
         ]
+    },
+
+    //10月10日
+    {
+        date: 'Tue Oct 10',
+        list: [
+            {
+                time:'Tue 10/10, 07:30 AM',
+                awayName:'celtics',
+                awayLeftPoints:'+4.5',
+                awayRatio:40,
+                homeName:'knicks',
+                homeLeftPoints:'-4.5',
+                homeRatio:60
+            },{
+                time:'Tue 10/10, 08:00 AM',
+                awayName:'spurs',
+                awayLeftPoints:'+1.5',
+                awayRatio:57,
+                homeName:'thunder',
+                homeLeftPoints:'-1.5',
+                homeRatio:43
+            },{
+                time:'Tue 10/10, 09:00 AM',
+                awayName:'nets',
+                awayLeftPoints:'+4.5',
+                awayRatio:37,
+                homeName:'lakers',
+                homeLeftPoints:'-4.5',
+                homeRatio:63
+            }
+        ]
     }
 
 
