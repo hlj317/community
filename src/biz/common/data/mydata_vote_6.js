@@ -1696,10 +1696,10 @@ export const myData = [
             },{
                 time:'Tue 10/10, 08:00 AM',
                 awayName:'spurs',
-                awayLeftPoints:'+1.5',
+                awayLeftPoints:'+3.5',
                 awayRatio:57,
                 homeName:'thunder',
-                homeLeftPoints:'-1.5',
+                homeLeftPoints:'-3.5',
                 homeRatio:43
             },{
                 time:'Tue 10/10, 09:00 AM',
