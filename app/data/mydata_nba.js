@@ -209,14 +209,24 @@ const nbaData = {
     lakers:[
         {
             'name':'詹姆斯',
-            'status':'大概率出战',
-            'detail':'大概率可以出战周二对阵篮网的季前赛',
+            'status':'出战',
+            'detail':'可以出战周二对阵篮网的季前赛',
             'important':true
         },{
             'name':'里弗斯',
-            'status':'大概率出战',
-            'detail':'大概率可以出战周二对阵篮网的季前赛',
+            'status':'出战',
+            'detail':'可以出战周二对阵篮网的季前赛',
             'important':true
+        },{
+            'name':'雷迪什',
+            'status':'缺阵',
+            'detail':'脚踝受伤，无法周二对阵篮网的季前赛',
+            'important':false
+        },{
+            'name':'范德比尔特',
+            'status':'缺阵',
+            'detail':'脚踝受伤，无法周二对阵篮网的季前赛',
+            'important':false
         }
     ],
     //孟菲斯灰熊
