@@ -1711,7 +1711,72 @@ export const myData = [
                 homeRatio:63
             }
         ]
-    }
+    },
+
+    //10月11日
+    {
+        date: 'Wed Oct 11',
+        list: [
+            {
+                time:'Wed 10/11, 07:30 AM',
+                awayName:'hornets',
+                awayLeftPoints:'+5.5',
+                awayRatio:37,
+                homeName:'heat',
+                homeLeftPoints:'-5.5',
+                homeRatio:63
+            },{
+                time:'Wed 10/11, 07:30 AM',
+                awayName:'cavaliers',
+                awayLeftPoints:'-1.5',
+                awayRatio:56,
+                homeName:'hawks',
+                homeLeftPoints:'+1.5',
+                homeRatio:44
+            },{
+                time:'Wed 10/11, 08:00 AM',
+                awayName:'pacers',
+                awayLeftPoints:'-1.5',
+                awayRatio:40,
+                homeName:'rockets',
+                homeLeftPoints:'+1.5',
+                homeRatio:60
+            },{
+                time:'Wed 10/11, 08:00 AM',
+                awayName:'bucks',
+                awayLeftPoints:'+1.5',
+                awayRatio:64,
+                homeName:'grizzlies',
+                homeLeftPoints:'-1.5',
+                homeRatio:36
+            },{
+                time:'Wed 10/11, 08:00 AM',
+                awayName:'magic',
+                awayLeftPoints:'+3.5',
+                awayRatio:42,
+                homeName:'pelicans',
+                homeLeftPoints:'-3.5',
+                homeRatio:58
+            },{
+                time:'Wed 10/11, 10:00 AM',
+                awayName:'jazz',
+                awayLeftPoints:'+3.0',
+                awayRatio:39,
+                homeName:'clippers',
+                homeLeftPoints:'-3.0',
+                homeRatio:61
+            },{
+                time:'Wed 10/11, 10:00 AM',
+                awayName:'nuggets',
+                awayLeftPoints:'+3.5',
+                awayRatio:47,
+                homeName:'suns',
+                homeLeftPoints:'-3.5',
+                homeRatio:53,
+                live:true
+            }
+        ]
+    },
 
 
 ]
