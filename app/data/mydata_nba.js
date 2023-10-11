@@ -2,9 +2,15 @@ const nbaData = {
     //亚特兰大老鹰
     hawks:[
         {
-            'name':'无',
-            'status':'全员健康',
-            'detail':'全员健康'
+            'name':'博格丹',
+            'status':'缺阵',
+            'detail':'轮休一场，无法出战周三对阵骑士的季前赛',
+            'important':true
+        },{
+            'name':'亨特',
+            'status':'缺阵',
+            'detail':'轮休一场，无法出战周三对阵骑士的季前赛',
+            'important':true
         }
     ],
     //波士顿凯尔特人
@@ -66,6 +72,11 @@ const nbaData = {
             'name':'布克奈特',
             'status':'缺阵',
             'detail':'膝盖受伤，预计会缺阵一段时间',
+            'important':false
+        },{
+            'name':'科迪.马丁',
+            'status':'缺阵',
+            'detail':'腿部受伤，无法出战周三对阵热火的季前赛',
             'important':false
         }
     ],
@@ -186,13 +197,18 @@ const nbaData = {
             'important':false
         },{
             'name':'丹尼尔.泰斯',
-            'status':'大概率出战',
-            'detail':'大概率可以出战周三对阵火箭的比赛',
+            'status':'出战',
+            'detail':'可以出战周三对阵火箭的比赛',
             'important':false
         },{
             'name':'哈里伯顿',
-            'status':'大概率出战',
-            'detail':'大概率可以出战周三对阵火箭的比赛',
+            'status':'缺阵',
+            'detail':'轮休一场，无法出战周三对阵火箭的比赛',
+            'important':true
+        },{
+            'name':'迈尔斯.特纳',
+            'status':'缺阵',
+            'detail':'轮休一场，无法出战周三对阵火箭的比赛',
             'important':true
         }
     ],
@@ -217,6 +233,11 @@ const nbaData = {
             'name':'小布兰登.波士顿',
             'status':'缺阵',
             'detail':'膝盖受伤，无法出战周三对阵爵士的季前赛',
+            'important':false
+        },{
+            'name':'鲍威尔',
+            'status':'缺阵',
+            'detail':'轮休一场，无法出战周三对阵爵士的季前赛',
             'important':false
         }
     ],
@@ -258,8 +279,13 @@ const nbaData = {
             'important':true
         },{
             'name':'斯马特',
-            'status':'出战存疑',
-            'detail':'腹部受伤，周三对阵雄鹿的季前赛出战存疑',
+            'status':'缺阵',
+            'detail':'腹部受伤，无法出战周三对阵雄鹿的季前赛',
+            'important':true
+        },{
+            'name':'亚当斯',
+            'status':'缺阵',
+            'detail':'轮休一场，无法出战周三对阵雄鹿的季前赛',
             'important':true
         }
     ],
@@ -267,37 +293,37 @@ const nbaData = {
     heat:[
         {
             'name':'凯尔布.马丁',
-            'status':'出战存疑',
-            'detail':'左膝受伤，周三对阵黄蜂的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'左膝受伤，无法出战周三对阵黄蜂的比赛',
             'important':false
+        },{
+            'name':'巴特勒',
+            'status':'缺阵',
+            'detail':'轮休一场，无法出战周三对阵黄蜂的比赛',
+            'important':true
         }
     ],
     //密尔沃基雄鹿
     bucks:[
         {
             'name':'米德尔顿',
-            'status':'大概率出战',
-            'detail':'大概率出战可以出战周三对阵灰熊的季前赛',
+            'status':'缺阵',
+            'detail':'轮休一场，无法出战周三对阵灰熊的季前赛',
             'important':true
         },{
             'name':'利拉德',
-            'status':'大概率出战',
-            'detail':'大概率出战可以出战周三对阵灰熊的季前赛',
+            'status':'缺阵',
+            'detail':'轮休一场，无法出战周三对阵灰熊的季前赛',
             'important':true
         },{
             'name':'字母哥',
-            'status':'大概率出战',
-            'detail':'大概率出战可以出战周三对阵灰熊的季前赛',
+            'status':'缺阵',
+            'detail':'轮休一场，无法出战周三对阵灰熊的季前赛',
             'important':true
         },{
-            'name':'AJ.格林',
-            'status':'大概率出战',
-            'detail':'大概率出战可以出战周三对阵灰熊的季前赛',
-            'important':false
-        },{
             'name':'卡梅隆.佩恩',
-            'status':'大概率出战',
-            'detail':'大概率出战可以出战周三对阵灰熊的季前赛',
+            'status':'出战',
+            'detail':'可以出战周三对阵灰熊的季前赛',
             'important':false
         }
     ],
@@ -416,6 +442,21 @@ const nbaData = {
             'status':'缺阵',
             'detail':'小腿受伤，无法出战周三对阵掘金的季前赛',
             'important':false
+        },{
+            'name':'比尔',
+            'status':'缺阵',
+            'detail':'轮休一场，无法出战周三对阵掘金的季前赛',
+            'important':true
+        },{
+            'name':'布克',
+            'status':'缺阵',
+            'detail':'轮休一场，无法出战周三对阵掘金的季前赛',
+            'important':true
+        },{
+            'name':'杜兰特',
+            'status':'缺阵',
+            'detail':'轮休一场，无法出战周三对阵掘金的季前赛',
+            'important':true
         }
     ],
     //波特兰开拓者
@@ -500,29 +541,24 @@ const nbaData = {
     //华盛顿奇才
     wizards:[
         {
-            'name':'加福德',
-            'status':'缺阵',
-            'detail':'在最近的一场热身赛中肘部受伤，预计缺阵2-4周时间',
-            'important':true
-        },{
             'name':'沙梅特',
             'status':'缺阵',
             'detail':'大脚趾骨折，预计缺阵2-4周时间',
             'important':false
         },{
             'name':'小鲍德温',
-            'status':'出战存疑',
-            'detail':'右膝酸痛，周三对阵坎斯大班的季前赛出战存疑',
+            'status':'缺阵',
+            'detail':'右膝酸痛，无法出战周三对阵坎斯大班的季前赛',
             'important':false
         },{
             'name':'阿夫迪亚',
-            'status':'出战存疑',
-            'detail':'背部受伤，周三对阵坎斯大班的季前赛出战存疑',
+            'status':'缺阵',
+            'detail':'背部受伤，无法出战周三对阵坎斯大班的季前赛',
             'important':false
         },{
             'name':'泰.杰布森',
-            'status':'出战存疑',
-            'detail':'腹股沟受伤，周三对阵坎斯大班的季前赛出战存疑',
+            'status':'缺阵',
+            'detail':'腹股沟受伤，无法出战周三对阵坎斯大班的季前赛',
             'important':false
         }
     ]   
