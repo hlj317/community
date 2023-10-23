@@ -80,8 +80,8 @@ const nbaData = {
             'important':false
         },{
             'name':'东契奇',
-            'status':'缺阵',
-            'detail':'小腿受伤，无法出战周四对阵马刺的常规赛揭幕战，归期未定',
+            'status':'出战存疑',
+            'detail':'小腿受伤，周四对阵马刺的常规赛揭幕战出战存疑',
             'important':true
         }
     ],
