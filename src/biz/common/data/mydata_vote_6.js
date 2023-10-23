@@ -1922,6 +1922,30 @@ export const myData = [
                 homeRatio:63
             }
         ]
+    },
+
+    //10月25日
+    {
+        date: 'Wed Oct 25',
+        list: [
+            {
+                time:'Wed 10/25, 07:30 AM',
+                awayName:'lakers',
+                awayLeftPoints:'+4.5',
+                awayRatio:35,
+                homeName:'nuggets',
+                homeLeftPoints:'-4.5',
+                homeRatio:65
+            },{
+                time:'Wed 10/25, 10:00 AM',
+                awayName:'suns',
+                awayLeftPoints:'-3.5',
+                awayRatio:60,
+                homeName:'warriors',
+                homeLeftPoints:'+3.5',
+                homeRatio:40
+            }
+        ]
     }
 
 
