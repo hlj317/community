@@ -321,8 +321,8 @@ const nbaData = {
             'important':true
         },{
             'name':'布克',
-            'status':'出战',
-            'detail':'可以出战周三对阵勇士的常规赛揭幕战',
+            'status':'出战存疑',
+            'detail':'脚趾受伤，周三对阵勇士的常规赛揭幕战出战存疑',
             'important':true
         }
     ],

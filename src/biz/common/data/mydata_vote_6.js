@@ -1931,19 +1931,19 @@ export const myData = [
             {
                 time:'Wed 10/25, 07:30 AM',
                 awayName:'lakers',
-                awayLeftPoints:'+4.5',
-                awayRatio:35,
+                awayLeftPoints:'+5.0',
+                awayRatio:40,
                 homeName:'nuggets',
-                homeLeftPoints:'-4.5',
-                homeRatio:65
+                homeLeftPoints:'-5.0',
+                homeRatio:60
             },{
                 time:'Wed 10/25, 10:00 AM',
                 awayName:'suns',
-                awayLeftPoints:'-3.5',
-                awayRatio:60,
+                awayLeftPoints:'-1.0',
+                awayRatio:69,
                 homeName:'warriors',
-                homeLeftPoints:'+3.5',
-                homeRatio:40
+                homeLeftPoints:'+1.0',
+                homeRatio:31
             }
         ]
     }
