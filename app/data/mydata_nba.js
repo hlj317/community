@@ -69,11 +69,6 @@ const nbaData = {
     //达拉斯独行侠
     mavericks:[
         {
-            'name':'赛斯.库里',
-            'status':'出战存疑',
-            'detail':'身体不适，周三对阵皇家马德里的季前赛出战存疑',
-            'important':false
-        },{
             'name':'杰登.哈迪',
             'status':'出战存疑',
             'detail':'左脚踝受伤，周四对阵马刺的常规赛揭幕战出战存疑',
@@ -316,8 +311,8 @@ const nbaData = {
             'important':false
         },{
             'name':'比尔',
-            'status':'出战',
-            'detail':'可以出战周三对阵勇士的常规赛揭幕战',
+            'status':'出战存疑',
+            'detail':'背部拉伤，周三对阵勇士的常规赛揭幕战出战存疑',
             'important':true
         },{
             'name':'布克',
