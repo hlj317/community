@@ -322,8 +322,8 @@ const nbaData = {
             'important':false
         },{
             'name':'比尔',
-            'status':'出战存疑',
-            'detail':'背部拉伤，周三对阵勇士的常规赛揭幕战出战存疑',
+            'status':'缺阵',
+            'detail':'背部拉伤，无法出战周三对阵勇士的常规赛揭幕战',
             'important':true
         },{
             'name':'布克',
