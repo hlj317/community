@@ -67,8 +67,8 @@ const nbaData = {
             'important':true
         },{
             'name':'加兰',
-            'status':'出战存疑',
-            'detail':'腿筋拉伤，周四对阵篮网的常规赛揭幕战出战存疑',
+            'status':'出战',
+            'detail':'可以出战周四对阵篮网的常规赛揭幕战',
             'important':true
         }  
     ],
@@ -76,8 +76,8 @@ const nbaData = {
     mavericks:[
         {
             'name':'杰登.哈迪',
-            'status':'出战存疑',
-            'detail':'左脚踝受伤，周四对阵马刺的常规赛揭幕战出战存疑',
+            'status':'出战',
+            'detail':'可以出战周四对阵马刺的常规赛揭幕战',
             'important':false
         },{
             'name':'东契奇',
@@ -92,16 +92,6 @@ const nbaData = {
             'name':'钱查尔',
             'status':'长期缺阵',
             'detail':'夏天左膝严重受伤，新赛季归期未定',
-            'important':false
-        },{
-            'name':'迈克尔.波特',
-            'status':'出战',
-            'detail':'可以出战周三对阵湖人的常规赛揭幕战',
-            'important':true
-        },{
-            'name':'布劳恩',
-            'status':'出战',
-            'detail':'可以出战周三对阵湖人的常规赛揭幕战',
             'important':false
         }
     ],
@@ -163,6 +153,11 @@ const nbaData = {
             'status':'缺阵',
             'detail':'脚踝扭伤，无法出战周四对阵开拓者的常规赛揭幕战',
             'important':true
+        },{
+            'name':'小布兰登.波士顿',
+            'status':'缺阵',
+            'detail':'左腿受伤，无法出战周四对阵开拓者的常规赛揭幕战',
+            'important':false
         }
     ],
     //洛杉矶湖人
@@ -170,8 +165,8 @@ const nbaData = {
         {
             'name':'范德比尔特',
             'status':'缺阵',
-            'detail':'脚踝受伤，无法出战周三对阵掘金的常规赛揭幕战',
-            'important':true
+            'detail':'脚踝受伤，无法出战周五对阵太阳的比赛',
+            'important':false
         }
     ],
     //孟菲斯灰熊
@@ -239,8 +234,8 @@ const nbaData = {
             'important':true
         },{
             'name':'康利',
-            'status':'出战存疑',
-            'detail':'身体不适，周四对阵猛龙的常规赛揭幕战出战存疑',
+            'status':'出战',
+            'detail':'可以出战周四对阵猛龙的常规赛揭幕战',
             'important':true
         }
     ],
@@ -293,11 +288,6 @@ const nbaData = {
     //奥兰多魔术
     magic:[
         {
-            'name':'加里.哈里斯',
-            'status':'出战存疑',
-            'detail':'腿部受伤，周四对阵火箭的常规赛揭幕战出战存疑',
-            'important':false
-        },{
             'name':'凯文.哈里斯',
             'status':'缺阵',
             'detail':'膝盖受伤，无法出战周四对阵火箭的常规赛揭幕战',
@@ -322,13 +312,13 @@ const nbaData = {
             'important':false
         },{
             'name':'比尔',
-            'status':'缺阵',
-            'detail':'背部拉伤，无法出战周三对阵勇士的常规赛揭幕战',
+            'status':'小概率出战',
+            'detail':'背部拉伤，小概率可以出战周五对阵湖人的比赛',
             'important':true
         },{
             'name':'布克',
-            'status':'出战',
-            'detail':'脚趾受伤，可以出战周三对阵勇士的常规赛揭幕战',
+            'status':'小概率出战',
+            'detail':'脚趾受伤，可小概率可以出战周五对阵湖人的比赛',
             'important':true
         }
     ],
@@ -364,8 +354,8 @@ const nbaData = {
     spurs:[
         {
             'name':'扎克.科林斯',
-            'status':'出战存疑',
-            'detail':'身体不适，周四对阵独行侠的常规赛揭幕战出战存疑',
+            'status':'出战',
+            'detail':'可以出战周四对阵独行侠的常规赛揭幕战',
             'important':true
         }
     ],
@@ -395,8 +385,8 @@ const nbaData = {
             'important':false
         },{
             'name':'库兹马',
-            'status':'出战存疑',
-            'detail':'小腿受伤，周四对阵步行者的常规赛揭幕战出战存疑',
+            'status':'出战',
+            'detail':'可以出战周四对阵步行者的常规赛揭幕战',
             'important':true
         },{
             'name':'约翰.戴维斯',
