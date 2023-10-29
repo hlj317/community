@@ -169,13 +169,13 @@ const nbaData = {
     clippers:[
         {
             'name':'曼恩',
-            'status':'出战存疑',
-            'detail':'脚踝扭伤，周日对阵马刺的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'脚踝扭伤，无法出战周一对阵马刺的比赛',
             'important':true
         },{
             'name':'小布兰登.波士顿',
             'status':'缺阵',
-            'detail':'左腿受伤，周日对阵马刺的比赛出战存疑',
+            'detail':'左腿受伤，无法出战周一对阵马刺的比赛',
             'important':false
         }
     ],
