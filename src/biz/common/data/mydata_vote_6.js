@@ -2296,6 +2296,102 @@ export const myData = [
                 homeRatio:48
             }
         ]
+    },
+
+    //10月31日
+    {
+        date: 'Tue Oct 31',
+        list: [
+            {
+                time:'Tue 10/31, 07:00 AM',
+                awayName:'nets',
+                awayLeftPoints:'-1.5',
+                awayRatio:58,
+                homeName:'hornets',
+                homeLeftPoints:'+1.5',
+                homeRatio:42
+            },{
+                time:'Tue 10/31, 07:00 AM',
+                awayName:'bulls',
+                awayLeftPoints:'+3.5',
+                awayRatio:39,
+                homeName:'pacers',
+                homeLeftPoints:'-3.5',
+                homeRatio:61
+            },{
+                time:'Tue 10/31, 07:00 AM',
+                awayName:'celtics',
+                awayLeftPoints:'-10.0',
+                awayRatio:68,
+                homeName:'wizards',
+                homeLeftPoints:'+10.0',
+                homeRatio:32
+            },{
+                time:'Tue 10/31, 07:30 AM',
+                awayName:'timberwolves',
+                awayLeftPoints:'-2.5',
+                awayRatio:45,
+                homeName:'hawks',
+                homeLeftPoints:'+2.5',
+                homeRatio:55
+            },{
+                time:'Tue 10/31, 07:30 AM',
+                awayName:'blazers',
+                awayLeftPoints:'+7.5',
+                awayRatio:39,
+                homeName:'raptors',
+                homeLeftPoints:'-7.5',
+                homeRatio:61
+            },{
+                time:'Tue 10/31, 08:00 AM',
+                awayName:'heat',
+                awayLeftPoints:'+5.0',
+                awayRatio:40,
+                homeName:'bucks',
+                homeLeftPoints:'-5.0',
+                homeRatio:60
+            },{
+                time:'Tue 10/31, 08:00 AM',
+                awayName:'warriors',
+                awayLeftPoints:'+3.0',
+                awayRatio:56,
+                homeName:'pelicans',
+                homeLeftPoints:'-3.0',
+                homeRatio:44
+            },{
+                time:'Tue 10/31, 08:00 AM',
+                awayName:'mavericks',
+                awayLeftPoints:'-2.5',
+                awayRatio:59,
+                homeName:'grizzlies',
+                homeLeftPoints:'+2.5',
+                homeRatio:41
+            },{
+                time:'Tue 10/31, 08:00 AM',
+                awayName:'pistons',
+                awayLeftPoints:'+5.0',
+                awayRatio:37,
+                homeName:'thunder',
+                homeLeftPoints:'-5.0',
+                homeRatio:63
+            },{
+                time:'Tue 10/31, 09:00 AM',
+                awayName:'jazz',
+                awayLeftPoints:'+8.5',
+                awayRatio:33,
+                homeName:'nuggets',
+                homeLeftPoints:'-8.5',
+                homeRatio:67
+            },{
+                time:'Tue 10/31, 10:30 AM',
+                awayName:'magic',
+                awayLeftPoints:'+3.5',
+                awayRatio:44,
+                homeName:'lakers',
+                homeLeftPoints:'-3.5',
+                homeRatio:56
+            }
+        ]
     }
 
 
