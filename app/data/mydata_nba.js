@@ -127,18 +127,18 @@ const nbaData = {
     warriors:[
         {
             'name':'追梦.格林',
-            'status':'出战存疑',
-            'detail':'有可能会轮休，周二对阵鹈鹕的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周二对阵鹈鹕的比赛',
             'important':true
         },{
             'name':'库里',
-            'status':'出战存疑',
-            'detail':'有可能会轮休，周二对阵鹈鹕的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周二对阵鹈鹕的比赛',
             'important':true
         },{
             'name':'汤普森',
-            'status':'出战存疑',
-            'detail':'有可能会轮休，周二对阵鹈鹕的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周二对阵鹈鹕的比赛',
             'important':false
         }
     ],
