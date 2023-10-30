@@ -252,7 +252,7 @@ const nbaData = {
     ],
     //密尔沃基雄鹿
     bucks:[
-        ,{
+        {
             'name':'米德尔顿',
             'status':'出战',
             'detail':'可以出战周二对阵热火的比赛',
