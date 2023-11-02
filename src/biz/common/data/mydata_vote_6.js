@@ -2540,6 +2540,46 @@ export const myData = [
                 live:true
             }
         ]
+    },
+
+    //11月3日
+    {
+        date: 'Fri Nov 03',
+        list: [
+            {
+                time:'Fri 11/03, 07:00 AM',
+                awayName:'raptors',
+                awayLeftPoints:'+7.5',
+                awayRatio:39,
+                homeName:'seven6ers',
+                homeLeftPoints:'-7.5',
+                homeRatio:61
+            },{
+                time:'Fri 11/03, 08:00 AM',
+                awayName:'pistons',
+                awayLeftPoints:'+5.5',
+                awayRatio:35,
+                homeName:'pelicans',
+                homeLeftPoints:'-5.5',
+                homeRatio:65
+            },{
+                time:'Fri 11/03, 09:00 AM',
+                awayName:'magic',
+                awayLeftPoints:'+2.0',
+                awayRatio:45,
+                homeName:'jazz',
+                homeLeftPoints:'-2.0',
+                homeRatio:55
+            },{
+                time:'Fri 11/03, 10:00 AM',
+                awayName:'spurs',
+                awayLeftPoints:'+9.5',
+                awayRatio:38,
+                homeName:'suns',
+                homeLeftPoints:'-9.5',
+                homeRatio:62
+            }
+        ]
     }
 
 
