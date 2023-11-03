@@ -2580,6 +2580,72 @@ export const myData = [
                 homeRatio:62
             }
         ]
+    },
+
+    //11月4日
+    {
+        date: 'Sat Nov 04',
+        list: [
+            {
+                time:'Sat 11/04, 07:00 AM',
+                awayName:'cavaliers',
+                awayLeftPoints:'-3.5',
+                awayRatio:57,
+                homeName:'pacers',
+                homeLeftPoints:'+3.5',
+                homeRatio:43
+            },{
+                time:'Sat 11/04, 07:30 AM',
+                awayName:'knicks',
+                awayLeftPoints:'+6.5',
+                awayRatio:40,
+                homeName:'bucks',
+                homeLeftPoints:'-6.5',
+                homeRatio:60,
+                live:true
+            },{
+                time:'Sat 11/04, 08:00 AM',
+                awayName:'nets',
+                awayLeftPoints:'+6.0',
+                awayRatio:37,
+                homeName:'bulls',
+                homeLeftPoints:'-6.0',
+                homeRatio:63
+            },{
+                time:'Sat 11/04, 08:00 AM',
+                awayName:'wizards',
+                awayLeftPoints:'+9.5',
+                awayRatio:32,
+                homeName:'heat',
+                homeLeftPoints:'-9.5',
+                homeRatio:68
+            },{
+                time:'Sat 11/04, 08:00 AM',
+                awayName:'warriors',
+                awayLeftPoints:'-6.0',
+                awayRatio:64,
+                homeName:'thunder',
+                homeLeftPoints:'+6.0',
+                homeRatio:36
+            },{
+                time:'Sat 11/04, 10:00 AM',
+                awayName:'mavericks',
+                awayLeftPoints:'+7.5',
+                awayRatio:44,
+                homeName:'nuggets',
+                homeLeftPoints:'-7.5',
+                homeRatio:56,
+                live:true
+            },{
+                time:'Sat 11/04, 10:00 AM',
+                awayName:'grizzlies',
+                awayLeftPoints:'-4.0',
+                awayRatio:58,
+                homeName:'blazers',
+                homeLeftPoints:'+4.0',
+                homeRatio:42
+            }
+        ]
     }
 
 
