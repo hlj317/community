@@ -2646,6 +2646,78 @@ export const myData = [
                 homeRatio:42
             }
         ]
+    },
+
+    //11月5日
+    {
+        date: 'Sun Nov 05',
+        list: [
+            {
+                time:'Sun 11/05, 01:00 AM',
+                awayName:'suns',
+                awayLeftPoints:'+3.5',
+                awayRatio:56,
+                homeName:'seven6ers',
+                homeLeftPoints:'-3.5',
+                homeRatio:44
+            },{
+                time:'Sun 11/05, 07:00 AM',
+                awayName:'lakers',
+                awayLeftPoints:'-3.5',
+                awayRatio:68,
+                homeName:'magic',
+                homeLeftPoints:'+3.5',
+                homeRatio:32
+            },{
+                time:'Sun 11/05, 07:00 AM',
+                awayName:'hawks',
+                awayLeftPoints:'+3.0',
+                awayRatio:55,
+                homeName:'pelicans',
+                homeLeftPoints:'-3.0',
+                homeRatio:45
+            },{
+                time:'Sun 11/05, 07:00 AM',
+                awayName:'hornets',
+                awayLeftPoints:'+3.5',
+                awayRatio:43,
+                homeName:'pacers',
+                homeLeftPoints:'-3.5',
+                homeRatio:57
+            },{
+                time:'Sun 11/05, 08:00 AM',
+                awayName:'jazz',
+                awayLeftPoints:'+7.5',
+                awayRatio:38,
+                homeName:'timberwolves',
+                homeLeftPoints:'-7.5',
+                homeRatio:62
+            },{
+                time:'Sun 11/05, 08:00 AM',
+                awayName:'kings',
+                awayLeftPoints:'-2.5',
+                awayRatio:59,
+                homeName:'rockets',
+                homeLeftPoints:'+2.5',
+                homeRatio:41
+            },{
+                time:'Sun 11/05, 08:00 AM',
+                awayName:'celtics',
+                awayLeftPoints:'-9.5',
+                awayRatio:70,
+                homeName:'nets',
+                homeLeftPoints:'+9.5',
+                homeRatio:30
+            },{
+                time:'Sun 11/05, 09:00 AM',
+                awayName:'bulls',
+                awayLeftPoints:'+9.0',
+                awayRatio:39,
+                homeName:'nuggets',
+                homeLeftPoints:'-9.0',
+                homeRatio:61
+            }
+        ]
     }
 
 
