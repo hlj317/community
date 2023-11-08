@@ -2870,6 +2870,128 @@ export const myData = [
                 homeRatio:65
             }
         ]
+    },
+
+    //11月9日
+    {
+        date: 'Thu Nov 09',
+        list: [
+            {
+                time:'Thu 11/09, 08:00 AM',
+                awayName:'jazz',
+                awayLeftPoints:'+6.0',
+                awayRatio:44,
+                homeName:'pacers',
+                homeLeftPoints:'-6.0',
+                homeRatio:56
+            },{
+                time:'Thu 11/09, 08:00 AM',
+                awayName:'celtics',
+                awayLeftPoints:'-2.0',
+                awayRatio:65,
+                homeName:'seven6ers',
+                homeLeftPoints:'+2.0',
+                homeRatio:35
+            },{
+                time:'Thu 11/09, 08:00 AM',
+                awayName:'wizards',
+                awayLeftPoints:'+3.0',
+                awayRatio:40,
+                homeName:'hornets',
+                homeLeftPoints:'-3.0',
+                homeRatio:60
+            },{
+                time:'Thu 11/09, 08:30 AM',
+                awayName:'clippers',
+                awayLeftPoints:'-4.0',
+                awayRatio:58,
+                homeName:'nets',
+                homeLeftPoints:'+4.0',
+                homeRatio:42
+            },{
+                time:'Thu 11/09, 08:30 AM',
+                awayName:'spurs',
+                awayLeftPoints:'+9.5',
+                awayRatio:36,
+                homeName:'knicks',
+                homeLeftPoints:'-9.5',
+                homeRatio:64
+            },{
+                time:'Thu 11/09, 09:00 AM',
+                awayName:'suns',
+                awayLeftPoints:'+1.0',
+                awayRatio:44,
+                homeName:'bulls',
+                homeLeftPoints:'-1.0',
+                homeRatio:56,
+                live:true
+            },{
+                time:'Thu 11/09, 09:00 AM',
+                awayName:'heat',
+                awayLeftPoints:'-1.0',
+                awayRatio:61,
+                homeName:'grizzlies',
+                homeLeftPoints:'+1.0',
+                homeRatio:39
+            },{
+                time:'Thu 11/09, 09:00 AM',
+                awayName:'cavaliers',
+                awayLeftPoints:'-2.0',
+                awayRatio:47,
+                homeName:'thunder',
+                homeLeftPoints:'+2.0',
+                homeRatio:53
+            },{
+                time:'Thu 11/09, 09:00 AM',
+                awayName:'pistons',
+                awayLeftPoints:'+12.0',
+                awayRatio:29,
+                homeName:'bucks',
+                homeLeftPoints:'-12.0',
+                homeRatio:71
+            },{
+                time:'Thu 11/09, 09:00 AM',
+                awayName:'lakers',
+                awayLeftPoints:'-2.5',
+                awayRatio:55,
+                homeName:'rockets',
+                homeLeftPoints:'+2.5',
+                homeRatio:45
+            },{
+                time:'Thu 11/09, 09:00 AM',
+                awayName:'pelicans',
+                awayLeftPoints:'+7.0',
+                awayRatio:43,
+                homeName:'timberwolves',
+                homeLeftPoints:'-7.0',
+                homeRatio:57
+            },{
+                time:'Thu 11/09, 09:30 AM',
+                awayName:'raptors',
+                awayLeftPoints:'+5.5',
+                awayRatio:38,
+                homeName:'mavericks',
+                homeLeftPoints:'-5.5',
+                homeRatio:62
+            },{
+                time:'Thu 11/09, 11:00 AM',
+                awayName:'blazers',
+                awayLeftPoints:'+8.5',
+                awayRatio:31,
+                homeName:'kings',
+                homeLeftPoints:'-8.5',
+                homeRatio:69
+            },{
+                time:'Thu 11/09, 11:00 AM',
+                awayName:'warriors',
+                awayLeftPoints:'+3.5',
+                awayRatio:41,
+                homeName:'nuggets',
+                homeLeftPoints:'-3.5',
+                homeRatio:59,
+                live:true
+            }
+        ]
     }
 
 
