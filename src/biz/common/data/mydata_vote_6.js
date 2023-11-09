@@ -2992,6 +2992,30 @@ export const myData = [
                 live:true
             }
         ]
+    },
+
+    //11月10日
+    {
+        date: 'Fri Nov 10',
+        list: [
+            {
+                time:'Fri 11/10, 08:00 AM',
+                awayName:'bucks',
+                awayLeftPoints:'-4.5',
+                awayRatio:55,
+                homeName:'pacers',
+                homeLeftPoints:'+4.5',
+                homeRatio:45
+            },{
+                time:'Fri 11/10, 10:30 AM',
+                awayName:'hawks',
+                awayLeftPoints:'-3.5',
+                awayRatio:61,
+                homeName:'magic',
+                homeLeftPoints:'+3.5',
+                homeRatio:39
+            }
+        ]
     }
 
 
