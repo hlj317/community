@@ -3138,6 +3138,102 @@ export const myData = [
                 homeRatio:62
             }
         ]
+    },
+
+    //11月13日
+    {
+        date: 'Mon Nov 13',
+        list: [
+            {
+                time:'Mon 11/13, 01:00 AM',
+                awayName:'hornets',
+                awayLeftPoints:'+9.5',
+                awayRatio:32,
+                homeName:'knicks',
+                homeLeftPoints:'-9.5',
+                homeRatio:68
+            },{
+                time:'Mon 11/13, 04:00 AM',
+                awayName:'wizards',
+                awayLeftPoints:'+7.0',
+                awayRatio:41,
+                homeName:'nets',
+                homeLeftPoints:'-7.0',
+                homeRatio:59
+            },{
+                time:'Mon 11/13, 04:30 AM',
+                awayName:'grizzlies',
+                awayLeftPoints:'+8.5',
+                awayRatio:30,
+                homeName:'clippers',
+                homeLeftPoints:'-8.5',
+                homeRatio:70
+            },{
+                time:'Mon 11/13, 07:00 AM',
+                awayName:'pacers',
+                awayLeftPoints:'+6.5',
+                awayRatio:35,
+                homeName:'seven6ers',
+                homeLeftPoints:'-6.5',
+                homeRatio:65
+            },{
+                time:'Mon 11/13, 08:00 AM',
+                awayName:'heat',
+                awayLeftPoints:'-1.5',
+                awayRatio:42,
+                homeName:'spurs',
+                homeLeftPoints:'+1.5',
+                homeRatio:58
+            },{
+                time:'Mon 11/13, 08:00 AM',
+                awayName:'nuggets',
+                awayLeftPoints:'-4.0',
+                awayRatio:55,
+                homeName:'rockets',
+                homeLeftPoints:'+4.0',
+                homeRatio:45
+            },{
+                time:'Mon 11/13, 08:00 AM',
+                awayName:'mavericks',
+                awayLeftPoints:'-2.5',
+                awayRatio:58,
+                homeName:'pelicans',
+                homeLeftPoints:'+2.5',
+                homeRatio:42
+            },{
+                time:'Mon 11/13, 08:00 AM',
+                awayName:'pistons',
+                awayLeftPoints:'+7.5',
+                awayRatio:33,
+                homeName:'bulls',
+                homeLeftPoints:'-7.5',
+                homeRatio:67
+            },{
+                time:'Mon 11/13, 09:00 AM',
+                awayName:'thunder',
+                awayLeftPoints:'+3.0',
+                awayRatio:40,
+                homeName:'suns',
+                homeLeftPoints:'-3.0',
+                homeRatio:60
+            },{
+                time:'Mon 11/13, 09:30 AM',
+                awayName:'timberwolves',
+                awayLeftPoints:'+2.0',
+                awayRatio:44,
+                homeName:'warriors',
+                homeLeftPoints:'-2.0',
+                homeRatio:56
+            },{
+                time:'Mon 11/13, 11:00 AM',
+                awayName:'blazers',
+                awayLeftPoints:'+10.0',
+                awayRatio:32,
+                homeName:'lakers',
+                homeLeftPoints:'-10.0',
+                homeRatio:68
+            }
+        ]
     }
 
 
