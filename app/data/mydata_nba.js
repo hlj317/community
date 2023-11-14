@@ -281,11 +281,6 @@ const nbaData = {
     //密尔沃基雄鹿
     bucks:[
         {
-            'name':'利拉德',
-            'status':'出战',
-            'detail':'可以出战周二对阵公牛的比赛',
-            'important':true
-        },{
             'name':'杰.克劳德',
             'status':'长期缺阵',
             'detail':'腹股沟严重受伤，预计缺阵两个月时间',
@@ -293,7 +288,7 @@ const nbaData = {
         },{
             'name':'克里斯.利文斯顿',
             'status':'缺阵',
-            'detail':'脚踝扭伤，无法出战周二对阵公牛的比赛',
+            'detail':'脚踝扭伤，无法出战周四对阵猛龙的比赛',
             'important':false
         }
     ],
