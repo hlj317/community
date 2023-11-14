@@ -8,8 +8,8 @@ const nbaData = {
             'important':false
         },{
             'name':'特雷杨',
-            'status':'出战存疑',
-            'detail':'个人原因，周三对阵活塞的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'个人原因，无法出战周三对阵活塞的比赛',
             'important':true
         }
     ],
@@ -20,6 +20,11 @@ const nbaData = {
             'status':'缺阵',
             'detail':'腿部受伤，预计会缺阵一段时间',
             'important':false
+        },{
+            'name':'波尔津吉斯',
+            'status':'出战存疑',
+            'detail':'右膝酸痛，周四对阵76人的比赛出战存疑',
+            'important':true
         }
     ],
     //布鲁克林篮网
@@ -41,8 +46,8 @@ const nbaData = {
             'important':true
         },{
             'name':'朗尼.沃克',
-            'status':'出战存疑',
-            'detail':'左膝受伤，周三对阵魔术的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周三对阵魔术的比赛',
             'important':false
         }
     ],
@@ -65,9 +70,14 @@ const nbaData = {
             'important':true
         },{
             'name':'布兰登.米勒',
-            'status':'出战存疑',
-            'detail':'腿部受伤，周三对阵热火的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'脚踝扭伤，无法出战周三对阵热火的比赛',
             'important':false
+        },{
+            'name':'海沃德',
+            'status':'缺阵',
+            'detail':'腿筋拉伤，无法出战周三对阵热火的比赛',
+            'important':true
         }
     ],
     //芝加哥公牛
@@ -79,13 +89,13 @@ const nbaData = {
             'important':false
         },{
             'name':'卡鲁索',
-            'status':'缺阵',
-            'detail':'脚趾受伤，无法出战周二对阵雄鹿的比赛',
+            'status':'出战存疑',
+            'detail':'脚趾受伤，周四对阵魔术的比赛出战存疑',
             'important':true
         },{
             'name':'达伦.特里',
             'status':'缺阵',
-            'detail':'膝盖受伤，无法出战周二对阵雄鹿的比赛',
+            'detail':'膝盖受伤，无法出战周四对阵魔术的比赛',
             'important':false
         }
     ],
@@ -105,11 +115,6 @@ const nbaData = {
             'name':'奥克罗',
             'status':'缺阵',
             'detail':'左膝受伤，无法出战周二对阵国王的比赛',
-            'important':false
-        },{
-            'name':'梅里尔',
-            'status':'出战存疑',
-            'detail':'身体不适，周二对阵骑士的比赛出战存疑',
             'important':false
         }
     ],
@@ -169,8 +174,8 @@ const nbaData = {
     warriors:[
         {
             'name':'史蒂芬.库里',
-            'status':'出战存疑',
-            'detail':'膝盖酸痛，周三对阵森林狼的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'膝盖酸痛，无法出战周三对阵森林狼的比赛',
             'important':true
         }
     ],
@@ -191,9 +196,10 @@ const nbaData = {
     //印第安纳步行者
     pacers:[
         {
-            'name':'无',
-            'status':'全员健康',
-            'detail':'全员健康'
+            'name':'丹尼尔.泰斯',
+            'status':'缺阵',
+            'detail':'个人原因，无法出战周三对阵76人的比赛',
+            'important':false
         }
     ],
     //洛杉矶快船
@@ -338,14 +344,14 @@ const nbaData = {
     knicks:[
         {
             'name':'巴雷特',
-            'status':'缺阵',
-            'detail':'身体不适，无法出战周二对阵凯尔特人的比赛',
+            'status':'出战存疑',
+            'detail':'身体不适，周四对阵老鹰的比赛出战存疑',
             'important':true
         },{
             'name':'富尼耶',
-            'status':'缺阵',
-            'detail':'身体不适，无法出战周二对阵凯尔特人的比赛',
-            'important':true
+            'status':'出战',
+            'detail':'可以出战周四对阵老鹰的比赛',
+            'important':false
         }
     ],
     //俄克拉荷马城雷霆
@@ -408,13 +414,13 @@ const nbaData = {
             'important':false
         },{
             'name':'布克',
-            'status':'缺阵',
-            'detail':'脚踝受伤，无法出战周一对阵雷霆的比赛',
+            'status':'出战',
+            'detail':'可以出战周四对阵森林狼的比赛',
             'important':true
         },{
             'name':'埃里克.戈登',
-            'status':'缺阵',
-            'detail':'肩膀受伤，无法出战周一对阵雷霆的比赛',
+            'status':'出战存疑',
+            'detail':'肩膀受伤，周四对阵森林狼的比赛出战存疑',
             'important':true
         }
     ],
@@ -451,33 +457,38 @@ const nbaData = {
             'important':false
         },{
             'name':'莱尔斯',
-            'status':'缺阵',
-            'detail':'左小腿受伤，无法出战周二对阵骑士的比赛',
+            'status':'出战存疑',
+            'detail':'左小腿受伤，周四对阵湖人的比赛出战存疑',
             'important':false
         },{
-            'name':'福克斯',
-            'status':'出战',
-            'detail':'可以出战周二对阵骑士的比赛',
-            'important':true
+            'name':'莱恩',
+            'status':'出战存疑',
+            'detail':'脚踝扭伤，周四对阵湖人的比赛出战存疑',
+            'important':false
         }
     ],
     //圣安东尼奥马刺
     spurs:[
         {
             'name':'特雷.琼斯',
-            'status':'出战存疑',
-            'detail':'腿筋拉伤，周三对阵雷霆的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'腿筋拉伤，无法出战周三对阵雷霆的比赛',
             'important':false
         },{
             'name':'凯尔登.约翰逊',
-            'status':'出战存疑',
-            'detail':'膝盖受伤，周三对阵雷霆的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'膝盖受伤，无法出战周三对阵雷霆的比赛',
             'important':true
         },{
             'name':'索汉',
-            'status':'出战存疑',
-            'detail':'腹股沟拉伤，周三对阵雷霆的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周三对阵雷霆的比赛',
             'important':true
+        },{
+            'name':'桑德罗',
+            'status':'出战存疑',
+            'detail':'背部受伤，周三对阵雷霆的比赛出战存疑',
+            'important':false
         }
     ],
     //多伦多猛龙
@@ -489,13 +500,13 @@ const nbaData = {
             'important':false
         },{
             'name':'小特伦特',
-            'status':'缺阵',
-            'detail':'腿部受伤，无法出战周二对阵奇才的比赛',
+            'status':'小概率出战',
+            'detail':'腿部受伤，小概率可以出战周四对阵雄鹿的比赛',
             'important':false
         },{
             'name':'阿奴诺比',
-            'status':'缺阵',
-            'detail':'手指受伤，无法出战周二对阵奇才的比赛',
+            'status':'小概率出战',
+            'detail':'手指受伤，小概率可以出战周四对阵雄鹿的比赛',
             'important':true
         }
     ],
@@ -514,11 +525,6 @@ const nbaData = {
             'name':'迪朗.赖特',
             'status':'长期缺阵',
             'detail':'膝盖严重扭伤，预计缺阵4-6周时间',
-            'important':false
-        },{
-            'name':'加里纳利',
-            'status':'缺阵',
-            'detail':'轮休一场，无法出战周二对阵猛龙的比赛',
             'important':false
         }
     ]   

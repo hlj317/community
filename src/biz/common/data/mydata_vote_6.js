@@ -3364,6 +3364,80 @@ export const myData = [
                 homeRatio:61
             }
         ]
+    },
+
+    //11月16日
+    {
+        date: 'Thu Nov 16',
+        list: [
+            {
+                time:'Thu 11/16, 08:00 AM',
+                awayName:'mavericks',
+                awayLeftPoints:'-5.5',
+                awayRatio:61,
+                homeName:'wizards',
+                homeLeftPoints:'+5.5',
+                homeRatio:39
+            },{
+                time:'Thu 11/16, 08:30 AM',
+                awayName:'knicks',
+                awayLeftPoints:'+2.5',
+                awayRatio:53,
+                homeName:'hawks',
+                homeLeftPoints:'-2.5',
+                homeRatio:47
+            },{
+                time:'Thu 11/16, 08:30 AM',
+                awayName:'celtics',
+                awayLeftPoints:'-3.5',
+                awayRatio:63,
+                homeName:'seven6ers',
+                homeLeftPoints:'+3.5',
+                homeRatio:37,
+                live:true
+            },{
+                time:'Thu 11/16, 08:30 AM',
+                awayName:'bucks',
+                awayLeftPoints:'-6.5',
+                awayRatio:60,
+                homeName:'raptors',
+                homeLeftPoints:'+6.5',
+                homeRatio:40
+            },{
+                time:'Thu 11/16, 09:00 AM',
+                awayName:'magic',
+                awayLeftPoints:'+5.0',
+                awayRatio:41,
+                homeName:'bulls',
+                homeLeftPoints:'-5.0',
+                homeRatio:59
+            },{
+                time:'Thu 11/16, 10:00 AM',
+                awayName:'timberwolves',
+                awayLeftPoints:'+6.0',
+                awayRatio:35,
+                homeName:'suns',
+                homeLeftPoints:'-6.0',
+                homeRatio:65
+            },{
+                time:'Thu 11/16, 11:00 AM',
+                awayName:'cavaliers',
+                awayLeftPoints:'-5.5',
+                awayRatio:68,
+                homeName:'blazers',
+                homeLeftPoints:'+5.5',
+                homeRatio:32
+            },{
+                time:'Thu 11/16, 11:00 AM',
+                awayName:'kings',
+                awayLeftPoints:'+2.5',
+                awayRatio:55,
+                homeName:'lakers',
+                homeLeftPoints:'-2.5',
+                homeRatio:45,
+                live:true
+            }
+        ]
     }
 
 
