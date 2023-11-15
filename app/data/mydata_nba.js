@@ -114,8 +114,13 @@ const nbaData = {
         },{
             'name':'奥克罗',
             'status':'缺阵',
-            'detail':'左膝受伤，无法出战周二对阵国王的比赛',
+            'detail':'左膝受伤，无法出战周四对阵开拓者的比赛',
             'important':false
+        },{
+            'name':'加兰',
+            'status':'缺阵',
+            'detail':'颈部受伤，无法出战周四对阵开拓者的比赛',
+            'important':true
         }
     ],
     //达拉斯独行侠
@@ -330,8 +335,8 @@ const nbaData = {
             'important':true
         },{
             'name':'赫伯特.琼斯',
-            'status':'出战存疑',
-            'detail':'身体不适，周三对阵独行侠的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周三对阵独行侠的比赛',
             'important':true
         }
     ],
