@@ -189,8 +189,8 @@ const nbaData = {
             'important':true
         },{
             'name':'追梦.格林',
-            'status':'出战存疑',
-            'detail':'有可能会被禁赛，等待官方消息',
+            'status':'缺阵',
+            'detail':'殴打戈贝尔，被NBA官方禁赛五场比赛',
             'important':true
         }
     ],
