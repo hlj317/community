@@ -3438,6 +3438,30 @@ export const myData = [
                 live:true
             }
         ]
+    },
+
+    //11月17日
+    {
+        date: 'Fri Nov 17',
+        list: [
+            {
+                time:'Fri 11/17, 08:30 AM',
+                awayName:'nets',
+                awayLeftPoints:'+5.0',
+                awayRatio:37,
+                homeName:'heat',
+                homeLeftPoints:'-5.0',
+                homeRatio:63
+            },{
+                time:'Fri 11/17, 11:00 AM',
+                awayName:'thunder',
+                awayLeftPoints:'-1.5',
+                awayRatio:55,
+                homeName:'warriors',
+                homeLeftPoints:'+1.5',
+                homeRatio:45
+            }
+        ]
     }
 
 
