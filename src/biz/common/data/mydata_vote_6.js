@@ -3540,7 +3540,8 @@ export const myData = [
                 awayRatio:68,
                 homeName:'jazz',
                 homeLeftPoints:'+5.0',
-                homeRatio:32
+                homeRatio:32,
+                live:true
             },{
                 time:'Sat 11/18, 11:00 AM',
                 awayName:'lakers',
@@ -3548,8 +3549,7 @@ export const myData = [
                 awayRatio:57,
                 homeName:'blazers',
                 homeLeftPoints:'+7.5',
-                homeRatio:43,
-                live:true
+                homeRatio:43
             },{
                 time:'Sat 11/18, 11:30 AM',
                 awayName:'rockets',
