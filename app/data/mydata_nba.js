@@ -6,11 +6,6 @@ const nbaData = {
             'status':'长期缺阵',
             'detail':'拇指骨折，预计缺阵8-10周的时间',
             'important':false
-        },{
-            'name':'特雷杨',
-            'status':'出战',
-            'detail':'可以出战周四对阵尼克斯的比赛',
-            'important':true
         }
     ],
     //波士顿凯尔特人
