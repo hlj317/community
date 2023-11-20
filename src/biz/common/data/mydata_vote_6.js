@@ -3696,6 +3696,78 @@ export const myData = [
                 homeRatio:48
             }
         ]
+    },
+
+    //11月21日
+    {
+        date: 'Tue Nov 21',
+        list: [
+            {
+                time:'Tue 11/21, 08:00 AM',
+                awayName:'bucks',
+                awayLeftPoints:'-9.5',
+                awayRatio:75,
+                homeName:'wizards',
+                homeLeftPoints:'+9.5',
+                homeRatio:25
+            },{
+                time:'Tue 11/21, 08:00 AM',
+                awayName:'celtics',
+                awayLeftPoints:'-9.0',
+                awayRatio:67,
+                homeName:'hornets',
+                homeLeftPoints:'+9.0',
+                homeRatio:33
+            },{
+                time:'Tue 11/21, 08:00 AM',
+                awayName:'nuggets',
+                awayLeftPoints:'-8.5',
+                awayRatio:72,
+                homeName:'pistons',
+                homeLeftPoints:'+8.5',
+                homeRatio:28
+            },{
+                time:'Tue 11/21, 09:00 AM',
+                awayName:'heat',
+                awayLeftPoints:'-1.5',
+                awayRatio:69,
+                homeName:'bulls',
+                homeLeftPoints:'+1.5',
+                homeRatio:31
+            },{
+                time:'Tue 11/21, 09:00 AM',
+                awayName:'kings',
+                awayLeftPoints:'-1.0',
+                awayRatio:54,
+                homeName:'pelicans',
+                homeLeftPoints:'+1.0',
+                homeRatio:46
+            },{
+                time:'Tue 11/21, 09:00 AM',
+                awayName:'clippers',
+                awayLeftPoints:'-8.5',
+                awayRatio:68,
+                homeName:'spurs',
+                homeLeftPoints:'+8.5',
+                homeRatio:32
+            },{
+                time:'Tue 11/21, 09:00 AM',
+                awayName:'knicks',
+                awayLeftPoints:'+3.5',
+                awayRatio:39,
+                homeName:'timberwolves',
+                homeLeftPoints:'-3.5',
+                homeRatio:61
+            },{
+                time:'Tue 11/21, 11:00 AM',
+                awayName:'rockets',
+                awayLeftPoints:'+7.5',
+                awayRatio:55,
+                homeName:'warriors',
+                homeLeftPoints:'-7.5',
+                homeRatio:45
+            }
+        ]
     }
 
 
