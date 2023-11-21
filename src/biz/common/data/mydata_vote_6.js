@@ -3802,10 +3802,10 @@ export const myData = [
             },{
                 time:'Wed 11/22, 10:00 AM',
                 awayName:'blazers',
-                awayLeftPoints:'+12.5',
+                awayLeftPoints:'+14.0',
                 awayRatio:27,
                 homeName:'suns',
-                homeLeftPoints:'-12.5',
+                homeLeftPoints:'-14.0',
                 homeRatio:73
             },{
                 time:'Wed 11/22, 11:00 AM',
