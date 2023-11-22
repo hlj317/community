@@ -3818,6 +3818,128 @@ export const myData = [
                 live:true
             }
         ]
+    },
+
+    //11月23日
+    {
+        date: 'Thu Nov 23',
+        list: [
+            {
+                time:'Thu 11/23, 08:00 AM',
+                awayName:'nuggets',
+                awayLeftPoints:'-4.5',
+                awayRatio:58,
+                homeName:'magic',
+                homeLeftPoints:'+4.5',
+                homeRatio:42
+            },{
+                time:'Thu 11/23, 08:00 AM',
+                awayName:'wizards',
+                awayLeftPoints:'+3.5',
+                awayRatio:54,
+                homeName:'hornets',
+                homeLeftPoints:'-3.5',
+                homeRatio:46
+            },{
+                time:'Thu 11/23, 08:30 AM',
+                awayName:'nets',
+                awayLeftPoints:'+3.5',
+                awayRatio:47,
+                homeName:'hawks',
+                homeLeftPoints:'-3.5',
+                homeRatio:53
+            },{
+                time:'Thu 11/23, 08:30 AM',
+                awayName:'raptors',
+                awayLeftPoints:'+3.5',
+                awayRatio:45,
+                homeName:'pacers',
+                homeLeftPoints:'-3.5',
+                homeRatio:55
+            },{
+                time:'Thu 11/23, 08:30 AM',
+                awayName:'heat',
+                awayLeftPoints:'-2.5',
+                awayRatio:59,
+                homeName:'cavaliers',
+                homeLeftPoints:'+2.5',
+                homeRatio:41
+            },{
+                time:'Thu 11/23, 08:30 AM',
+                awayName:'bucks',
+                awayLeftPoints:'+5.0',
+                awayRatio:43,
+                homeName:'celtics',
+                homeLeftPoints:'-5.0',
+                homeRatio:57,
+                live:true
+            },{
+                time:'Thu 11/23, 09:00 AM',
+                awayName:'bulls',
+                awayLeftPoints:'+7.0',
+                awayRatio:36,
+                homeName:'thunder',
+                homeLeftPoints:'-7.0',
+                homeRatio:64
+            },{
+                time:'Thu 11/23, 09:00 AM',
+                awayName:'clippers',
+                awayLeftPoints:'-8.5',
+                awayRatio:68,
+                homeName:'spurs',
+                homeLeftPoints:'+8.5',
+                homeRatio:32
+            },{
+                time:'Thu 11/23, 09:00 AM',
+                awayName:'kings',
+                awayLeftPoints:'+1.5',
+                awayRatio:44,
+                homeName:'pelicans',
+                homeLeftPoints:'-1.5',
+                homeRatio:56
+            },{
+                time:'Thu 11/23, 09:00 AM',
+                awayName:'seven6ers',
+                awayLeftPoints:'+6.0',
+                awayRatio:39,
+                homeName:'timberwolves',
+                homeLeftPoints:'-6.0',
+                homeRatio:61
+            },{
+                time:'Thu 11/23, 09:00 AM',
+                awayName:'grizzlies',
+                awayLeftPoints:'+5.0',
+                awayRatio:37,
+                homeName:'rockets',
+                homeLeftPoints:'-5.0',
+                homeRatio:63
+            },{
+                time:'Thu 11/23, 11:00 AM',
+                awayName:'warriors',
+                awayLeftPoints:'+4.0',
+                awayRatio:40,
+                homeName:'suns',
+                homeLeftPoints:'-4.0',
+                homeRatio:60,
+                live:true
+            },{
+                time:'Thu 11/23, 11:00 AM',
+                awayName:'jazz',
+                awayLeftPoints:'-4.5',
+                awayRatio:67,
+                homeName:'blazers',
+                homeLeftPoints:'+4.5',
+                homeRatio:33
+            },{
+                time:'Thu 11/23, 11:30 AM',
+                awayName:'mavericks',
+                awayLeftPoints:'+3.5',
+                awayRatio:58,
+                homeName:'lakers',
+                homeLeftPoints:'-3.5',
+                homeRatio:42
+            }
+        ]
     }
 
 
