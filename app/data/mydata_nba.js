@@ -360,8 +360,8 @@ const nbaData = {
             'important':false
         },{
             'name':'CJ.麦科勒姆',
-            'status':'出战存疑',
-            'detail':'右肺病情有所好转，周四对阵国王的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'右肺病情有所好转，无法出战周六对阵快船的比赛',
             'important':true
         }
     ],
