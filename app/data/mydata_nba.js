@@ -6,11 +6,6 @@ const nbaData = {
             'status':'长期缺阵',
             'detail':'拇指骨折，预计缺阵8-10周的时间',
             'important':false
-        },{
-            'name':'AJ.格里芬',
-            'status':'出战存疑',
-            'detail':'身体不适，周四对阵篮网的比赛出战存疑',
-            'important':false
         }
     ],
     //波士顿凯尔特人
@@ -297,11 +292,6 @@ const nbaData = {
     //迈阿密热火
     heat:[
         {
-            'name':'克莱布.马丁',
-            'status':'缺阵',
-            'detail':'膝盖受伤，还需要缺阵一段时间',
-            'important':false
-        },{
             'name':'希罗',
             'status':'缺阵',
             'detail':'脚踝2级扭伤，预计缺阵2-3周的时间',
