@@ -518,8 +518,8 @@ const nbaData = {
             'important':false
         },{
             'name':'基根.默雷',
-            'status':'大概率出战',
-            'detail':'大概率可以出战周三对阵勇士的比赛',
+            'status':'小概率出战',
+            'detail':'小概率可以出战周三对阵勇士的比赛',
             'important':true
         }
     ],
