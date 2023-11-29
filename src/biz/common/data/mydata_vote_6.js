@@ -4280,6 +4280,70 @@ export const myData = [
                 live:true
             }
         ]
+    },
+
+    //11月30日
+    {
+        date: 'Thu Nov 30',
+        list: [
+            {
+                time:'Thu 11/30, 08:00 AM',
+                awayName:'wizards',
+                awayLeftPoints:'+8.0',
+                awayRatio:41,
+                homeName:'magic',
+                homeLeftPoints:'-8.0',
+                homeRatio:59
+            },{
+                time:'Thu 11/30, 08:00 AM',
+                awayName:'lakers',
+                awayLeftPoints:'-7.5',
+                awayRatio:45,
+                homeName:'pistons',
+                homeLeftPoints:'+7.5',
+                homeRatio:55
+            },{
+                time:'Thu 11/30, 08:30 AM',
+                awayName:'suns',
+                awayLeftPoints:'-4.5',
+                awayRatio:60,
+                homeName:'raptors',
+                homeLeftPoints:'+4.5',
+                homeRatio:40
+            },{
+                time:'Thu 11/30, 09:00 AM',
+                awayName:'seven6ers',
+                awayLeftPoints:'-2.0',
+                awayRatio:43,
+                homeName:'pelicans',
+                homeLeftPoints:'+2.0',
+                homeRatio:57
+            },{
+                time:'Thu 11/30, 09:00 AM',
+                awayName:'jazz',
+                awayLeftPoints:'+2.0',
+                awayRatio:44,
+                homeName:'grizzlies',
+                homeLeftPoints:'-2.0',
+                homeRatio:56
+            },{
+                time:'Thu 11/30, 10:00 AM',
+                awayName:'rockets',
+                awayLeftPoints:'+8.0',
+                awayRatio:37,
+                homeName:'nuggets',
+                homeLeftPoints:'-8.0',
+                homeRatio:63
+            },{
+                time:'Thu 11/30, 11:00 AM',
+                awayName:'clippers',
+                awayLeftPoints:'-2.5',
+                awayRatio:42,
+                homeName:'kings',
+                homeLeftPoints:'+2.5',
+                homeRatio:58
+            }
+        ]
     }
 
 
