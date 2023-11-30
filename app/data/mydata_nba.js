@@ -453,7 +453,7 @@ const nbaData = {
             'name':'恩比德',
             'status':'缺阵',
             'detail':'身体不适，无法出战周四对阵鹈鹕的比赛',
-            'important':false
+            'important':true
         },{
             'name':'巴图姆',
             'status':'出战存疑',
