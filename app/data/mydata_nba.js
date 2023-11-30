@@ -555,8 +555,8 @@ const nbaData = {
     jazz:[
         {
             'name':'马尔坎宁',
-            'status':'出战存疑',
-            'detail':'左腿筋拉伤，周五对阵森林狼的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'左腿筋拉伤，无法出战周五对阵森林狼的比赛',
             'important':true
         },{
             'name':'邓恩',
