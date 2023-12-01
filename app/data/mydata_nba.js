@@ -541,14 +541,9 @@ const nbaData = {
     //圣安东尼奥马刺
     spurs:[
         {
-            'name':'索汉',
-            'status':'出战',
-            'detail':'可以出战周五对阵老鹰的比赛',
-            'important':true
-        },{
             'name':'文班亚马',
-            'status':'出战',
-            'detail':'可以出战周五对阵老鹰的比赛',
+            'status':'缺阵',
+            'detail':'轮休一场，无法出战周六对阵鹈鹕的比赛',
             'important':true
         },{
             'name':'麦克德莫特',
