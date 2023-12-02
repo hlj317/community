@@ -36,8 +36,8 @@ const nbaData = {
             'important':false
         },{
             'name':'罗伊斯.奥尼尔',
-            'status':'缺阵',
-            'detail':'臀部受伤，无法出战周日对阵魔术的比赛',
+            'status':'出战',
+            'detail':'可以出战周日对阵魔术的比赛',
             'important':false
         },{
             'name':'朗尼.沃克',
