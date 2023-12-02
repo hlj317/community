@@ -485,19 +485,9 @@ const nbaData = {
             'important':true
         },{
             'name':'布克',
-            'status':'缺阵',
-            'detail':'脚踝扭伤，无法出战周六对阵掘金的比赛',
+            'status':'出战存疑',
+            'detail':'脚踝扭伤，周日对阵灰熊的比赛出战存疑',
             'important':true
-        },{
-            'name':'格雷森.阿伦',
-            'status':'出战',
-            'detail':'可以出战周六对阵掘金的比赛',
-            'important':false
-        },{
-            'name':'利特尔',
-            'status':'出战',
-            'detail':'可以出战周六对阵掘金的比赛',
-            'important':false
         }
     ],
     //波特兰开拓者
