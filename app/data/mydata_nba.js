@@ -18,7 +18,7 @@ const nbaData = {
         {
             'name':'波尔津吉斯',
             'status':'缺阵',
-            'detail':'腿部受伤，预计至少缺阵一周时间',
+            'detail':'腿部受伤，无法出战周二对阵步行者的比赛',
             'important':true
         }
     ],
@@ -237,9 +237,14 @@ const nbaData = {
             'important':false
         },{
             'name':'哈里伯顿',
-            'status':'缺阵',
-            'detail':'右膝受伤，无法出战周日对阵热火的比赛',
+            'status':'出战存疑',
+            'detail':'右膝受伤，周二对阵凯尔特人的比赛出战存疑',
             'important':true
+        },{
+            'name':'托平',
+            'status':'出战存疑',
+            'detail':'腿部受伤，周二对阵凯尔特人的比赛出战存疑',
+            'important':false
         }
     ],
     //洛杉矶快船
@@ -400,23 +405,18 @@ const nbaData = {
     pelicans:[
         {
             'name':'马特.里安',
-            'status':'缺阵',
-            'detail':'右小腿受伤，无法出战周日对阵公牛的比赛',
+            'status':'出战存疑',
+            'detail':'右小腿受伤，周二对阵国王的比赛出战存疑',
             'important':false
         },{
             'name':'墨菲',
-            'status':'缺阵',
-            'detail':'轮休一场，无法出战周日对阵公牛的比赛',
+            'status':'出战',
+            'detail':'可以出战周二对阵国王的比赛',
             'important':false
         },{
             'name':'CJ.麦科勒姆',
-            'status':'缺阵',
-            'detail':'轮休一场，无法出战周日对阵公牛的比赛',
-            'important':true
-        },{
-            'name':'阿尔瓦拉多',
             'status':'出战',
-            'detail':'可以出战周日对阵公牛的比赛',
+            'detail':'可以出战周二对阵国王的比赛',
             'important':true
         },{
             'name':'小拉里.南斯',
@@ -547,14 +547,14 @@ const nbaData = {
             'detail':'脚踝严重扭伤，预计缺阵8周时间',
             'important':false
         },{
-            'name':'基根.默雷',
-            'status':'出战',
-            'detail':'可以出战周日对阵掘金的比赛',
-            'important':true
-        },{
             'name':'莱尔斯',
-            'status':'出战',
-            'detail':'可以出战周日对阵掘金的比赛',
+            'status':'出战存疑',
+            'detail':'右脚踝扭伤，周二对阵鹈鹕的比赛出战存疑',
+            'important':false
+        },{
+            'name':'戴维翁.米切尔',
+            'status':'出战存疑',
+            'detail':'身体不适，周二对阵鹈鹕的比赛出战存疑',
             'important':false
         }
     ],
