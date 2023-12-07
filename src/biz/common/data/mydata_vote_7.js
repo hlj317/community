@@ -454,6 +454,32 @@ export const myData = [
                 live:true
             }
         ]
+    },
+
+    //12月8日
+    {
+        date: 'Fri Dec 08',
+        list: [
+            {
+                time:'Fri 12/08, 06:00 AM',
+                awayName:'pacers',
+                awayLeftPoints:'+4.5',
+                awayRatio:40,
+                homeName:'bucks',
+                homeLeftPoints:'-4.5',
+                homeRatio:60,
+                live:true
+            },{
+                time:'Fri 12/08, 10:00 AM',
+                awayName:'pelicans',
+                awayLeftPoints:'+1.5',
+                awayRatio:43,
+                homeName:'lakers',
+                homeLeftPoints:'-1.5',
+                homeRatio:57,
+                live:true
+            }
+        ]
     }
 
 ]
