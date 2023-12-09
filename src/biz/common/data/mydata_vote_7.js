@@ -593,6 +593,23 @@ export const myData = [
                 live:true
             }
         ]
+    },
+
+    //12月10日
+    {
+        date: 'Sun Dec 10',
+        list: [
+            {
+                time:'Sun 12/10, 09:30 AM',
+                awayName:'pacers',
+                awayLeftPoints:'+4.0',
+                awayRatio:45,
+                homeName:'lakers',
+                homeLeftPoints:'-4.0',
+                homeRatio:55,
+                live:true
+            }
+        ]
     }
 
 ]
