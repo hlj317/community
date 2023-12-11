@@ -108,12 +108,12 @@ const nbaData = {
         },{
             'name':'勒维尔',
             'status':'缺阵',
-            'detail':'膝盖受伤，无法出战周二对阵雄鹿的比赛',
+            'detail':'膝盖受伤，无法出战周二对阵魔术的比赛',
             'important':true
         },{
             'name':'埃文.莫布利',
             'status':'缺阵',
-            'detail':'左膝受伤，无法出战周二对阵雄鹿的比赛',
+            'detail':'左膝受伤，无法出战周二对阵魔术的比赛',
             'important':true
         }
     ],
