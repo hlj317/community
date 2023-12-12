@@ -722,6 +722,57 @@ export const myData = [
                 homeRatio:61
             }
         ]
+    },
+
+    //12月13日
+    {
+        date: 'Wed Dec 13',
+        list: [
+            {
+                time:'Wed 12/13, 08:30 AM',
+                awayName:'cavaliers',
+                awayLeftPoints:'+10.0',
+                awayRatio:33,
+                homeName:'celtics',
+                homeLeftPoints:'-10.0',
+                homeRatio:67
+            },{
+                time:'Wed 12/13, 08:30 AM',
+                awayName:'lakers',
+                awayLeftPoints:'-2.0',
+                awayRatio:53,
+                homeName:'mavericks',
+                homeLeftPoints:'+2.0',
+                homeRatio:47,
+                live:true
+            },{
+                time:'Wed 12/13, 09:00 AM',
+                awayName:'nuggets',
+                awayLeftPoints:'-8.0',
+                awayRatio:61,
+                homeName:'bulls',
+                homeLeftPoints:'+8.0',
+                homeRatio:39
+            },{
+                time:'Wed 12/13, 11:00 AM',
+                awayName:'warriors',
+                awayLeftPoints:'+3.0',
+                awayRatio:45,
+                homeName:'suns',
+                homeLeftPoints:'-3.0',
+                homeRatio:55,
+                live:true
+            },{
+                time:'Wed 12/13, 11:30 AM',
+                awayName:'kings',
+                awayLeftPoints:'+4.0',
+                awayRatio:40,
+                homeName:'clippers',
+                homeLeftPoints:'-4.0',
+                homeRatio:60
+            }
+        ]
     }
+
 
 ]
