@@ -852,6 +852,70 @@ export const myData = [
                 homeRatio:39
             }
         ]
+    },
+
+    //12月15日
+    {
+        date: 'Fri Dec 15',
+        list: [
+            {
+                time:'Fri 12/15, 08:30 AM',
+                awayName:'bulls',
+                awayLeftPoints:'+5.5',
+                awayRatio:41,
+                homeName:'heat',
+                homeLeftPoints:'-5.5',
+                homeRatio:59
+            },{
+                time:'Fri 12/15, 08:30 AM',
+                awayName:'cavaliers',
+                awayLeftPoints:'+8.5',
+                awayRatio:35,
+                homeName:'celtics',
+                homeLeftPoints:'-8.5',
+                homeRatio:65
+            },{
+                time:'Fri 12/15, 09:30 AM',
+                awayName:'timberwolves',
+                awayLeftPoints:'+1.5',
+                awayRatio:47,
+                homeName:'mavericks',
+                homeLeftPoints:'-1.5',
+                homeRatio:53
+            },{
+                time:'Fri 12/15, 10:00 AM',
+                awayName:'nets',
+                awayLeftPoints:'+9.5',
+                awayRatio:34,
+                homeName:'nuggets',
+                homeLeftPoints:'-9.5',
+                homeRatio:66
+            },{
+                time:'Fri 12/15, 11:00 AM',
+                awayName:'thunder',
+                awayLeftPoints:'+2.0',
+                awayRatio:45,
+                homeName:'kings',
+                homeLeftPoints:'-2.0',
+                homeRatio:55
+            },{
+                time:'Fri 12/15, 11:00 AM',
+                awayName:'jazz',
+                awayLeftPoints:'+3.0',
+                awayRatio:38,
+                homeName:'blazers',
+                homeLeftPoints:'-3.0',
+                homeRatio:62
+            },{
+                time:'Fri 12/15, 11:30 AM',
+                awayName:'warriors',
+                awayLeftPoints:'+6.0',
+                awayRatio:40,
+                homeName:'clippers',
+                homeLeftPoints:'-6.0',
+                homeRatio:60
+            }
+        ]
     }
 
 
