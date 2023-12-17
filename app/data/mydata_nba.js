@@ -518,6 +518,11 @@ const nbaData = {
             'status':'出战',
             'detail':'可以出战周一对阵奇才的比赛',
             'important':false
+        },{
+            'name':'利特尔',
+            'status':'出战存疑',
+            'detail':'左膝受伤，周一对阵奇才的比赛出战存疑',
+            'important':false
         }
     ],
     //波特兰开拓者
