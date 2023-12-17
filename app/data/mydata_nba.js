@@ -480,6 +480,11 @@ const nbaData = {
             'status':'出战存疑',
             'detail':'左脚踝扭伤，周一对阵凯尔特人的比赛出战存疑',
             'important':false
+        },{
+            'name':'萨格斯',
+            'status':'出战存疑',
+            'detail':'身体不适，周一对阵凯尔特人的比赛出战存疑',
+            'important':true
         }
     ],
     //费城76人
