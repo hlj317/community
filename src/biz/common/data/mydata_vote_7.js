@@ -1264,6 +1264,94 @@ export const myData = [
                 homeRatio:39
             }
         ]
+    },
+
+    //12月21日
+    {
+        date: 'Thu Dec 21',
+        list: [
+            {
+                time:'Thu 12/21, 08:00 AM',
+                awayName:'jazz',
+                awayLeftPoints:'+8.0',
+                awayRatio:36,
+                homeName:'cavaliers',
+                homeLeftPoints:'-8.0',
+                homeRatio:64
+            },{
+                time:'Thu 12/21, 08:00 AM',
+                awayName:'timberwolves',
+                awayLeftPoints:'+2.5',
+                awayRatio:45,
+                homeName:'seven6ers',
+                homeLeftPoints:'-2.5',
+                homeRatio:55
+            },{
+                time:'Thu 12/21, 08:00 AM',
+                awayName:'heat',
+                awayLeftPoints:'-2.5',
+                awayRatio:52,
+                homeName:'magic',
+                homeLeftPoints:'+2.5',
+                homeRatio:48
+            },{
+                time:'Thu 12/21, 08:00 AM',
+                awayName:'hornets',
+                awayLeftPoints:'+10.0',
+                awayRatio:37,
+                homeName:'pacers',
+                homeLeftPoints:'-10.0',
+                homeRatio:63
+            },{
+                time:'Thu 12/21, 08:30 AM',
+                awayName:'nuggets',
+                awayLeftPoints:'-7.5',
+                awayRatio:68,
+                homeName:'raptors',
+                homeLeftPoints:'+7.5',
+                homeRatio:32
+            },{
+                time:'Thu 12/21, 08:30 AM',
+                awayName:'knicks',
+                awayLeftPoints:'-1.5',
+                awayRatio:59,
+                homeName:'nets',
+                homeLeftPoints:'+1.5',
+                homeRatio:41
+            },{
+                time:'Thu 12/21, 09:00 AM',
+                awayName:'lakers',
+                awayLeftPoints:'-6.5',
+                awayRatio:63,
+                homeName:'bulls',
+                homeLeftPoints:'+6.5',
+                homeRatio:37
+            },{
+                time:'Thu 12/21, 09:00 AM',
+                awayName:'hawks',
+                awayLeftPoints:'+4.0',
+                awayRatio:40,
+                homeName:'rockets',
+                homeLeftPoints:'-4.0',
+                homeRatio:60
+            },{
+                time:'Thu 12/21, 09:30 AM',
+                awayName:'clippers',
+                awayLeftPoints:'-4.0',
+                awayRatio:67,
+                homeName:'mavericks',
+                homeLeftPoints:'+4.0',
+                homeRatio:33
+            },{
+                time:'Thu 12/21, 11:00 AM',
+                awayName:'celtics',
+                awayLeftPoints:'+2.0',
+                awayRatio:43,
+                homeName:'kings',
+                homeLeftPoints:'-2.0',
+                homeRatio:57
+            }
+        ]
     }
 
 
