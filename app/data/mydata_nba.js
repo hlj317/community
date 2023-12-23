@@ -271,8 +271,8 @@ const nbaData = {
             'important':false
         },{
             'name':'伦纳德',
-            'status':'出战',
-            'detail':'可以出战周日对阵凯尔特人的比赛',
+            'status':'出战存疑',
+            'detail':'臀部受伤，周日对阵凯尔特人的比赛出战存疑',
             'important':true
         }
     ],
