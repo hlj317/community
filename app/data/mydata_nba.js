@@ -32,8 +32,8 @@ const nbaData = {
             'important':true
         },{
             'name':'科内特',
-            'status':'缺阵',
-            'detail':'腿筋受伤，还需要缺阵一段时间',
+            'status':'出战',
+            'detail':'可以出战周二对阵湖人的比赛',
             'important':false
         },{
             'name':'波尔津吉斯',
