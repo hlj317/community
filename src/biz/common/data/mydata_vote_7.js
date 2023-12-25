@@ -1602,47 +1602,47 @@ export const myData = [
             {
                 time:'Tue 12/26, 08:00 AM',
                 awayName:'bucks',
-                awayLeftPoints:'-3.0',
-                awayRatio:65,
+                awayLeftPoints:'-3.5',
+                awayRatio:68,
                 homeName:'knicks',
-                homeLeftPoints:'+3.0',
-                homeRatio:35,
+                homeLeftPoints:'+3.5',
+                homeRatio:32,
                 live:true
             },{
                 time:'Tue 12/26, 08:00 AM',
                 awayName:'warriors',
-                awayLeftPoints:'+7.5',
+                awayLeftPoints:'+6.5',
                 awayRatio:39,
                 homeName:'nuggets',
-                homeLeftPoints:'-7.5',
+                homeLeftPoints:'-6.5',
                 homeRatio:61,
                 live:true
             },{
                 time:'Tue 12/26, 08:00 AM',
                 awayName:'celtics',
-                awayLeftPoints:'+2.0',
-                awayRatio:45,
+                awayLeftPoints:'-3.0',
+                awayRatio:43,
                 homeName:'lakers',
-                homeLeftPoints:'-2.0',
-                homeRatio:55,
+                homeLeftPoints:'+3.0',
+                homeRatio:57,
                 live:true
             },{
                 time:'Tue 12/26, 08:00 AM',
                 awayName:'seven6ers',
-                awayLeftPoints:'-2.5',
-                awayRatio:57,
+                awayLeftPoints:'+2.5',
+                awayRatio:35,
                 homeName:'heat',
-                homeLeftPoints:'+2.5',
-                homeRatio:43,
+                homeLeftPoints:'-2.5',
+                homeRatio:65,
                 live:true
             },{
                 time:'Tue 12/26, 08:00 AM',
                 awayName:'mavericks',
-                awayLeftPoints:'+5.0',
-                awayRatio:41,
+                awayLeftPoints:'+4.5',
+                awayRatio:44,
                 homeName:'suns',
-                homeLeftPoints:'-5.0',
-                homeRatio:59,
+                homeLeftPoints:'-4.5',
+                homeRatio:56,
                 live:true
             }
         ]
