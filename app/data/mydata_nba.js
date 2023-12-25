@@ -162,18 +162,18 @@ const nbaData = {
             'important':true
         },{
             'name':'莱福利',
-            'status':'缺阵',
-            'detail':'脚踝扭伤，无法出战周日对阵马刺的比赛',
+            'status':'出战存疑',
+            'detail':'脚踝扭伤，周二对阵太阳的比赛出战存疑',
             'important':true
         },{
             'name':'东契奇',
             'status':'出战',
-            'detail':'可以出战周日对阵马刺的比赛',
+            'detail':'可以出战周二对阵太阳的比赛',
             'important':true
         },{
             'name':'艾克萨姆',
             'status':'出战',
-            'detail':'可以出战周日对阵马刺的比赛',
+            'detail':'可以出战周二对阵太阳的比赛',
             'important':false
         }
     ],
@@ -332,6 +332,11 @@ const nbaData = {
             'detail':'小腿受伤，周二对阵76人的比赛出战存疑',
             'important':true
         },{
+            'name':'海史密斯',
+            'status':'出战存疑',
+            'detail':'身体不适，周二对阵76人的比赛出战存疑',
+            'important':false
+        },{
             'name':'德鲁.史密斯',
             'status':'长期缺阵',
             'detail':'膝盖严重受伤，赛季报销',
@@ -436,28 +441,28 @@ const nbaData = {
     seven6ers:[
         {
             'name':'巴图姆',
-            'status':'出战存疑',
-            'detail':'右腿筋拉伤，周二对阵热火的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'右腿筋拉伤，无法出战周二对阵热火的比赛',
             'important':false
         },{
             'name':'梅尔顿',
-            'status':'出战存疑',
-            'detail':'腿筋拉伤，周二对阵热火的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周二对阵热火的比赛',
             'important':false
         },{
             'name':'贝弗利',
-            'status':'出战存疑',
-            'detail':'脚后跟受伤，周二对阵热火的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周二对阵热火的比赛',
             'important':false
         },{
             'name':'班巴',
-            'status':'出战存疑',
-            'detail':'身体不适，周二对阵热火的比赛出战存疑',
+            'status':'出战',
+            'detail':'可以出战周二对阵热火的比赛',
             'important':false
         },{
             'name':'恩比德',
-            'status':'出战存疑',
-            'detail':'脚踝扭伤，周二对阵热火的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'脚踝扭伤，无法出战周二对阵热火的比赛',
             'important':true
         }
     ],
@@ -470,8 +475,8 @@ const nbaData = {
             'important':false
         },{
             'name':'奥科吉',
-            'status':'缺阵',
-            'detail':'臀部受伤，预计还会缺阵几场比赛',
+            'status':'出战',
+            'detail':'可以出战周二对阵独行侠的比赛',
             'important':false
         },{
             'name':'比尔',
@@ -480,8 +485,8 @@ const nbaData = {
             'important':true
         },{
             'name':'努尔基奇',
-            'status':'出战存疑',
-            'detail':'个人原因，周二对阵独行侠的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'个人原因，无法出战周二对阵独行侠的比赛',
             'important':true
         }
     ],
