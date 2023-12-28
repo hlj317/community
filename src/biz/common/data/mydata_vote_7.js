@@ -1791,10 +1791,10 @@ export const myData = [
             {
                 time:'Fri 12/29, 08:30 AM',
                 awayName:'pistons',
-                awayLeftPoints:'+11.5',
+                awayLeftPoints:'+16.5',
                 awayRatio:39,
                 homeName:'celtics',
-                homeLeftPoints:'-11.5',
+                homeLeftPoints:'-16.5',
                 homeRatio:61
             },{
                 time:'Fri 12/29, 09:00 AM',
