@@ -467,12 +467,12 @@ const nbaData = {
         {
             'name':'巴图姆',
             'status':'缺阵',
-            'detail':'右腿筋拉伤，无法出战周六对阵火箭的比赛',
+            'detail':'右腿筋拉伤，无法出战周日对阵公牛的比赛',
             'important':false
         },{
             'name':'恩比德',
             'status':'缺阵',
-            'detail':'脚踝扭伤，无法出战周六对阵火箭的比赛',
+            'detail':'脚踝扭伤，无法出战周日对阵公牛的比赛',
             'important':true
         }
     ],
