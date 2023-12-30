@@ -1942,6 +1942,62 @@ export const myData = [
                 homeRatio:56
             }
         ]
+    },
+
+    //12月31日
+    {
+        date: 'Sun Dec 31',
+        list: [
+            {
+                time:'Sun 12/31, 06:00 AM',
+                awayName:'heat',
+                awayLeftPoints:'-3.5',
+                awayRatio:61,
+                homeName:'jazz',
+                homeLeftPoints:'+3.5',
+                homeRatio:39
+            },{
+                time:'Sun 12/31, 07:00 AM',
+                awayName:'raptors',
+                awayLeftPoints:'-6.0',
+                awayRatio:57,
+                homeName:'pistons',
+                homeLeftPoints:'+6.0',
+                homeRatio:43
+            },{
+                time:'Sun 12/31, 08:00 AM',
+                awayName:'knicks',
+                awayLeftPoints:'+4.0',
+                awayRatio:48,
+                homeName:'pacers',
+                homeLeftPoints:'-4.0',
+                homeRatio:52
+            },{
+                time:'Sun 12/31, 09:00 AM',
+                awayName:'seven6ers',
+                awayLeftPoints:'+2.0',
+                awayRatio:60,
+                homeName:'bulls',
+                homeLeftPoints:'-2.0',
+                homeRatio:40
+            },{
+                time:'Sun 12/31, 09:00 AM',
+                awayName:'lakers',
+                awayLeftPoints:'+4.5',
+                awayRatio:41,
+                homeName:'timberwolves',
+                homeLeftPoints:'-4.5',
+                homeRatio:59
+            },{
+                time:'Sun 12/31, 09:30 AM',
+                awayName:'mavericks',
+                awayLeftPoints:'+3.0',
+                awayRatio:62,
+                homeName:'warriors',
+                homeLeftPoints:'-3.0',
+                homeRatio:38
+            }
+        ]
     }
 
 
