@@ -2063,66 +2063,66 @@ export const myData = [
             {
                 time:'Tue 01/02, 04:00 AM',
                 awayName:'timberwolves',
-                awayLeftPoints:'-2.5',
+                awayLeftPoints:'-1.5',
                 awayRatio:61,
                 homeName:'knicks',
-                homeLeftPoints:'+2.5',
+                homeLeftPoints:'+1.5',
                 homeRatio:39
             },{
                 time:'Tue 01/02, 08:30 AM',
                 awayName:'cavaliers',
-                awayLeftPoints:'-2.0',
+                awayLeftPoints:'+2.0',
                 awayRatio:57,
                 homeName:'raptors',
-                homeLeftPoints:'+2.0',
+                homeLeftPoints:'-2.0',
                 homeRatio:43
             },{
                 time:'Tue 01/02, 09:00 AM',
                 awayName:'pistons',
-                awayLeftPoints:'+6.0',
+                awayLeftPoints:'+7.5',
                 awayRatio:40,
                 homeName:'rockets',
-                homeLeftPoints:'-6.0',
+                homeLeftPoints:'-7.5',
                 homeRatio:60
             },{
                 time:'Tue 01/02, 09:00 AM',
                 awayName:'pacers',
-                awayLeftPoints:'+8.0',
+                awayLeftPoints:'+7.0',
                 awayRatio:37,
                 homeName:'bucks',
-                homeLeftPoints:'-8.0',
+                homeLeftPoints:'-7.0',
                 homeRatio:63
             },{
                 time:'Tue 01/02, 10:00 AM',
                 awayName:'mavericks',
-                awayLeftPoints:'-2.0',
+                awayLeftPoints:'-3.0',
                 awayRatio:45,
                 homeName:'jazz',
-                homeLeftPoints:'+2.0',
+                homeLeftPoints:'+3.0',
                 homeRatio:55
             },{
                 time:'Tue 01/02, 10:00 AM',
                 awayName:'blazers',
-                awayLeftPoints:'+10.0',
+                awayLeftPoints:'+11.5',
                 awayRatio:38,
                 homeName:'suns',
-                homeLeftPoints:'-10.0',
+                homeLeftPoints:'-11.5',
                 homeRatio:62
             },{
                 time:'Tue 01/02, 10:00 AM',
                 awayName:'hornets',
-                awayLeftPoints:'+13.0',
+                awayLeftPoints:'+14.5',
                 awayRatio:31,
                 homeName:'nuggets',
-                homeLeftPoints:'-13.0',
+                homeLeftPoints:'-14.5',
                 homeRatio:69
             },{
                 time:'Tue 01/02, 11:30 AM',
                 awayName:'heat',
-                awayLeftPoints:'+5.5',
+                awayLeftPoints:'+7.0',
                 awayRatio:42,
                 homeName:'clippers',
-                homeLeftPoints:'-5.5',
+                homeLeftPoints:'-7.0',
                 homeRatio:58
             }
         ]

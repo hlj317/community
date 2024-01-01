@@ -151,6 +151,11 @@ const nbaData = {
             'detail':'右脚后跟受伤，周二对阵爵士的比赛出战存疑',
             'important':true
         },{
+            'name':'东契奇',
+            'status':'出战存疑',
+            'detail':'四头肌受伤，周二对阵爵士的比赛出战存疑',
+            'important':true
+        },{
             'name':'赛斯.库里',
             'status':'出战存疑',
             'detail':'身体不适，周二对阵爵士的比赛出战存疑',
@@ -484,14 +489,9 @@ const nbaData = {
             'detail':'右膝受伤，预计会缺阵一段时间',
             'important':false
         },{
-            'name':'奥科吉',
-            'status':'出战',
-            'detail':'可以出战周一对阵魔术的比赛',
-            'important':false
-        },{
             'name':'利特尔',
-            'status':'缺阵',
-            'detail':'膝盖受伤，无法出战周一对阵魔术的比赛',
+            'status':'出战存疑',
+            'detail':'膝盖受伤，周二对阵开拓者的比赛出战存疑',
             'important':false
         }
     ],
@@ -523,9 +523,14 @@ const nbaData = {
             'detail':'身体不适，无法出战周二对阵太阳的比赛',
             'important':true
         },{
+            'name':'卡马拉',
+            'status':'缺阵',
+            'detail':'右膝受伤，周二对阵太阳的比赛出战存疑',
+            'important':false
+        },{
             'name':'里斯',
-            'status':'出战存疑',
-            'detail':'背部受伤，周二对阵太阳的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'背部受伤，无法出战周二对阵太阳的比赛',
             'important':false
         }
     ],
