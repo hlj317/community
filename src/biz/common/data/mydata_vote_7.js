@@ -2135,10 +2135,10 @@ export const myData = [
             {
                 time:'Wed 01/03, 08:00 AM',
                 awayName:'bulls',
-                awayLeftPoints:'+6.0',
+                awayLeftPoints:'+10.0',
                 awayRatio:39,
                 homeName:'seven6ers',
-                homeLeftPoints:'-6.0',
+                homeLeftPoints:'-10.0',
                 homeRatio:61
             },{
                 time:'Wed 01/03, 09:00 AM',
