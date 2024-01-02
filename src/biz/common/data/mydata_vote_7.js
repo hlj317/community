@@ -2143,10 +2143,10 @@ export const myData = [
             },{
                 time:'Wed 01/03, 09:00 AM',
                 awayName:'celtics',
-                awayLeftPoints:'-3.0',
+                awayLeftPoints:'-4.0',
                 awayRatio:60,
                 homeName:'thunder',
-                homeLeftPoints:'+3.0',
+                homeLeftPoints:'+4.0',
                 homeRatio:40
             },{
                 time:'Wed 01/03, 09:00 AM',
@@ -2175,10 +2175,10 @@ export const myData = [
             },{
                 time:'Wed 01/03, 11:00 AM',
                 awayName:'magic',
-                awayLeftPoints:'+4.0',
+                awayLeftPoints:'+3.0',
                 awayRatio:45,
                 homeName:'warriors',
-                homeLeftPoints:'-4.0',
+                homeLeftPoints:'-3.0',
                 homeRatio:55
             }
         ]
