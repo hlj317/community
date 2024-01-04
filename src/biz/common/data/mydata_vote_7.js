@@ -2288,6 +2288,32 @@ export const myData = [
                 live:true
             }
         ]
+    },
+
+    //1月5日
+    {
+        date: 'Fri Jan 05',
+        list: [
+            {
+                time:'Fri 01/05, 08:30 AM',
+                awayName:'bucks',
+                awayLeftPoints:'-9.5',
+                awayRatio:68,
+                homeName:'spurs',
+                homeLeftPoints:'+9.5',
+                homeRatio:32,
+                live:true
+            },{
+                time:'Fri 01/05, 11:00 AM',
+                awayName:'nuggets',
+                awayLeftPoints:'-2.5',
+                awayRatio:60,
+                homeName:'warriors',
+                homeLeftPoints:'+2.5',
+                homeRatio:40,
+                live:true
+            }
+        ]
     }
 
 
