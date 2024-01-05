@@ -2314,6 +2314,128 @@ export const myData = [
                 live:true
             }
         ]
+    },
+
+    //1月6日
+    {
+        date: 'Sat Jan 06',
+        list: [
+            {
+                time:'Sat 01/06, 08:00 AM',
+                awayName:'hawks',
+                awayLeftPoints:'+4.5',
+                awayRatio:35,
+                homeName:'pacers',
+                homeLeftPoints:'-4.5',
+                homeRatio:65
+            },{
+                time:'Sat 01/06, 08:00 AM',
+                awayName:'jazz',
+                awayLeftPoints:'+11.0',
+                awayRatio:38,
+                homeName:'celtics',
+                homeLeftPoints:'-11.0',
+                homeRatio:62
+            },{
+                time:'Sat 01/06, 08:30 AM',
+                awayName:'thunder',
+                awayLeftPoints:'-4.5',
+                awayRatio:69,
+                homeName:'nets',
+                homeLeftPoints:'+4.5',
+                homeRatio:31
+            },{
+                time:'Sat 01/06, 08:30 AM',
+                awayName:'knicks',
+                awayLeftPoints:'+5.5',
+                awayRatio:37,
+                homeName:'seven6ers',
+                homeLeftPoints:'-5.5',
+                homeRatio:63,
+                live:true
+            },{
+                time:'Sat 01/06, 08:30 AM',
+                awayName:'wizards',
+                awayLeftPoints:'+10.0',
+                awayRatio:30,
+                homeName:'cavaliers',
+                homeLeftPoints:'-10.0',
+                homeRatio:70
+            },{
+                time:'Sat 01/06, 09:00 AM',
+                awayName:'clippers',
+                awayLeftPoints:'-2.5',
+                awayRatio:59,
+                homeName:'pelicans',
+                homeLeftPoints:'+2.5',
+                homeRatio:41
+            },{
+                time:'Sat 01/06, 09:00 AM',
+                awayName:'hornets',
+                awayLeftPoints:'+8.0',
+                awayRatio:38,
+                homeName:'bulls',
+                homeLeftPoints:'-8.0',
+                homeRatio:62
+            },{
+                time:'Sat 01/06, 09:00 AM',
+                awayName:'timberwolves',
+                awayLeftPoints:'-4.5',
+                awayRatio:55,
+                homeName:'rockets',
+                homeLeftPoints:'+4.5',
+                homeRatio:45
+            },{
+                time:'Sat 01/06, 09:30 AM',
+                awayName:'blazers',
+                awayLeftPoints:'+11.0',
+                awayRatio:32,
+                homeName:'mavericks',
+                homeLeftPoints:'-11.0',
+                homeRatio:68
+            },{
+                time:'Sat 01/06, 10:00 AM',
+                awayName:'heat',
+                awayLeftPoints:'+6.5',
+                awayRatio:52,
+                homeName:'suns',
+                homeLeftPoints:'-6.5',
+                homeRatio:48
+            },{
+                time:'Sat 01/06, 10:00 AM',
+                awayName:'magic',
+                awayLeftPoints:'+6.0',
+                awayRatio:43,
+                homeName:'nuggets',
+                homeLeftPoints:'-6.0',
+                homeRatio:57
+            },{
+                time:'Sat 01/06, 11:00 AM',
+                awayName:'pistons',
+                awayLeftPoints:'+8.5',
+                awayRatio:39,
+                homeName:'warriors',
+                homeLeftPoints:'-8.5',
+                homeRatio:61
+            },{
+                time:'Sat 01/06, 11:00 AM',
+                awayName:'grizzlies',
+                awayLeftPoints:'+4.5',
+                awayRatio:42,
+                homeName:'lakers',
+                homeLeftPoints:'-4.5',
+                homeRatio:58,
+                live:true
+            },{
+                time:'Sat 01/06, 11:00 AM',
+                awayName:'raptors',
+                awayLeftPoints:'+5.0',
+                awayRatio:40,
+                homeName:'kings',
+                homeLeftPoints:'-5.0',
+                homeRatio:60
+            }
+        ]
     }
 
 
