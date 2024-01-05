@@ -136,7 +136,7 @@ const nbaData = {
             'detail':'脚踝扭伤，周六对阵开拓者的比赛出战存疑',
             'important':true
         },{
-            'name':'格兰格.威廉姆斯',
+            'name':'格兰特.威廉姆斯',
             'status':'出战存疑',
             'detail':'脚踝扭伤，周六对阵开拓者的比赛出战存疑',
             'important':false
