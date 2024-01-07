@@ -2517,10 +2517,10 @@ export const myData = [
             },{
                 time:'Mon 01/08, 08:30 AM',
                 awayName:'timberwolves',
-                awayLeftPoints:'-2.0',
+                awayLeftPoints:'-3.0',
                 awayRatio:60,
                 homeName:'mavericks',
-                homeLeftPoints:'+2.0',
+                homeLeftPoints:'+3.0',
                 homeRatio:40
             },{
                 time:'Mon 01/08, 09:00 AM',

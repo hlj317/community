@@ -239,6 +239,11 @@ const nbaData = {
             'detail':'臀部受伤，周一对阵快船的比赛出战存疑',
             'important':false
         },{
+            'name':'詹姆斯',
+            'status':'出战存疑',
+            'detail':'左脚踝扭伤，周一对阵快船的比赛出战存疑',
+            'important':true
+        },{
             'name':'八村塁',
             'status':'出战存疑',
             'detail':'左小腿受伤，周一对阵快船的比赛出战存疑',
