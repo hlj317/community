@@ -245,8 +245,8 @@ const nbaData = {
             'important':true
         },{
             'name':'八村塁',
-            'status':'出战存疑',
-            'detail':'左小腿受伤，周一对阵快船的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'左小腿受伤，无法出战周一对阵快船的比赛',
             'important':false
         }
     ],

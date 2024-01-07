@@ -2549,10 +2549,10 @@ export const myData = [
             },{
                 time:'Mon 01/08, 10:30 AM',
                 awayName:'clippers',
-                awayLeftPoints:'-3.5',
+                awayLeftPoints:'-4.0',
                 awayRatio:64,
                 homeName:'lakers',
-                homeLeftPoints:'+3.5',
+                homeLeftPoints:'+4.0',
                 homeRatio:36
             }
         ]
