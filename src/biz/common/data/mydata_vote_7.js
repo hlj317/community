@@ -2476,6 +2476,86 @@ export const myData = [
                 homeRatio:44
             }
         ]
+    },
+
+    //1月8日
+    {
+        date: 'Mon Jan 08',
+        list: [
+            {
+                time:'Mon 01/08, 02:00 AM',
+                awayName:'spurs',
+                awayLeftPoints:'+11.5',
+                awayRatio:35,
+                homeName:'cavaliers',
+                homeLeftPoints:'-11.5',
+                homeRatio:65
+            },{
+                time:'Mon 01/08, 04:00 AM',
+                awayName:'blazers',
+                awayLeftPoints:'+8.5',
+                awayRatio:39,
+                homeName:'nets',
+                homeLeftPoints:'-8.5',
+                homeRatio:61
+            },{
+                time:'Mon 01/08, 07:00 AM',
+                awayName:'hawks',
+                awayLeftPoints:'+2.0',
+                awayRatio:32,
+                homeName:'magic',
+                homeLeftPoints:'-2.0',
+                homeRatio:68
+            },{
+                time:'Mon 01/08, 07:00 AM',
+                awayName:'pelicans',
+                awayLeftPoints:'+3.5',
+                awayRatio:56,
+                homeName:'kings',
+                homeLeftPoints:'-3.5',
+                homeRatio:44
+            },{
+                time:'Mon 01/08, 08:30 AM',
+                awayName:'timberwolves',
+                awayLeftPoints:'-2.0',
+                awayRatio:60,
+                homeName:'mavericks',
+                homeLeftPoints:'+2.0',
+                homeRatio:40
+            },{
+                time:'Mon 01/08, 09:00 AM',
+                awayName:'pistons',
+                awayLeftPoints:'+12.0',
+                awayRatio:33,
+                homeName:'nuggets',
+                homeLeftPoints:'-12.0',
+                homeRatio:67
+            },{
+                time:'Mon 01/08, 09:00 AM',
+                awayName:'grizzlies',
+                awayLeftPoints:'+6.0',
+                awayRatio:42,
+                homeName:'suns',
+                homeLeftPoints:'-6.0',
+                homeRatio:58
+            },{
+                time:'Mon 01/08, 09:30 AM',
+                awayName:'raptors',
+                awayLeftPoints:'+3.0',
+                awayRatio:55,
+                homeName:'warriors',
+                homeLeftPoints:'-3.0',
+                homeRatio:45
+            },{
+                time:'Mon 01/08, 10:30 AM',
+                awayName:'clippers',
+                awayLeftPoints:'-3.5',
+                awayRatio:64,
+                homeName:'lakers',
+                homeLeftPoints:'+3.5',
+                homeRatio:36
+            }
+        ]
     }
 
 
