@@ -2729,7 +2729,8 @@ export const myData = [
                 awayRatio:58,
                 homeName:'warriors',
                 homeLeftPoints:'+1.5',
-                homeRatio:42
+                homeRatio:42,
+                live:true
             },{
                 time:'Thu 01/11, 11:00 AM',
                 awayName:'nuggets',
@@ -2737,7 +2738,8 @@ export const myData = [
                 awayRatio:45,
                 homeName:'jazz',
                 homeLeftPoints:'+4.0',
-                homeRatio:55
+                homeRatio:55,
+                live:true
             },{
                 time:'Thu 01/11, 11:30 AM',
                 awayName:'raptors',
@@ -2746,6 +2748,54 @@ export const myData = [
                 homeName:'clippers',
                 homeLeftPoints:'-8.0',
                 homeRatio:61
+            }
+        ]
+    },
+
+    //1月12日
+    {
+        date: 'Fri Jan 12',
+        list: [
+            {
+                time:'Fri 01/12, 03:00 AM',
+                awayName:'nets',
+                awayLeftPoints:'+4.5',
+                awayRatio:39,
+                homeName:'cavaliers',
+                homeLeftPoints:'-4.5',
+                homeRatio:61
+            },{
+                time:'Fri 01/12, 08:30 AM',
+                awayName:'celtics',
+                awayLeftPoints:'+4.0',
+                awayRatio:57,
+                homeName:'bucks',
+                homeLeftPoints:'-4.0',
+                homeRatio:43
+            },{
+                time:'Fri 01/12, 09:00 AM',
+                awayName:'blazers',
+                awayLeftPoints:'+9.5',
+                awayRatio:33,
+                homeName:'thunder',
+                homeLeftPoints:'-9.5',
+                homeRatio:67
+            },{
+                time:'Fri 01/12, 09:30 AM',
+                awayName:'knicks',
+                awayLeftPoints:'-4.5',
+                awayRatio:70,
+                homeName:'mavericks',
+                homeLeftPoints:'+4.5',
+                homeRatio:30
+            },{
+                time:'Fri 01/12, 11:00 AM',
+                awayName:'suns',
+                awayLeftPoints:'+3.0',
+                awayRatio:40,
+                homeName:'lakers',
+                homeLeftPoints:'-3.0',
+                homeRatio:60
             }
         ]
     }
