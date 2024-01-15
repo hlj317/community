@@ -392,8 +392,8 @@ const nbaData = {
             'important':false
         },{
             'name':'米德尔顿',
-            'status':'出战存疑',
-            'detail':'右膝伤病管理，周一对阵国王的比赛出战存疑',
+            'status':'缺阵',
+            'detail':'右膝伤病管理，无法出战周一对阵国王的比赛',
             'important':true
         }
     ],
