@@ -3009,6 +3009,104 @@ export const myData = [
                 homeRatio:35
             }
         ]
+    },
+
+    //1月16日
+    {
+        date: 'Tue Jan 16',
+        list: [
+            {
+                time:'Tue 01/16, 02:00 AM',
+                awayName:'rockets',
+                awayLeftPoints:'+5.5',
+                awayRatio:41,
+                homeName:'seven6ers',
+                homeLeftPoints:'-5.5',
+                homeRatio:59
+            },{
+                time:'Tue 01/16, 03:30 AM',
+                awayName:'pelicans',
+                awayLeftPoints:'-4.5',
+                awayRatio:32,
+                homeName:'mavericks',
+                homeLeftPoints:'+4.5',
+                homeRatio:68
+            },{
+                time:'Tue 01/16, 04:00 AM',
+                awayName:'magic',
+                awayLeftPoints:'+5.0',
+                awayRatio:58,
+                homeName:'knicks',
+                homeLeftPoints:'-5.0',
+                homeRatio:42
+            },{
+                time:'Tue 01/16, 04:00 AM',
+                awayName:'pistons',
+                awayLeftPoints:'+6.5',
+                awayRatio:39,
+                homeName:'wizards',
+                homeLeftPoints:'-6.5',
+                homeRatio:61
+            },{
+                time:'Tue 01/16, 04:30 AM',
+                awayName:'spurs',
+                awayLeftPoints:'+8.0',
+                awayRatio:65,
+                homeName:'hawks',
+                homeLeftPoints:'-8.0',
+                homeRatio:35,
+                live:true
+            },{
+                time:'Tue 01/16, 07:00 AM',
+                awayName:'warriors',
+                awayLeftPoints:'-9.0',
+                awayRatio:65,
+                homeName:'grizzlies',
+                homeLeftPoints:'+9.0',
+                homeRatio:35,
+                live:true
+            },{
+                time:'Tue 01/16, 08:00 AM',
+                awayName:'bulls',
+                awayLeftPoints:'+3.5',
+                awayRatio:65,
+                homeName:'cavaliers',
+                homeLeftPoints:'-3.5',
+                homeRatio:35
+            },{
+                time:'Tue 01/16, 08:30 AM',
+                awayName:'celtics',
+                awayLeftPoints:'-5.0',
+                awayRatio:65,
+                homeName:'raptors',
+                homeLeftPoints:'+5.0',
+                homeRatio:35
+            },{
+                time:'Tue 01/16, 08:30 AM',
+                awayName:'heat',
+                awayLeftPoints:'-2.5',
+                awayRatio:65,
+                homeName:'nets',
+                homeLeftPoints:'+2.5',
+                homeRatio:35
+            },{
+                time:'Tue 01/16, 10:00 AM',
+                awayName:'pacers',
+                awayLeftPoints:'+6.5',
+                awayRatio:65,
+                homeName:'jazz',
+                homeLeftPoints:'-6.5',
+                homeRatio:35
+            },{
+                time:'Tue 01/16, 11:30 AM',
+                awayName:'thunder',
+                awayLeftPoints:'+2.0',
+                awayRatio:65,
+                homeName:'lakers',
+                homeLeftPoints:'-2.0',
+                homeRatio:35
+            }
+        ]
     }
 
 
